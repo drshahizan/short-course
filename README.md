@@ -4,11 +4,11 @@
 
 ## 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
+<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
-## 🌍 Collaborative Workshops and Courses
+## 🌍 Collaborative Workshops and Courses: year 2024
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg" alt="Image Alt Text"  height="200">
