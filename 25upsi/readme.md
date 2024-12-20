@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-**Synopsis for the Event:**
+# Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction
 
 The workshop, titled *"Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction,"* is designed to help postgraduate students and researchers develop a compelling and well-structured introduction for their theses. The session will cover essential tools, techniques, and strategies to effectively set the foundation of a thesis by addressing key components such as the research background, problem statement, objectives, and significance of the study.
 
