@@ -124,16 +124,8 @@
     <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 </p>
-  
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drshahizan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-  
-  ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
-  ![](https://hit.yhype.me/github/profile?user_id=81284918)
  
-</details>
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
