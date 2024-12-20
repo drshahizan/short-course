@@ -15,3 +15,7 @@ Led by **Assoc. Prof. Dr. Mohd Shahizan Bin Othman**, an experienced lecturer fr
 Scheduled to take place on **11th January 2025 (Saturday)**, the workshop will run from **9:30 AM to 12:30 PM** and will be conducted online via **Google Meet**. This session is ideal for students at any stage of their thesis journey, offering a unique opportunity to learn from an expert in the field. 
 
 For further details, participants can contact the organizer at **ruzaimah@upsi.edu.my** or call **05-4506855**.
+
+<p align="center">
+ <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg"  height="500">
+</p>
