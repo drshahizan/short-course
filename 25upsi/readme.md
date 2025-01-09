@@ -15,7 +15,7 @@ The workshop is designed to help postgraduate students and researchers develop a
 </p>
 
 ## Github
-Research Design and Analysis in Data Science (MCSD1043)
+[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
