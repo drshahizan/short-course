@@ -14,6 +14,9 @@ The workshop is designed to help postgraduate students and researchers develop a
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg"  height="500">
 </p>
 
+## Github
+Research Design and Analysis in Data Science (MCSD1043)
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
