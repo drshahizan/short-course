@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
+# Research Gap
 
 The diagram illustrates the concept of a **Research Gap** by Kumar DM (2020). It highlights the process of identifying gaps in knowledge from existing research (known) and uncovering areas where further investigation is needed (unknown). Below is a detailed explanation of the components of the diagram:
 
