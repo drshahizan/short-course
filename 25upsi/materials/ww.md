@@ -7,7 +7,7 @@
 
 # Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rmap.jpeg" alt="Image Alt Text"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/bp.jpeg" alt="Image Alt Text"  height="500">
 
 Most researchers struggle with structuring their thesis introduction effectively, but following the **"Why-What" sequence** ensures clarity, engagement, and a logical flow. Here’s a detailed 15-part structure broken into **7 broad steps** to guide your thesis writing process. Each step is designed to answer the core questions: **Why? What? How? Who? When?**  
 
