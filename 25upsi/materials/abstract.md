@@ -9,35 +9,64 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/abstract.jpeg" alt="Image Alt Text"  height="600">
 
-Embark on a research journey equipped with cutting-edge AI tools designed to streamline each stage of the process. From crafting a compelling abstract to organizing your references, this guide showcases how AI can elevate the quality and efficiency of your work.
+### **Abstract Writing Template (PIMPAC): A Clear Structure for Your Research**
+
+Master the **PIMPAC framework** to craft concise, structured, and impactful abstracts that effectively communicate your research. Each component is designed to address key aspects of your study and its significance.
+
+### **→ P - Problem Statement**
+**Define the problem your research addresses** by describing the broader context and its importance.  
+- **What to Include**:
+  - Clearly outline the issue your study tackles.
+  - Explain its relevance in terms of public health, policy, or other applicable fields.
+- **Example**:  
+  *Mosquito-borne diseases continue to affect millions annually, with urbanization and climate change exacerbating the problem in densely populated regions.*
+
+### **→ I - Investigative Focus**
+**Highlight the specific research question or gap** your study addresses, along with your objective.  
+- **What to Include**:
+  - Emphasize the research gap or challenge.
+  - Clearly state the research question or study's focus.
+- **Example**:  
+  *This study examines the influence of poor urban infrastructure on mosquito breeding sites and dengue transmission, focusing on under-researched informal settlements in tropical regions.*
 
 
-#### **🔍 Abstract & Introduction**
-Kickstart your research with clarity and precision. 
-- **QuillBot**: Simplify and refine your abstract with powerful paraphrasing and summarization features, ensuring conciseness and clarity.  
-- **Scispace**: Quickly generate abstracts and summaries based on your content, saving time and effort.  
-- **WritesonicAI**: Produce impactful and engaging introductory sections that establish the purpose and scope of your research.  
-- **Jasper AI**: Generate creative ideas and high-quality content to structure your introduction effectively.  
+### **→ M - Methods Employed**
+**Describe how the research was conducted**, including your design, methodology, and data collection.  
+- **What to Include**:
+  - Summarize your research approach.
+  - Mention the type of data and analysis performed.
+- **Example**:  
+  *We employed a multi-stage research design, using satellite imagery for spatial mapping of breeding sites, combined with epidemiological surveillance data to assess dengue incidence in three urban slums.*
 
-#### **📚 Literature Review & Methodology**
-Navigate the wealth of existing research and plan your methodology seamlessly.  
-- **Connected Papers**: Visualize relationships between research papers to identify key studies and gaps.  
-- **Research Rabbit**: Explore relevant research papers and discover connections to build a comprehensive literature review.  
-- **SciWheel**: Manage and reference methodologies efficiently, staying organized throughout.  
-- **Julius AI**: Perform data analysis effortlessly, even without extensive coding expertise, making methodological planning accessible to all.  
 
-#### **📉 Results & Discussion**
-Analyze, interpret, and present your findings with clarity and impact.  
-- **Jupyter Notebooks**: Create interactive, visually engaging presentations of your results, complete with dynamic visualizations.  
-- **Scite**: Reference existing literature effectively, supporting discussions and arguments with evidence.  
+### **→ P - Principal Findings**
+**Present the key results** that directly answer your research question or hypothesis.  
+- **What to Include**:
+  - Highlight the most significant findings or outcomes.
+  - Focus on results relevant to your research goals.
+- **Example**:  
+  *Our findings revealed a 40% increase in mosquito breeding activity in areas with unpaved roads and stagnant water, leading to a 30% spike in dengue cases during the rainy season.*
 
-#### **📑 Conclusion & Acknowledgments**
-Wrap up your research with precision and professionalism.  
-- **Humata**: Generate concise and insightful summaries of your work, highlighting key findings and implications.  
-- **Zotero**: Organize, cite, and manage your references effortlessly to ensure accuracy and compliance with citation standards.  
 
-### **Why Use AI for Research?**
-AI tools save valuable time, minimize errors, and enhance the quality of your work by automating repetitive tasks and providing intelligent insights. Whether you're a novice researcher or an experienced academic, these tools empower you to focus on the essence of your research: innovation and discovery.
+### **→ A - Application & Impact**
+**Explain the broader implications** of your findings and their potential impact.  
+- **What to Include**:
+  - Discuss how your results contribute to the field or solve practical problems.
+  - Link your findings to policy, public health, or other areas of influence.
+- **Example**:  
+  *These findings underscore the need for targeted interventions, such as improved drainage systems and environmental management, in urban planning to mitigate mosquito-borne diseases.*
+
+
+### **→ C - Conclusion & Call-to-Action**
+**Summarize your research contributions** and propose actionable steps for the future.  
+- **What to Include**:
+  - Restate the significance of your research.
+  - Suggest future research directions or policy recommendations.
+- **Example**:  
+  *Our study highlights the critical need for interdisciplinary approaches to vector control, combining urban infrastructure improvements with community-based mosquito surveillance. Future studies should focus on scaling these interventions across other vulnerable regions.*
+
+
+✅ **Use this template** to ensure your abstract is well-structured, impactful, and effectively communicates the essence of your research.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
