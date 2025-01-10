@@ -24,11 +24,18 @@ The workshop is designed to help postgraduate students and researchers develop a
 - [Crafting the Perfect Research Question: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rq.md)
 - [How to Pick a Winning Research Topic](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rt.md)
 
-
-
 ## Github
-[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
+- **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**
+- **[The Daily Life of a PhD Student](https://github.com/drshahizan/phd)**: Offers insights into the routine and experiences of a PhD student, providing valuable tips for navigating academic research.
 
+- **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: A repository by UTM that explores the use of AI in conducting systematic literature reviews.
+
+- **[Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)**: A Gitbook dedicated to guiding readers through the process of conducting systematic literature reviews.
+
+- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: This repository provides tools and tips for using Obsidian.md to enhance academic writing and research.
+
+- **[AI tools](https://drshahizan.gitbook.io/ai-tools/)**: A collection of AI tools and resources compiled to assist researchers in various tasks related to data science and machine learning.
+  
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
