@@ -32,9 +32,9 @@ The workshop is designed to help postgraduate students and researchers develop a
 
 - **[Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)**: A Gitbook dedicated to guiding readers through the process of conducting systematic literature reviews.
 
-- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: This repository provides tools and tips for using Obsidian.md to enhance academic writing and research.
-
 - **[AI tools](https://drshahizan.gitbook.io/ai-tools/)**: A collection of AI tools and resources compiled to assist researchers in various tasks related to data science and machine learning.
+
+- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: This repository provides tools and tips for using Obsidian.md to enhance academic writing and research.
   
 ### 🙌🏻 Connect with Me
 <p align="left">
