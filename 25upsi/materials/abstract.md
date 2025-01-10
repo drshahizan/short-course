@@ -7,7 +7,7 @@
 
 # Discover Essential AI Tools Transforming Every Step of the Research Process
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/ai_research.jpeg" alt="Image Alt Text"  height="600">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/abstract.jpeg" alt="Image Alt Text"  height="600">
 
 Embark on a research journey equipped with cutting-edge AI tools designed to streamline each stage of the process. From crafting a compelling abstract to organizing your references, this guide showcases how AI can elevate the quality and efficiency of your work.
 
