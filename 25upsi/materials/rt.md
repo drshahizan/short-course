@@ -5,86 +5,79 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis
+# How to Pick a Winning Research Topic
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/bp.jpeg" alt="Image Alt Text"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rt.jpeg" alt="Image Alt Text"  height="500">
 
-Most researchers struggle with structuring their thesis introduction effectively, but following the **"Why-What" sequence** ensures clarity, engagement, and a logical flow. Here’s a detailed 15-part structure broken into **7 broad steps** to guide your thesis writing process. Each step is designed to answer the core questions: **Why? What? How? Who? When?**  
-
-
-### **1. Start with Why it Matters in Context 🧐**
-Your research needs to establish its importance right from the start. Hook your readers by explaining **why your study matters** in a broader context.
-- **Include**:
-  - **Research Purpose**: Clearly define the aim of your research.
-  - **Significance**: Explain how your study contributes to solving a problem or advancing knowledge.  
-- **Why?**: This step establishes the **relevance** of your study.
+Choosing the right research topic is critical to the success of your academic journey. Here’s a step-by-step guide to selecting a topic that’s impactful, practical, and aligned with your interests and goals.
 
 
 
-### **2. Back Up Claims with Literature 📚**
-Support your research’s importance by mapping the existing body of knowledge. This shows the **foundation for your work**.
-- **Include**:
-  - **Existing Knowledge**: Summarize key studies and established findings in your field.
-  - **Research Gaps**: Identify what’s missing in the literature to justify your research.  
-- **Why?**: Literature review validates the **necessity** of your study and positions it within the academic conversation.
+### **1. Start with Current Trends 📈**
+Look at the **latest developments** in your field to identify promising areas of research.
+- **Action Steps**:
+  - Review top journals, conference proceedings, and publications from the last 2 years.
+  - Identify **unsolved problems** or recurring themes.
+  - Pinpoint **hot topics** that align with current funding opportunities.  
+- **Example**: If AI ethics is trending, focus on a specific challenge, such as **bias mitigation in decision-making systems**.
 
 
 
-### **3. Define Your Focus 🎯**
-Drill down into **specifics** to guide your research framework. This is where you make your study’s focus clear.  
-- **Include**:
-  - **Research Problem**: The key issue or question your study addresses.
-  - **Research Questions**: Specific inquiries that guide your investigation.
-  - **Objectives**: The outcomes your research aims to achieve.  
-- **What?**: These sections provide the **direction** and **scope** of your study.
+### **2. Align with Your Supervisor 🤝**
+Choosing a topic that aligns with your supervisor’s expertise ensures better guidance and collaboration.
+- **Why?**
+  - A **shared area of interest** creates a win-win situation.
+  - Supervisors are more likely to support topics they are familiar with.  
+- **Action Steps**:
+  - Schedule a meeting with your supervisor to discuss potential ideas.
+  - Align your topic with their ongoing projects or previous research areas.
 
 
 
-### **4. Plan Your Approach 🛠️**
-Detail **how you will conduct your research** by selecting theoretical and methodological frameworks.
-- **Include**:
-  - **Theoretical Framing**: The concepts and theories your study builds on.
-  - **Methodology**: Your research design, tools, and techniques.
-  - **Data Collection Strategy**: Specify sampling methods and data sources.  
-- **How?**: This explains your **research blueprint**.
+### **3. Define Clear Boundaries 🎯**
+A good research topic should be **specific and focused**. Avoid overly broad topics that lack depth.
+- **Action Steps**:
+  - Break down a broad idea into smaller, manageable subtopics.
+  - Ensure the scope of your topic is achievable within the timeframe and resources available.  
+- **Example**:
+  - Instead of studying "AI in healthcare," focus on **“AI-driven predictive analytics for improving maternal healthcare in rural areas.”**
 
 
 
-### **5. Get Practical ⚙️**
-Address the **practicalities and ethics** involved in conducting your research.
-- **Include**:
-  - **Data Analysis**: Describe how you will interpret and analyze your data.
-  - **Ethics**: Address participant data handling, consent, and security considerations upfront.  
-- **Who?**: These sections highlight **participant involvement** and the ethical standards of your research.
+### **4. Map Required Resources 🛠️**
+Consider the **practical resources** your research will need.  
+- **Action Steps**:
+  - Create a checklist of requirements such as:
+    - **Lab equipment** 🧪
+    - **Collaborators** 👥
+    - **Specialized software** 💻
+    - **Funding opportunities** 💰  
+  - Ensure resources are available and accessible before committing to a topic.  
+- **Why?**
+  - Missing or unavailable resources can delay or derail your research progress.
 
 
 
-### **6. Look Ahead 🔮**
-Prepare for the **future outcomes and impact** of your research.
-- **Include**:
-  - **Timeline**: Outline project phases, milestones, and schedules.
-  - **Significance**: Highlight the broader implications of your work.
-  - **Expected Outcomes**: Anticipate findings, validate theories, and predict the practical impact.  
-- **When?**: These steps outline the **timing and implications** of your study.
+### **5. Validate the Practical Impact of Your Idea 🌍**
+Ensure your research solves **real-world problems** and has tangible benefits.
+- **Action Steps**:
+  - Engage with practitioners, industry experts, or community leaders in your field.
+  - Ask them about their biggest challenges and gaps in current solutions.
+  - Validate your idea’s **relevance** by assessing its potential for implementation.  
+- **Example**:
+  - Instead of theoretical work, focus on practical applications such as **developing a mobile app for remote health monitoring.**
 
 
 
-### **7. Finish Strong 💪**
-Conclude your thesis with supporting material and references to ensure credibility.
-- **Include**:
-  - **References**: Cite credible sources that support your research.
-  - **Appendices**: Provide additional information, such as research instruments and technical details.  
-- **How & What?**: These sections complete your thesis by reinforcing **accuracy** and **completeness**.
+### **Key Takeaways:**
+A winning research topic is:
+- **Relevant** to current trends 📰  
+- **Aligned** with your supervisor’s expertise 🎓  
+- **Specific** in scope 🔍  
+- **Practical** with clear resources and actionable outcomes ⚙️  
+- **Impactful** for solving real-world challenges 🌟  
 
-
-
-### **Why Does This Structure Work?**
-This approach flows from **broad context** to **specific details**, ensuring logical progression and clarity. By answering key questions (**Why? What? How? Who? When?**), it engages readers, aligns research components, and guarantees a thorough, impactful thesis.
-
-
-
-### **💡 Pro Tip**:  
-Use this structure to plan each section of your thesis in advance. This framework not only helps organize your thoughts but also improves coherence and readability, making your work stand out. 🚀
+By following these steps, you’ll ensure your research is both significant and manageable, setting the stage for academic success. 🚀
 
 ### 🙌🏻 Connect with Me
 <p align="left">
