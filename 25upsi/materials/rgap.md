@@ -7,6 +7,8 @@
 
 # Research Gap
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="400">
+
 The diagram illustrates the concept of a **Research Gap** by Kumar DM (2020). It highlights the process of identifying gaps in knowledge from existing research (known) and uncovering areas where further investigation is needed (unknown). Below is a detailed explanation of the components of the diagram:
 
 ### **Key Components:**
