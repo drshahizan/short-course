@@ -14,6 +14,18 @@ The workshop is designed to help postgraduate students and researchers develop a
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg"  height="500">
 </p>
 
+## Topic
+- [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/survive.md)
+- [Research MAP: A Detailed Guide to Structuring Your Research Process](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rmap.md)
+- [Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ww.md)
+- [Discover Essential AI Tools Transforming Every Step of the Research Process](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ai_research.md)
+- [Abstract Writing Template (PIMPAC): A Clear Structure for Your Research](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/abstract.md)
+- [Research Gap](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rgap.md)
+- [Crafting the Perfect Research Question: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rq.md)
+- [How to Pick a Winning Research Topic](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rt.md)
+
+
+
 ## Github
 [Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)
 
