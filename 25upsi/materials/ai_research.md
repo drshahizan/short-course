@@ -5,19 +5,12 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# The Power of AI in Research
+# Discover Essential AI Tools Transforming Every Step of the Research Process
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/research%20gap.jpeg" alt="Image Alt Text"  height="800">
 
-Here's a revised and expanded version, incorporating more details and emphasizing the AI tools highlighted in the figure:
-
----
-
-### **Discover Essential AI Tools Transforming Every Step of the Research Process!**
-
 Embark on a research journey equipped with cutting-edge AI tools designed to streamline each stage of the process. From crafting a compelling abstract to organizing your references, this guide showcases how AI can elevate the quality and efficiency of your work.
 
----
 
 #### **🔍 Abstract & Introduction**
 Kickstart your research with clarity and precision. 
@@ -26,8 +19,6 @@ Kickstart your research with clarity and precision.
 - **WritesonicAI**: Produce impactful and engaging introductory sections that establish the purpose and scope of your research.  
 - **Jasper AI**: Generate creative ideas and high-quality content to structure your introduction effectively.  
 
----
-
 #### **📚 Literature Review & Methodology**
 Navigate the wealth of existing research and plan your methodology seamlessly.  
 - **Connected Papers**: Visualize relationships between research papers to identify key studies and gaps.  
@@ -35,28 +26,18 @@ Navigate the wealth of existing research and plan your methodology seamlessly.
 - **SciWheel**: Manage and reference methodologies efficiently, staying organized throughout.  
 - **Julius AI**: Perform data analysis effortlessly, even without extensive coding expertise, making methodological planning accessible to all.  
 
----
-
 #### **📉 Results & Discussion**
 Analyze, interpret, and present your findings with clarity and impact.  
 - **Jupyter Notebooks**: Create interactive, visually engaging presentations of your results, complete with dynamic visualizations.  
 - **Scite**: Reference existing literature effectively, supporting discussions and arguments with evidence.  
-
----
 
 #### **📑 Conclusion & Acknowledgments**
 Wrap up your research with precision and professionalism.  
 - **Humata**: Generate concise and insightful summaries of your work, highlighting key findings and implications.  
 - **Zotero**: Organize, cite, and manage your references effortlessly to ensure accuracy and compliance with citation standards.  
 
----
-
 ### **Why Use AI for Research?**
 AI tools save valuable time, minimize errors, and enhance the quality of your work by automating repetitive tasks and providing intelligent insights. Whether you're a novice researcher or an experienced academic, these tools empower you to focus on the essence of your research: innovation and discovery.
-
----
-
-Elevate your research today with these transformative AI technologies and experience the future of academic excellence!
 
 ### 🙌🏻 Connect with Me
 <p align="left">
