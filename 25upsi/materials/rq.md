@@ -7,7 +7,7 @@
 
 # Crafting the Perfect Research Question: A Step-by-Step Guide
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rb.png" alt="Image Alt Text"  height="800">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rq.png" alt="Image Alt Text"  height="800">
 
 
 A well-crafted research question is the cornerstone of a successful dissertation. It sets the foundation for your entire research process and guides you through literature reviews, methodologies, data collection, and analysis.
