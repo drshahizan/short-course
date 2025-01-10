@@ -12,16 +12,12 @@
 
 A well-crafted research question is the cornerstone of a successful dissertation. It sets the foundation for your entire research process and guides you through literature reviews, methodologies, data collection, and analysis.
 
----
-
 ### **❓ Why is a Research Question Important?**
 Your research question is the **central inquiry** that drives your dissertation. It:
 - Defines the focus and scope of your research.
 - Shapes the methodology and data collection approach.
 - Guides the analysis and interpretation of results.
 - Aligns the study with academic and practical goals.
-
----
 
 ### **Steps to Develop Strong Research Questions**
 
@@ -33,8 +29,6 @@ Begin by reflecting on your interests and goals. Ask yourself:
 - Which key concepts and theories relate to my topic?
 
 💡 **Tip**: Write down your ideas, even vague ones. This process generates a pool of potential research directions.
-
----
 
 #### **Step 2️⃣: Conducting Preliminary Research**
 Deepen your understanding of your topic by:
@@ -49,7 +43,6 @@ This helps you:
 
 💡 **Tip**: Take detailed notes on key findings, debates, and controversies to refine your focus.
 
----
 
 #### **Step 3️⃣: Narrowing Down Your Options**
 After preliminary research, start narrowing your focus:
@@ -62,8 +55,6 @@ After preliminary research, start narrowing your focus:
 - **SWOT Analysis**: Analyze the strengths, weaknesses, opportunities, and threats of your chosen topic.
 - **Concept Mapping**: Diagram relationships between theories, concepts, and ideas.
 
----
-
 #### **Step 4️⃣: Crafting Your Research Question**
 Once you've refined your topic, craft your research question using these criteria:
 - **Specificity**: Ensure the question is focused and precise.
@@ -71,10 +62,9 @@ Once you've refined your topic, craft your research question using these criteri
 - **Relevance**: Align the question with your research objectives.
 - **Feasibility**: Confirm it’s achievable within your dissertation’s scope.
 
----
-
 ### **Key Takeaways**
 By following these steps, you can develop a **clear, focused, and impactful research question** that serves as a strong foundation for your dissertation. This question will not only guide your research journey but also ensure its relevance and academic contribution.
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
