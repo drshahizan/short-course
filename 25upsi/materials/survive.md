@@ -7,6 +7,10 @@
 
 ### **How to Survive and Ace Your PhD Thesis 🧠🎓**
 
+
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/survive.jpeg" alt="Image Alt Text"  height="500">
+
+
 Writing a PhD thesis isn’t about divine inspiration or stringing together perfect prose. It’s about being **clear, logical, and coherent**. Your thesis is the vehicle that drives your ideas to the finish line—not an expression of genius, but a culmination of persistence and strategy. Here’s how you can ace it, based on years of wisdom:
 
 
