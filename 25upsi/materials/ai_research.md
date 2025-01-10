@@ -5,63 +5,58 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Research Gap
+# The Power of AI in Research
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/research%20gap.jpeg" alt="Image Alt Text"  height="800">
 
-The diagram illustrates the concept of a **Research Gap** by Kumar DM (2020). It highlights the process of identifying gaps in knowledge from existing research (known) and uncovering areas where further investigation is needed (unknown). Below is a detailed explanation of the components of the diagram:
-
-### **Key Components:**
-
-1. **Research Gap**:
-   - A research gap exists when there is a lack of sufficient or accurate information in a particular area of study. It represents the **weaknesses of past findings** or the lack of certain data that researchers can explore.
-
-2. **Past Knowledge (Known)**:
-   - This includes what is already documented and established in existing literature. It comprises:
-     - **Gap in Population**: Certain populations or demographics might be underrepresented in research.
-     - **Gap in Analysis**: Inadequate analytical methods or overlooked dimensions in data analysis.
-     - **Gap in Implication**: Limited application or impact of findings on real-world issues.
-     - **Gap in Methods**: Insufficient or outdated methodologies used in studies.
-
-3. **Expected Knowledge (Unknown)**:
-   - Represents areas requiring further study, opening opportunities for researchers. These include:
-     - **Gap in Concepts**: Missing or unclear concepts in the subject area.
-     - **Gap in Perspectives**: Absence of diverse viewpoints in existing research.
-     - **Gap in Theory**: Lack of a cohesive theoretical framework to explain phenomena.
-     - **Gap in Methodology**: Missing innovative or advanced methodological approaches.
-
-4. **Central Dynamics**:
-   - Research gaps often occur due to **inconsistencies, controversies, conflicts, and contradictions** between known and unknown knowledge.
-
-5. **Outcome**:
-   - By addressing these gaps, researchers can create:
-     - **A Conceptual Frame** (based on known knowledge).
-     - **A New Theoretical Frame** (derived from addressing unknown gaps).
+Here's a revised and expanded version, incorporating more details and emphasizing the AI tools highlighted in the figure:
 
 ---
 
-### **Example of a Research Gap in Computer Science**:
+### **Discover Essential AI Tools Transforming Every Step of the Research Process!**
 
-**Topic**: **"Optimizing AI Algorithms for Low-Resource Devices in Edge Computing"**
+Embark on a research journey equipped with cutting-edge AI tools designed to streamline each stage of the process. From crafting a compelling abstract to organizing your references, this guide showcases how AI can elevate the quality and efficiency of your work.
 
-#### **Identified Research Gaps**:
-1. **Gap in Population**:
-   - Most studies optimize AI models for high-end devices but neglect low-resource devices prevalent in developing regions.
+---
 
-2. **Gap in Methods**:
-   - Current optimization methods focus on improving accuracy, but they ignore energy consumption and computational constraints.
+#### **🔍 Abstract & Introduction**
+Kickstart your research with clarity and precision. 
+- **QuillBot**: Simplify and refine your abstract with powerful paraphrasing and summarization features, ensuring conciseness and clarity.  
+- **Scispace**: Quickly generate abstracts and summaries based on your content, saving time and effort.  
+- **WritesonicAI**: Produce impactful and engaging introductory sections that establish the purpose and scope of your research.  
+- **Jasper AI**: Generate creative ideas and high-quality content to structure your introduction effectively.  
 
-3. **Gap in Theory**:
-   - Lack of a theoretical framework explaining the trade-offs between AI model performance, energy efficiency, and latency in edge devices.
+---
 
-4. **Gap in Perspectives**:
-   - Limited perspectives on integrating local cultural and ethical considerations in AI deployment for diverse geographic regions.
+#### **📚 Literature Review & Methodology**
+Navigate the wealth of existing research and plan your methodology seamlessly.  
+- **Connected Papers**: Visualize relationships between research papers to identify key studies and gaps.  
+- **Research Rabbit**: Explore relevant research papers and discover connections to build a comprehensive literature review.  
+- **SciWheel**: Manage and reference methodologies efficiently, staying organized throughout.  
+- **Julius AI**: Perform data analysis effortlessly, even without extensive coding expertise, making methodological planning accessible to all.  
 
-5. **Gap in Concepts**:
-   - Undefined concepts around lightweight neural networks tailored for edge computing in smart homes.
+---
 
-#### **Research Question**:
-- How can AI models be optimized for edge computing environments to ensure energy efficiency and performance without compromising user experience?
+#### **📉 Results & Discussion**
+Analyze, interpret, and present your findings with clarity and impact.  
+- **Jupyter Notebooks**: Create interactive, visually engaging presentations of your results, complete with dynamic visualizations.  
+- **Scite**: Reference existing literature effectively, supporting discussions and arguments with evidence.  
+
+---
+
+#### **📑 Conclusion & Acknowledgments**
+Wrap up your research with precision and professionalism.  
+- **Humata**: Generate concise and insightful summaries of your work, highlighting key findings and implications.  
+- **Zotero**: Organize, cite, and manage your references effortlessly to ensure accuracy and compliance with citation standards.  
+
+---
+
+### **Why Use AI for Research?**
+AI tools save valuable time, minimize errors, and enhance the quality of your work by automating repetitive tasks and providing intelligent insights. Whether you're a novice researcher or an experienced academic, these tools empower you to focus on the essence of your research: innovation and discovery.
+
+---
+
+Elevate your research today with these transformative AI technologies and experience the future of academic excellence!
 
 ### 🙌🏻 Connect with Me
 <p align="left">
