@@ -9,9 +9,7 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rmap.jpeg" alt="Image Alt Text"  height="500">
 
-The Research MAP serves as a visual and systematic framework to guide researchers through each phase of the research process, from identifying problems to making actionable recommendations. Here’s a detailed breakdown of its components with relevant insights and emojis for emphasis:
-
-
+The Research MAP serves as a visual and systematic framework to guide researchers through each phase of the research process, from identifying problems to making actionable recommendations.
 
 ### **1. Research 🧠**
 A **systematic process** to investigate a problem, question, or hypothesis, aiming to gain knowledge or find practical solutions.
