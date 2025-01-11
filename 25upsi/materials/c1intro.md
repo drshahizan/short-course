@@ -20,10 +20,7 @@ An effective introduction is the foundation of a strong PhD thesis. It sets the 
 - If your research is on **Machine Learning in Healthcare**, mention the growing importance of AI in improving diagnostic accuracy and patient care.
 
 ### **Helpful Resources**:
-- [How to Write Background Information](https://writingcenter.uagc.edu/background-information) 🌐  
 - Use tools like [Connected Papers](https://www.connectedpapers.com/) to explore related research.
-
-
 
 ## **2. Review of the Idea-Related Literature 📚**
 ### **What to Include**:
