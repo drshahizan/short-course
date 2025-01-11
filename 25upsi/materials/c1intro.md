@@ -9,126 +9,143 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/c1intro.jpg" alt="Image Alt Text"  height="500">
 
-A strategy tailored for **PhD students** to stay focused and productive.  
+An effective introduction is the foundation of a strong PhD thesis. It sets the context for your research, highlights its importance, and outlines your objectives. Below are the steps to craft a great introduction, tailored for **Computer Science**.
 
-## **1. Read for 30 mins per day 📖**  
-Spend 30 minutes daily reading papers, books, or blogs in your field to stay updated.  
+## **1. Main Topic with Some Background Information 🌟**
+### **What to Include**:
+- Introduce the overarching topic of your thesis.
+- Provide general background and define key terms in your field.
 
-### **Why it matters**:  
-- Builds your knowledge base.
-- Identifies research gaps.
-- Inspires ideas for your thesis.  
+### **Examples**:
+- If your research is on **Machine Learning in Healthcare**, mention the growing importance of AI in improving diagnostic accuracy and patient care.
 
-### **Examples**:  
-- If your focus is **Deep Learning**, read papers from **NeurIPS**, **ICML**, or **IEEE Transactions on Neural Networks and Learning Systems**.  
-- Use tools like:
-  - [Google Scholar](https://scholar.google.com) 🌐
-  - [Zotero](https://www.zotero.org/) 📚
-  - [Mendeley](https://www.mendeley.com/) 🔍  
-
-### **Practical Tip**:  
-Summarize each paper in a "Literature Review Spreadsheet."  
-- Columns: Title, Authors, Key Idea, Methodology, Results, and Relevance to your work.  
-
-## **2. Eliminate distractions 🚫**  
-Set up a productive workspace to focus deeply.  
-
-### **Why it matters**:  
-- Reduces multitasking.
-- Maximizes time efficiency.  
-
-### **Examples**:  
-- **Physical distractions**: Create a quiet workspace.  
-- **Digital distractions**: Use tools like:
-  - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en) (Blocks time-wasting sites).  
-  - [Forest](https://www.forestapp.cc/) 🌳 (Grow a tree while staying focused).  
-
-### **Practical Tip**:  
-Use the **Pomodoro Technique** (25 minutes of focus, 5 minutes of rest) to break down tasks into manageable chunks.  
-
-## **3. Write as you go 🖊️**  
-Don’t wait to start writing—document your progress throughout your PhD.  
-
-### **Why it matters**:  
-- Reduces last-minute stress.  
-- Tracks your thought process.  
-
-### **Examples**:  
-- Write about experiments immediately after completing them:  
-  - *E.g.*, Document the hyperparameter tuning process for your Machine Learning model.  
-- Use platforms like:
-  - [Overleaf](https://www.overleaf.com/) 🖋️ for LaTeX writing.  
-  - Markdown editors for draft notes.  
-
-## **4. Author 150 words every day ✍️**  
-Writing daily keeps you moving forward, even if it’s just a small step.  
-
-### **Why it matters**:  
-- Ensures consistent progress on your thesis.  
-- Builds momentum.  
-
-### **Examples**:  
-- Write a paragraph for your literature review:
-  - Compare two algorithms, such as **Support Vector Machines (SVM)** vs. **Random Forest**.  
-- Describe an experiment setup:  
-  - *E.g.*, “We implemented a convolutional neural network (CNN) with 3 layers using PyTorch…”  
-
-### **Practical Tip**:  
-Use tools like [Grammarly](https://www.grammarly.com/) 🛠️ for editing and [Hemingway Editor](http://www.hemingwayapp.com/) for clarity.  
-
-## **5. Rest strategically 🛌**  
-Take breaks to recharge your mind and prevent burnout.  
-
-### **Why it matters**:  
-- Improves focus and creativity.  
-- Enhances problem-solving ability.  
-
-### **Examples**:  
-- Take a 10-minute walk after 2 hours of coding.  
-- Use apps like [Calm](https://www.calm.com/) 🌿 for guided meditation.  
-
-### **Practical Tip**:  
-Incorporate **active rest**:
-- Watch non-technical videos on [TED Talks](https://www.ted.com/) 🎥.
-- Engage in hobbies like cooking, painting, or fitness.  
-
-## **6. Develop your Table of Contents 🗂️**  
-Create a roadmap for your thesis from the beginning.  
-
-### **Why it matters**:  
-- Keeps your work structured.  
-- Helps track progress.  
-
-### **Examples**:  
-For a Computer Science thesis, you might structure as follows:
-1. **Introduction**: Problem Statement, Objectives.  
-2. **Literature Review**: Related Work in AI/Blockchain.  
-3. **Methodology**: System Architecture, Algorithms, Datasets.  
-4. **Results and Analysis**: Experimental Results, Benchmarks.  
-5. **Conclusion**: Contributions, Future Work.  
-
-### **Practical Tip**:  
-Refine your Table of Contents as your research evolves. Use tools like:
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) 🖇️ for organizing your chapters.  
+### **Helpful Resources**:
+- [How to Write Background Information](https://writingcenter.uagc.edu/background-information) 🌐  
+- Use tools like [Connected Papers](https://www.connectedpapers.com/) to explore related research.
 
 
-## **7. Stop aiming for perfection 🛑**  
-Focus on progress rather than perfection.  
 
-### **Why it matters**:  
-- Prevents procrastination.  
-- Encourages iterative improvement.  
+## **2. Review of the Idea-Related Literature 📚**
+### **What to Include**:
+- Summarize relevant studies and highlight gaps in the existing literature.  
 
-### **Examples**:  
-- Submit draft code or papers for peer feedback, even if incomplete.  
-- Accept that your algorithm might not outperform state-of-the-art models initially—what matters is its novelty.  
+### **Examples**:
+- Discuss key algorithms like **Convolutional Neural Networks (CNN)** and highlight their limitations in edge-device deployment.
 
-### **Practical Tip**:  
-Follow the **80/20 Rule**: 80% of your results come from 20% of your effort. Focus on impactful tasks.
+### **Helpful Tools**:
+- Use [Google Scholar](https://scholar.google.com/) and [Zotero](https://www.zotero.org/) for organizing references.  
+- [Litmaps](https://www.litmaps.com/) for tracking developments in your area.
 
 
-### **Final Words**  
-By applying the **REWARDS framework**, you can effectively manage your time, stay consistent, and complete your Computer Science PhD within 3 years. Remember: Small, consistent efforts lead to significant results! 🚀  
+
+## **3. Topic Terms & Scope 🔍**
+### **What to Include**:
+- Define specific terms and boundaries of your research.  
+- Narrow down your research focus to make it clear and manageable.
+
+### **Examples**:
+- Define key terms like **federated learning** or **blockchain consensus mechanisms**.  
+- Scope: "This research focuses on enhancing blockchain scalability for distributed healthcare systems."
+
+
+
+## **4. Current Situation Outline 🧩**
+### **What to Include**:
+- Highlight the current state of research or technology in your field.
+
+### **Examples**:
+- Mention how edge computing is gaining traction but faces challenges like **limited processing power** and **security vulnerabilities**.  
+
+### **Practical Tools**:
+- Explore case studies on platforms like [IEEE Xplore](https://ieeexplore.ieee.org/).
+
+
+
+## **5. Pros & Cons of the Current Situation & Gap Identification ⚖️**
+### **What to Include**:
+- Analyze the strengths and weaknesses of current approaches.  
+- Clearly identify the research gap your work addresses.
+
+### **Examples**:
+- “Although CNNs have revolutionized image recognition, their high computational cost limits real-time applications in resource-constrained environments.”
+
+### **Tip**:
+- Create a table comparing existing methods, listing their pros, cons, and gaps.
+
+
+
+## **6. Proposed Research Importance 🌍**
+### **What to Include**:
+- Explain why your research is important and its potential impact.  
+
+### **Examples**:
+- “This research will improve real-time object detection in autonomous vehicles, enhancing road safety.”  
+
+### **Links**:
+- Read about societal impacts of AI: [Stanford AI Index Report](https://aiindex.stanford.edu/).
+
+
+
+## **7. Research Problem & Questions ❓**
+### **What to Include**:
+- Clearly define your research problem.  
+- List the key questions your research aims to answer.
+
+### **Examples**:
+- Research Problem: “How can blockchain ensure low latency in IoT systems?”
+- Research Questions:
+  1. What algorithms can optimize latency in blockchain transactions?
+  2. How can lightweight cryptography enhance IoT security?
+
+
+
+## **8. Research Aims & Objectives 🎯**
+### **What to Include**:
+- State the primary aim of your research and break it into measurable objectives.
+
+### **Examples**:
+- **Aim**: To develop a secure and scalable blockchain protocol for IoT.
+- **Objectives**:
+  - Design a lightweight encryption scheme.
+  - Test the protocol’s scalability on real-world IoT datasets.
+
+### **Tools**:
+- Use [SMART Goals](https://www.smartsheet.com/blog/essential-guide-writing-smart-goals) framework for objectives.
+
+
+
+## **9. Methodology Outline ⚙️**
+### **What to Include**:
+- Briefly outline your research methods, tools, and technologies.
+
+### **Examples**:
+- “This research will use Python-based simulations to test the proposed blockchain protocol on IoT datasets, employing frameworks like **Hyperledger Fabric** and **TensorFlow**.”
+
+### **Tools for Methodology**:
+- Simulation: [MATLAB](https://www.mathworks.com/) or [Python](https://www.python.org/).
+- Data Analysis: [Pandas](https://pandas.pydata.org/) or [Scikit-learn](https://scikit-learn.org/).
+
+
+## **10. Table of Content 📑**
+### **What to Include**:
+- List the main sections of your thesis.
+
+### **Example**:
+1. Introduction  
+2. Literature Review  
+3. Methodology  
+4. Results and Discussion  
+5. Conclusion and Future Work  
+
+### **Tool**:
+- Use [Scrivener](https://www.literatureandlatte.com/scrivener/overview) or Microsoft Word for formatting.
+
+## **Additional Tips**:
+- Stay concise and avoid overloading the introduction with unnecessary details.
+- Keep your target audience (reviewers or advisors) in mind.
+- Revise the introduction as your research progresses.
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
