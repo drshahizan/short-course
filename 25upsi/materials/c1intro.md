@@ -7,7 +7,7 @@
 
 # Complete Your PhD in 3 Years Using REWARDS Framework
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/c1intro.jpeg" alt="Image Alt Text"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/c1intro.jpg" alt="Image Alt Text"  height="500">
 
 A strategy tailored for **PhD students** to stay focused and productive.  
 
