@@ -9,7 +9,7 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/ontime.jpeg" alt="Image Alt Text"  height="500">
 
-A strategy tailored for **Computer Science PhD students** to stay focused and productive.  
+A strategy tailored for **PhD students** to stay focused and productive.  
 
 ## **1. Read for 30 mins per day 📖**  
 Spend 30 minutes daily reading papers, books, or blogs in your field to stay updated.  
