@@ -7,7 +7,7 @@
 
 # Complete Your PhD in 3 Years Using REWARDS Framework
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/ai_research.jpeg" alt="Image Alt Text"  height="600">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/ontime.jpeg" alt="Image Alt Text"  height="600">
 
 A strategy tailored for **Computer Science PhD students** to stay focused and productive.  
 
