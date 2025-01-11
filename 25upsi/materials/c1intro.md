@@ -135,7 +135,7 @@ An effective introduction is the foundation of a strong PhD thesis. It sets the 
 5. Conclusion and Future Work  
 
 ### **Tool**:
-- Use [Scrivener](https://www.literatureandlatte.com/scrivener/overview) or Microsoft Word for formatting.
+- Use [Obsidian](https://obsidian.md/) or Microsoft Word for formatting.
 
 ## **Additional Tips**:
 - Stay concise and avoid overloading the introduction with unnecessary details.
