@@ -15,6 +15,7 @@ The workshop is designed to help postgraduate students and researchers develop a
 </p>
 
 ## Topic
+- [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ontime.md)
 - [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/survive.md)
 - [Research MAP: A Detailed Guide to Structuring Your Research Process](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rmap.md)
 - [Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ww.md)
