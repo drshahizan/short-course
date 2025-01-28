@@ -11,6 +11,15 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
+## 🌍 Collaborative Workshops and Courses: Year 2025
+
+<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="200">
+</a>
+<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
+ <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
+</a>
+
 ## 🌍 Collaborative Workshops and Courses: Year 2024
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
