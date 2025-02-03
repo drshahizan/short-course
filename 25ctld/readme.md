@@ -25,12 +25,9 @@ Fakulti Komputeran, UTM Johor Bahru
 Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pelajar, serta kakitangan akademik yang ingin meneroka potensi AI generatif dalam meningkatkan produktiviti dan inovasi dalam pendidikan serta pentadbiran.
 
 ## Whatsapp
+Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. Sila imbas kod menggunakan telefon bimbit anda. Setelah berjaya disambungkan, perkhidmatan ini akan tersedia di **WhatsApp** anda. Anda kemudian boleh menaip prompt yang diinginkan untuk mendapatkan jawapan atau bantuan secara terus.
 
 <table align="center">
-  <tr>
-    <th align="center">aaa</th>
-    <th align="center">aaa</th>
-  </tr>
   <tr>
     <td align="center"><img src="images/chatgpt.png" height="300"></td>
     <td align="center"><img src="images/copilot.png" height="300"></td>
