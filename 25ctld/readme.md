@@ -68,6 +68,14 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
 | **📜 Penyelidikan & Rujukan** | "Senaraikan 5 jurnal terkini mengenai kecerdasan buatan dalam pendidikan tinggi." |
 | **💡 Idea & Inovasi** | "Beri saya idea bagaimana AI boleh digunakan untuk meningkatkan pengalaman pembelajaran di UTM." |
 
+## Telegram
+
+https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/25ctld/images/telegram-copilot.avif
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/25ctld/images/telegram-copilot.avif"  height="500">
+</p>
+
 ## Bahan Pengajaran
 
 | No | Pelajaran | Topik |
