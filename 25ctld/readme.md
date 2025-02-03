@@ -39,6 +39,7 @@ Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pel
 | 5. | Telegram |[Copilot](telegram.md)|
 | 6. | Alatan Gen AI |[DeepSeek](https://www.deepseek.com/)|
 |  |  |[Qwen](https://chat.qwenlm.ai/)|
+|  |  |[Kimi](https://kimi.ai/)|
 |7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
