@@ -73,8 +73,7 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
 ## Telegram
 
 <p align="center">
- <a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
-
+ <a href="https://t.me/CopilotOfficialBot">
  <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/25ctld/images/telegram-copilot.avif"  height="500">
 </a>
 </p>
