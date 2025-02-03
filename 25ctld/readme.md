@@ -38,40 +38,35 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
   </tr>
 </table>
 
-## Topic
-- [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ontime.md)
-- [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/survive.md)
-- [Research MAP: A Detailed Guide to Structuring Your Research Process](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rmap.md)
-- [Mastering the Art of a PhD Thesis Introduction: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/c1intro.md)
-- [Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ww.md)
-- [Discover Essential AI Tools Transforming Every Step of the Research Process](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ai_research.md)
-- [Abstract Writing Template (PIMPAC): A Clear Structure for Your Research](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/abstract.md)
-- [Research Gap](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rgap.md)
-- [Crafting the Perfect Research Question: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rq.md)
-- [How to Pick a Winning Research Topic](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/rt.md)
+### Prompt ChatGPT di WhatsApp
 
-## Github
-- **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**
-- **[The Daily Life of a PhD Student](https://github.com/drshahizan/phd)**: Offers insights into the routine and experiences of a PhD student, providing valuable tips for navigating academic research.
+| **Kategori**            | **Prompt ChatGPT di WhatsApp** |
+|-------------------------|--------------------------------|
+| **💼 Produktiviti & Kerja** | "Bantu saya ringkaskan mesej ini supaya lebih profesional dan padat." |
+| **🌍 Penterjemahan & Bahasa** | "Terjemahkan mesej ini ke dalam bahasa Inggeris/Arab/Perancis dengan nada yang sopan." |
+| **🎨 Idea & Kreativiti** | "Saya ingin menulis ucapan hari lahir untuk rakan sekerja. Boleh beri idea yang unik?" |
+| **💬 Bantuan dalam Perbualan** | "Saya ingin membalas mesej ini dengan nada yang mesra tetapi tegas. Bagaimana caranya?" |
+| **🍲 Resepi & Masakan** | "Saya ada ayam dan sayur di rumah. Boleh cadangkan menu mudah untuk makan malam?" |
+| **💡 Motivasi & Inspirasi** | "Beri saya satu kata-kata semangat untuk memulakan hari dengan lebih positif." |
+| **🤖 Teknologi & AI** | "Apa kelebihan menggunakan ChatGPT di WhatsApp untuk meningkatkan produktiviti harian?" |
+| **💰 Kewangan & Perbelanjaan** | "Bagaimana saya boleh menyimpan wang dengan lebih berkesan setiap bulan?" |
+| **📚 Pendidikan & Pembelajaran** | "Terangkan konsep kecerdasan buatan dalam 3 ayat yang mudah difahami." |
+| **🏋️‍♂️ Kesihatan & Gaya Hidup** | "Boleh cadangkan senaman ringan yang boleh dilakukan di rumah dalam masa 10 minit?" |
 
-- **[UTM - Systematic Literature Review using AI](https://github.com/drshahizan/SLR-FC)**: A repository by UTM that explores the use of AI in conducting systematic literature reviews.
+### Prompt Microsoft Copilot di WhatsApp
 
-- **[Systematic Literature Review - Gitbook](https://drshahizan.gitbook.io/slr/)**: A Gitbook dedicated to guiding readers through the process of conducting systematic literature reviews.
-
-- **[AI tools](https://drshahizan.gitbook.io/ai-tools/)**: A collection of AI tools and resources compiled to assist researchers in various tasks related to data science and machine learning.
-
-- **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)**: This repository provides tools and tips for using Obsidian.md to enhance academic writing and research.
-
-## AI Tools
-
-| No. | Topic                                             | Content | File | 
-|----: |----------------------------------------------------|------|------|
-| 1.   | Top Computer Science Literature Databases | This tool provides access to prominent databases containing computer science literature. Researchers and academics can explore relevant papers, articles, and research findings in the field of computer science. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Generative AI prompt: ChatGPT, CoPilot, Gemini | These generative AI models assist in creating human-like text based on given prompts. Whether you need chat responses, code snippets, or creative content, these tools can generate it for you. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Research Gaps | This tool helps identify gaps in existing research. Researchers can use it to pinpoint areas where further investigation is needed. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 4.   | Paper Discovery | Discover relevant research papers using this tool. It assists in finding scholarly articles related to specific topics.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 5.   | Paper Visualization | Visualize research papers and their connections. This tool aids in understanding complex relationships between academic works.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Citation Management | Manage citations efficiently. Keep track of references, generate bibliographies, and ensure accurate citations using this tool. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
+| **Kategori**            | **Prompt Microsoft Copilot di WhatsApp** |
+|-------------------------|--------------------------------|
+| **📄 Penulisan Dokumen** | "Bantu saya drafkan emel rasmi untuk pensyarah mengenai perjumpaan fakulti minggu depan." |
+| **📊 Analisis Data** | "Bagaimana saya boleh menganalisis keputusan peperiksaan pelajar menggunakan Excel secara lebih efisien?" |
+| **🎓 Pengajaran & Pembelajaran** | "Boleh cadangkan cara menggunakan Microsoft Teams untuk kelas dalam talian yang lebih interaktif?" |
+| **📝 Persediaan Kuliah** | "Senaraikan 5 topik penting berkaitan kecerdasan buatan yang boleh dimasukkan dalam kuliah saya minggu depan." |
+| **🗓️ Pengurusan Jadual** | "Bantu saya susun jadual mesyuarat akademik dan tugasan menggunakan Microsoft Outlook." |
+| **📑 Pengurusan Dokumen** | "Bagaimana saya boleh mengautomasikan penyusunan fail penyelidikan dalam OneDrive atau SharePoint?" |
+| **🤝 Kolaborasi Projek** | "Apa cara terbaik untuk mengurus projek penyelidikan berkumpulan dengan Microsoft Planner?" |
+| **📢 Pengumuman & Notifikasi** | "Bantu saya buat teks pengumuman mesyuarat fakulti yang pendek dan jelas." |
+| **📜 Penyelidikan & Rujukan** | "Senaraikan 5 jurnal terkini mengenai kecerdasan buatan dalam pendidikan tinggi." |
+| **💡 Idea & Inovasi** | "Beri saya idea bagaimana AI boleh digunakan untuk meningkatkan pengalaman pembelajaran di UTM." |
 
 
 ### 🙌🏻 Connect with Me
