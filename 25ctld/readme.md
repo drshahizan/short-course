@@ -37,7 +37,8 @@ Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pel
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md)|
 | 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](telegram.md)|
-| 6. | DeepSeek |[Web](https://www.deepseek.com/)|
+| 6. | Alatan Gen AI |[DeepSeek](https://www.deepseek.com/)|
+|  |  |[Qwen](https://chat.qwenlm.ai/)|
 |7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
