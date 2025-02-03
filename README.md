@@ -7,7 +7,7 @@
 
 ## 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
+<a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="400">
 </a>
 
