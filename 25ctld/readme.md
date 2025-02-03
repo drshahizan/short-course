@@ -18,8 +18,8 @@ Kursus ini akan dikendalikan oleh **Prof. Madya Ts. Mohd Shahizan bin Othman** d
 
 ## Whatsapp
 <p align="center">
- <img src="images/chatgpt.jpeg"  height="500">
- <img src="images/copilot.jpeg"  height="500">
+ <img src="/images/chatgpt.jpeg"  height="500">
+ <img src="/images/copilot.jpeg"  height="500">
 </p>
 
 ## Topic
