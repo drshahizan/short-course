@@ -16,6 +16,12 @@ Kursus ini akan dikendalikan oleh **Prof. Madya Ts. Mohd Shahizan bin Othman** d
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg"  height="500">
 </p>
 
+## Whatsapp
+<p align="center">
+ <img src="images/chatgpt.jpeg"  height="500">
+ <img src="images/copilot.jpeg"  height="500">
+</p>
+
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ontime.md)
 - [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/survive.md)
