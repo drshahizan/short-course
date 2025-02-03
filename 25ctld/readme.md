@@ -8,15 +8,9 @@
 
 # Generatif AI: Memudahkan Aktiviti Harian
 
-Kursus ini bertujuan untuk memperkenalkan konsep dan aplikasi kecerdasan buatan generatif dalam mempermudah tugas harian. Kursus ini merupakan sebahagian daripada inisiatif **Kompetensi Strategik Universiti (Digital Kompetensi)** yang menekankan keperluan penguasaan teknologi digital di kalangan warga akademik dan profesional.
+Kursus ini bertujuan untuk memperkenalkan konsep dan aplikasi kecerdasan buatan generatif dalam mempermudah tugas harian. Kursus ini merupakan sebahagian daripada inisiatif **Kompetensi Strategik Universiti (Digital Kompetensi)** yang menekankan keperluan penguasaan teknologi digital di kalangan warga akademik dan profesional. Sepanjang kursus ini, peserta akan diperkenalkan kepada teknologi **AI generatif**, termasuk penggunaannya dalam automasi kerja, penulisan kandungan, analisis data, serta integrasi dengan peralatan digital seperti Google Workspace dan perisian lain yang menyokong produktiviti. Selain itu, sesi ini juga akan membincangkan etika dan cabaran dalam penerapan AI generatif dalam kehidupan seharian.
 
-Sepanjang kursus ini, peserta akan diperkenalkan kepada teknologi **AI generatif**, termasuk penggunaannya dalam automasi kerja, penulisan kandungan, analisis data, serta integrasi dengan peralatan digital seperti Google Workspace dan perisian lain yang menyokong produktiviti. Selain itu, sesi ini juga akan membincangkan etika dan cabaran dalam penerapan AI generatif dalam kehidupan seharian.
-
-Kursus ini akan dikendalikan oleh **Prof. Madya Ts. Mohd Shahizan bin Othman** dari Fakulti Komputeran, UTM Johor Bahru, yang merupakan pakar dalam bidang teknologi maklumat dan kecerdasan buatan. 
-
-Program ini dianjurkan oleh **Centre for Teaching and Learning Digital (CTLD), UTM** dan akan diadakan di **Integrity Room, CTLD, UTM Johor Bahru**, pada **5 Februari 2025 (Rabu), dari jam 11.00 pagi hingga 5.00 petang**. 
-
-Kursus ini sesuai untuk pensyarah, penyelidik, pelajar, dan kakitangan akademik yang ingin memahami serta meneroka potensi AI generatif dalam meningkatkan kecekapan kerja dan inovasi dalam pendidikan serta pentadbiran.
+Kursus ini akan dikendalikan oleh **Prof. Madya Ts. Mohd Shahizan bin Othman** dari Fakulti Komputeran, UTM Johor Bahru, yang merupakan pakar dalam bidang teknologi maklumat dan kecerdasan buatan. Program ini dianjurkan oleh **Centre for Teaching and Learning Digital (CTLD), UTM** dan akan diadakan di **Integrity Room, CTLD, UTM Johor Bahru**, pada **5 Februari 2025 (Rabu), dari jam 11.00 pagi hingga 5.00 petang**. Kursus ini sesuai untuk pensyarah, penyelidik, pelajar, dan kakitangan akademik yang ingin memahami serta meneroka potensi AI generatif dalam meningkatkan kecekapan kerja dan inovasi dalam pendidikan serta pentadbiran.
 
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg"  height="500">
