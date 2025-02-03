@@ -25,27 +25,22 @@ Fakulti Komputeran, UTM Johor Bahru
 Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pelajar, serta kakitangan akademik yang ingin meneroka potensi AI generatif dalam meningkatkan produktiviti dan inovasi dalam pendidikan serta pentadbiran.
 
 ## Whatsapp
-<p align="center">
- aaa<br>
- <img src="images/chatgpt.png"  height="300"><br>
- aaa<br>
- <img src="images/copilot.png"  height="300">
-</p>
 
 <table align="center">
   <tr>
-    <td align="center">aaa</td>
+    <th align="center">aaa</th>
+    <th align="center">aaa</th>
   </tr>
   <tr>
     <td align="center"><img src="images/chatgpt.png" height="300"></td>
-  </tr>
-  <tr>
-    <td align="center">aaa</td>
-  </tr>
-  <tr>
     <td align="center"><img src="images/copilot.png" height="300"></td>
   </tr>
+   <tr>
+    <th align="center">ChatGPT</th>
+    <th align="center">Microsoft Copilot</th>
+  </tr>
 </table>
+
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ontime.md)
 - [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/survive.md)
