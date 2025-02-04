@@ -12,6 +12,11 @@ Sebagai model bahasa AI, Qwen Chat bertujuan untuk memberikan pengalaman percaka
 
 Qwen Chat ialah model bahasa AI yang canggih dan serba boleh, direka oleh Alibaba Cloud untuk membantu pengguna dalam pelbagai tugas. 
 
+
+<p align="center">
+ <img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen2.5-max-instruct.jpg"  height="500">
+ </p>
+ 
 ## Ciri-ciri utama Qwen Chat: 🌟
 
 ### 1. **Multibahasa 🌍**
