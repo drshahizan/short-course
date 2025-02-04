@@ -82,7 +82,6 @@ DeepThink (R1) dan Search adalah dua konsep atau alat yang berbeza dari segi fun
 
 Secara ringkasnya, DeepSeek ialah syarikat yang berusaha untuk memanfaatkan potensi AI dalam menyelesaikan masalah kompleks dan meningkatkan kualiti hidup melalui teknologi canggih.
 
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -94,4 +93,3 @@ Secara ringkasnya, DeepSeek ialah syarikat yang berusaha untuk memanfaatkan pote
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
