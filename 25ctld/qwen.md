@@ -10,6 +10,60 @@ Qwen Chat adalah model bahasa besar yang dikembangkan oleh Alibaba Cloud. Model 
 
 Sebagai model bahasa AI, Qwen Chat bertujuan untuk memberikan pengalaman percakapan yang alami dan membantu pengguna dalam berbagai situasi. Anda dapat mengajukan pertanyaan atau meminta bantuan dengan topik tertentu, dan Qwen akan memberikan respons yang sesuai dengan pengetahuannya hingga pada pengetahuan terbaru tahun 2024. 
 
+Qwen Chat ialah model bahasa AI yang canggih dan serba boleh, direka oleh Alibaba Cloud untuk membantu pengguna dalam pelbagai tugas. 
+
+## Ciri-ciri utama Qwen Chat: 🌟
+
+### 1. **Multibahasa 🌍**
+   - Qwen Chat menyokong lebih daripada 100 bahasa, termasuk Bahasa Melayu, Inggeris, Mandarin, dan banyak lagi. Ini menjadikannya alat komunikasi yang ideal untuk pengguna di seluruh dunia.
+
+
+### 2. **Pemahaman Konteks yang Tajam 🧠**
+   - Qwen Chat mampu memahami konteks percakapan dengan mendalam. Ia boleh mengikuti alur perbualan panjang dan memberikan jawapan yang relevan dan tepat. 💬
+
+
+### 3. **Pengetahuan Luas 📚**
+   - Dilatih menggunakan data besar dari pelbagai sumber, Qwen Chat mempunyai pengetahuan luas dalam pelbagai bidang seperti sains, teknologi, budaya, sejarah, dan banyak lagi. Pengetahuannya merangkumi sehingga tahun 2024. 🔍
+
+
+### 4. **Kreatif dalam Menulis ✍️**
+   - Qwen Chat boleh menulis teks kreatif seperti cerita pendek, puisi, skrip, artikel, email, dan dokumen profesional. Ia juga boleh membantu dalam menyusun kandungan pemasaran atau bahan pembentangan. 🎨
+
+
+### 5. **Pelbagai Kegunaan 🛠️**
+   - Selain menjawab soalan, Qwen Chat boleh melakukan pelbagai tugas seperti:
+     - **Terjemahan**: Menerjemahkan teks antara bahasa. 🌐
+     - **Ringkasan**: Menyediakan ringkasan bagi teks panjang. 📄
+     - **Analisis**: Memberikan analisis ringkas tentang topik tertentu. 📊
+     - **Pengaturcaraan**: Membantu menulis kod atau debug dalam pelbagai bahasa pengaturcaraan. 💻
+
+
+### 6. **Interaktif dan Responsif 🤖**
+   - Qwen Chat direka untuk menjadi interaktif dan responsif. Anda boleh bertanya lanjut atau meminta penjelasan, dan ia akan terus mempertahankan konteks perbualan sebelumnya. 🔄
+
+
+### 7. **Boleh Disesuaikan 🛠️**
+   - Qwen Chat boleh disesuaikan dengan keperluan spesifik pengguna atau organisasi melalui kaedah seperti *fine-tuning* atau *prompt engineering*. Ini membolehkan model dioptimumkan untuk tugasan atau industri tertentu. 🎯
+
+
+### 8. **Etika dan Keselamatan ⚖️**
+   - Qwen Chat dilengkapi dengan mekanisme untuk memastikan output yang dihasilkan adalah etika, selamat, dan tidak mengandungi kandungan berbahaya, ofensif, atau bias. 🛡️
+
+
+### 9. **Dilatih dengan Data Besar 📊**
+   - Qwen Chat dilatih menggunakan dataset besar yang merangkumi pelbagai jenis teks dari internet, buku, artikel, dan sumber lain. Ini membolehkannya memahami pelbagai topik dan gaya bahasa dengan baik. 📚
+
+
+### 10. **Integrasi Mudah 🔗**
+   - Qwen Chat boleh diintegrasikan ke dalam aplikasi, laman web, atau sistem lain melalui API. Ini membolehkan syarikat dan pembangun memanfaatkan kemampuan Qwen dalam pelbagai penyelesaian teknologi. 🌐
+
+
+### 11. **Sentiasa Dikemas Kini 🔄**
+   - Qwen Chat adalah sebahagian daripada rangkaian model yang sentiasa dikemas kini dan diperbaiki oleh Alibaba Cloud. Versi terkini sentiasa berusaha untuk meningkatkan prestasi, ketepatan, dan keupayaan model. 🚀
+
+### Kesimpulan:
+Qwen Chat adalah model bahasa AI yang kuat, fleksibel, dan serba guna dengan kemampuan multibahasa, pemahaman konteks yang baik, dan pengetahuan luas. Ia sesuai untuk pelbagai kegunaan, dari perbualan harian hingga tugasan profesional yang kompleks. 🌟
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
