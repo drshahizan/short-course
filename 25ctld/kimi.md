@@ -82,8 +82,6 @@ Kimi.ai ialah platform kecerdasan buatan (**AI**) canggih yang dibangunkan oleh 
 ❌ **Etika**  
    - Penting untuk menggunakan **AI secara bertanggungjawab** dan mengelakkan penyalahgunaan.  
 
----
-
 ## 🔥 Kesimpulan  
 
 Kimi.ai ialah alat **AI serbaguna** yang menggabungkan **kemudahan penggunaan dengan kemahiran tinggi**, menjadikannya pilihan menarik bagi sesiapa yang ingin meningkatkan **produktiviti** atau **kreativiti** mereka! 🚀  
