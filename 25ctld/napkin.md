@@ -1,4 +1,4 @@
-<a href="https://github.com/drshahizan/short-course/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/short-course" alt="Stars Badge"/></a>
+![image](https://github.com/user-attachments/assets/bda7b6ae-80a9-4869-b302-72a961d452aa)<a href="https://github.com/drshahizan/short-course/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/short-course" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/short-course/network/members"><img src="https://img.shields.io/github/forks/drshahizan/short-course" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/short-course/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/short-course" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/short-course"><img src="https://img.shields.io/github/issues/drshahizan/short-course" alt="Issues Badge"/></a>
@@ -12,6 +12,7 @@
 <p align="center">
  <img src="https://www.geeky-gadgets.com/wp-content/uploads/2024/10/napkin-ai-text-to-visual-converter.webp" height="400">
  </p>
+
 
 
 ## ✨ Ciri-ciri Utama Napkin.ai  
@@ -31,6 +32,12 @@
 🔗 **Integrasi**  
    - **Mudah diintegrasikan** dengan pelbagai aplikasi lain untuk **mengimport dan mengeksport data**.  
    - Menjadikan **proses kerja lebih lancar dan efisien**.  
+
+
+<p align="center">
+ <img src="https://freshvanroot.com/wp-content/uploads/2024/12/Turn-text-into-visuals-in-seconds-Napkin-AI.png" height="400">
+ </p>
+
 
 ## 🎯 Manfaat Napkin.ai  
 
