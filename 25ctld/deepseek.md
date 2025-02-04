@@ -36,6 +36,52 @@ DeepSeek ialah sebuah syarikat teknologi yang khusus dalam bidang **kecerdasan b
 - **Menyelesaikan Masalah Dunia Nyata:** Mereka berusaha untuk menggunakan AI bagi menyelesaikan masalah praktikal dalam pelbagai industri.
 - **Meningkatkan Kecekapan dan Produktiviti:** Dengan automasi dan analisis data, DeepSeek membantu syarikat meningkatkan kecekapan operasi mereka.
 
+## DeepThink (R1) dan Search
+DeepThink (R1) dan Search adalah dua konsep atau alat yang berbeza dari segi fungsi dan tujuannya. Berikut adalah perbezaan utama antara keduanya:
+
+### **1. DeepThink (R1):**
+- **Definisi:**  
+  DeepThink (R1) merujuk kepada sebuah sistem atau platform yang menggunakan teknologi **kecerdasan buatan (AI)** dan **pembelajaran mesin (machine learning)** untuk menganalisis data, menyelesaikan masalah kompleks, atau membuat keputusan yang lebih bijak.
+  
+- **Fungsi:**  
+  - Bertindak sebagai alat analisis yang mendalam (deep analysis) untuk memahami data atau situasi yang rumit.
+  - Mungkin digunakan untuk simulasi, ramalan, atau pengoptimuman dalam pelbagai bidang seperti kewangan, kesihatan, atau logistik.
+  - Fokus pada pemikiran kritis dan penyelesaian masalah secara sistematik.
+
+- **Contoh Penggunaan:**  
+  - Menganalisis data pasaran untuk meramalkan trend kewangan.
+  - Membantu dalam diagnosis perubatan dengan menganalisis data pesakit.
+  - Menyelesaikan masalah logistik yang kompleks seperti pengurusan rantaian bekalan.
+
+### **2. Search:**
+- **Definisi:**  
+  Search merujuk kepada proses mencari maklumat atau data daripada sumber yang tersedia, seperti enjin carian (contohnya Google, Bing) atau pangkalan data.
+  
+- **Fungsi:**  
+  - Membantu pengguna mencari maklumat tertentu dengan pantas dan tepat.
+  - Berfungsi berdasarkan kata kunci (keywords) atau pertanyaan yang dimasukkan oleh pengguna.
+  - Menyediakan hasil carian yang relevan berdasarkan algoritma yang telah diprogramkan.
+
+- **Contoh Penggunaan:**  
+  - Mencari maklumat di internet menggunakan enjin carian seperti Google.
+  - Mencari data dalam pangkalan data syarikat.
+  - Mencari fail atau dokumen dalam sistem komputer.
+
+---
+
+### **Perbezaan Utama:**
+| Aspek                | DeepThink (R1)                          | Search                                  |
+|----------------------|-----------------------------------------|-----------------------------------------|
+| **Tujuan**           | Menganalisis dan menyelesaikan masalah kompleks. | Mencari maklumat atau data tertentu.    |
+| **Fungsi**           | Analisis mendalam, ramalan, pengoptimuman. | Pencarian maklumat berdasarkan kata kunci. |
+| **Teknologi**        | Kecerdasan buatan (AI) dan pembelajaran mesin. | Algoritma carian dan indeks data.       |
+| **Contoh Alat**      | Sistem AI untuk analisis data atau ramalan. | Enjin carian seperti Google atau Bing.  |
+| **Keluaran**         | Penyelesaian masalah, ramalan, atau cadangan. | Senarai hasil carian yang relevan.      |
+
+- **DeepThink (R1)** lebih fokus pada analisis mendalam dan penyelesaian masalah menggunakan AI, manakala **Search** adalah alat untuk mencari maklumat dengan pantas.
+- DeepThink (R1) memerlukan pemprosesan data yang lebih kompleks, sementara Search bergantung pada algoritma carian yang lebih ringkas.
+- Kedua-duanya mempunyai peranan yang berbeza tetapi boleh saling melengkapi dalam menyediakan maklumat dan penyelesaian yang diperlukan.
+
 Secara ringkasnya, DeepSeek ialah syarikat yang berusaha untuk memanfaatkan potensi AI dalam menyelesaikan masalah kompleks dan meningkatkan kualiti hidup melalui teknologi canggih.
 
 
