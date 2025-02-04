@@ -6,7 +6,13 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # 🚀 [Qwen Chat](https://chat.qwenlm.ai/)
-Qwen Chat adalah model bahasa besar yang dikembangkan oleh Alibaba Cloud. Model ini dirancang untuk menghasilkan teks yang mirip dengan manusia dan dapat digunakan untuk berbagai tugas, seperti menjawab pertanyaan, menulis cerita, membuat email, menulis skrip, melakukan terjemahan, dan banyak lagi. Qwen Chat dilatih menggunakan sejumlah besar data dari internet dan dapat memahami serta merespons dalam beberapa bahasa, termasuk bahasa Indonesia.
+Qwen Chat adalah model bahasa besar yang dikembangkan oleh Alibaba Cloud. Model ini dirancang untuk menghasilkan teks yang mirip dengan manusia dan dapat digunakan untuk berbagai tugas, seperti menjawab pertanyaan, menulis cerita, membuat email, menulis skrip, melakukan terjemahan, dan banyak lagi. Qwen Chat dilatih menggunakan sejumlah besar data dari internet dan dapat memahami serta merespons dalam beberapa bahasa, termasuk bahasa Melayu.
+
+<p align="center">
+ <img src="https://yqintl.alicdn.com/182a5e4dab83954ca6b5b377d522ca91183dd55b.png"  height="400">
+ </p>
+ 
+https://yqintl.alicdn.com/182a5e4dab83954ca6b5b377d522ca91183dd55b.png
 
 Sebagai model bahasa AI, Qwen Chat bertujuan untuk memberikan pengalaman percakapan yang alami dan membantu pengguna dalam berbagai situasi. Anda dapat mengajukan pertanyaan atau meminta bantuan dengan topik tertentu, dan Qwen akan memberikan respons yang sesuai dengan pengetahuannya hingga pada pengetahuan terbaru tahun 2024. 
 
