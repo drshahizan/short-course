@@ -9,7 +9,10 @@
 
 **Napkin.ai** adalah platform inovatif yang direka untuk membantu pengguna dalam proses **penggambaran idea** dan **penyelesaian masalah** menggunakan **kecerdasan buatan** (**AI**). Dengan memanfaatkan teknologi terkini, Napkin.ai membolehkan pengguna untuk **mencipta, mengatur, dan mengembangkan konsep-konsep mereka** dengan lebih efisien.  
 
-https://www.geeky-gadgets.com/wp-content/uploads/2024/10/napkin-ai-text-to-visual-converter.webp
+<p align="center">
+ <img src="https://www.geeky-gadgets.com/wp-content/uploads/2024/10/napkin-ai-text-to-visual-converter.webp" height="400">
+ </p>
+
 
 ## ✨ Ciri-ciri Utama Napkin.ai  
 
