@@ -9,7 +9,10 @@
 
 DeepSeek ialah sebuah syarikat teknologi yang khusus dalam bidang **kecerdasan buatan (AI)** dan **pembelajaran mesin (machine learning)**. Syarikat ini menumpukan usaha dalam membangunkan penyelesaian AI yang inovatif untuk pelbagai industri, termasuk pemprosesan bahasa semula jadi (NLP), penglihatan komputer (computer vision), analisis data, dan automasi. 
 
-https://cdn.prod.website-files.com/65b8f370a600366bc7cf9b20/66b24cc4a3e5671b68590634_66706b2c64038cd629fdc6e8_deepseek%2520coder%2520v2%2520benchmarks%2520(1).webp
+<p align="center">
+ <img src="https://cdn.prod.website-files.com/65b8f370a600366bc7cf9b20/66b24cc4a3e5671b68590634_66706b2c64038cd629fdc6e8_deepseek%2520coder%2520v2%2520benchmarks%2520(1).webp" height="400">
+ </p>
+
 
 ### Fokus Utama DeepSeek:
 1. **Penyelidikan dan Pembangunan (R&D):**
