@@ -67,8 +67,6 @@ DeepThink (R1) dan Search adalah dua konsep atau alat yang berbeza dari segi fun
   - Mencari data dalam pangkalan data syarikat.
   - Mencari fail atau dokumen dalam sistem komputer.
 
----
-
 ### **Perbezaan Utama:**
 | Aspek                | DeepThink (R1)                          | Search                                  |
 |----------------------|-----------------------------------------|-----------------------------------------|
