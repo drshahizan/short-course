@@ -9,8 +9,6 @@
 
 **Napkin.ai** adalah platform inovatif yang direka untuk membantu pengguna dalam proses **penggambaran idea** dan **penyelesaian masalah** menggunakan **kecerdasan buatan** (**AI**). Dengan memanfaatkan teknologi terkini, Napkin.ai membolehkan pengguna untuk **mencipta, mengatur, dan mengembangkan konsep-konsep mereka** dengan lebih efisien.  
 
-Dalam dokumen ini, kita akan meneroka **ciri-ciri utama Napkin.ai**, **manfaatnya**, serta **cara ia dapat digunakan dalam pelbagai konteks**.  
-
 ## ✨ Ciri-ciri Utama Napkin.ai  
 
 🔹 **Penggambaran Idea**  
