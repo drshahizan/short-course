@@ -5,11 +5,12 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+<!--
 ## 🚀 Agile Collaboration Hacks ⚡
 
 <a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="400">
-</a>
+</a> -->
 
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
