@@ -22,7 +22,8 @@
 
 | 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 🇲🇾 Universiti Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
+| 🇲🇾 Universiti Teknologi Malaysia             | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
+| 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
 
 
 ## 🌍 Collaborative Workshops and Courses: Year 2024
