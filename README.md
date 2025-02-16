@@ -22,8 +22,7 @@
 
 | 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian
-](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
+| 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
 | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
 
 
