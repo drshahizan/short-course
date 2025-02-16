@@ -20,6 +20,12 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
+| 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 📝 **Description**                                                                                                    |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🇮🇩 Universiti Universiti Pendidikan Sultan Idris              | [Workshop Penulisan Artikel Ilmiah - Pengenalan AI Tools (Seri 2)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md) | Learn to use AI tools for writing high-quality scientific articles.                                                   |
+| 🇮🇩 Institut Teknologi Padang (ITP) | [Sosialisasi Program Doktor UTM dan Workshop Penulisan Akademik](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/ITP.md) | Acara ini bertujuan untuk memberikan gambaran tentang Program Doktoral UTM serta menawarkan wawasan mengenai praktik penulisan akademik yang efektif bagi calon mahasiswa doktoral.|
+
+
 ## 🌍 Collaborative Workshops and Courses: Year 2024
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
