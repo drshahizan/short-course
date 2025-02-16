@@ -22,7 +22,7 @@
 
 | 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 📝 **Description**                                                                                                    |
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 🇲🇾 Universiti Universiti Pendidikan Sultan Idris              | [Workshop Penulisan Artikel Ilmiah - Pengenalan AI Tools (Seri 2)](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md) | Learn to use AI tools for writing high-quality scientific articles.                                                   |
+| 🇲🇾 Universiti Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md) | Learn to use AI tools for writing high-quality scientific articles.                                                   |
 
 
 
