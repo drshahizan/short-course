@@ -20,10 +20,9 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-| 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 📝 **Description**                                                                                                    |
-|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| 🇲🇾 Universiti Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI.md) | Learn to use AI tools for writing high-quality scientific articles.                                                   |
-
+| 🌍 **Institution**                                        | 📚 **Workshop/Course Title**                                                                                          | 
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🇲🇾 Universiti Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
 
 
 ## 🌍 Collaborative Workshops and Courses: Year 2024
