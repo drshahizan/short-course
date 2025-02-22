@@ -10,24 +10,24 @@
 
 ## Perkongsian Strategik 1: “Teknologi AI dalam Penulisan Pelaporan”
 
-Kursus ini bertujuan untuk memperkenalkan konsep dan aplikasi kecerdasan buatan generatif dalam mempermudah tugas harian. Kursus ini merupakan sebahagian daripada inisiatif **Kompetensi Strategik Universiti (Digital Kompetensi)** yang menekankan keperluan penguasaan teknologi digital di kalangan warga akademik dan profesional. Sepanjang kursus ini, peserta akan diperkenalkan kepada teknologi **AI generatif**, termasuk penggunaannya dalam automasi kerja, penulisan kandungan, analisis data, serta integrasi dengan peralatan digital seperti Google Workspace dan perisian lain yang menyokong produktiviti. Selain itu, sesi ini juga akan membincangkan etika dan cabaran dalam penerapan AI generatif dalam kehidupan seharian.
+### **📌 Sinopsis Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan 🤖📝**  
 
-**Butiran Kursus:**
-- 📍 **Lokasi:** Integrity Room, CTLD, UTM Johor Bahru  
-- 📅 **Tarikh:** 5 Februari 2025 (Rabu)  
-- 🕚 **Masa:** 11.00 pagi - 5.00 petang  
+Dalam era digital yang semakin berkembang, **Kecerdasan Buatan (AI) 🤖** memainkan peranan penting dalam **mempermudahkan** dan **meningkatkan kecekapan** proses **penulisan pelaporan 📊📑**. Perkongsian strategik ini akan membincangkan bagaimana AI dapat dimanfaatkan untuk menghasilkan laporan berkualiti dengan lebih **pantas ⚡** dan **berkesan ✅**.  
 
-**Penceramah:**  
-👨‍🏫 *Prof. Madya Ts. Mohd Shahizan bin Othman*  
-Fakulti Komputeran, UTM Johor Bahru  
+🔹 **Pemilihan AI Tools yang Sesuai 🛠️**  
+Peserta akan diperkenalkan kepada pelbagai **platform AI** yang boleh membantu dalam penyusunan laporan, seperti **pemproses bahasa semula jadi (NLP) 📖** dan **model generatif terkini** yang memudahkan proses dokumentasi.  
 
-Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pelajar, serta kakitangan akademik yang ingin meneroka potensi AI generatif dalam meningkatkan produktiviti dan inovasi dalam pendidikan serta pentadbiran.
+🔹 **Kaedah Prompting yang Berkesan 🎯**  
+Teknik memberikan arahan yang **jelas dan spesifik ✍️** akan diterangkan bagi memastikan AI menghasilkan kandungan yang **relevan dan berkualiti**. Peserta akan belajar **trik prompting** untuk mendapatkan hasil yang **optimum** dalam penulisan pelaporan.  
 
-Ni antara gist yg mungkin boleh membantu Dr dalam penyampaian content Teknologi AI Dalam Penulisan Pelaporan:
+🔹 **Kemampuan & Batasan AI Generatif 🚧🤔**  
+AI mampu menjana teks dari pelbagai input, tetapi **sejauh mana kebolehannya?** Contohnya:  
+✅ **Mampukah AI menjana kapsyen daripada imej? 🖼️📜**  
+✅ **Bolehkah AI menganalisis data dari graf dan memberikan interpretasi yang tepat? 📊🔍**  
+Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **batasannya** di mana **campur tangan manusia** masih diperlukan bagi memastikan ketepatan dan kebolehpercayaan laporan.  
 
-1. Pemilihan AI tools yang sesuai 
-2. Kaedah prompting yg berkesan untuk menjana penulisan Pelaporan
-3. Kemampuan/Limitation AI Generatif...contoh, diberi satu imej, possible atau tidak AI generate caption imej...diberi satu graf, possible atau tidak AI generate analysis
+💡 **Kesimpulan**  
+Sesi ini bertujuan untuk memberi **pendedahan praktikal 🎓** mengenai **penggunaan AI dalam penulisan pelaporan** serta bagaimana AI boleh diintegrasikan dengan strategi penyediaan laporan yang lebih **cekap ⚡, profesional 👩‍💻, dan inovatif 🚀**.
 
 ## Bahan Pengajaran
 
