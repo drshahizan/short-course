@@ -23,6 +23,12 @@ Fakulti Komputeran, UTM Johor Bahru
 
 Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pelajar, serta kakitangan akademik yang ingin meneroka potensi AI generatif dalam meningkatkan produktiviti dan inovasi dalam pendidikan serta pentadbiran.
 
+Ni antara gist yg mungkin boleh membantu Dr dalam penyampaian content Teknologi AI Dalam Penulisan Pelaporan:
+
+1. Pemilihan AI tools yang sesuai 
+2. Kaedah prompting yg berkesan untuk menjana penulisan Pelaporan
+3. Kemampuan/Limitation AI Generatif...contoh, diberi satu imej, possible atau tidak AI generate caption imej...diberi satu graf, possible atau tidak AI generate analysis
+
 ## Bahan Pengajaran
 
 | No | Pelajaran | Topik |
