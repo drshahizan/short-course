@@ -34,6 +34,7 @@ Sesi ini bertujuan untuk memberi **pendedahan praktikal 🎓** mengenai **penggu
 | 1.| Slaid |[Generatif AI: Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EbrZhFzwAQZCsb5q2Y4Jq6cBXX09SsSFbBfQI5gvtoy7Rg?e=B7B5Q4)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md)|
+|  |  |[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)|
 | 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](telegram.md)|
 | 6. | Alatan Gen AI |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/25ctld/deepseek.md)|
