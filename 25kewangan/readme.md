@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Generatif AI: Memudahkan Aktiviti Harian
+# PROGRAM PENETAPAN KANDUNGAN LAPORAN TAHUNAN DAN PENYATA KEWANGAN UTM 2024
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg"  height="500">
  </p>
