@@ -43,14 +43,14 @@
    | Microsoft Copilot   | Integrasi dengan Microsoft Office, mudah digunakan| Memerlukan langganan Microsoft 365               |                 |
 
 
-## **🔹 Latihan 2: Pemilihan Alat AI yang Tepat untuk Penyata Kewangan 🎯**
+## Latihan 2: Pemilihan Alat AI yang Tepat untuk Penyata Kewangan 🎯
 
-**📌 ujuan:** Menentukan alat AI yang paling sesuai untuk menyediakan penyata kewangatahunan.
+**📌 Tujuan:** Menentukan alat AI yang paling sesuai untuk menyediakan penyata kewangatahunan.
 
 ### **📝 Langkah-langkah:**
 
 1. **Muat turun Penyata Kewangan UTM tahun sebelumnya** ari:
-   - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annu-report/)
+   - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
 
 2. **Kenal pasti komponen utama dalam penyata kewangan**, seperti:
    - **Penyata Kedudukan Kewangan**
