@@ -7,16 +7,16 @@
 
 # Latihan 11: Penggunaan Napkin.ai dalam Laporan Tahunan & Penyata Kewangan UTM 2024 🎓📊
 
-📌 **Objektif:**  
+**Objektif:**  
 ✅ Menukar teks laporan kewangan & tahunan kepada **visual interaktif** menggunakan **Napkin.ai**  
 ✅ Meningkatkan **kejelasan & daya tarikan** dalam penyampaian data kewangan  
 ✅ Membantu pengurusan membuat keputusan berdasarkan **visualisasi data yang lebih bermakna**  
 
-📌 **Alat yang Digunakan:**  
+**Alat yang Digunakan:**  
 🔹 **[Napkin.ai](https://app.napkin.ai/)** – Platform AI untuk menukar teks kepada visual  
 🔹 **[Laporan Tahunan UTM](https://osca.utm.my/annual-report/)** – Rujukan utama untuk laporan tahunan data kewangan  
 
-## 🔟 Latihan Menggunakan Napkin.ai 📊🧠
+## 🔟 Latihan
 
 | **No** | **Latihan** | **Teks Input 📑** | **Hasil Visual 📊** |
 |--------|------------|-------------------|---------------------|
