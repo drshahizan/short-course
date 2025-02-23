@@ -56,18 +56,18 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 
 | No | Pelajaran | Topik |
 |--------:|---------|---------|
-| 6. | Alatan Gen AI |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/25ctld/deepseek.md)|
+| 1. | Alatan Gen AI |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/25ctld/deepseek.md)|
 |  |  |[Qwen](https://github.com/drshahizan/short-course/blob/main/25ctld/qwen.md)|
 |  |  |[Kimi](https://github.com/drshahizan/short-course/blob/main/25ctld/kimi.md)|
 |  |  |[Napkin.ai](https://github.com/drshahizan/short-course/blob/main/25ctld/napkin.md)|
-|7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
+|2.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
 |  |  | [Latihan 4: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
 |  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
-|8.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/1cot.md)|
+|3.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/1cot.md)|
 |  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/2rtf.md)|
 |  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/3bab.md)|
 |  |  | [Kerangka kerja TAG: _Task, Action, Goal_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/4tag.md)|
@@ -79,10 +79,10 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
-|1. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|4. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-| 2. | Aplikasi AI | [askLAYLA](https://justasklayla.com/) |
+| 5. | Aplikasi AI | [askLAYLA](https://justasklayla.com/) |
 |||[Trip Planner AI](https://tripplanner.ai/)|
 ||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
 |||[Sora](https://openai.com/sora)|
