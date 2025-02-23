@@ -26,10 +26,13 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 
 ## Laporan Tahunan
  <a href="https://drive.google.com/file/d/1DGBNgpyIVistNB3kw3y9e8U_8ojGUF2a/view?usp=sharing">
- <img src="https://osca.utm.my/wp-content/uploads/sites/23/2024/11/Cover-LTPK-223x300.png" alt="Image Alt Text"  height="200">
+ <img src="imej/LT2023.png" alt="Image Alt Text"  height="200">
 </a>
 <a href="https://drive.google.com/file/d/1iA2wFZ8N5QT3wxgHkFx33dE9B3e9mYZk/view?usp=drive_link">
- <img src="https://osca.utm.my/wp-content/uploads/sites/23/2023/10/Cover-LTPK-223x300.png" alt="Image Alt Text"  height="200">
+ <img src="imej/LT2022.png" alt="Image Alt Text"  height="200">
+</a>
+<a href="https://drive.google.com/file/d/1iA2wFZ8N5QT3wxgHkFx33dE9B3e9mYZk/view?usp=drive_link">
+ <img src="imej/LT2021.png" alt="Image Alt Text"  height="200">
 </a>
 
 ## Bahan Pengajaran
