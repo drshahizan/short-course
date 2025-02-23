@@ -5,8 +5,26 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
+# Latihan 6: AI vs Manusia – Menilai Ketepatan Laporan 🧐
 
+📌 **Tujuan:** Membandingkan laporan AI dengan laporan manusia untuk mengenal pasti kelemahan AI.
+
+### **📝 Langkah-langkah:**
+
+1️⃣ **Gunakan laporan tahunan UTM tahun sebelumnya sebagai rujukan.**
+
+2️⃣ **Minta setiap AI (ChatGPT, Gemini, Copilot) menghasilkan laporan tahunan berdasarkan data yang sama.**
+
+3️⃣ **Peserta membandingkan hasil AI dengan laporan asal, fokus pada:**
+   - **Ketepatan maklumat**
+   - **Gaya penulisan**
+   - **Struktur laporan**
+   - **Keabsahan fakta dan angka kewangan**
+
+4️⃣ **Buat senarai kekuatan dan kelemahan AI dalam menghasilkan laporan tahunan.**
+
+5️⃣ **Bincangkan sama ada AI boleh menggantikan penulisan laporan manusia sepenuhnya atau masih memerlukan semakan dan pengubahsuaian oleh manusia.**
+     
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
