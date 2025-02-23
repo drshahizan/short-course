@@ -7,17 +7,17 @@
 
 # Latihan 1: Eksplorasi Alat AI untuk Penulisan Laporan Tahunan 📊
 
-**📌 Tujuan:** Memahami kelebihan dan kekurangan ChatGPT, Google Gemini, dan Microsoft Copilot dalam penulisan laporan tanan.
+**📌 Tujuan:** Memahami kelebihan dan kekurangan ChatGPT, Google Gemini, dan Microsoft Copilot dalam penulisan laporan tahunan.
 
 ### **📝 Langkah-langkah:**
 
-1. **Akses alat AI berikut:**
-   - **ChatPT:** [https://chat.openai.com/](https://chat.openacom/)
-   - **Google Gemni:** [https://gemini.google.com/](https://gemini.googlcom/)
-   - **Microsoft Copiot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://www.microsoft.com/en-us/microsoft-365/cilot)
+1. **Akses alatan AI berikut:**
+   - **ChatPT:** [https://chat.openai.com/](https://chat.openai.com)
+   - **Google Gemni:** [https://gemini.google.com/](https://gemini.google.com/)
+   - **Microsoft Copiot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
 
 2. **Muat turun Laporan Tahunan UTM tahun sebelumnya** dari
-   - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-rort/)
+   - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
 
 3. **Analisis struktur dan kandungan laporan tersebut**, perhatikan elemen seperti:
    - **Pendahuluan**
@@ -36,7 +36,7 @@
 
 6. **Catat pemerhatian anda dalam jadual berikut:**
 
-   | Alat AI             | Kelebihan                                         | Kekurangan                                      | Penilaian (1-5) |
+   | Alatan AI             | Kelebihan                                         | Kekurangan                                      | Penilaian (1-5) |
    |---------------------|---------------------------------------------------|-------------------------------------------------|-----------------|
    | ChatGPT             | Gaya bahasa natural, respons pantas               | Memerlukan arahan spesifik untuk hasil terbaik   |                 |
    | Google Gemini       | Integrasi dengan ekosistem Google, analisis data  | Akses terhad, masih dalam pembangunan            |                 |
