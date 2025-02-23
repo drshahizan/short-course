@@ -13,8 +13,8 @@
 
 1. **Akses alatan AI berikut:**
    - **ChatPT:** [https://chat.openai.com/](https://chat.openai.com)
-   - **Google Gemni:** [https://gemini.google.com/](https://gemini.google.com/)
-   - **Microsoft Copiot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
+   - **Google Gemini:** [https://gemini.google.com/](https://gemini.google.com/)
+   - **Microsoft Copliot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
 
 2. **Muat turun Laporan Tahunan UTM tahun sebelumnya** dari
    - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
@@ -70,9 +70,9 @@
 5. **Buat kesimpulan mengenai alat AI yang paling sesuai** untuk penyediaan penyata kewangan berdasarkan penilaian anda.
 
 
-## **🔹 Latihan 3: Menulis Prompt yang Berkesan untuk AI dalam Konteks Laporan Tahunan 🔑**
+## Latihan 3: Menulis Prompt yang Berkesan untuk AI dalam Konteks Laporan Tahunan 🔑
 
-*📌 Tujuan:** Mempelajari teknik memberikan arahan (prompt) yang jelas dan efektif kepada AI untuk penulisan laran tahunan.
+*📌 Tujuan:** Mempelajari teknik memberikan arahan (prompt) yang jelas dan efektif kepada AI untuk penulisan laran tahunan.
 
 ### **📝 Langkah-langkah:**
 
@@ -94,7 +94,7 @@
 5. **Lakukan iterasi pada prompt jika perlu** untuk memperbaiki hasil, contohnya:
    - Menambah arahan mengenai **nada ucapan** atau **poin spesifik** yang perlu disertakan.
 
-## **🔹 Latihan 4: Membandingkan Output AI Berdasarkan Variasi Prompt dalam Penyata Kewangan 📋**
+## Latihan 4: Membandingkan Output AI Berdasarkan Variasi Prompt dalam Penyata Kewangan 📋**
 
 📌 **Tujuan:** Memahami kesan variasi prompt terhadap kualiti output AI dalam konteks penyediaan penyata kewangan tahunan UTM 2024.
 
@@ -141,7 +141,7 @@
 
 🚀 **Latihan ini membantu peserta memahami bagaimana variasi dalam pemberian arahan kepada AI boleh mempengaruhi kualiti laporan kewangan yang dihasilkan.**
 
-## **🔹 Latihan 5: Menambah Baik Output AI Menggunakan Iterasi Prompt 🔄**
+## Latihan 5: Menambah Baik Output AI Menggunakan Iterasi Prompt 🔄
 
 📌 **Tujuan:** Melatih peserta memperbaiki hasil laporan AI melalui iterasi prompt.
 
@@ -164,9 +164,7 @@
 
 6️⃣ **Ulang proses ini beberapa kali sehingga laporan AI semakin tepat dan berkualiti.**
 
----
-
-## **🔹 Latihan 6: AI vs Manusia – Menilai Ketepatan Laporan 🧐**
+## Latihan 6: AI vs Manusia – Menilai Ketepatan Laporan 🧐
 
 📌 **Tujuan:** Membandingkan laporan AI dengan laporan manusia untuk mengenal pasti kelemahan AI.
 
@@ -186,9 +184,7 @@
 
 5️⃣ **Bincangkan sama ada AI boleh menggantikan penulisan laporan manusia sepenuhnya atau masih memerlukan semakan dan pengubahsuaian oleh manusia.**
 
----
-
-## **🔹 Latihan 7: AI & Imej – Menjana Kapsyen Daripada Gambar 🖼️📜**
+## Latihan 7: AI & Imej – Menjana Kapsyen Daripada Gambar 🖼️📜
 
 📌 **Tujuan:** Menguji kebolehan AI dalam memahami dan menerangkan imej berkaitan laporan tahunan.
 
@@ -209,9 +205,7 @@
    - **Konteks yang sesuai dengan laporan**
    - **Gaya bahasa formal dan profesional**
 
----
-
-## **🔹 Latihan 8: AI & Data – Menjana Analisis Daripada Graf 📊🔍**
+## Latihan 8: AI & Data – Menjana Analisis Daripada Graf 📊🔍
 
 📌 **Tujuan:** Menganalisis kemampuan AI dalam membaca dan menerangkan graf kewangan.
 
@@ -231,9 +225,7 @@
    - **Menyimpulkan maklumat dengan tepat**
    - **Memberikan tafsiran yang bernas**
 
----
-
-## **🔹 Latihan 9: Menggunakan AI untuk Menganalisis Kesalahan dalam Laporan ❌✅**
+## Latihan 9: Menggunakan AI untuk Menganalisis Kesalahan dalam Laporan ❌✅
 
 📌 **Tujuan:** Memahami bagaimana AI boleh digunakan untuk menyemak dan membetulkan laporan.
 
@@ -250,9 +242,8 @@
 
 5️⃣ **Bincangkan adakah AI boleh dijadikan alat semakan laporan yang berkesan.**
 
----
 
-## **🔹 Latihan 10: AI dan Keaslian Penulisan – Mengesan Bias atau Ketidaktepatan 📢**
+## Latihan 10: AI dan Keaslian Penulisan – Mengesan Bias atau Ketidaktepatan 📢
 
 📌 **Tujuan:** Menganalisis sama ada AI menghasilkan kandungan yang tepat dan bebas daripada bias.
 
@@ -268,18 +259,6 @@
 4️⃣ **Bandingkan laporan AI dengan laporan tahunan sebenar.**
 
 5️⃣ **Bincangkan cara memastikan ketepatan maklumat yang dijana AI dalam laporan rasmi.**
-
----
-
-## **✅ Kesimpulan**
-
-Latihan-latihan ini akan membantu peserta:
-✅ Memahami kelebihan dan batasan ChatGPT, Google Gemini, dan Microsoft Copilot  
-✅ Menghasilkan laporan tahunan dan penyata kewangan menggunakan AI dengan lebih efektif  
-✅ Menyedari kepentingan pengesahan manusia terhadap output AI  
-
-🚀 **AI adalah alat bantu, bukan pengganti manusia.** Dengan teknik yang betul, AI boleh meningkatkan kecekapan dan ketepatan dalam penyediaan laporan tahunan dan penyata kewangan UTM 2024! 📊💡
-
      
 ### 🙌🏻 Connect with Me
 <p align="left">
@@ -292,5 +271,3 @@ Latihan-latihan ini akan membantu peserta:
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
-
