@@ -43,8 +43,8 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md)|
 |  |  |[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)|
-| 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
-| 5. | Telegram |[Copilot](telegram.md)|
+| 4. | WhatsApp |[ChatGPT, Copilot](/25ctld/wa-chatgpt.md)|
+| 5. | Telegram |[Copilot](/25ctld/telegram.md)|
 | 6. | Teks kepada Rajah dan Infografik |[Napkin.ai](https://github.com/drshahizan/short-course/blob/main/25ctld/napkin.md)|
 
 ## Latihan
