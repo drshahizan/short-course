@@ -5,8 +5,24 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
+# Latihan 9: Menggunakan AI untuk Menganalisis Kesalahan dalam Laporan ❌✅
 
+📌 **Tujuan:** Memahami bagaimana AI boleh digunakan untuk menyemak dan membetulkan laporan.
+
+### **📝 Langkah-langkah:**
+
+1️⃣ **Gunakan laporan tahunan UTM yang telah diubah suai dengan kesalahan fakta atau format.**
+
+2️⃣ **Minta AI mengesan kesalahan dalam laporan tersebut dengan prompt seperti:**
+   - *“Semak laporan ini dan cari kesalahan dalam fakta dan format.”*
+
+3️⃣ **Peserta membandingkan pembetulan AI dengan laporan asal.**
+
+4️⃣ **Nilai sejauh mana AI dapat mengesan dan membetulkan kesalahan.**
+
+5️⃣ **Bincangkan adakah AI boleh dijadikan alat semakan laporan yang berkesan.**
+
+     
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
