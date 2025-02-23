@@ -14,7 +14,7 @@
 1. **Akses alatan AI berikut:**
    - **ChatPT:** [https://chat.openai.com/](https://chat.openai.com)
    - **Google Gemini:** [https://gemini.google.com/](https://gemini.google.com/)
-   - **Microsoft Copliot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
+   - **Microsoft Copliot:** [https://www.microsoft.com/en-us/microsoft-365/copilot](https://m365.cloud.microsoft/chat?fromcode=m365copilot&auth=2)
 
 2. **Muat turun Laporan Tahunan UTM tahun sebelumnya** dari
    - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
