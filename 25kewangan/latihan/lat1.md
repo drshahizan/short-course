@@ -19,6 +19,16 @@
 2. **Muat turun Laporan Tahunan UTM tahun sebelumnya** dari
    - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
 
+   <a href="https://drive.google.com/file/d/1DGBNgpyIVistNB3kw3y9e8U_8ojGUF2a/view?usp=sharing">
+       <img src="../imej/LT2023.png" alt="Image Alt Text"  height="250">
+   </a>
+   <a href="https://drive.google.com/file/d/1iA2wFZ8N5QT3wxgHkFx33dE9B3e9mYZk/view?usp=drive_link">
+       <img src="../imej/LT2022.png" alt="Image Alt Text"  height="250">
+   </a>
+   <a href="https://drive.google.com/file/d/1Aq93ZmcijeMmJ-Cy821lwHV0fSb84ZIb/view">
+       <img src="../imej/LT2021.png" alt="Image Alt Text"  height="250">
+   </a>
+
 3. **Analisis struktur dan kandungan laporan tersebut**, perhatikan elemen seperti:
    - **Pendahuluan**
    - **Visi dan Misi**
