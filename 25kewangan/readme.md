@@ -26,13 +26,13 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 
 ## Laporan Tahunan
  <a href="https://drive.google.com/file/d/1DGBNgpyIVistNB3kw3y9e8U_8ojGUF2a/view?usp=sharing">
- <img src="imej/LT2023.png" alt="Image Alt Text"  height="200">
+ <img src="imej/LT2023.png" alt="Image Alt Text"  height="400">
 </a>
 <a href="https://drive.google.com/file/d/1iA2wFZ8N5QT3wxgHkFx33dE9B3e9mYZk/view?usp=drive_link">
- <img src="imej/LT2022.png" alt="Image Alt Text"  height="200">
+ <img src="imej/LT2022.png" alt="Image Alt Text"  height="400">
 </a>
-<a href="https://drive.google.com/file/d/1iA2wFZ8N5QT3wxgHkFx33dE9B3e9mYZk/view?usp=drive_link">
- <img src="imej/LT2021.png" alt="Image Alt Text"  height="200">
+<a href="https://drive.google.com/file/d/1Aq93ZmcijeMmJ-Cy821lwHV0fSb84ZIb/view">
+ <img src="imej/LT2021.png" alt="Image Alt Text"  height="400">
 </a>
 
 ## Bahan Pengajaran
