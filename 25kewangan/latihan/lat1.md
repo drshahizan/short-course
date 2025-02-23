@@ -5,14 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
-### **📌 Modul Latihan: Penggunaan AI dalam Penulisan Laporan Tahunan dan Penyata Kewangan Universiti Teknologi Malaysia (UTM) 2024 🤖📈**
+# Latihan 1: Eksplorasi Alat AI untuk Penulisan Laporan Tahunan 📊**
 
-**Objektif:* Memberikan peserta pengalaman praktikal dalam menggunakan tiga alat AI—ChatGPT, Google Gemini, dan Microsoft Copilot—untuk menghasilkan dan menganalisis Laporan Tahunan serta Penyata Kewangan UTM bagi tahun 2024, dengan merujuk kepada laporan-laporan tahun sebelumnya sebagai pandu.
-
-## **🔹 Latihan 1: Eksplorasi Alat AI untuk Penulisan Laporan Tahunan 📊**
-
-**📌 Tujun:** Memahami kelebihan dan kekurangan ChatGPT, Google Gemini, dan Microsoft Copilot dalam penulisan laporan tanan.
+**📌 Tujun:** Memahami kelebihan dan kekurangan ChatGPT, Google Gemini, dan Microsoft Copilot dalam penulisan laporan tanan.
 
 ### **📝 Langkah-langkah:**
 
