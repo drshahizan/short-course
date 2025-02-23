@@ -24,7 +24,18 @@ AI mampu menjana teks dari pelbagai input, tetapi **sejauh mana kebolehannya?** 
 ✅ **Bolehkah AI menganalisis data dari graf dan memberikan interpretasi yang tepat? 📊🔍**  
 Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **batasannya** di mana **campur tangan manusia** masih diperlukan bagi memastikan ketepatan dan kebolehpercayaan laporan.  
 
-Berikut adalah **jadual latihan** yang merangkumi kesemua latihan dalam **Modul Penggunaan AI dalam Penulisan Laporan Tahunan dan Penyata Kewangan UTM 2024**:
+## Bahan Pengajaran
+
+| No | Pelajaran | Topik |
+|--------|---------|---------|
+| 1.| Slaid |[Generatif AI: Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EbrZhFzwAQZCsb5q2Y4Jq6cBXX09SsSFbBfQI5gvtoy7Rg?e=B7B5Q4)
+| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md)|
+|  |  |[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)|
+| 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
+| 5. | Telegram |[Copilot](telegram.md)|
+
+## Latihan
 
 | **No** | **Latihan** |
 |--------|------------|
@@ -41,18 +52,10 @@ Berikut adalah **jadual latihan** yang merangkumi kesemua latihan dalam **Modul 
 
 
 
-Jadual ini menyusun latihan secara **teratur dan sistematik** bagi membantu peserta **memahami peranan AI dalam penyediaan Laporan Tahunan dan Penyata Kewangan UTM 2024** dengan **menggunakan ChatGPT, Google Gemini, dan Microsoft Copilot secara efektif**. 🚀
-
-## Bahan Pengajaran
+## Maklumat Tambahan
 
 | No | Pelajaran | Topik |
-|--------|---------|---------|
-| 1.| Slaid |[Generatif AI: Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EbrZhFzwAQZCsb5q2Y4Jq6cBXX09SsSFbBfQI5gvtoy7Rg?e=B7B5Q4)
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/signin.md)|
-|  |  |[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)|
-| 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
-| 5. | Telegram |[Copilot](telegram.md)|
+|--------:|---------|---------|
 | 6. | Alatan Gen AI |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/25ctld/deepseek.md)|
 |  |  |[Qwen](https://github.com/drshahizan/short-course/blob/main/25ctld/qwen.md)|
 |  |  |[Kimi](https://github.com/drshahizan/short-course/blob/main/25ctld/kimi.md)|
@@ -76,11 +79,6 @@ Jadual ini menyusun latihan secara **teratur dan sistematik** bagi membantu pese
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
-
-## Maklumat Tambahan
-
-| No | Pelajaran | Topik |
-|--------:|---------|---------|
 |1. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
