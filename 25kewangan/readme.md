@@ -24,6 +24,11 @@ AI mampu menjana teks dari pelbagai input, tetapi **sejauh mana kebolehannya?** 
 ✅ **Bolehkah AI menganalisis data dari graf dan memberikan interpretasi yang tepat? 📊🔍**  
 Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **batasannya** di mana **campur tangan manusia** masih diperlukan bagi memastikan ketepatan dan kebolehpercayaan laporan.  
 
+## Laporan Tahunan
+<p align="center">
+ <img src="https://drive.google.com/file/d/1DGBNgpyIVistNB3kw3y9e8U_8ojGUF2a/view?usp=sharing"  height="500">
+ </p>
+
 ## Bahan Pengajaran
 
 | No | Pelajaran | Topik |
