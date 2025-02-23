@@ -14,22 +14,22 @@
 
 📌 **Alat yang Digunakan:**  
 🔹 **[Napkin.ai](https://app.napkin.ai/)** – Platform AI untuk menukar teks kepada visual  
-🔹 **[Laporan Tahunan UTM](https://osca.utm.my/annual-report/)** – Rujukan utama untuk data kewangan  
+🔹 **[Laporan Tahunan UTM](https://osca.utm.my/annual-report/)** – Rujukan utama untuk laporan tahunan data kewangan  
 
 ## 🔟 Latihan Menggunakan Napkin.ai 📊🧠
 
 | **No** | **Latihan** | **Teks Input 📑** | **Hasil Visual 📊** |
 |--------|------------|-------------------|---------------------|
-| **1** | **Visualisasi Struktur Organisasi 🏛️** | "Struktur organisasi Universiti Teknologi Malaysia termasuk Naib Canselor, Timbalan Naib Canselor, Dekan Fakulti, dan Ketua Jabatan." | **Carta organisasi** memaparkan hierarki & hubungan antara jawatan-jawatan utama. |
-| **2** | **Analisis Pendapatan & Perbelanjaan 💰📊** | "Pendapatan UTM 2024: RM 500 juta, Perbelanjaan: RM 450 juta." | **Graf bar** membandingkan pendapatan & perbelanjaan universiti. |
-| **3** | **Pecahan Sumber Pendapatan 💵** | "Sumber pendapatan UTM: Yuran pelajar (RM 300 juta), Geran penyelidikan (RM 150 juta), Sumbangan alumni (RM 50 juta)." | **Carta pai** memaparkan pecahan sumber pendapatan universiti. |
-| **4** | **Perbelanjaan Mengikut Kategori 📑** | "Perbelanjaan UTM 2024: Gaji kakitangan (RM 200 juta), Penyelenggaraan kampus (RM 100 juta), Kos operasi (RM 150 juta)." | **Graf bar** menunjukkan perbandingan perbelanjaan mengikut kategori utama. |
-| **5** | **Trend Pendapatan & Perbelanjaan 5 Tahun 📈** | "Pendapatan & Perbelanjaan UTM dari 2020-2024: 2020 (RM 400M/RM 350M), 2021 (RM 420M/RM 370M), 2022 (RM 450M/RM 400M), 2023 (RM 480M/RM 430M), 2024 (RM 500M/RM 450M)." | **Graf garis** menunjukkan trend kewangan universiti dalam tempoh 5 tahun. |
-| **6** | **Analisis Perbandingan Pendapatan Universiti 🏫** | "Pendapatan UTM 2024: RM 500 juta, UM: RM 550 juta, UKM: RM 480 juta." | **Graf bar** membandingkan pendapatan tiga universiti utama. |
-| **7** | **Visualisasi Aset & Liabiliti 🏦** | "Aset UTM 2024: RM 1 bilion, Liabiliti: RM 600 juta." | **Graf bar** menunjukkan perbandingan antara aset dan liabiliti universiti. |
-| **8** | **Perubahan Ekuiti 🔄** | "Ekuiti UTM 2024 meningkat RM 50 juta berbanding tahun sebelumnya." | **Graf garis** menunjukkan trend perubahan ekuiti tahunan. |
-| **9** | **Aliran Tunai 💸** | "Aliran tunai masuk UTM 2024: RM 300 juta, Aliran keluar: RM 250 juta." | **Graf bar** memaparkan aliran tunai masuk & keluar universiti. |
-| **10** | **Analisis Risiko & Kawalan Dalaman ⚠️🔍** | "Risiko utama UTM: Risiko kewangan, Risiko operasi, Risiko reputasi." | **Diagram risiko** menunjukkan jenis risiko & langkah kawalan dalaman. |
+| 1. | **Visualisasi Struktur Organisasi 🏛️** | "Struktur organisasi Universiti Teknologi Malaysia termasuk Naib Canselor, Timbalan Naib Canselor, Dekan Fakulti, dan Ketua Jabatan." | **Carta organisasi** memaparkan hierarki & hubungan antara jawatan-jawatan utama. |
+| 2. | **Analisis Pendapatan & Perbelanjaan 💰📊** | "Pendapatan UTM 2024: RM 500 juta, Perbelanjaan: RM 450 juta." | **Graf bar** membandingkan pendapatan & perbelanjaan universiti. |
+| 3. | **Pecahan Sumber Pendapatan 💵** | "Sumber pendapatan UTM: Yuran pelajar (RM 300 juta), Geran penyelidikan (RM 150 juta), Sumbangan alumni (RM 50 juta)." | **Carta pai** memaparkan pecahan sumber pendapatan universiti. |
+| 4. | **Perbelanjaan Mengikut Kategori 📑** | "Perbelanjaan UTM 2024: Gaji kakitangan (RM 200 juta), Penyelenggaraan kampus (RM 100 juta), Kos operasi (RM 150 juta)." | **Graf bar** menunjukkan perbandingan perbelanjaan mengikut kategori utama. |
+| 5. | **Trend Pendapatan & Perbelanjaan 5 Tahun 📈** | "Pendapatan & Perbelanjaan UTM dari 2020-2024: 2020 (RM 400M/RM 350M), 2021 (RM 420M/RM 370M), 2022 (RM 450M/RM 400M), 2023 (RM 480M/RM 430M), 2024 (RM 500M/RM 450M)." | **Graf garis** menunjukkan trend kewangan universiti dalam tempoh 5 tahun. |
+| 6. | **Analisis Perbandingan Pendapatan Universiti 🏫** | "Pendapatan UTM 2024: RM 500 juta, UM: RM 550 juta, UKM: RM 480 juta." | **Graf bar** membandingkan pendapatan tiga universiti utama. |
+| 7. | **Visualisasi Aset & Liabiliti 🏦** | "Aset UTM 2024: RM 1 bilion, Liabiliti: RM 600 juta." | **Graf bar** menunjukkan perbandingan antara aset dan liabiliti universiti. |
+| 8. | **Perubahan Ekuiti 🔄** | "Ekuiti UTM 2024 meningkat RM 50 juta berbanding tahun sebelumnya." | **Graf garis** menunjukkan trend perubahan ekuiti tahunan. |
+| 9. | **Aliran Tunai 💸** | "Aliran tunai masuk UTM 2024: RM 300 juta, Aliran keluar: RM 250 juta." | **Graf bar** memaparkan aliran tunai masuk & keluar universiti. |
+| 10. | **Analisis Risiko & Kawalan Dalaman ⚠️🔍** | "Risiko utama UTM: Risiko kewangan, Risiko operasi, Risiko reputasi." | **Diagram risiko** menunjukkan jenis risiko & langkah kawalan dalaman. |
 
 ---
 
