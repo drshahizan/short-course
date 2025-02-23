@@ -5,8 +5,29 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
+# Latihan 5: Menambah Baik Output AI Menggunakan Iterasi Prompt 🔄
 
+📌 **Tujuan:** Melatih peserta memperbaiki hasil laporan AI melalui iterasi prompt.
+
+### **📝 Langkah-langkah:**
+
+1️⃣ **Gunakan ChatGPT, Google Gemini, dan Microsoft Copilot** untuk menjana laporan berdasarkan **Laporan Tahunan UTM tahun sebelumnya**.
+
+2️⃣ **Masukkan prompt awal:**
+   - *“Hasilkan laporan tahunan UTM 2024 yang merangkumi pencapaian akademik, penyelidikan, dan impak industri.”*
+
+3️⃣ **Analisis output yang dihasilkan oleh setiap AI**, perhatikan:
+   - **Struktur laporan**
+   - **Ketepatan fakta**
+   - **Bahasa yang digunakan**
+
+4️⃣ **Perbaiki prompt** dengan menambah arahan spesifik, contohnya:
+   - *“Tulis laporan tahunan UTM 2024 dengan format seperti tahun sebelumnya, termasuk subtopik: pencapaian akademik, penyelidikan, dan impak industri. Gunakan bahasa formal dan sertakan angka pencapaian.”*
+
+5️⃣ **Masukkan prompt yang diperbaiki ke dalam AI dan bandingkan hasilnya.**
+
+6️⃣ **Ulang proses ini beberapa kali sehingga laporan AI semakin tepat dan berkualiti.**
+     
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
