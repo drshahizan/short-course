@@ -94,7 +94,7 @@
 5. **Lakukan iterasi pada prompt jika perlu** untuk memperbaiki hasil, contohnya:
    - Menambah arahan mengenai **nada ucapan** atau **poin spesifik** yang perlu disertakan.
 
-## Latihan 4: Membandingkan Output AI Berdasarkan Variasi Prompt dalam Penyata Kewangan 📋**
+## Latihan 4: Membandingkan Output AI Berdasarkan Variasi Prompt dalam Penyata Kewangan 📋
 
 📌 **Tujuan:** Memahami kesan variasi prompt terhadap kualiti output AI dalam konteks penyediaan penyata kewangan tahunan UTM 2024.
 
