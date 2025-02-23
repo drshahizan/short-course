@@ -31,8 +31,6 @@
 | 9. | **Aliran Tunai 💸** | "Aliran tunai masuk UTM 2024: RM 300 juta, Aliran keluar: RM 250 juta." | **Graf bar** memaparkan aliran tunai masuk & keluar universiti. |
 | 10. | **Analisis Risiko & Kawalan Dalaman ⚠️🔍** | "Risiko utama UTM: Risiko kewangan, Risiko operasi, Risiko reputasi." | **Diagram risiko** menunjukkan jenis risiko & langkah kawalan dalaman. |
 
----
-
 ## **✅ Kesimpulan**  
 🎯 Dengan **Napkin.ai**, laporan tahunan & penyata kewangan UTM 2024 dapat disampaikan secara **lebih interaktif, jelas, dan mudah difahami**!  
 
