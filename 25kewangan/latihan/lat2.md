@@ -5,8 +5,32 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
+# Latihan 2: Pemilihan Alat AI yang Tepat untuk Penyata Kewangan 🎯
 
+**📌 Tujuan:** Menentukan alat AI yang paling sesuai untuk menyediakan penyata kewangatahunan.
+
+### **📝 Langkah-langkah:**
+
+1. **Muat turun Penyata Kewangan UTM tahun sebelumnya** ari:
+   - Pejabat Strategi & Hal Ehwal Korporat UTM: [Laporan Tahunan](https://osca.utm.my/annual-report/)
+
+2. **Kenal pasti komponen utama dalam penyata kewangan**, seperti:
+   - **Penyata Kedudukan Kewangan**
+   - **Penyata Pendapatan**
+   - **Aliran Tunai**
+   - **Nota kepada Akaun**
+
+3. **Uji setiap alat AI untuk menjana komponen-komponen ini** dengan memasukkan data kewangan hipotetikal dan meminta AI untuk:
+   - **Mengira nisbah kewangan penting**
+   - **Menjana analisis ringkas berdasarkan data tersebut**
+
+4. **Nilai hasil yang diperoleh berdasarkan:**
+   - **Ketepatan pengiraan**
+   - **Kejelasan penjelasan**
+   - **Kesesuaian format dengan standard laporan kewangan**
+
+5. **Buat kesimpulan mengenai alat AI yang paling sesuai** untuk penyediaan penyata kewangan berdasarkan penilaian anda.
+     
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
