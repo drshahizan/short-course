@@ -18,7 +18,7 @@
 
 ## 🔟 Latihan
 
-| **No** | **Latihan** | **Teks Input** | **Hasil Visual dengan Napkin.ai** |
+| **No** | **Latihan** | **Teks Input** | **Hasil Visual** |
 |--------|------------|---------------|----------------------------------|
 | **1** | **Visualisasi Struktur Organisasi 🏢📊** | "Struktur organisasi Universiti Teknologi Malaysia terdiri daripada beberapa lapisan kepimpinan. Di peringkat tertinggi, terdapat Naib Canselor yang bertanggungjawab ke atas keseluruhan operasi universiti. Di bawahnya, terdapat Timbalan Naib Canselor yang menguruskan bidang akademik, penyelidikan, dan hal ehwal pelajar. Setiap fakulti diketuai oleh seorang Dekan, manakala setiap jabatan diketuai oleh seorang Ketua Jabatan." | **Carta organisasi** yang memaparkan hierarki dan hubungan antara jawatan-jawatan utama dalam universiti. |
 | **2** | **Analisis Pendapatan dan Perbelanjaan UTM 2024 💰📈** | "Pada tahun 2024, Universiti Teknologi Malaysia mencatatkan pendapatan sebanyak RM 500 juta. Sumber pendapatan utama termasuk yuran pelajar, geran penyelidikan, dan sumbangan alumni. Dalam tempoh yang sama, universiti juga mencatatkan perbelanjaan sebanyak RM 450 juta, yang merangkumi gaji kakitangan, penyelenggaraan kampus, dan kos operasi." | **Graf bar** yang menunjukkan perbandingan antara pendapatan dan perbelanjaan universiti. |
