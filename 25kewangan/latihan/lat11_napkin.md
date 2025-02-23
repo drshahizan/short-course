@@ -14,9 +14,9 @@
 
 📌 **Alat yang Digunakan:**  
 🔹 **[Napkin.ai](https://app.napkin.ai/)** – Platform AI untuk menukar teks kepada visual  
-🔹 **Laporan Tahunan UTM 2024 & tahun sebelumnya** – Rujukan utama untuk data kewangan  
+🔹 **[Laporan Tahunan UTM](https://osca.utm.my/annual-report/)** – Rujukan utama untuk data kewangan  
 
-## **🔟 Latihan Menggunakan Napkin.ai 📊🧠**  
+## 🔟 Latihan Menggunakan Napkin.ai 📊🧠
 
 | **No** | **Latihan** | **Teks Input 📑** | **Hasil Visual 📊** |
 |--------|------------|-------------------|---------------------|
@@ -33,7 +33,7 @@
 
 ---
 
-### **✅ Kesimpulan**  
+## **✅ Kesimpulan**  
 🎯 Dengan **Napkin.ai**, laporan tahunan & penyata kewangan UTM 2024 dapat disampaikan secara **lebih interaktif, jelas, dan mudah difahami**!  
 
 🚀 **Ingin mencuba salah satu latihan ini?** Klik [Napkin.ai](https://app.napkin.ai/) dan mula visualisasikan laporan anda hari ini! 📊
