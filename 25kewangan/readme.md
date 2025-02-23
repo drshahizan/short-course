@@ -34,6 +34,7 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 |  |  |[Copilot Prompt Gallery](https://copilot.cloud.microsoft/en-US/prompts/all)|
 | 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](telegram.md)|
+| 6. | Teks kepada Rajah dan Infografik |[Napkin.ai](https://github.com/drshahizan/short-course/blob/main/25ctld/napkin.md)|
 
 ## Latihan
 
