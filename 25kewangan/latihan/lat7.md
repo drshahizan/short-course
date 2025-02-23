@@ -5,8 +5,27 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 
+# Latihan 7: AI & Imej – Menjana Kapsyen Daripada Gambar 🖼️📜
 
+📌 **Tujuan:** Menguji kebolehan AI dalam memahami dan menerangkan imej berkaitan laporan tahunan.
+
+### **📝 Langkah-langkah:**
+
+1️⃣ **Gunakan gambar yang terdapat dalam Laporan Tahunan UTM tahun sebelumnya**, seperti:
+   - Gambar majlis konvokesyen
+   - Pencapaian penyelidikan
+   - Pelajar yang menerima anugerah
+
+2️⃣ **Minta setiap AI menghasilkan kapsyen untuk gambar dengan prompt seperti:**
+   - *“Berikan kapsyen profesional untuk gambar ini dalam konteks Laporan Tahunan UTM 2024.”*
+
+3️⃣ **Bandingkan kapsyen yang dihasilkan AI dengan kapsyen asal dalam laporan terdahulu.**
+
+4️⃣ **Nilai kapsyen berdasarkan:**
+   - **Ketepatan penerangan**
+   - **Konteks yang sesuai dengan laporan**
+   - **Gaya bahasa formal dan profesional**
+     
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
