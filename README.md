@@ -24,7 +24,6 @@
 | 🌍 **Institution**                                        | 📚 **Workshop/ Course Title**                                                                                          | 
 |-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
-| 🇲🇾 Universiti Teknologi Malaysia             | [Teknologi AI Dalam Penulisan Pelaporan](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
 | 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
 | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
 
