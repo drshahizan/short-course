@@ -26,7 +26,7 @@ Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pel
 
 ## Gambar
 
-<img src="images/ctld1.jpg" alt="Shahizan UTM"  height="350">
+<img src="images/ctld4.jpg" alt="Shahizan UTM"  height="350">
 
 <a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
 <img src="images/ctld2.jpg" alt="Shahizan UTM"  height="200">
@@ -35,7 +35,7 @@ Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pel
 <img src="images/ctld3.jpg" alt="Shahizan UTM"  height="200">
 </a><br>
 <a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/ctld4.jpg" alt="Shahizan UTM"  height="200">
+<img src="images/ctld1.jpg" alt="Shahizan UTM"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
 <img src="images/ctld5.jpg" alt="Shahizan UTM"  height="200">
