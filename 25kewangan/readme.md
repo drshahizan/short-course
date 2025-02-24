@@ -113,4 +113,3 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
