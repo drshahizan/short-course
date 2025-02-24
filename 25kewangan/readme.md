@@ -28,13 +28,13 @@ Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **bat
 
 ## Gambar
 <a href="">
-<img src="imej/G1.jpeg" alt="Image Alt Text"  height="100">
+<img src="imej/G1.jpeg" alt="Image Alt Text"  height="200">
 </a>
 <a href="">
-<img src="imej/G2.jpeg" alt="Image Alt Text"  height="100">
+<img src="imej/G2.jpeg" alt="Image Alt Text"  height="200">
  </a>
  <a href="">
-<img src="imej/G3.jpeg" alt="Image Alt Text"  height="100">
+<img src="imej/G3.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
 ## Laporan Tahunan
