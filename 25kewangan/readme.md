@@ -8,6 +8,8 @@
 
 # PROGRAM PENETAPAN KANDUNGAN LAPORAN TAHUNAN DAN PENYATA KEWANGAN UTM 2024
 
+ <img src="imej/G5.jpeg" alt="Image Alt Text"  height="350">
+
 ## Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan
 
 Dalam era digital yang semakin berkembang, **Kecerdasan Buatan (AI) 🤖** memainkan peranan penting dalam **mempermudahkan** dan **meningkatkan kecekapan** proses **penulisan pelaporan 📊📑**. Perkongsian strategik ini akan membincangkan bagaimana AI dapat dimanfaatkan untuk menghasilkan laporan berkualiti dengan lebih **pantas ⚡** dan **berkesan ✅**.  
