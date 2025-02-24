@@ -26,6 +26,12 @@ AI mampu menjana teks dari pelbagai input, tetapi **sejauh mana kebolehannya?** 
 ✅ **Bolehkah AI menganalisis data dari graf dan memberikan interpretasi yang tepat? 📊🔍**  
 Perbincangan ini akan membantu peserta memahami **kekuatan AI 💡** serta **batasannya** di mana **campur tangan manusia** masih diperlukan bagi memastikan ketepatan dan kebolehpercayaan laporan.  
 
+## Gambar
+<img src="imej/G1.jpeg" alt="Image Alt Text"  height="350">
+<img src="imej/G2.jpeg" alt="Image Alt Text"  height="350">
+<img src="imej/G3.jpeg" alt="Image Alt Text"  height="350">
+<img src="imej/G4.jpeg" alt="Image Alt Text"  height="350">
+
 ## Laporan Tahunan
  <a href="https://drive.google.com/file/d/1DGBNgpyIVistNB3kw3y9e8U_8ojGUF2a/view?usp=sharing">
  <img src="imej/LT2023.png" alt="Image Alt Text"  height="350">
