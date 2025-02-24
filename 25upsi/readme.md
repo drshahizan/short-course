@@ -16,7 +16,7 @@ The workshop is designed to help postgraduate students and researchers develop a
 
 ## Picture
 
-<img src="images/upsi1.jpeg" alt="Shahizan UTM"  height="200">
+<img src="images/upsi1.jpeg" alt="Shahizan UTM"  height="350">
 
 <a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
 <img src="images/upsi2.jpeg" alt="Shahizan UTM"  height="200">
