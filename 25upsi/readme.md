@@ -16,7 +16,11 @@ The workshop is designed to help postgraduate students and researchers develop a
 
 ## Picture
 
-<img src="imej/G1.jpeg" alt="Image Alt Text"  height="200">
+<img src="images/upsi1.jpeg" alt="Shahizan UTM"  height="200">
+<img src="images/upsi2.jpeg" alt="Shahizan UTM"  height="200">
+<img src="images/upsi3.jpeg" alt="Shahizan UTM"  height="200">
+<img src="images/upsi4.jpeg" alt="Shahizan UTM"  height="200">
+<img src="images/upsi5.jpeg" alt="Shahizan UTM"  height="200">
 
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/25upsi/materials/ontime.md)
