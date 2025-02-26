@@ -6,9 +6,62 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction
+
+## **Systematic Literature Review (SLR) Workshop**  
+*A Three-Stage Comprehensive Training Program*  
+
+### **📌 Workshop Synopsis**  
+The **Systematic Literature Review (SLR) Workshop** is designed to provide researchers, academicians, and postgraduate students with a structured approach to conducting high-quality literature reviews. This **three-stage training program** offers a step-by-step guide, covering the **fundamentals of SLR**, **practical tools and techniques**, and **personalized coaching sessions** to refine participants' research.
+
+By the end of this workshop, participants will have the **knowledge, skills, and hands-on experience** needed to conduct a **rigorous and well-structured systematic literature review**, preparing them for high-impact research publications.
 
 
+
+### **📅 Stage 1: Introduction to Systematic Literature Review (SLR)**  
+🗓 **Date: 10 March 2025**  
+*(Focus: Understanding the fundamentals, methodology, and significance of SLR in research.)*  
+
+1. **Fundamentals of Systematic Literature Review: Concepts, Processes, and Best Practices**  
+2. **Formulating Research Questions and Identifying Research Gaps for SLR**  
+3. **Searching and Selecting Relevant Literature: Strategies for Comprehensive Coverage**  
+4. **Evaluating and Managing Literature: Tools and Techniques for Effective Review**  
+5. **Critical Appraisal of Selected Studies: Ensuring Quality and Relevance in SLR**  
+
+
+
+### **📅 Stage 2: Techniques and Tools for Systematic Literature Review**  
+🗓 **Date: 11 March 2025**  
+*(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
+
+1. **Systematic Search Strategies: Using Databases like Scopus, Web of Science, and Google Scholar**  
+2. **Reference Management for SLR: Utilizing Mendeley, EndNote, and Zotero Efficiently**  
+3. **Data Extraction and Synthesis: Organizing and Analyzing Research Findings**  
+4. **Text Mining and Bibliometric Analysis in SLR: Using VosViewer and R for Data Insights**  
+5. **Writing the SLR Paper: Structuring, Synthesizing, and Reporting Findings**  
+
+
+
+### **📅 Stage 3: Coaching and Hands-on Systematic Literature Review**  
+🗓 **Date: 18 March 2025**  
+*(Focus: Practical application, personalized coaching, and refining participants' research.)*  
+
+1. **Hands-on Literature Search: Refining Strategies and Conducting Systematic Searches**  
+2. **Developing Your SLR Framework: Step-by-Step Guidance on Structuring Your Review**  
+3. **Synthesizing Literature: Thematic Analysis and Reporting Techniques**  
+4. **Peer Review and Feedback: Strengthening Your SLR for Publication**  
+5. **Finalizing Your SLR Paper: Polishing, Submission Process, and Overcoming Common Challenges**  
+
+---
+
+### **🎯 Key Takeaways from the Workshop:**  
+✔️ Understand the principles and best practices of Systematic Literature Review (SLR).  
+✔️ Master advanced **literature search techniques** using reputable databases.  
+✔️ Efficiently **manage and organize references** using Mendeley, EndNote, and Zotero.  
+✔️ Learn **data extraction, synthesis, and analysis techniques** to derive meaningful insights.  
+✔️ Gain **hands-on experience** in using bibliometric tools like VosViewer and R for text mining.  
+✔️ Get **personalized coaching and feedback** to improve and finalize your SLR paper.  
+
+This workshop is suitable for **postgraduate students, early-career researchers, and academicians** who aim to conduct high-quality literature reviews for **theses, dissertations, and research publications**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
