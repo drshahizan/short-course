@@ -22,7 +22,7 @@
 </a>
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
-|---|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 |18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
 |11 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/25slr) | 
 |10 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/25slr) | 
