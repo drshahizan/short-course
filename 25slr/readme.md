@@ -6,18 +6,17 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-
-## **Systematic Literature Review (SLR) Workshop**  
+# **Systematic Literature Review (SLR) Workshop**  
 *A Three-Stage Comprehensive Training Program*  
 
-### **📌 Workshop Synopsis**  
+## **📌 Workshop Synopsis**  
 The **Systematic Literature Review (SLR) Workshop** is designed to provide researchers, academicians, and postgraduate students with a structured approach to conducting high-quality literature reviews. This **three-stage training program** offers a step-by-step guide, covering the **fundamentals of SLR**, **practical tools and techniques**, and **personalized coaching sessions** to refine participants' research.
 
 By the end of this workshop, participants will have the **knowledge, skills, and hands-on experience** needed to conduct a **rigorous and well-structured systematic literature review**, preparing them for high-impact research publications.
 
 
 
-### **📅 Stage 1: Introduction to Systematic Literature Review (SLR)**  
+## **📅 Stage 1: Introduction to Systematic Literature Review (SLR)**  
 🗓 **Date: 10 March 2025**  
 *(Focus: Understanding the fundamentals, methodology, and significance of SLR in research.)*  
 
@@ -29,7 +28,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 
 
-### **📅 Stage 2: Techniques and Tools for Systematic Literature Review**  
+## **📅 Stage 2: Techniques and Tools for Systematic Literature Review**  
 🗓 **Date: 11 March 2025**  
 *(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
 
@@ -41,7 +40,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 
 
-### **📅 Stage 3: Coaching and Hands-on Systematic Literature Review**  
+## **📅 Stage 3: Coaching and Hands-on Systematic Literature Review**  
 🗓 **Date: 18 March 2025**  
 *(Focus: Practical application, personalized coaching, and refining participants' research.)*  
 
@@ -51,7 +50,6 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 4. **Peer Review and Feedback: Strengthening Your SLR for Publication**  
 5. **Finalizing Your SLR Paper: Polishing, Submission Process, and Overcoming Common Challenges**  
 
----
 
 ### **🎯 Key Takeaways from the Workshop:**  
 ✔️ Understand the principles and best practices of Systematic Literature Review (SLR).  
