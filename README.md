@@ -21,7 +21,7 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
 </a>
 
-|Date | 🌍 **Institution**                                        | 📚 **Workshop/ Course Title**                                                                                          | 
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |---|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 || 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/25slr) | 
 |24 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
