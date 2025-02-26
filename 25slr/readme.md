@@ -14,7 +14,8 @@ The **Systematic Literature Review (SLR) Workshop** is designed to provide resea
 
 By the end of this workshop, participants will have the **knowledge, skills, and hands-on experience** needed to conduct a **rigorous and well-structured systematic literature review**, preparing them for high-impact research publications.
 
-
+📍 Venue: Hyflex Room, Faculty of Computing
+🎤 Speaker: Assoc. Prof. Dr. Mohd Shahizan Othman
 
 ## **📅 Stage 1: Introduction to Systematic Literature Review (SLR)**  
 🗓 **Date: 10 March 2025**  
