@@ -24,9 +24,9 @@
 |Date | 🌍 **Institution**                                        | 📚 **Workshop/ Course Title**                                                                                          | 
 |---|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 || 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/25slr) | 
-|| 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
-|| 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
-|| 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
+|11 Jan 25| 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/25kewangan) | 
+| 11 Jan 25| 🇲🇾 Universiti Teknologi Malaysia             | [Generatif AI: Memudahkan Aktiviti Harian](https://github.com/drshahizan/short-course/tree/main/25ctld) | 
+| 11 Jan 25 | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/25upsi) | 
 
 
 ## 🌍 Collaborative Workshops and Courses: Year 2024
