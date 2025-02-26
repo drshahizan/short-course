@@ -18,6 +18,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 🎤 Speaker: Assoc. Prof. Dr. Mohd Shahizan Othman
 
+---
 
 ## 📅 Stage 1: Introduction to Systematic Literature Review (SLR)
 🗓 **Date: 10 March 2025**  
