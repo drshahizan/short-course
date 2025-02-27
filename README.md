@@ -13,6 +13,9 @@
 
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
+<a href="https://github.com/drshahizan/short-course/tree/main/25slr">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="200">
+</a> 
 <a href="https://github.com/drshahizan/short-course/tree/main/25ctld">
  <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="200">
 </a>
