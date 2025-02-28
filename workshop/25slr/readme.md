@@ -10,7 +10,7 @@
 *A Three-Stage Comprehensive Training Program*  
 
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25slr">
- <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/25slr/images/25slr.jpeg" alt="Shahizan SLR"  height="400">
 </a> 
 
 ## 📌 Workshop Synopsis
