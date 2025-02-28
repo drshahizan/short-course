@@ -13,14 +13,14 @@
 
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
-<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25slr">
- <img src="https://github.com/drshahizan/short-course/tree/main/workshop/25slr/images/25slr.jpeg" alt="Image Alt Text"  height="200">
+<a href="https://github.com/drshahizan/short-course/tree/main/25slr">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/25slr.jpeg" alt="Dr Shahizan SLR"  height="200">
 </a> 
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25ctld">
- <img src="https://github.com/drshahizan/short-course/tree/main/workshop/image/25%20Gen%20AI.jpeg" alt="Image Alt Text"  height="200">
+ <img src="https://github.com/drshahizan/short-course/tree/main/workshop/image/25%20Gen%20AI.jpeg" alt="Dr Shahizan CTLD"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25upsi">
- <img src="https://github.com/drshahizan/short-course/tree/main/workshop/image/UPSI_c1_2025.jpeg" alt="Image Alt Text"  height="200">
+ <img src="https://github.com/drshahizan/short-course/tree/main/workshop/image/UPSI_c1_2025.jpeg" alt="Dr Shahizan UPSI"  height="200">
 </a>
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
