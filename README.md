@@ -36,7 +36,7 @@
 | 11 Jan | 🇲🇾 Universiti Pendidikan Sultan Idris              | [Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction](https://github.com/drshahizan/short-course/tree/main/workshop/25upsi) | 
 
 
-## 🌍 Collaborative Workshops and Courses: Year 2024
+## 🌍 [Collaborative Workshops and Courses: Year 2024](/workshop/workshop2024.md)
 
 <a href="https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/UPI2.md">
  <img src="https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/workshopUPI2.jpeg" alt="Image Alt Text"  height="200">
