@@ -8,7 +8,7 @@
 
 # Generatif AI: Memudahkan Aktiviti Harian
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/image/25%20Gen%20AI.jpeg"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/25%20Gen%20AI.jpeg"  height="500">
  </p>
 
 Kursus ini bertujuan untuk memperkenalkan konsep dan aplikasi kecerdasan buatan generatif dalam mempermudah tugas harian. Kursus ini merupakan sebahagian daripada inisiatif **Kompetensi Strategik Universiti (Digital Kompetensi)** yang menekankan keperluan penguasaan teknologi digital di kalangan warga akademik dan profesional. Sepanjang kursus ini, peserta akan diperkenalkan kepada teknologi **AI generatif**, termasuk penggunaannya dalam automasi kerja, penulisan kandungan, analisis data, serta integrasi dengan peralatan digital seperti Google Workspace dan perisian lain yang menyokong produktiviti. Selain itu, sesi ini juga akan membincangkan etika dan cabaran dalam penerapan AI generatif dalam kehidupan seharian.
