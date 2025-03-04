@@ -24,7 +24,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 ---
 
-## 📅 Stage 1: Introduction to Systematic Literature Review (SLR)
+## 📅 [Stage 1: Introduction to Systematic Literature Review (SLR)](s1.md)
 🗓 **Date: 10 March 2025**  
 *(Focus: Understanding the fundamentals, methodology, and significance of SLR in research.)*  
 
