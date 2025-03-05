@@ -5,12 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Systematic Literature Review (SLR) Workshop
-## Exercise 1
-
-### **Step-by-Step Workshop Exercises for Systematic Literature Review (SLR) in Computer Science**  
-
-These exercises will guide participants through each stage of conducting a **Systematic Literature Review (SLR)**. They are designed to be practical and relevant to **computer science research**. Participants will follow these structured steps to apply their learning effectively.
+# Exercise 1: Step-by-Step Workshop Exercises for Systematic Literature Review (SLR) in Computer Science
 
 ## **🔹 Step 1: Identifying a Research Gap in Computer Science**  
 **Objective:** Develop a well-defined research question by identifying gaps in existing studies.  
