@@ -154,9 +154,6 @@
 🔹 Participants will gain **practical experience** in each step of conducting an SLR.  
 🔹 By the end of the workshop, they will have a **strong foundation** in systematic research methods.  
 
-Would you like me to create templates for participants to fill in during each step? 😊
-
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
