@@ -36,7 +36,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 
 
-## 📅 Stage 2: Techniques and Tools for Systematic Literature Review
+## 📅 [Stage 2: Techniques and Tools for Systematic Literature Review](mat/s2.md)
 🗓 **Date: 11 March 2025**  
 *(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
 
@@ -48,7 +48,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 
 
-## 📅 Stage 3: Coaching and Hands-on Systematic Literature Review
+## 📅 [Stage 3: Coaching and Hands-on Systematic Literature Review](mat/s3.md)
 🗓 **Date: 18 March 2025**  
 *(Focus: Practical application, personalized coaching, and refining participants' research.)*  
 
