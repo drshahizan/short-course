@@ -7,7 +7,7 @@
 
 # 8th International Conference on Technology Management, Business, and Entrepreneurship
 
-### **Workshop Synopsis: AI Tools in Research**  
+### **Workshop: AI Tools in Research**  
 
 In today's fast-paced academic world, **AI tools** have revolutionized the way researchers **discover, analyze, write, and publish** their work. This workshop, **"AI Tools in Research,"** provides hands-on experience with cutting-edge AI-powered solutions that enhance efficiency and productivity in scholarly research.  
 
