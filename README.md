@@ -27,7 +27,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|6 May | 🇲🇾 Universiti Tun Hussein Onn Malaysia UTHM | [ICTMBE 2025 - Workshop: AI Tools in Research](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE) | 
+|6 May | 🇲🇾 Universiti Tun Hussein Onn Malaysia | [ICTMBE 2025 - Workshop: AI Tools in Research](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE) | 
 |22 Apr| 🇲🇾 Universiti Teknologi Malaysia             | [GitHub for Researchers: Managing Your Academic Projects Efficiently](https://github.com/drshahizan/short-course/) | 
 |17 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Mastering Academic Writing with AI Assistance](https://github.com/drshahizan/short-course/) | 
 | 10 - 18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) <br> - [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) <br> - [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/workshop25slr) <br> - [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) | 
