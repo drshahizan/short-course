@@ -13,6 +13,9 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/25slr.jpeg" alt="Shahizan SLR"  height="400">
 </a> 
 
+ <img src="https://www.researchgate.net/publication/362943840/figure/fig2/AS:11431281081040527@1661484039770/Systematic-literature-review-roadmap_W640.jpg" alt="Shahizan SLR"  height="400">
+
+
 ## 📌 Workshop Synopsis
 The **Systematic Literature Review (SLR) Workshop** is designed to provide researchers, academicians, and postgraduate students with a structured approach to conducting high-quality literature reviews. This **three-stage training program** offers a step-by-step guide, covering the **fundamentals of SLR**, **practical tools and techniques**, and **personalized coaching sessions** to refine participants' research.
 
