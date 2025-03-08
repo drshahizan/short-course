@@ -41,7 +41,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 *(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
 
 1. **Systematic Search Strategies: Using Databases like Scopus, Web of Science, and Google Scholar**  
-2. **Reference Management for SLR: Utilizing Mendeley, EndNote, and Zotero Efficiently**  
+2. **Reference Management for SLR: Utilizing Zotero Efficiently**  
 3. **Data Extraction and Synthesis: Organizing and Analyzing Research Findings**  
 4. **Text Mining and Bibliometric Analysis in SLR: Using VosViewer and R for Data Insights**  
 5. **Writing the SLR Paper: Structuring, Synthesizing, and Reporting Findings**  
