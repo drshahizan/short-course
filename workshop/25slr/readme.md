@@ -34,8 +34,6 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 4. **Evaluating and Managing Literature: Tools and Techniques for Effective Review**  
 5. **Critical Appraisal of Selected Studies: Ensuring Quality and Relevance in SLR**  
 
-
-
 ## 📅 [Stage 2: Techniques and Tools for Systematic Literature Review](mat/s2.md)
 🗓 **Date: 11 March 2025**  
 *(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
