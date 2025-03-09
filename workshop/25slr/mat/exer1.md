@@ -27,7 +27,34 @@ To systematically analyze different car models based on predefined criteria such
 
 ## 📕 [Document Template](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)
 
+## Example
 
+**Objective:**  
+To systematically analyze different car models based on predefined criteria such as price, fuel efficiency, safety features, resale value, and customer reviews.  
+
+**Steps:**  
+1. **Define Research Questions (RQ)**  
+   - What are the best car models available in the market based on reliability and affordability?  
+   - How do different cars compare in terms of fuel efficiency, safety, and technology features?  
+   - What are the customer satisfaction trends for various brands?  
+
+2. **Identify Data Sources**  
+   - Online automotive reviews (e.g., Edmunds, Car and Driver, Autotrader)  
+   - Manufacturer specifications  
+   - Consumer reports  
+   - Expert comparisons from automotive blogs  
+
+3. **Inclusion & Exclusion Criteria**  
+   - **Inclusion:** Cars released within the last three years, available in the local market, price range within a specified budget.  
+   - **Exclusion:** High-performance sports cars, luxury vehicles beyond budget, discontinued models.  
+
+4. **Data Extraction & Synthesis**  
+   - Compare the cars based on price, performance, maintenance costs, resale value, and safety ratings.  
+   - Identify patterns in user reviews (e.g., frequent complaints, top-rated features).  
+
+5. **Analysis & Conclusion**  
+   - Provide a comparative summary of the cars reviewed.  
+   - Make a recommendation based on the systematic findings.  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
