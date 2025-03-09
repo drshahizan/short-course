@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # How to Conduct a Systematic Literature Review?
-#### Part 1:
+## Part 1:
 1. [Preparation](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1a.md)
 2. [Searching for Studies](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1b.md)
 3. [Appraising the Quality of the Studies](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1c.md)
@@ -14,7 +14,7 @@
 5. [Reporting the Results of the Review](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1e.md)
 6. [Writing the Conclusion](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1f.md)
 
-#### Part 2:
+## Part 2:
 1. [How do I Deal with Missing Data in my SLR?](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1g.md)
 2. [Zotero and SLR](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_zotero.md)
 
