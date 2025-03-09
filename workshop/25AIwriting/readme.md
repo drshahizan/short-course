@@ -5,29 +5,59 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Mastering Academic Writing with AI Assistance 🤖
+# 📝 Mastering Academic Writing with AI Assistance 🤖
 
-## **📌 Workshop Details**  
+## **📌 Details**  
 - **📅 Date:** March 17, 2025  
 - **⏰ Time:** 9:00 AM – 1:00 PM  
 - **📍 Venue:** HyFlex Classroom  
 - **👥 Target Audience:** Postgraduate Students & Academic Staff  
 
-## **📖 Workshop Overview**  
-In the rapidly evolving academic landscape, artificial intelligence (AI) 🤖 has emerged as a powerful tool for enhancing scholarly writing ✍️. This workshop, *Mastering Academic Writing with AI Assistance*, is designed to equip postgraduate students 🎓 and academic staff 👩‍🏫 with the necessary skills to integrate AI tools effectively into their research writing process. Participants will explore AI-driven strategies to improve clarity, coherence, and efficiency in academic writing while maintaining ethical and scholarly integrity.  
+## **📖 Overview**  
+Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and research. This workshop, *Mastering Academic Writing with AI Assistance*, is designed to help postgraduate students 🎓 and academic staff 👩‍🏫 leverage AI tools to enhance their writing, research, and publication process. Participants will learn how to integrate AI into their workflow, from literature review and data analysis to manuscript submission and academic visualization.  
 
-## **🎯 Learning Objectives**  
-By the end of this workshop, participants will be able to:  
-✅ Understand the role of AI in academic writing and research development.  
-✅ Utilize AI-powered tools to enhance writing efficiency and language refinement.  
-✅ Apply AI assistance in structuring, proofreading, and paraphrasing academic content.  
-✅ Recognize ethical considerations and best practices when using AI in research writing.  
+## **🎯 What Participants Will Learn**  
+
+### **1️⃣ AI for Literature Review & Research Discovery 📚**  
+🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
+🔹 Identifying research gaps and summarizing key papers efficiently.  
+🔹 Using **SciSpace** to quickly understand complex research papers, highlight key findings, and generate AI-assisted explanations for difficult concepts.  
+
+### **2️⃣ AI for Data Analysis & Visualization 📊**  
+🔹 Utilizing AI-powered tools for data interpretation (**ChatGPT and Scite**).  
+🔹 Creating AI-generated graphs and infographics for research publications.  
+
+### **3️⃣ AI from Text to Visualization 🎨**  
+🔹 Converting research findings into compelling visual content using AI.  
+🔹 Exploring AI-driven tools like **Napkin.ai, Canva, Infogram, and Mind the Graph** for academic visualization.  
+🔹 Generating AI-assisted summaries and abstracts for better knowledge dissemination.  
+
+### **4️⃣ AI for Journal Selection & Manuscript Submission 📝**  
+🔹 Using AI tools like **Elsevier Journal Finder, Wiley Journal Finder, and Edanz** to find suitable journals.  
+🔹 Ensuring manuscript compliance with journal guidelines using AI-assisted checks.  
+
+### **5️⃣ New AI Tools for Research and Writing 🚀**  
+🔹 Exploring **Deepseek, Kimi, Qwen, and other emerging AI models** for research enhancement.  
+🔹 Understanding the capabilities of **multimodal AI models** for integrating text, images, and data.  
+🔹 Using next-gen AI for **customized research insights and smarter academic writing**.  
+
+## **🗓️ Workshop Agenda**  
+| **⏰ Time**  | **📚 Session**  |  
+|-----------|-------------|  
+| **9:00 AM – 9:30 AM** | **🔎 Introduction to AI in Academic Writing** – Understanding the capabilities and limitations of AI tools in scholarly writing. |  
+| **9:30 AM – 10:15 AM** | **📚 AI for Literature Review & Research Discovery** – Hands-on exploration of AI tools for finding and summarizing research papers. |  
+| **10:15 AM – 10:45 AM** | **📊 AI for Data Analysis & Visualization** – Using AI to interpret data and create impactful academic visuals. |  
+| **10:45 AM – 11:00 AM** | ☕ **Break** |  
+| **11:00 AM – 11:30 AM** | **🎨 AI from Text to Visualization** – AI-driven visual storytelling for research communication. |  
+| **11:30 AM – 12:00 PM** | **📝 AI for Journal Selection & Manuscript Submission** – Choosing the right journal and ensuring submission readiness. |  
+| **12:00 PM – 12:30 PM** | **🚀 New AI Tools for Research & Writing** – Exploring the latest AI advancements in academic publishing. |  
+| **12:30 PM – 1:00 PM** | **🎤 Q&A and Closing Remarks** |  
 
 ## **👥 Who Should Attend?**  
-- 🎓 Postgraduate students seeking to refine their thesis, dissertation, or journal manuscripts.  
-- 👩‍🏫 Academic staff aiming to improve efficiency in research publication and scholarly communication.  
+- 🎓 Postgraduate students looking to enhance their research and academic writing.  
+- 👩‍🏫 Academic staff aiming to streamline the research and publication process with AI.  
 
-🚀 Join us to unlock the potential of AI in academic writing and take your research to the next level! ✨
+🚀 **Join us and transform your academic writing with AI!** ✨
 
 ### 🙌🏻 Connect with Me
 <p align="left">
