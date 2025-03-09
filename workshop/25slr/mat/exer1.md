@@ -5,154 +5,67 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise 1: Step-by-Step Workshop Exercises for Systematic Literature Review (SLR) in Computer Science
+# Exercise 1: Buying a New Car – A Systematic Review Approach**  
 
-## **🔹 Step 1: Identifying a Research Gap in Computer Science**  
-**Objective:** Develop a well-defined research question by identifying gaps in existing studies.  
+## Scenario
+You are planning to buy a new car, but with so many options available in the market, you want to make an informed decision. Instead of relying on opinions, you decide to conduct a **Systematic Literature Review (SLR)** by gathering data from various sources, comparing key features, and analyzing expert reviews.  
 
-### **📝 Instructions:**  
-1️⃣ **Choose a research topic** in **computer science** from the list below or propose your own:  
-   - Machine Learning in Cybersecurity  
-   - AI Ethics and Bias in Decision-Making  
-   - Blockchain Applications in Healthcare  
-   - IoT Security Challenges  
-   - Cloud Computing Performance Optimization  
-   - Quantum Computing in Cryptography  
+## Objective:
+To systematically analyze different car models based on predefined criteria such as price, fuel efficiency, safety features, resale value, and customer reviews.  
 
-2️⃣ **Search for recent papers (last 5 years)** in databases like:  
-   - Google Scholar  
-   - IEEE Xplore  
-   - ACM Digital Library  
-   - Scopus  
+**Steps:**  
+1. **Define Research Questions (RQ)**  
 
-3️⃣ **Read the abstract and conclusion** of at least **5 papers** and identify what research has been done.  
+2. **Identify Data Sources**  
 
-4️⃣ **Identify the research gap** by asking:  
-   - What problem is **not fully solved**?  
-   - What limitations do existing studies mention?  
-   - What aspects are **underexplored**?  
+3. **Inclusion & Exclusion Criteria**  
 
-5️⃣ **Formulate a research question** using the **PICOC framework**:  
-   - **P**opulation (Who/What is studied?)  
-   - **I**ntervention (What technology/method is used?)  
-   - **C**omparison (Compared to what?)  
-   - **O**utcome (What result is expected?)  
-   - **C**ontext (What environment is it applied in?)  
+4. **Data Extraction & Synthesis**  
 
-### **🔹 Expected Output:**  
-- A **structured research question**.  
-- A **short summary (100-200 words)** explaining the research gap.  
+5. **Analysis & Conclusion**  
 
-## **🔹 Step 2: Constructing a Search Strategy for Literature Retrieval**  
-**Objective:** Develop a systematic search strategy using Boolean operators.  
+---
 
-### **📝 Instructions:**  
-1️⃣ **Based on your research question from Step 1**, list **keywords and synonyms**.  
-   - Example:  
-     - **Topic**: Deep Learning in Cybersecurity  
-     - **Keywords**: "Deep Learning," "Neural Networks," "Cybersecurity," "Threat Detection"  
+### Template 
 
-2️⃣ **Construct a search query using Boolean operators**:  
-   - `("Deep Learning" OR "Neural Networks") AND ("Cybersecurity" OR "Intrusion Detection") AND ("Threat Analysis") NOT ("Social Media")`  
+# Systematic Literature Review: Buying a New Car
 
-3️⃣ **Search on academic databases**:  
-   - Google Scholar, IEEE Xplore, ACM Digital Library, Scopus.  
+## 1. Introduction  
+**Research Objective:**  
+(Describe the goal of the review, e.g., to identify the most suitable car for daily commuting based on key criteria.)
 
-4️⃣ **Use database filters**:  
-   - **Year filter**: Last 5 years.  
-   - **Document type**: Journal/conference papers.  
-   - **Keywords filter**: Focused on your topic.  
+## 2. Research Questions  
+- RQ1:  
+- RQ2:  
+- RQ3:  
 
-5️⃣ **Record the number of results found** and refine the query if necessary.  
+## 3. Data Collection  
+### **Sources Used:**  
+(List the websites, expert reviews, or any other sources of information.)  
 
-### **🔹 Expected Output:**  
-- A **well-structured search query**.  
-- A **screenshot or list of the top 5 relevant papers**.  
+## 4. Inclusion & Exclusion Criteria  
+### **Inclusion Criteria:**  
+-  
+-  
 
-## **🔹 Step 3: Evaluating and Managing Literature Using a Reference Management Tool**  
-**Objective:** Use Zotero, Mendeley, or EndNote to manage references.  
+### **Exclusion Criteria:**  
+-  
+-  
 
-### **📝 Instructions:**  
-1️⃣ **Choose a reference manager**: Zotero, Mendeley, or EndNote.  
+## 5. Data Extraction & Synthesis  
+| Criteria            | Car Model 1 | Car Model 2 | Car Model 3 |
+|---------------------|------------|------------|------------|
+| Price (USD)        |            |            |            |
+| Fuel Efficiency (mpg) |            |            |            |
+| Safety Rating      |            |            |            |
+| Resale Value       |            |            |            |
+| Customer Reviews Summary |            |            |            |
 
-2️⃣ **Import at least 5 selected research papers** into the tool.  
+## 6. Findings & Discussion  
+(Discuss patterns observed in the data, notable strengths or weaknesses of the models.)  
 
-3️⃣ **Organize papers into folders/tags**:  
-   - Example: “Security,” “Machine Learning,” “Blockchain.”  
-
-4️⃣ **Add annotations or notes**:  
-   - Summarize key findings in each paper.  
-
-5️⃣ **Generate a bibliography in IEEE format.**  
-
-### **🔹 Expected Output:**  
-- A **well-organized reference list**.  
-- **Short notes for each paper** summarizing key insights.  
-
-## **🔹 Step 4: Critical Appraisal of Selected Research Papers**  
-**Objective:** Assess the quality of research papers using a critical appraisal checklist.  
-
-### **📝 Instructions:**  
-1️⃣ **Select two key papers** from Step 3.  
-
-2️⃣ **Use the CASP (Critical Appraisal Skills Programme) checklist**:  
-   - **Is the research question clearly defined?**  
-   - **Are the methods valid and reliable?**  
-   - **Are the results applicable to real-world scenarios?**  
-   - **Are there any biases in the study?**  
-
-3️⃣ **Evaluate each paper** based on these questions.  
-
-4️⃣ **Document strengths and weaknesses** of each study.  
-
-### **🔹 Expected Output:**  
-- A **critical appraisal table** summarizing the quality of each study.  
-- A **reflection (100-200 words)** on the reliability of the studies reviewed.  
-
-## **🔹 Step 5: Writing an Annotated Bibliography for SLR**  
-**Objective:** Develop a structured summary of selected papers.  
-
-### **📝 Instructions:**  
-1️⃣ **Select three key papers** from Step 3.  
-
-2️⃣ **Write an annotated bibliography** summarizing:  
-   - The main **objective** of the study.  
-   - The **methodology** used.  
-   - **Key findings**.  
-   - **Relevance** to your research question.  
-
-3️⃣ **Compare the studies** and highlight:  
-   - **Trends** in research.  
-   - **Gaps or inconsistencies**.  
-
-### **🔹 Expected Output:**  
-- A **structured annotated bibliography (3 short paragraphs).**  
-- Identification of **patterns and gaps** in the literature.  
-
-## **🔹 Bonus: Group Discussion – Constructing an SLR Protocol**  
-**Objective:** Develop a structured **SLR protocol** as a team.  
-
-### **📝 Instructions:**  
-1️⃣ **Form groups of 3-5 participants**.  
-
-2️⃣ **Each group selects a research topic** from Step 1.  
-
-3️⃣ **Develop a basic SLR protocol** covering:  
-   - **Research questions**.  
-   - **Search strategy**.  
-   - **Inclusion/exclusion criteria**.  
-   - **Quality assessment method**.  
-
-4️⃣ **Present findings** to the class for discussion.  
-
-### **🔹 Expected Output:**  
-- A **structured SLR protocol document**.  
-- A **short group presentation (5-7 minutes)**.  
-
-### **Final Notes**
-🔹 These exercises **simulate real-world research tasks** in computer science.  
-🔹 Participants will gain **practical experience** in each step of conducting an SLR.  
-🔹 By the end of the workshop, they will have a **strong foundation** in systematic research methods.  
+## 7. Conclusion & Recommendation  
+(Based on the findings, which car is the best option? Justify your choice with evidence from your review.)  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
