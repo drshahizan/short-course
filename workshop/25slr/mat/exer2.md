@@ -52,7 +52,7 @@ Choose **one** of the following case studies for your **SLR**:
    - Identify challenges in latency, security, and scalability.
    - Review case studies of edge computing in smart cities and industrial IoT.
 
-## 4. 📕[Systematic Literature Review (SLR) Template]((https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx))
+## 4. 📕[Systematic Literature Review (SLR) Template](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
