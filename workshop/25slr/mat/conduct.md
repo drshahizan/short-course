@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # How to Conduct a Systematic Literature Review?
- <img src="https://pressbooks.library.torontomu.ca/graduatereviews/wp-content/uploads/sites/263/2021/10/unnamed-e1635351991439.png" alt="Shahizan SLR"  height="500">
+ <img src="https://pressbooks.library.torontomu.ca/graduatereviews/wp-content/uploads/sites/263/2021/10/unnamed-e1635351991439.png" alt="Shahizan SLR" >
 
 ## Part 1:
 1. [Preparation](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1a.md)
