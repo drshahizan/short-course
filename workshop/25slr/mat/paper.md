@@ -18,6 +18,8 @@
 7. [The Art of Conducting a Systematic Literature Review (SLR)](https://www.researchvoyage.com/conducting-systematic-literature-review-slr/)
 8. [Systematic Literature Review on Machine Learning and Student Performance Prediction: Critical Gaps and Possible Remedies](https://www.mdpi.com/2076-3417/11/22/10907) by Boran Sekeroglu, Rahib Abiyev, Ahmet Ilhan, Murat Arslan, and John Bush Idoko.
 9. [A systematic literature review on machine learning applications for consumer sentiment analysis using online reviews](https://www.sciencedirect.com/science/article/abs/pii/S1574013721000538) by Praphula Kumar Jain, Rajendra Pamula, and Gautam Srivastava.
+10. [Chitu Okoli. A Guide to Conducting a Standalone Systematic Literature Review. Communications
+of the Association for Information Systems, 2015, 37. ffhal-01574600f](https://hal.science/hal-01574600/document)
 
 ### Materials:
 [A Systematic Literature Review on Feature Selection for Machine Learning based Attack Classification for IoT Security](https://github.com/drshahizan/research-material/blob/main/SLR/lijing/A%20Systematic%20Literature%20Review%20on%20Feature%20Selection%20for%20Machine%20Learning%20based%20Attack%20Classification%20for%20IoT%20Security_2023-02-19.pdf)
