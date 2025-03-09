@@ -26,7 +26,7 @@ To systematically analyze different car models based on predefined criteria such
 
 ---
 
-## [Document Template]()
+## [Document Template](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)
 
 
 
