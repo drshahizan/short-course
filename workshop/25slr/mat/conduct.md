@@ -5,42 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Stage 1: Introduction to Systematic Literature Review (SLR)
-**_Focus: Understanding the fundamentals, methodology, and significance of SLR in research._**  
-
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/Stage1_SLR.png" alt="Shahizan SLR"  height="500">
-
-This stage introduces key **concepts, methodologies, and best practices** to ensure a structured and rigorous SLR.
-
-## 🔹 1. Fundamentals of Systematic Literature Review  
-- [SLR Articles from the Faculty of Computing, Universiti Teknologi Malaysia](SLR-fc.md)
-- Difference between **SLR and Traditional Literature Review**  
-- Importance of **transparency, replicability, and comprehensiveness**  
-- **SLR methodology:** Planning, Conducting, and Reporting  
-- PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) framework  
-
-## 🔹 2. Formulating Research Questions and Identifying Research Gaps  
-- **Frameworks for defining research questions:** PICO, SPIDER, PICOC  
-- Strategies for **identifying research gaps** in computer science  
-- **Case Study:** Research gaps in AI, cybersecurity, or IoT  
-
-## 🔹 3. Searching and Selecting Relevant Literature  
-- Choosing the right databases: **Scopus, Web of Science, IEEE Xplore, ACM Digital Library**  
-- **Search techniques:** Boolean operators, truncation, wildcards  
-- **Inclusion/exclusion criteria** for filtering relevant papers  
-
-## 🔹 4. Evaluating and Managing Literature  
-- Assessing **credibility and reliability** of sources  
-- **Reference management tools:** Zotero, Mendeley, EndNote  
-- Strategies for **categorizing and annotating literature**  
-
-## 🔹 5. Critical Appraisal of Selected Studies  
-- **Quality assessment checklists:** CASP, MMAT, AMSTAR  
-- Identifying **methodological rigor, bias, and validity**  
-- **Case Study:** Evaluating AI-based algorithms in cybersecurity  
-
-
-### How to Conduct a Systematic Literature Review?
+# How to Conduct a Systematic Literature Review?
 #### Part 1:
 1. [Preparation](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1a.md)
 2. [Searching for Studies](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1b.md)
@@ -52,70 +17,6 @@ This stage introduces key **concepts, methodologies, and best practices** to ens
 #### Part 2:
 1. [How do I Deal with Missing Data in my SLR?](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_1g.md)
 2. [Zotero and SLR](https://github.com/drshahizan/SLR-FC/blob/main/materials/s3_zotero.md)
-
-#### Reference Papers for SLR
-1. [How to do a Structured Literature Review in computer science - NTNU](https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf)
-2. [Systematic Literature Review in Computer Science - A Practical Guide](https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail)
-3. [Description of the Systematic Literature Review Method](https://www.tu.berlin/en/wm/bibliothek/research-teaching/systematic-literature-reviews/description-of-the-systematic-literature-review-method)
-4. [How to write a systematic literature review [9 steps] - Paperpile](https://paperpile.com/g/systematic-literature-review/)
-5. [Systematic Review | Definition, Example & Guide - Scribbr](https://www.scribbr.com/methodology/systematic-review/)
-6. [The Art of Conducting a Systematic Literature Review (SLR)](https://www.researchvoyage.com/conducting-systematic-literature-review-slr/)
-7. [Systematic Literature Review on Machine Learning and Student Performance Prediction: Critical Gaps and Possible Remedies](https://www.mdpi.com/2076-3417/11/22/10907) by Boran Sekeroglu, Rahib Abiyev, Ahmet Ilhan, Murat Arslan, and John Bush Idoko.
-8. [A systematic literature review on machine learning applications for consumer sentiment analysis using online reviews](https://www.sciencedirect.com/science/article/abs/pii/S1574013721000538) by Praphula Kumar Jain, Rajendra Pamula, and Gautam Srivastava.
-
-### Materials:
-[A Systematic Literature Review on Feature Selection for Machine Learning based Attack Classification for IoT Security](https://github.com/drshahizan/research-material/blob/main/SLR/lijing/A%20Systematic%20Literature%20Review%20on%20Feature%20Selection%20for%20Machine%20Learning%20based%20Attack%20Classification%20for%20IoT%20Security_2023-02-19.pdf)
-
-## Exercise
-This stage introduces key **concepts, methodologies, and best practices** to ensure a structured and rigorous SLR.
-
-### 🔹 1. Fundamentals of Systematic Literature Review  
-- Difference between **SLR and Traditional Literature Review**  
-- Importance of **transparency, replicability, and comprehensiveness**  
-- **SLR methodology:** Planning, Conducting, and Reporting  
-- PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) framework  
-
-#### ✏️ **Exercise 1: Understanding the SLR Process**  
-**Objective:** Identify key differences between SLR and traditional literature reviews in **computer science research**.  
-
-**Steps:**  
-1. Read two papers: One that follows **SLR methodology** and one that uses a **traditional literature review**.  
-2. Identify the **differences in methodology, structure, and approach**.  
-3. Answer:  
-   - What makes SLR more systematic?  
-   - How does the PRISMA framework help ensure transparency?  
-4. Discuss findings in pairs or small groups.  
-
-### 🔹 2. Formulating Research Questions and Identifying Research Gaps  
-- **Frameworks for defining research questions:** PICO, SPIDER, PICOC  
-- Strategies for **identifying research gaps** in computer science  
-- **Case Study:** Research gaps in AI, cybersecurity, or IoT  
-
-#### ✏️ **Exercise 2: Defining Your Research Question**  
-**Objective:** Formulate a well-structured research question for an **SLR in computer science**.  
-
-**Steps:**  
-1. Choose a **specific research area** (e.g., AI in cybersecurity, Blockchain in education).  
-2. Use **PICO, SPIDER, or PICOC** frameworks to define your research question.  
-3. Validate whether your research question is **too broad or too narrow**.  
-4. Share with a partner and refine based on feedback.  
-
-### 🔹 3. Searching and Selecting Relevant Literature  
-- Choosing the right databases: **Scopus, Web of Science, IEEE Xplore, ACM Digital Library**  
-- **Search techniques:** Boolean operators, truncation, wildcards  
-- **Inclusion/exclusion criteria** for filtering relevant papers  
-
-#### ✏️ **Exercise 3: Creating an Effective Search Strategy**  
-**Objective:** Develop a search string using **Boolean operators** for an SLR in computer science.  
-
-**Steps:**  
-1. Choose a research topic (e.g., **Machine Learning for Intrusion Detection Systems**).  
-2. Create a **search string** using:  
-   - Boolean operators (AND, OR, NOT)  
-   - Wildcards and truncation  
-   - Keywords from previous research questions  
-3. Test your search string in **Scopus, Web of Science, or IEEE Xplore**.  
-4. **Refine** based on search results and document **challenges faced**.  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
