@@ -145,10 +145,6 @@
 
 4️⃣ **Present findings** to the class for discussion.  
 
-### **🔹 Expected Output:**  
-- A **structured SLR protocol document**.  
-- A **short group presentation (5-7 minutes)**.  
-
 ### **Final Notes**
 🔹 These exercises **simulate real-world research tasks** in computer science.  
 🔹 Participants will gain **practical experience** in each step of conducting an SLR.  
