@@ -26,46 +26,9 @@ To systematically analyze different car models based on predefined criteria such
 
 ---
 
-### Template 
+## [Document Template]()
 
-# Systematic Literature Review: Buying a New Car
 
-## 1. Introduction  
-**Research Objective:**  
-(Describe the goal of the review, e.g., to identify the most suitable car for daily commuting based on key criteria.)
-
-## 2. Research Questions  
-- RQ1:  
-- RQ2:  
-- RQ3:  
-
-## 3. Data Collection  
-### **Sources Used:**  
-(List the websites, expert reviews, or any other sources of information.)  
-
-## 4. Inclusion & Exclusion Criteria  
-### **Inclusion Criteria:**  
--  
--  
-
-### **Exclusion Criteria:**  
--  
--  
-
-## 5. Data Extraction & Synthesis  
-| Criteria            | Car Model 1 | Car Model 2 | Car Model 3 |
-|---------------------|------------|------------|------------|
-| Price (USD)        |            |            |            |
-| Fuel Efficiency (mpg) |            |            |            |
-| Safety Rating      |            |            |            |
-| Resale Value       |            |            |            |
-| Customer Reviews Summary |            |            |            |
-
-## 6. Findings & Discussion  
-(Discuss patterns observed in the data, notable strengths or weaknesses of the models.)  
-
-## 7. Conclusion & Recommendation  
-(Based on the findings, which car is the best option? Justify your choice with evidence from your review.)  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
