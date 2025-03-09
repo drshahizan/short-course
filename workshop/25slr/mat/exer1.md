@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise 1: Buying a New Car – A Systematic Review Approach**  
+# Exercise 1: Buying a New Car – A Systematic Review Approach
 
 ## Scenario
 You are planning to buy a new car, but with so many options available in the market, you want to make an informed decision. Instead of relying on opinions, you decide to conduct a **Systematic Literature Review (SLR)** by gathering data from various sources, comparing key features, and analyzing expert reviews.  
