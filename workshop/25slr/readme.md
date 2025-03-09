@@ -30,12 +30,12 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 ## 📅 [Stage 1: Introduction to Systematic Literature Review (SLR)](mat/s1.md)
 🗓 **Date: 10 March 2025**  
 *(Focus: Understanding the fundamentals, methodology, and significance of SLR in research.)*  
-
-1. **Fundamentals of Systematic Literature Review: Concepts, Processes, and Best Practices**  
-2. **Formulating Research Questions and Identifying Research Gaps for SLR**  
-3. **Searching and Selecting Relevant Literature: Strategies for Comprehensive Coverage**  
-4. **Evaluating and Managing Literature: Tools and Techniques for Effective Review**  
-5. **Critical Appraisal of Selected Studies: Ensuring Quality and Relevance in SLR**  
+1. **Literature Review and SLR**
+2. **Fundamentals of SLR**
+3. **Formulating Research Questions and Identifying Research Gaps for SLR**  
+4. **Searching and Selecting Relevant Literature: Strategies for Comprehensive Coverage**  
+5. **Evaluating and Managing Literature: Tools and Techniques for Effective Review**  
+6. **Critical Appraisal of Selected Studies: Ensuring Quality and Relevance in SLR**  
 
 ## 📅 [Stage 2: Techniques and Tools for Systematic Literature Review](mat/s2.md)
 🗓 **Date: 11 March 2025**  
