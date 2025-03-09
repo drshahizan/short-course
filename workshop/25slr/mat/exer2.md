@@ -5,28 +5,54 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise 1: Buying a New Car – A Systematic Review Approach
+# Exercise 2: SLR in Computer Science
 
-## Scenario
-You are planning to buy a new car, but with so many options available in the market, you want to make an informed decision. Instead of relying on opinions, you decide to conduct a **Systematic Literature Review (SLR)** by gathering data from various sources, comparing key features, and analyzing expert reviews.  
+## 1. Introduction
 
-## Objective:
-To systematically analyze different car models based on predefined criteria such as price, fuel efficiency, safety features, resale value, and customer reviews.  
+A **Systematic Literature Review (SLR)** is a structured and methodical approach to reviewing existing research on a specific topic. It is widely used in academic research to ensure a comprehensive and unbiased synthesis of existing literature. This exercise will guide you through conducting an **SLR in Computer Science**, following a structured methodology.
 
-**Steps:**  
-1. **Define Research Questions (RQ)**  
+## 2. Instructions
 
-2. **Identify Data Sources**  
+Follow these steps to complete your **Systematic Literature Review (SLR)**:
 
-3. **Inclusion & Exclusion Criteria**  
+1. **Select ONE case study** from the options provided below.
+2. **Define clear research questions** that will guide your literature search.
+3. **Identify relevant research sources**, such as IEEE Xplore, ACM Digital Library, Springer, Scopus, or other academic databases.
+4. **Set inclusion and exclusion criteria** to filter relevant studies.
+5. **Extract key information** from selected studies using a structured data extraction table.
+6. **Analyze and synthesize findings** to identify patterns, trends, gaps, and best practices in the chosen domain.
+7. **Write a conclusion and recommendations** based on your findings.
 
-4. **Data Extraction & Synthesis**  
+## 3. Case Study Options
 
-5. **Analysis & Conclusion**  
+Choose **one** of the following case studies for your **SLR**:
 
+1. **Cybersecurity Threats in Cloud Computing**  
+   - Analyze common security threats in cloud computing environments.
+   - Identify attack vectors and vulnerabilities.
+   - Review proposed mitigation strategies.
 
-## 📕 [Document Template](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)
+2. **Applications of Artificial Intelligence in Healthcare**  
+   - Investigate the use of AI in medical diagnosis, patient monitoring, and treatment recommendations.
+   - Analyze the effectiveness of AI-based healthcare solutions.
+   - Explore ethical and security concerns.
 
+3. **Blockchain for Secure Digital Transactions**  
+   - Examine how blockchain enhances security in financial transactions.
+   - Investigate the role of smart contracts and fraud prevention.
+   - Discuss the limitations and scalability of blockchain technology.
+
+4. **Machine Learning for Predictive Analytics**  
+   - Explore the use of machine learning in trend forecasting and anomaly detection.
+   - Analyze different machine learning models for predictive analysis.
+   - Identify key challenges and future directions in predictive analytics.
+
+5. **Edge Computing in IoT Systems**  
+   - Study how edge computing improves real-time processing in IoT applications.
+   - Identify challenges in latency, security, and scalability.
+   - Review case studies of edge computing in smart cities and industrial IoT.
+
+## 4. 📕[Systematic Literature Review (SLR) Template]((https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx))
 
 ### 🙌🏻 Connect with Me
 <p align="left">
