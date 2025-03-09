@@ -48,12 +48,9 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 🗓 **Date: 18 March 2025**  
 *(Focus: Practical application, personalized coaching, and refining participants' research.)*  
 
-1. **Hands-on Literature Search: Refining Strategies and Conducting Systematic Searches**  
-2. **Developing Your SLR Framework: Step-by-Step Guidance on Structuring Your Review**  
-3. **Synthesizing Literature: Thematic Analysis and Reporting Techniques**  
-4. **Peer Review and Feedback: Strengthening Your SLR for Publication**  
-5. **Finalizing Your SLR Paper: Polishing, Submission Process, and Overcoming Common Challenges**  
-
+1. **Search and screen for Literature**  
+2. **Quality Assessment**  
+3. **Writing and Publishing SLR**  
 
 ### **🎯 Key Takeaways from the Workshop:**  
 ✔️ Understand the principles and best practices of Systematic Literature Review (SLR).  
