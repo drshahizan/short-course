@@ -14,6 +14,8 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/25slr.jpeg" alt="Shahizan SLR"  height="400">
 </a> -->
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/flowchart%20SLR.png" alt="Shahizan SLR"  height="400">
+
 ## 📌 Workshop Synopsis
 The **Systematic Literature Review (SLR) Workshop** is designed to provide researchers, academicians, and postgraduate students with a structured approach to conducting high-quality literature reviews. This **three-stage training program** offers a step-by-step guide, covering the **fundamentals of SLR**, **practical tools and techniques**, and **personalized coaching sessions** to refine participants' research.
 
@@ -22,8 +24,6 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 📍 Venue: Hyflex Room, Faculty of Computing, Universiti Teknologi Malaysia
 
 🎤 Speaker: Assoc. Prof. Dr. Mohd Shahizan Othman
-
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/flowchart%20SLR.png" alt="Shahizan SLR"  height="400">
 
 ---
 
