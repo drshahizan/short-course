@@ -40,13 +40,8 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 ## 📅 [Stage 2: Techniques and Tools for Systematic Literature Review](mat/s2.md)
 🗓 **Date: 11 March 2025**  
 *(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
-
-1. **Systematic Search Strategies: Using Databases like Scopus, Web of Science, and Google Scholar**  
-2. **Reference Management for SLR: Utilizing Zotero Efficiently**  
-3. **Data Extraction and Synthesis: Organizing and Analyzing Research Findings**  
-4. **Text Mining and Bibliometric Analysis in SLR: Using VosViewer and R for Data Insights**  
-5. **Writing the SLR Paper: Structuring, Synthesizing, and Reporting Findings**  
-
+1. **PRISMA 2020**
+2. **Tools and Software for SLR**
 
 
 ## 📅 [Stage 3: Coaching and Hands-on Systematic Literature Review](mat/s3.md)
