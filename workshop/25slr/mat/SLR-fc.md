@@ -7,7 +7,7 @@
 
 # Systematic Literature Review (SLR) Workshop
 
-## SLR Articles from Faculty of Computing, Universiti Teknologi Malaysia
+## SLR Articles from the Faculty of Computing, Universiti Teknologi Malaysia
 
 1. Li, J., Othman, M. S., Hewan, C., & Yusuf, L. M. (2025). IoT security: A systematic literature review of feature selection methods for machine learning-based attack classification. *International Journal of Electronic Security and Digital Forensics, 17*(1/2), 60-107. [https://doi.org/10.1504/IJESDF.2025.143475](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/mat/Li%20et%20al.%2C%202025%20-%20IoT%20security-%20SLR.pdf)  
 
