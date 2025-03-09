@@ -6,6 +6,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Essential Reference Papers for Systematic Literature Review (SLR)
+
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/Flavia.jpg" alt="Shahizan SLR"  height="500">
+
 1. [FLAVIA-LCT - Framework for systematic literature review to analyse vast InformAtion in life cycle thinking studies](https://www.sciencedirect.com/science/article/pii/S2405844023027548)
 2. [How to do a Structured Literature Review in computer science - NTNU](https://research.idi.ntnu.no/aimasters/files/SLR_HowTo2018.pdf)
 3. [Systematic Literature Review in Computer Science - A Practical Guide](https://www.researchgate.net/profile/Rodrigo-Silva-20/publication/320704338_Systematic_Literature_Review_in_Computer_Science_-_A_Practical_Guide/links/59f631caaca272607e2bc1c1/Systematic-Literature-Review-in-Computer-Science-A-Practical-Guide.pdf?origin=publication_detail)
