@@ -22,7 +22,7 @@ By the end of this workshop, participants will have the **knowledge, skills, and
 
 🎤 Speaker: Assoc. Prof. Dr. Mohd Shahizan Othman
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/SLR-roadmap.jpg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/flowchart%20SLR.png" alt="Shahizan SLR"  height="400">
 
 ---
 
