@@ -9,13 +9,13 @@
 
 The PRISMA 2020 statement comprises a 27-item checklist addressing the introduction, methods, results, and discussion sections of a systematic review report.
 
-## PRISMA 2020 Checklist ([PDF](#) | [Word](#))
+## PRISMA 2020 Checklist ([PDF](https://www.prisma-statement.org/s/PRISMA_2020_checklist-ab3g.pdf) | [Word](https://www.prisma-statement.org/s/PRISMA_2020_checklist-k3f4.docx))
 
 The checklist can also be completed using a **Shiny App** available at [PRISMA Shiny App](https://prisma.shinyapps.io/checklist/) or online via the **EQUATOR Network’s GoodReports** website: [GoodReports PRISMA](https://www.goodreports.org/reporting-checklists/prisma/).
 
 An expanded checklist, which comprises an abridged version of the reporting recommendations presented in the **Explanation and Elaboration** paper, with references and some examples removed, is also available.
 
-## PRISMA 2020 Expanded Checklist ([PDF](#))
+## PRISMA 2020 Expanded Checklist ([PDF](https://www.prisma-statement.org/s/PRISMA_2020_expanded_checklist-rp3l.pdf))
 
 
 ### 🙌🏻 Connect with Me
