@@ -18,7 +18,17 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ## **🎯 What Participants Will Learn**  
 
-### **1️⃣ AI for Literature Review & Research Discovery 📚**  
+### **1. Brainstorming and Idea Generation 💡🧠**
+
+🔹 Ideamap: An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
+
+🔹 HyperWrite's Brainstorming Tool: This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
+hyperwriteai.com
+
+🔹 Grammarly's AI Brainstorming Generator: Grammarly's AI-powered content idea generator helps users brainstorm ideas for various needs, including academic writing, by providing tailored suggestions. ​
+grammarly.com
+
+### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
 🔹 Identifying research gaps and summarizing key papers efficiently.  
 🔹 Using **SciSpace** to quickly understand complex research papers, highlight key findings, and generate AI-assisted explanations for difficult concepts.  
