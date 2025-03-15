@@ -30,6 +30,7 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 🔹 [Microsoft Copilot](materials/brain/copilot.md): Copilot integrates directly into Microsoft 365 apps, providing AI-driven suggestions in Word, PowerPoint, and OneNote to refine, organize, and structure ideas efficiently while maintaining clarity and coherence.
 
+🔹 [ChatGPT](materials/brain/chatgpt.md): An AI assistant that helps generate, refine, and expand ideas by providing contextual insights, suggesting alternative approaches, and facilitating structured brainstorming sessions based on user input.
 
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
