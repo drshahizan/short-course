@@ -5,13 +5,11 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Brainstorming and Idea Generation: HyperWrite💡🧠
+# Brainstorming and Idea Generation: Google Gemini💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://diplo-media.s3.eu-central-1.amazonaws.com/2024/08/gemini-google-youtube-ai-content-creating-headline-brainstorm-with-gemini-1024x585.jpg" alt="Dr Shahizan AI tools"  height="400">
 </a>
-
-# Google Gemini: A Comprehensive Guide
 
 ## 1. Introduction
 
@@ -25,11 +23,9 @@ Gemini is particularly useful for businesses, educators, researchers, and conten
 - **Integration with Google Workspace** – Can be used within Google Docs, Gmail, and other apps for enhanced productivity.
 - **Creative Assistance** – Helps with brainstorming, content generation, and idea refinement.
 
----
-
 ## 2. How to Use Google Gemini: A Step-by-Step Guide
 
-### *Case Study: Developing a Smart Village Model*
+## *Case Study: Developing a Smart Village Model*
 
 ### **Step 1: Access Google Gemini**
 - Visit [Google Gemini](https://gemini.google.com) and log in with your Google account.
@@ -62,7 +58,6 @@ Gemini is particularly useful for businesses, educators, researchers, and conten
 
 - If using **Google Sheets**, Gemini can assist in **data analysis** for budgeting and planning.
 
----
 
 ## 3. Learning Resources
 
@@ -81,10 +76,9 @@ To maximize your use of Google Gemini, explore the following learning resources:
 - **[Google Gemini Help Center](https://support.google.com/)**  
   Official documentation, FAQs, and best practices.
 
-- **[Google Research on Gemini AI](https://ai.googleblog.com/)**  
+- **[Google Research on Gemini AI](https://ai.googleblog.com/)**
   Insights into Gemini’s development and AI advancements.
 
----
 
 ## 4. Additional Resources
 
