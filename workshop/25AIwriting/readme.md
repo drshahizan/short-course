@@ -18,7 +18,19 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ## **🎯 What Participants Will Learn**  
 
-### **1️⃣ Brainstorming and Idea Generation 💡🧠**
+### 1️⃣ A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools
+
+🔹 Step 1: Brainstorming and Idea Generation
+🔹 Step 2: Identify a Suitable Journal
+🔹 Step 3: Define Your Research Topic & Problem Statement
+🔹 Step 4: Conduct a Comprehensive Literature Review
+🔹 Step 5: Develop Methodology and Experiment Plan  
+🔹 Step 6: Analyze and Visualize Results
+🔹 Step 7: Write the Manuscript Using AI Assistance
+🔹 Step 8: Submit & Handle Peer Reviews
+🔹 Step 9: Promote Your Research
+
+### 1️⃣ Brainstorming and Idea Generation 💡🧠
 
 🔹 [Ideamap](materials/brain/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
