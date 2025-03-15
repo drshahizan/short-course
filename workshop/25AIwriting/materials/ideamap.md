@@ -63,7 +63,7 @@
 To enhance your understanding of **Ideamap.ai**, explore the following resources:
 
 ### **YouTube Learning:**
-- [Ideamap.ai YouTube](https://youtu.be/hKZjcmZ7pBs?si=-ZrhAFRtDcAUSSgN) – Discover how ideamap.ai uses AI and mind mapping to revolutionize your team's brainstorming and project planning. See how easy it is to visualize ideas, get AI-powered suggestions, and collaborate with remote teams. Ideamap eliminates creative ruts and unlocks limitless innovation.
+- [Boost Your Productivity with Ideamap.ai](https://youtu.be/hKZjcmZ7pBs?si=-ZrhAFRtDcAUSSgN) – Discover how ideamap.ai uses AI and mind mapping to revolutionize your team's brainstorming and project planning. See how easy it is to visualize ideas, get AI-powered suggestions, and collaborate with remote teams. Ideamap eliminates creative ruts and unlocks limitless innovation.
 
 ### **Featured Articles:**
 - **Master AI Brainstorming with Jakob Storjohann (Founder of Ideamap)**
