@@ -26,60 +26,106 @@ patterns, or insights for every major branch. Make sure the linkages and hierarc
 visualised in the mind map.
   ```
 
-### Example: Amanat Naib Canselor
-
-  ```
-# Amanat Naib Canselor
-## Primary Concept
-- **Strategic Goals**
-  - Enhancing academic excellence
-  - Promoting research and innovation
-  - Fostering community engagement
-
-## Major Branches
-### Academic Excellence
-- **Curriculum Enhancement**
-  - Integration of new learning methodologies
-  - Focus on interdisciplinary studies
-- **Faculty Development**
-  - Continuous professional development programs
-  - Recruitment of distinguished scholars
-
-### Research and Innovation
-- **Research Funding**
-  - Increase in grants and scholarships
-  - Partnerships with industry for applied research
-- **Innovation Ecosystem**
-  - Support for technology transfer
-  - Establishment of innovation hubs
-
-### Community Engagement
-- **Service Learning**
-  - Programs connecting students with community service
-  - Partnerships with local organizations
-- **Public Outreach**
-  - Hosting public lectures and forums
-  - Engaging with media to disseminate knowledge
-
-### Infrastructure and Facilities
-- **Campus Upgrades**
-  - Development of green spaces
-  - Modernization of learning spaces
-- **Technology Advancement**
-  - Upgrading digital infrastructure
-  - Implementing smart campus initiatives
-
-### Global Outreach
-- **International Collaboration**
-  - Strategic partnerships with global institutions
-  - Joint research and exchange programs
-- **Cultural Exchange**
-  - Hosting international cultural events
-  - Support services for international students
-
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
+### Example: Smart Village Model
 
 ```
+# Smart Village Model
+
+## 1. Infrastructure & Connectivity
+   - **Digital Infrastructure**
+     - Broadband access
+     - IoT-enabled devices
+     - Cloud computing integration
+   - **Smart Transportation**
+     - Electric vehicle (EV) charging stations
+     - AI-powered traffic management
+     - Public transport tracking systems
+   - **Renewable Energy**
+     - Solar and wind energy
+     - Smart grids
+     - Energy storage solutions
+
+## 2. Smart Governance & Policy
+   - **E-Governance**
+     - Digital service portals
+     - AI-driven policy decision-making
+   - **Community Engagement**
+     - Open data initiatives
+     - Citizen feedback mechanisms
+   - **Regulatory Framework**
+     - Data privacy laws
+     - ICT infrastructure policies
+
+## 3. Sustainable Agriculture
+   - **Precision Farming**
+     - IoT-enabled soil monitoring
+     - AI-driven crop management
+   - **Smart Irrigation Systems**
+     - Automated water distribution
+     - Weather prediction models
+   - **Supply Chain Optimization**
+     - Blockchain-based tracking
+     - AI-driven market analysis
+
+## 4. Smart Healthcare
+   - **Telemedicine Services**
+     - Remote diagnosis & AI consultation
+     - Wearable health monitoring
+   - **Smart Hospitals**
+     - IoT-enabled patient tracking
+     - AI-powered diagnostics
+   - **Community Health Programs**
+     - AI-driven disease prediction
+     - Mobile health applications
+
+## 5. Education & Digital Literacy
+   - **Smart Schools**
+     - Online learning platforms
+     - AI-powered tutoring
+   - **Skill Development**
+     - Digital literacy programs
+     - AI-driven career guidance
+   - **Access to Information**
+     - Community WiFi hubs
+     - Digital libraries
+
+## 6. Economic Development & Entrepreneurship
+   - **E-Commerce & Digital Marketplaces**
+     - AI-based business insights
+     - Blockchain for secure transactions
+   - **Startups & Innovation Hubs**
+     - AI incubators
+     - Funding & venture capital opportunities
+   - **Financial Inclusion**
+     - Mobile banking & microfinance
+     - AI-powered credit scoring
+
+## 7. Environmental Sustainability
+   - **Smart Waste Management**
+     - AI-driven waste sorting
+     - IoT-enabled collection systems
+   - **Water Resource Management**
+     - AI-based flood prediction
+     - Smart water conservation
+   - **Air Quality Monitoring**
+     - AI-powered pollution detection
+     - Renewable energy incentives
+
+## 8. Security & Privacy
+   - **Cybersecurity Measures**
+     - AI-driven threat detection
+     - Blockchain for data security
+   - **Smart Surveillance**
+     - Facial recognition-based security
+     - IoT-enabled crime prevention
+   - **Privacy Protection**
+     - GDPR-compliant data policies
+     - AI-driven anonymization tools
+
+
+This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated. 
+```
+
 ## 3. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
