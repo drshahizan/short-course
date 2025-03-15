@@ -15,8 +15,6 @@
 
 ## 1. Introduction
 
-https://r2.onlinestool.com/blog-covers/1734622263542-pt5t78f70yn.jpg
-
 [HyperWrite](https://hyperwriteai.com/) is an AI-powered writing assistant designed to enhance creativity and productivity. Among its suite of tools, the **Brainstorming Tool** stands out as an innovative feature that leverages advanced AI models, including GPT-4 and ChatGPT, to generate creative solutions and ideas based on user-provided prompts. This tool is particularly beneficial for individuals facing creative blocks, offering a fresh perspective to overcome challenges. 
 
 ### Key Features:
