@@ -63,21 +63,21 @@
 To enhance your understanding of **Ideamap.ai**, explore the following resources:
 
 ### **YouTube Learning:**
-- [Ideamap.ai YouTube Channel](https://www.youtube.com/) – Tutorials and case studies demonstrating practical applications.
+- [Ideamap.ai YouTube](https://youtu.be/hKZjcmZ7pBs?si=-ZrhAFRtDcAUSSgN) – Discover how ideamap.ai uses AI and mind mapping to revolutionize your team's brainstorming and project planning. See how easy it is to visualize ideas, get AI-powered suggestions, and collaborate with remote teams. Ideamap eliminates creative ruts and unlocks limitless innovation.
 
 ### **Featured Articles:**
 - **Master AI Brainstorming with Jakob Storjohann (Founder of Ideamap)**
   - Insights on how Ideamap.ai facilitates creativity and collaboration.  
-  - [Read the full article](https://nesslabs.com/ideamap-featured-tool?utm_source=chatgpt.com)
+  - [Read the full article](https://nesslabs.com/ideamap-featured-tool)
   
 - **User Reviews & Community Discussions**
   - Engage with the **Reddit community** to see real-world applications and feedback.
-  - [Reddit discussion](https://www.reddit.com/r/Creativity/comments/1igxgws/why_ideamapai_is_a_game_changer_for_organizing/?utm_source=chatgpt.com)
+  - [Reddit discussion](https://www.reddit.com/r/Creativity/comments/1igxgws/why_ideamapai_is_a_game_changer_for_organizing/)
 
 ## 4. Additional Resources
 
-- **[Features Overview](https://ideamap.ai/en-us/features?utm_source=chatgpt.com)** – Explore Ideamap.ai’s core features like AI brainstorming, facilitation tools, and more.
-- **[Import & Export Guide](https://ideamap.ai/en-us/features/import-and-export?utm_source=chatgpt.com)** – Learn how to integrate Ideamap.ai with your workflow.
+- **[Features Overview](https://ideamap.ai/en-us/features)** – Explore Ideamap.ai’s core features like AI brainstorming, facilitation tools, and more.
+- **[Import & Export Guide](https://ideamap.ai/en-us/features/import-and-export)** – Learn how to integrate Ideamap.ai with your workflow.
 
 By leveraging **Ideamap.ai’s AI-driven features**, individuals and teams can enhance their brainstorming processes, leading to **more organized and innovative outcomes**.
 
