@@ -13,9 +13,6 @@
 
 ## 1. Introduction
 
-
-## 1. Introduction
-
 [Napkin.ai](https://napkin.ai) is an innovative AI-powered platform that transforms textual content into insightful visuals, such as diagrams, charts, and flowcharts. This tool is designed to enhance communication by making ideas more engaging and easier to understand, catering to professionals, educators, marketers, and anyone seeking to visualize their concepts effectively.
 
 ### Key Features:
