@@ -20,7 +20,7 @@
 
 ## 2. How to Use Ideamap.ai (Step-by-Step Guide)
 
-### **Case Study: Developing a Smart Village Model**
+## **Case Study: Developing a Smart Village Model**
 
 ### **Step 1: Sign Up and Create a Workspace**
 - Visit [Ideamap.ai](https://ideamap.ai/) and sign up for an account.
