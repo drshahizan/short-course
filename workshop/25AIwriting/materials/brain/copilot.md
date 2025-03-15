@@ -100,5 +100,3 @@ By integrating Microsoft Copilot into your workflow, you can enhance creativity,
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
-
