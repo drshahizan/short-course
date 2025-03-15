@@ -8,7 +8,7 @@
 # Brainstorming and Idea Generation: Prompt💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://images.law.com/contrib/content/uploads/sites/397/2023/04/Artificial-Intelligence-Prompt-767x633.jpg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://cdnp.kittl.com/ZyO41q8jQArT0F76_HowtobuildagreatAIprompt.png?auto=format,compress" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
 
