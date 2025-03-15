@@ -14,8 +14,7 @@
 
 ## 1. Introduction
 
-[Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot) is an AI-powered productivity tool integrated into Microsoft 365 applications, designed to enhance creativity, productivity, and collaboration. By leveraging large language models (LLMs) and Microsoft Graph, Copilot provides real-time assistance across various Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, and Teams. This integration allows users to generate content, analyze data, and automate tasks efficiently. :contentReference[oaicite:0]{index=0}
-
+[Microsoft Copilot](https://copilot.microsoft.com/chats/) is an AI-powered productivity tool integrated into Microsoft 365 applications, designed to enhance creativity, productivity, and collaboration. By leveraging large language models (LLMs) and Microsoft Graph, Copilot provides real-time assistance across various Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, and Teams. This integration allows users to generate content, analyze data, and automate tasks efficiently. 
 ### Key Features:
 
 - **Content Generation:** Assists in drafting documents, emails, and presentations based on user prompts, providing a starting point for further refinement. 
