@@ -68,9 +68,9 @@ To maximize your use of Google Gemini, explore the following learning resources:
   *[Watch here](https://youtu.be/CrwrljPQaYA?si=1ITPovAVTM2u4Eck)*  
   Google Gemini is Google’s AI chatbot and it’s available for free to use. It’s the direct competitor to ChatGPT and Microsoft Copilot.
 
-- **"Google Gemini vs ChatGPT: Which AI is Better?"**  
-  *[Watch here](https://www.youtube.com/results?search_query=google+gemini+vs+chatgpt)*  
-  A comparison of Gemini and OpenAI’s ChatGPT, highlighting strengths and weaknesses.
+- **"Google Gemini - Tutorial for Beginners"**  
+  *[Watch here](https://youtu.be/pfubneymR-M?si=m7HV0Ew0vibKuz5D)*  
+  Learn how to use Google Gemini in 7 mins! Google Gemini AI tutorial, Google Gemini Advanced, Google Gemini 2025.
 
 ### **Official Google Resources:**
 - **[Google Gemini Help Center](https://support.google.com/)**  
