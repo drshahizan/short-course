@@ -22,7 +22,6 @@
 - **Research & Learning** – Summarizes articles, explains complex topics, and provides references.
 - **Integration with APIs** – Can be integrated into applications for automation and enhanced user interactions.
 
----
 
 ## 2. How to Use ChatGPT: A Step-by-Step Guide
 
@@ -68,8 +67,6 @@
 - Review and edit the AI-generated content.
 - If necessary, ask ChatGPT to refine language, improve readability, or generate additional insights.
 
----
-
 ## 3. Learning Resources
 
 To maximize the benefits of **ChatGPT**, explore these resources:
@@ -86,8 +83,6 @@ To maximize the benefits of **ChatGPT**, explore these resources:
 ### **Official OpenAI Resources:**
 - **[OpenAI Blog](https://openai.com/blog/)** – Updates and insights on the latest ChatGPT advancements.
 - **[ChatGPT API Documentation](https://platform.openai.com/docs/)** – For developers looking to integrate ChatGPT into their applications.
-
----
 
 ## 4. Additional Resources
 
