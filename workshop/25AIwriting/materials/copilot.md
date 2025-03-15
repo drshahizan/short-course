@@ -8,7 +8,7 @@
 # Brainstorming and Idea Generation: Microsoft Copilot💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://diplo-media.s3.eu-central-1.amazonaws.com/2024/08/gemini-google-youtube-ai-content-creating-headline-brainstorm-with-gemini-1024x585.jpg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://www.directionsonmicrosoft.com/wp-content/uploads/2023/09/m365copilotnovember1-1024x573.jpg" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
 # Microsoft Copilot: A Comprehensive Guide
