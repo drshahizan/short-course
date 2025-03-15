@@ -5,13 +5,11 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Brainstorming and Idea Generation: Prompt💡🧠
+# **AI-Powered Brainstorming & Idea Generation for High-Impact Computer Science Research (Web of Science Q1/Q2 Journals)**  
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://cdnp.kittl.com/ZyO41q8jQArT0F76_HowtobuildagreatAIprompt.png?auto=format,compress" alt="Dr Shahizan AI tools"  height="400">
 </a>
-
-# **AI-Powered Brainstorming & Idea Generation for High-Impact Computer Science Research (Web of Science Q1/Q2 Journals)**  
 
 This guide provides **structured AI prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT** to help brainstorm and generate high-quality **research ideas** suitable for **Web of Science Q1/Q2 Computer Science journals**. Each tool includes **three primary prompts** and **two additional related prompts** for deeper research exploration.
 
