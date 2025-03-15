@@ -10,7 +10,6 @@
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://aitrendz.xyz/wp-content/uploads/2023/12/Screenshot-2023-12-16-at-16.53.36.png" alt="Dr Shahizan AI tools"  height="400">
 </a>
-https://aitrendz.xyz/wp-content/uploads/2023/12/Screenshot-2023-12-16-at-16.53.36.png
 
 ## 1. Introduction
 
