@@ -20,13 +20,13 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ### **1. Brainstorming and Idea Generation 💡🧠**
 
-🔹 [Ideamap](materials/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
+🔹 [Ideamap](materials/brain/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
-🔹 [HyperWrite's Brainstorming Tool](materials/hyperwrite.md): This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
+🔹 [HyperWrite's Brainstorming Tool](materials/brain/hyperwrite.md): This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
 
-🔹 [Google Gemini](materials/gemini.md): Google Gemini offers an AI-powered brainstorming feature that helps users expand on their initial ideas by suggesting alternative angles, deeper insights, and potential refinements based on industry knowledge and trends.
+🔹 [Google Gemini](materials/brain/gemini.md): Google Gemini offers an AI-powered brainstorming feature that helps users expand on their initial ideas by suggesting alternative angles, deeper insights, and potential refinements based on industry knowledge and trends.
 
-🔹 [Microsoft Copilot](materials/copilot.md): Copilot integrates directly into Microsoft 365 apps, providing AI-driven suggestions in Word, PowerPoint, and OneNote to refine, organize, and structure ideas efficiently while maintaining clarity and coherence.
+🔹 [Microsoft Copilot](materials/brain/copilot.md): Copilot integrates directly into Microsoft 365 apps, providing AI-driven suggestions in Word, PowerPoint, and OneNote to refine, organize, and structure ideas efficiently while maintaining clarity and coherence.
 
 
 ### **1️⃣ Literature Review & Research Discovery 📚**  
