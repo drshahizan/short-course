@@ -8,7 +8,7 @@
 # A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="400">
+ <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
 
 Publishing in a **high-impact journal** is a prestigious achievement that requires **originality, clarity, and high scientific rigor**. This guide provides a **detailed breakdown of each step**, incorporating **AI tools** to enhance your workflow and **maximize efficiency**.
