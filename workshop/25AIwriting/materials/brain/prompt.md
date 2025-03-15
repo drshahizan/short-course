@@ -92,6 +92,17 @@ Ensure the structure is logical, easy to navigate, and aligned with Q1/Q2 journa
 🔹 **Related Prompt 1:** *"Design a hierarchical flowchart that illustrates the research process for [Your Topic]."*  
 🔹 **Related Prompt 2:** *"Develop a mind map showing how different subfields of AI contribute to advancements in [Your Topic]."*  
 
+### **Prompt 2: Organizing Literature Review Insights**  
+*"Generate a **literature review mind map** for [Your Topic], categorizing studies based on:  
+1. Research methodologies  
+2. Key findings  
+3. Limitations & research gaps  
+4. Future directions  
+
+Ensure the visualization helps in structuring a review paper for a high-impact journal."*
+
+### **Prompt 3: Mapping the Evolution of Research Trends**  
+*"Create a **timeline-based mind map** showing how [Your Topic] has evolved over the past decade. Highlight major breakthroughs, key publications, and emerging challenges. Provide insights into where the field is heading and potential new research directions."*  
 
 ## **4. Advanced AI-Assisted Brainstorming**  
 
