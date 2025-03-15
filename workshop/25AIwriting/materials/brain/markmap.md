@@ -15,7 +15,7 @@
 ## 1. Introduction
 Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. Here's how you can use Markmap:
 
-## 1. Prompt to create a mind map
+## 2. Prompt to create a mind map
 Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
 
   ```
@@ -80,7 +80,7 @@ visualised in the mind map.
 This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
 
 ```
-## 2. [MarkMap](https://markmap.js.org/repl)
+## 3. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
 **Example**: Amanat Naib Canselor
@@ -89,7 +89,7 @@ Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markma
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/amanatNC.png" height="500" />
 </p>
 
-## 3. Interact with Your Mind Map
+## 4. Interact with Your Mind Map
 You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
 
 Remember, Markmap supports various markdown features such as:
