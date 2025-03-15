@@ -20,15 +20,15 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ### 1️⃣ A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools
 
-🔹 Step 1: Brainstorming and Idea Generation
-🔹 Step 2: Identify a Suitable Journal
-🔹 Step 3: Define Your Research Topic & Problem Statement
-🔹 Step 4: Conduct a Comprehensive Literature Review
-🔹 Step 5: Develop Methodology and Experiment Plan  
-🔹 Step 6: Analyze and Visualize Results
-🔹 Step 7: Write the Manuscript Using AI Assistance
-🔹 Step 8: Submit & Handle Peer Reviews
-🔹 Step 9: Promote Your Research
+- Step 1: Brainstorming and Idea Generation
+- Step 2: Identify a Suitable Journal
+- Step 3: Define Your Research Topic & Problem Statement
+- Step 4: Conduct a Comprehensive Literature Review
+- Step 5: Develop Methodology and Experiment Plan  
+- Step 6: Analyze and Visualize Results
+- Step 7: Write the Manuscript Using AI Assistance
+- Step 8: Submit & Handle Peer Reviews
+- Step 9: Promote Your Research
 
 ### 1️⃣ Brainstorming and Idea Generation 💡🧠
 
