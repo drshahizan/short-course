@@ -83,8 +83,7 @@ To maximize your use of Google Gemini, explore the following learning resources:
 ## 4. Additional Resources
 
 - **Google Workspace AI Tools** – Learn how Gemini integrates with Google Docs, Gmail, and Sheets. [Explore here](https://workspace.google.com/).
-- **AI for Sustainable Development** – How AI and IoT can be leveraged for smart cities and villages. [Read here](https://ai.google/research/).
-- **Google AI Ethics & Responsible AI** – Understanding how Google ensures fairness and safety in AI models. [More info](https://ai.google/responsibility/).
+- **Google AI Ethics & Responsible AI** – Understanding how Google ensures fairness and safety in AI models. [More info](https://cloud.google.com/responsible-ai).
 
 By leveraging **Google Gemini**, individuals, businesses, and educators can enhance their creativity, optimize workflows, and drive innovation in areas such as **smart villages, business strategy, education, and sustainability**.
 
