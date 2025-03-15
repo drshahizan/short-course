@@ -64,9 +64,9 @@ Gemini is particularly useful for businesses, educators, researchers, and conten
 To maximize your use of Google Gemini, explore the following learning resources:
 
 ### **YouTube Tutorials:**
-- **"How to Use Google Gemini for AI-Powered Productivity"**  
-  *[Watch here](https://www.youtube.com/results?search_query=how+to+use+google+gemini)*  
-  Covers Gemini’s features, integration with Google Workspace, and practical use cases.
+- **"How to Use Google Gemini - Including New Prompts"**  
+  *[Watch here](https://youtu.be/CrwrljPQaYA?si=1ITPovAVTM2u4Eck)*  
+  Google Gemini is Google’s AI chatbot and it’s available for free to use. It’s the direct competitor to ChatGPT and Microsoft Copilot.
 
 - **"Google Gemini vs ChatGPT: Which AI is Better?"**  
   *[Watch here](https://www.youtube.com/results?search_query=google+gemini+vs+chatgpt)*  
