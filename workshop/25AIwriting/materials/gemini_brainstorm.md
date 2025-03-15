@@ -76,7 +76,7 @@ To maximize your use of Google Gemini, explore the following learning resources:
 - **[Google Gemini Help Center](https://support.google.com/)**  
   Official documentation, FAQs, and best practices.
 
-- **[Google Research on Gemini AI](https://ai.googleblog.com/)**
+- **[Google Research on Gemini AI](https://ai.googleblog.com/)**  
   Insights into Gemini’s development and AI advancements.
 
 
