@@ -7,8 +7,9 @@
 
 # Brainstorming and Idea Generation: ChatGPT💡🧠
 
-
-https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7CSYWBFPXNMV5MOYSEW6ULXWNU.jpg
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
+ <img src="https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7CSYWBFPXNMV5MOYSEW6ULXWNU.jpg" alt="Dr Shahizan AI tools"  height="400">
+</a>
 
 ## 1. Introduction
 
