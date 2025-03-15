@@ -19,7 +19,8 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
 
 ### **How to Brainstorm and Generate Ideas?**
 1. **Use AI Mind-Mapping Tools**  
-   - **[Ideamap](https://ideamap.ai/)** → Automatically generates **concept maps** based on keywords.  
+   - **[Ideamap](https://ideamap.ai/)** → Automatically generates **concept maps** based on keywords.
+   - **[Napkin.ai](https://www.napkin.ai/)** → Organizes fragmented ideas into structured insights.
    - **[Markmap](https://markmap.js.org/)** → Converts Markdown text into **interactive mind maps** for organizing ideas.
 
 2. **Explore Research Topics with AI Assistants**  
@@ -32,7 +33,7 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
    - Example: *"Suggest a research question based on the latest developments in IoT security."*
 
 ✅ **AI Tools to Use:**
-- **[Ideamap](https://ideamap.ai/)** – Generate concept maps.
+- **[Ideamap](https://ideamap.ai/) and Napkin.ai](https://www.napkin.ai/)** – Generate concept maps.
 - **[Markmap](https://markmap.js.org/)** – Create mind maps.
 - **[HyperWrite](https://www.hyperwriteai.com/)** – Structure research problems.
 - **[Google Gemini](https://gemini.google.com/)** – Analyze trends.
