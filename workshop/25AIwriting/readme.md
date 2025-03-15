@@ -18,7 +18,7 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ## **🎯 What Participants Will Learn**  
 
-### **1. Brainstorming and Idea Generation 💡🧠**
+### **1️⃣ Brainstorming and Idea Generation 💡🧠**
 
 🔹 [Ideamap](materials/brain/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
