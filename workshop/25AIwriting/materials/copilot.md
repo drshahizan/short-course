@@ -71,22 +71,20 @@ To maximize the benefits of Microsoft Copilot, explore the following resources:
 
 ### **Official Tutorials:**
 
-- **Learn to Use Microsoft Copilot:** A comprehensive guide covering various scenarios where Copilot can enhance productivity and creativity. 
+- **[Learn to Use Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/):** A comprehensive guide covering various scenarios where Copilot can enhance productivity and creativity. 
 
-- **Microsoft 365 Copilot Overview:** Detailed documentation on Copilot's integration with Microsoft 365 apps and services. 
+- **[Microsoft 365 Copilot Overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview):** Detailed documentation on Copilot's integration with Microsoft 365 apps and services. 
 
 ### **Video Tutorials:**
 
-- **Brainstorming with Copilot in Whiteboard:** Demonstrates the use of free-written prompts for brainstorming and document summarization in Microsoft Whiteboard.
+- **[Introducing Microsoft 365 Copilot Chat](https://youtu.be/rc-fc7pT9nw?si=RpXP5hOlyMhqbBK4):** Discover how Microsoft 365 Copilot Chat enables your entire workforce from sales to field service solutions. Microsoft 365 Copilot Chat can transform business processes with free secure AI chat, agents, and enterprise data protection.
 
-- **Brainstorm and Collaborate with Microsoft 365 Copilot in Loop:** Shows how to generate content, start a brainstorm, and collaborate using Copilot in Microsoft Loop. 
+- **[Microsoft Copilot Tutorial](https://youtu.be/d-CuF6dlqLg?si=tyXwYwjgXm8eerV4):** In this step-by-step tutorial, learn how to use Microsoft Copilot.. 
 
 
 ## 4. Additional Resources
 
-- **AI Productivity Tools for Microsoft 365:** Explore how Copilot reinvents productivity with secure AI assistance in Microsoft 365 apps, documents, and conversations. 
-
-- **Microsoft 365 Copilot Service Description:** Detailed information on Copilot's capabilities, integration, and service offerings within Microsoft 365. 
+- **[AI Productivity Tools for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/copilot):** Explore how Copilot reinvents productivity with secure AI assistance in Microsoft 365 apps, documents, and conversations. 
 
 By integrating Microsoft Copilot into your workflow, you can enhance creativity, streamline processes, and foster collaboration, leading to more efficient and innovative outcomes.
 
