@@ -7,6 +7,8 @@
 
 # Brainstorming and Idea Generation: Ideamap.ai 💡🧠
 
+https://aitrendz.xyz/wp-content/uploads/2023/12/Screenshot-2023-12-16-at-16.53.36.png
+
 ## 1. Introduction
 
 [Ideamap.ai](https://ideamap.ai) is an AI-powered visual brainstorming tool designed to enhance creativity and collaboration. It provides an interactive workspace where individuals and teams can generate, organize, and refine ideas efficiently. By leveraging artificial intelligence, Ideamap.ai assists users in overcoming creative blocks, facilitating more productive brainstorming sessions.
