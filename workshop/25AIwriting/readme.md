@@ -20,7 +20,7 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ### **1. Brainstorming and Idea Generation 💡🧠**
 
-🔹 Ideamap: An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
+🔹 [Ideamap](/materials/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
 🔹 HyperWrite's Brainstorming Tool: This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
 hyperwriteai.com
