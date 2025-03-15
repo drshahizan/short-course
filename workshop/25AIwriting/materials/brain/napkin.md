@@ -40,7 +40,7 @@
 
 ### **Step 3: Generate Visuals**
 
-- After inputting your text, click the blue "Generate Visual" button to initiate the visual creation process.
+- After inputting your text, click the blue "Generate Visual" button to initiate the visual creation process.
 
 - Napkin.ai will produce a list of visuals based on your content. Browse through the options and select the one that best represents your Smart Village Model. 
 
