@@ -8,10 +8,9 @@
 # Brainstorming and Idea Generation: Microsoft Copilot💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://www.directionsonmicrosoft.com/wp-content/uploads/2023/09/m365copilotnovember1-1024x573.jpg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://store-images.s-microsoft.com/image/apps.36459.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.c0fbfed4-09cf-4672-be75-064859803961" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
-# Microsoft Copilot: A Comprehensive Guide
 
 ## 1. Introduction
 
