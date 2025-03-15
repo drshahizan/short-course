@@ -23,10 +23,11 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 🔹 [Ideamap](materials/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
 🔹 [HyperWrite's Brainstorming Tool](materials/hyperwrite.md): This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
-hyperwriteai.com
 
-🔹 Grammarly's AI Brainstorming Generator: Grammarly's AI-powered content idea generator helps users brainstorm ideas for various needs, including academic writing, by providing tailored suggestions. ​
-grammarly.com
+🔹 [Google Gemini](materials/gemini.md): Google Gemini offers an AI-powered brainstorming feature that helps users expand on their initial ideas by suggesting alternative angles, deeper insights, and potential refinements based on industry knowledge and trends.
+
+🔹 [Microsoft Copilot](materials/copilot.md): Copilot integrates directly into Microsoft 365 apps, providing AI-driven suggestions in Word, PowerPoint, and OneNote to refine, organize, and structure ideas efficiently while maintaining clarity and coherence.
+
 
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
