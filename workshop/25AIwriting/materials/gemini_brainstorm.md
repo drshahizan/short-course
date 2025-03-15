@@ -8,7 +8,7 @@
 # Brainstorming and Idea Generation: HyperWrite💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://r2.onlinestool.com/blog-covers/1734622263542-pt5t78f70yn.jpg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://talknotes.io/brainstorming/ai/brainstorming-with-gemini/__og_image__/og.png" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
 # Google Gemini: A Comprehensive Guide
