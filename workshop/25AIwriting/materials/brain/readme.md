@@ -5,14 +5,95 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📌 Identifying a Suitable Journal for Your Research
+# 🚀 **Brainstorming and Idea Generation** 💡🧠  
 
-Selecting the right journal is a **critical step** in the publication process, ensuring that your research reaches the correct audience and meets the **highest publication standards**. With the advancement of AI-powered tools, researchers can now efficiently match their manuscripts to **relevant, high-impact journals** based on various factors such as title, abstract, and keywords.
+Selecting the right **brainstorming tool** is essential for **idea generation, research structuring, and creative problem-solving**. AI-powered brainstorming tools enable researchers, writers, and professionals to efficiently **develop, refine, and organize** their ideas through **mind mapping, structured thinking, and AI-generated insights**.
+
+📌 **With AI-driven brainstorming tools, you can:**  
+✅ Generate structured **mind maps** and **diagrams**  
+✅ Visualize **concepts, workflows, and processes**  
+✅ Enhance **creativity and critical thinking**  
+✅ Optimize **research planning and development**  
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="journal.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
-  
+
+---
+
+## 🔥 **Top AI-Powered Brainstorming Tools**
+Here are some of the best AI-driven tools for **brainstorming, mind mapping, and idea generation**:
+
+### 🛠 **1. Ideamap** 📍 [View Details](materials/brain/ideamap.md)  
+📌 **AI-Powered Mind Mapping & Idea Structuring**  
+🔹 Automatically generates **mind maps** to help users visualize and organize thoughts effectively.  
+🔹 Facilitates **concept structuring, problem-solving, and research planning**.  
+
+---
+
+### 🎨 **2. Napkin.ai** 📝 [View Details](materials/brain/napkin.md)  
+📌 **Transforming Text into Visuals**  
+🔹 Converts raw **text ideas** into **visuals like charts, diagrams, and flowcharts**.  
+🔹 Ideal for **concept development, presentations, and structured documentation**.  
+
+---
+
+### 🗺 **3. Markmap** 🧩 [View Details](materials/brain/markmap.md)  
+📌 **Lightweight Interactive Mind Mapping Tool**  
+🔹 Converts **Markdown files** into **interactive mind maps**.  
+🔹 Great for **outlining research ideas, structuring projects, and knowledge management**.  
+
+---
+
+### 🎯 **4. EdrawMax** 🏗 [View Details](materials/brain/edrawmax.md)  
+📌 **All-in-One Diagramming Software**  
+🔹 **Versatile**—Supports **flowcharts, network diagrams, engineering drawings, and more**.  
+🔹 Perfect for **academic research, project planning, and business development**.  
+
+---
+
+### 🔍 **5. HyperWrite's Brainstorming Tool** 🧠 [View Details](materials/brain/hyperwrite.md)  
+📌 **AI-Driven Creative Problem Solving**  
+🔹 Generates **innovative solutions** based on a **given problem or research topic**.  
+🔹 Helps in **overcoming creative blocks and refining initial ideas**.  
+
+---
+
+### 🌍 **6. Google Gemini** 🤖 [View Details](materials/brain/gemini.md)  
+📌 **AI-Powered Brainstorming & Research Assistant**  
+🔹 **Expands on initial ideas** by suggesting **alternative approaches, deeper insights, and industry trends**.  
+🔹 Ideal for **research proposal refinement, academic writing, and technology-driven innovations**.  
+
+---
+
+### ✍ **7. Microsoft Copilot** 💼 [View Details](materials/brain/copilot.md)  
+📌 **Integrated AI for Research & Content Structuring**  
+🔹 Works directly within **Microsoft 365 apps** like **Word, PowerPoint, and OneNote**.  
+🔹 Enhances clarity, structure, and organization in **reports, presentations, and academic papers**.  
+
+---
+
+### 🤖 **8. ChatGPT** 🎙 [View Details](materials/brain/chatgpt.md)  
+📌 **AI-Assisted Ideation & Structured Brainstorming**  
+🔹 Generates **creative research ideas**, suggests **alternative approaches**, and provides **contextual insights**.  
+🔹 Supports **structured brainstorming sessions** based on **user input and research goals**.  
+
+---
+
+### 📖 **9. AI-Powered Brainstorming for High-Impact Research** 🏆 [View Details](materials/brain/prompt.md)  
+📌 **Optimized AI Prompts for Research Innovation**  
+🔹 A structured guide featuring AI-generated **prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT**.  
+🔹 Designed for **brainstorming research ideas suitable for Web of Science Q1/Q2 Computer Science journals**.  
+
+---
+
+## ✅ **Why Use AI-Powered Brainstorming Tools?**  
+✨ **Enhances Creativity:** Overcomes mental blocks and generates **fresh ideas**.  
+✨ **Saves Time:** Quickly organizes thoughts into **structured outputs**.  
+✨ **Improves Research Efficiency:** Aids in **concept development and academic writing**.  
+✨ **Supports Collaboration:** Enables seamless **team brainstorming and knowledge sharing**.  
+
+🚀 **Start using AI to enhance your brainstorming process and unlock your full creative potential!**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
