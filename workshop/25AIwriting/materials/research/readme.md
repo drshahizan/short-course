@@ -13,7 +13,7 @@ A well-defined research problem ensures **clarity and novelty**.
  <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
 
-### **How to Define a Research Topic?**
+## **How to Define a Research Topic?**
 1. **Identify Knowledge Gaps**  
    - Use **[Elicit.org](https://elicit.org/)** or **[Connected Papers](https://www.connectedpapers.com/)**.
 
@@ -21,7 +21,6 @@ A well-defined research problem ensures **clarity and novelty**.
    - Use **[ChatGPT](https://openai.com/chatgpt/)** to brainstorm research questions.
 
 ✅ **AI Tools to Use:**
-- **[ChatGPT](https://openai.com/chatgpt/)** – Brainstorm research ideas.
 - **[Elicit.org](https://elicit.org/)** – Find research gaps.
 - **[Connected Papers](https://www.connectedpapers.com/)** – Explore related papers.
 
