@@ -17,7 +17,7 @@ Publishing in a **high-impact journal** is a prestigious achievement that requir
 
 Generating and organizing **innovative research ideas** is crucial for **problem-solving, research structuring, and creative exploration**. AI-powered brainstorming tools help researchers, writers, and professionals **visualize, refine, and expand** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
 
-### AI Tools:
+### ✅ AI Tools:
 1. Mind Mapping & Visual Structuring
 2. Research & Idea Expansion
 3. Prompting & Automated Brainstorming
@@ -26,7 +26,7 @@ Generating and organizing **innovative research ideas** is crucial for **problem
 
 Selecting the right **academic journal** is a **critical step** in the publication process. Choosing a suitable journal ensures that **your research reaches the right audience, maximizes impact, and meets publication standards**. With AI-powered tools, researchers can now efficiently match their manuscripts to **high-impact journals** based on **title, abstract, keywords, and research field**.  
 
-### AI Tools:
+### ✅ AI Tools:
 1. Journal Recommendation
 2. Journal Selection & Research Indexing
 
@@ -109,15 +109,18 @@ A strong methodology ensures **replicability**.
 - **[Grammarly](https://www.grammarly.com/)** – Fix grammar issues.
 
 ## Step 8: [Submitting & Handling Peer Reviews](../submit)
+Submitting your research paper and navigating the **peer review process** is a critical step in academic publishing. Properly preparing your manuscript for submission and **handling reviewer comments professionally** increases the chances of **acceptance in high-impact journals**. AI-powered tools can assist in **submission formatting, journal selection, responding to reviewers, and refining your manuscript** for final acceptance.  
 
-✅ **AI Tools to Use:**
-- **[ChatGPT](https://openai.com/chatgpt/)** – Draft response letters.
-- **[Grammarly](https://www.grammarly.com/)** – Improve clarity.
+### ✅ AI Tools:
+1. Journal Selection & Manuscript Preparation
+2. Drafting Responses & Handling Peer Reviews
+3. Revising & Improving Manuscripts After Peer Review
+4. Submission Tracking & Workflow Management
 
 ## Step 9: [Promote Your Research](../promote)
 Once your research is **accepted and published**, the next crucial step is to **increase its visibility, impact, and citations**. Effective **research promotion** ensures that your work reaches **a global audience, engages researchers, and influences future studies**. AI-powered tools can help in **enhancing research discoverability, sharing insights across platforms, and analyzing engagement metrics**.  
 
-### AI Tools:
+### ✅ AI Tools:
 1. Index Your Research in Academic Databases
 2. Share Your Research on Social & Professional Networks
 3. Create Visual Summaries & Research Highlights
