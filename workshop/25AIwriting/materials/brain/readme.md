@@ -39,27 +39,33 @@ Best AI-driven tools for **brainstorming, mind mapping, and idea generation**:
 🔹 **Versatile**—Supports **flowcharts, network diagrams, engineering drawings, and more**.  
 🔹 Perfect for **academic research, project planning, and business development**.  
 
-### 5. [HyperWrite](hyperwrite.md)  
+### 5. [Infogram](https://infogram.com/) 📊
+📌 AI-Powered Data Visualization & Infographics
+🔹 Generates interactive reports, infographics, and visual data representations.
+🔹 Great for academic presentations, business reports, and research communication.
+
+
+### 6. [HyperWrite](hyperwrite.md)  
   - 📌 **AI-Driven Creative Problem Solving**  
 🔹 Generates **innovative solutions** based on a **given problem or research topic**.  
 🔹 Helps in **overcoming creative blocks and refining initial ideas**.  
 
-### 6. [Google Gemini](gemini.md)  
+### 7. [Google Gemini](gemini.md)  
   - 📌 **AI-Powered Brainstorming & Research Assistant**  
 🔹 **Expands on initial ideas** by suggesting **alternative approaches, deeper insights, and industry trends**.  
 🔹 Ideal for **research proposal refinement, academic writing, and technology-driven innovations**.  
 
-### 7. [Microsoft Copilot](copilot.md)  
+### 8. [Microsoft Copilot](copilot.md)  
   - 📌 **Integrated AI for Research & Content Structuring**  
 🔹 Works directly within **Microsoft 365 apps** like **Word, PowerPoint, and OneNote**.  
 🔹 Enhances clarity, structure, and organization in **reports, presentations, and academic papers**.  
 
-### 8. [ChatGPT](chatgpt.md)   
+### 9. [ChatGPT](chatgpt.md)   
   - 📌 **AI-Assisted Ideation & Structured Brainstorming**  
 🔹 Generates **creative research ideas**, suggests **alternative approaches**, and provides **contextual insights**.  
 🔹 Supports **structured brainstorming sessions** based on **user input and research goals**.  
 
-### 9. [AI-Powered Brainstorming for High-Impact Research](prompt.md)  
+### 10. [AI-Powered Brainstorming for High-Impact Research](prompt.md)  
   - 📌 **Optimized AI Prompts for Research Innovation**  
 🔹 A structured guide featuring AI-generated **prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT**.  
 🔹 Designed for **brainstorming research ideas suitable for Web of Science Q1/Q2 Computer Science journals**.  
