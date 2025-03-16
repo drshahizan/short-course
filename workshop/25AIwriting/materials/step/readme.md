@@ -143,9 +143,11 @@ A strong methodology ensures **replicability**.
 - **[ChatGPT](https://openai.com/chatgpt/)** – Draft response letters.
 - **[Grammarly](https://www.grammarly.com/)** – Improve clarity.
 
-## **Step 9: Promote Your Research**  
-
-After acceptance, **increase visibility** through **[Google Scholar](https://scholar.google.com/)**.
+## Step 9: [Promote Your Research](../promote)
+- Index Your Research in Academic Databases*
+- Share Your Research on Social & Professional Networks
+- Create Visual Summaries & Research Highlights
+- Publish Blog Posts & Research Summaries
 
 ### 🙌🏻 Connect with Me
 <p align="left">
