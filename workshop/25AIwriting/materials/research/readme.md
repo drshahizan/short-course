@@ -28,7 +28,7 @@ A strong research topic is built on a **clear understanding of existing literatu
 🔹 **[Inciteful](https://inciteful.xyz/)** – Analyzes **citation networks** to identify **high-impact papers and research gaps**.  
 🔹 **[Scite](https://scite.ai/)** – Provides **citation-based insights** on how papers are being discussed in the academic community.  
 
-### 2️⃣ Generate and Refine Research Questions** 🧩  
+### 2️⃣ Generate and Refine Research Questions 🧩  
 A well-defined research question is **precise, answerable, and significant**. AI-driven tools help in **brainstorming, structuring, and refining research questions** to enhance clarity.  
 
 - ✅ **Use these AI tools for question generation and refinement:**  
