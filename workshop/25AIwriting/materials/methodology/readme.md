@@ -5,92 +5,99 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📚 Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)
+# 🔬 Developing Methodology and Experiment Plan
 
-A **well-structured literature review** is a crucial component of any research study, providing the foundation for **identifying knowledge gaps, supporting hypotheses, and justifying research objectives**. A **Systematic Literature Review (SLR)** goes a step further by **adopting a structured and replicable methodology** to ensure **transparency, objectivity, and comprehensiveness** in reviewing existing studies.  
+A **well-structured methodology** is essential for ensuring that **your research is replicable, reliable, and scientifically sound**. The methodology defines how data will be collected, analyzed, and interpreted to achieve research objectives. AI-powered tools can assist in **experiment planning, data preprocessing, model development, evaluation, and diagram visualization**.
 
-## 🎯 **Why is a Literature Review Important?**  
+📌 **Why is a Strong Methodology Important?**  
+✅ Ensures **research transparency and replicability**  
+✅ Provides a **clear roadmap** for data collection and analysis  
+✅ Enhances **accuracy, consistency, and reproducibility**  
+✅ Improves **efficiency** by leveraging AI-driven experiment design  
 
-✅ **Identifies research gaps** and justifies the study’s novelty  
-✅ **Builds a strong theoretical foundation** for research  
-✅ **Prevents redundancy** by ensuring originality  
-✅ **Enhances credibility** by integrating high-quality sources  
-✅ **Facilitates reproducibility** through systematic documentation  
+## 🔍 **How to Design a Methodology?**  
 
-## 🔍 **Types of Literature Reviews**  
+### **1️⃣ Define Your Dataset and Experimental Setup** 📊  
+A well-structured **dataset and experimental setup** lay the foundation for accurate research outcomes. **AI tools** can assist in dataset curation, preprocessing, and analysis.
 
-### **1️⃣ Traditional Literature Review (Narrative Review)**  
-A **traditional review** provides a **broad overview** of a research topic, summarizing and analyzing prior studies **without a strict methodology**. It is **flexible** but can suffer from **bias and lack of reproducibility**.  
-
-### **2️⃣ Systematic Literature Review (SLR) 🔬**  
-An **SLR follows a structured and rigorous methodology** to collect, analyze, and synthesize existing literature, ensuring **transparency, objectivity, and replicability**.  
-
-📌 **Key Steps in an SLR:**  
-1. **Define Research Questions** – Use frameworks like **PICO (for healthcare) or PRISMA**.  
-2. **Develop a Search Strategy** – Identify **databases, keywords, and Boolean operators**.  
-3. **Set Inclusion/Exclusion Criteria** – Define eligibility for selecting studies.  
-4. **Conduct Systematic Searching** – Use databases like **Scopus, Web of Science, and IEEE Xplore**.  
-5. **Screen and Select Relevant Papers** – Use AI tools for **filtering and citation analysis**.  
-6. **Extract and Analyze Data** – Identify **trends, findings, and research gaps**.  
-7. **Synthesize Findings** – Summarize the literature using **qualitative or quantitative methods**.  
-8. **Report the Review** – Follow **PRISMA guidelines** for reporting results.  
-
-✅ **SLR Guidelines & Frameworks:**  
-- **PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)**  
-- **PICO (Population, Intervention, Comparison, Outcome) – Healthcare SLR**  
-- **Cochrane Review Guidelines**  
-
-## 🛠 **AI-Powered Tools for Conducting Literature Reviews**  
-
-### **1️⃣ Discover Relevant Research Papers** 🔎  
+✅ **AI-Powered Tools for Dataset Preparation & Experiment Design:**  
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------------- | ------------------ | 
-| 1 | [Zeta Alpha](https://search.zeta-alpha.com/) | AI-powered **Neural Discovery Platform** for research and knowledge management. | 
-| 2 | [EvidenceHunt](https://evidencehunt.com/) | AI-driven **clinical evidence search engine** for healthcare professionals. | 
-| 3 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **academic search engine** that finds **relevant scientific literature**. | 
-| 4 | [R Discovery](https://discovery.researcher.life/) | AI-enhanced **comprehensive research platform** for literature discovery. | 
-| 5 | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore related research. | 
-| 6 | [Consensus.app](https://consensus.app/) | AI-based **research summarization tool** for extracting key insights. | 
-| 7 | [Elicit](https://elicit.com/) | AI-powered **literature review and research workflow automation**. | 
-
-### **2️⃣ Reference Management & Citation Analysis** 🗂  
-
-|  No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------------- | ------------------ | 
-| 1 | [Zotero](https://www.zotero.org/) | Free **reference manager** that helps organize **academic papers**. | 
-| 2 | [Mendeley](https://www.mendeley.com/) | AI-powered **bibliography and citation management tool**. | 
-| 3 | [EndNote](https://endnote.com/) | Industry-standard **reference management software**. | 
-| 4 | [Paperpile](https://paperpile.com/) | Cloud-based **citation manager** that integrates with Google Docs. | 
+| ---: | ---------- | ---------: | 
+| 1 | [ChatGPT](https://openai.com/chatgpt/) | Generates **research methodology frameworks and data preprocessing pipelines**. | 
+| 2 | [Google Colab](https://colab.research.google.com/) | Cloud-based **Python coding platform for experiment execution**. | 
+| 3 | [Jupyter Notebook](https://jupyter.org/) | Open-source **interactive environment for coding and experimentation**. | 
+| 4 | [Kaggle](https://www.kaggle.com/) | Provides **public datasets and computational notebooks**. | 
+| 5 | [DataRobot](https://www.datarobot.com/) | AI-driven tool for **automating data preparation and model selection**. | 
+| 6 | [Deepnote](https://deepnote.com/) | AI-powered **collaborative notebook for data science experiments**. | 
+| 7 | [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) | AI-based platform for **data exploration, modeling, and visualization**. | 
 
 
-### 3️⃣ Extracting & Summarizing Key Findings ✍  
+### **2️⃣ Develop and Implement Your Model/Algorithm** 💻  
+Choosing the right **framework, experiment environment, and optimization techniques** is essential for achieving **robust results**. AI-based development platforms **enhance efficiency, automate processes, and accelerate model training**.  
 
-|  No. | 🛠 Tool Name | 📖 Function | 
-| --- | ---------------- | ------------------ |
-| 1 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **summary generator** for research papers. | 
-| 2 | [DeepSeek](https://deepseek.com/) | Helps researchers **analyze and synthesize literature efficiently**. | 
-| 3 | [Qwen AI](https://qwen.ai/) | AI-powered tool for **extracting key arguments from academic content**. | 
-| 4 | [Kimi AI](https://kimi.ai/) | AI-driven assistant for **structuring and refining literature reviews**. | 
-| 5 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing and literature review drafts**. | 
+✅ **AI Tools for Model Development & Algorithm Implementation:**  
 
-### **4️⃣ Visualizing Research Trends & Citation Networks** 🌐  
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------- | ---------: | 
+| 1 | [TensorFlow](https://www.tensorflow.org/) | Open-source **machine learning framework** for deep learning models. | 
+| 2 | [PyTorch](https://pytorch.org/) | **Flexible deep learning framework** for AI model training. | 
+| 3 | [AutoML by Google](https://cloud.google.com/automl/) | AI-powered **automated machine learning tool**. | 
+| 4 | [Hugging Face](https://huggingface.co/) | AI model repository with **pre-trained NLP models**. | 
+| 5 | [Weights & Biases](https://wandb.ai/) | **Experiment tracking tool** for deep learning models. | 
+| 6 | [Neptune.ai](https://neptune.ai/) | AI-powered **experiment tracking and visualization tool**. | 
+| 7 | [Optuna](https://optuna.org/) | **Hyperparameter tuning framework** for optimizing machine learning models. | 
 
-|  No. | 🛠 **Tool Name** | 📖 **Function** | 
-| --- | ---------------- | ------------------ | 
-| 1 | [Inciteful](https://inciteful.xyz/) | AI-powered **citation graph builder** for mapping research. | 
-| 2 | [Open Knowledge Maps](https://openknowledgemaps.org/) | Creates **interactive knowledge graphs** for research visualization. | 
-| 3 | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 
-| 4 | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 
-| 5 | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 
 
-## ✅ **Best Practices for a Systematic Literature Review (SLR)**  
+### **3️⃣ Evaluate and Optimize Your Model** 📈  
+After building a model, rigorous **evaluation and optimization** are required to improve accuracy and generalizability. AI tools can assist in **hyperparameter tuning, performance monitoring, and model validation**.  
 
-📌 **Develop a Research Protocol** – Clearly define research objectives, search strategies, and criteria.  
-📌 **Use Multiple Databases** – Combine searches from **Scopus, Web of Science, IEEE Xplore, and Google Scholar**.  
-📌 **Screen & Filter Papers** – Use **AI-powered tools** to streamline paper selection.  
-📌 **Document & Synthesize Findings** – Maintain a structured record of research results.  
-📌 **Follow PRISMA Guidelines** – Ensure the SLR is **transparent and replicable**.  
+✅ **AI Tools for Model Evaluation & Experiment Optimization:**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------- | ---------: | 
+| 1 | [MLflow](https://mlflow.org/) | **End-to-end tracking** for ML experiments. | 
+| 2 | [Optuna](https://optuna.org/) | AI-driven **hyperparameter tuning tool**. | 
+| 3 | [GridSearchCV (Scikit-learn)](https://scikit-learn.org/) | **Grid-based hyperparameter search** for model optimization. | 
+| 4 | [Hyperopt](https://hyperopt.github.io/hyperopt/) | **Bayesian optimization framework** for deep learning models. | 
+| 5 | [SigOpt](https://sigopt.com/) | AI-powered **model optimization tool**. | 
+| 6 | [TensorBoard](https://www.tensorflow.org/tensorboard) | **Visualization tool** for monitoring model performance. | 
+| 7 | [SHAP (SHapley Additive Explanations)](https://shap.readthedocs.io/en/latest/) | AI-based **explainability framework** for ML models. | 
+
+
+### **4️⃣ Visualizing Methodology and Experimental Design** 🎨  
+A **clear and well-structured diagram** improves the **understanding and documentation** of research methodology. AI-powered tools can generate **diagrams, flowcharts, and experiment workflow illustrations**.  
+
+✅ **AI Tools for Diagram Generation & Visualization:**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------- | --------- | 
+| 1 | [Eraser.io DiagramGPT](https://www.eraser.io/diagramgpt) | AI-powered **diagram generator for research methodology**. | 
+| 2 | [Diagramming AI](https://diagrammingai.com) | Generates **automated flowcharts and experiment workflows**. | 
+| 3 | [Venngage AI Diagram Generator](https://venngage.com/ai-tools/diagram-generator) | Creates **AI-assisted diagrams for academic reports**. | 
+| 4 | [Miro AI Diagram](https://miro.com/ai/diagram-ai/) | AI-enhanced **diagramming tool for collaborative research**. | 
+
+### **5️⃣ Document and Automate Your Methodology** 📝  
+Proper **documentation** ensures that **your methodology is transparent and reproducible**. AI-driven tools help in **automating experiment logging, workflow execution, and technical documentation**.  
+
+✅ **AI Tools for Methodology Documentation & Workflow Automation:**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------- | --------- | 
+| 1 | [Notion](https://www.notion.so/) | AI-powered **research documentation tool**. | 
+| 2 | [Obsidian](https://obsidian.md/) | **Knowledge management system** for scientific research. | 
+| 3 | [Snorkel AI](https://www.snorkel.org/) | Automates **data labeling and experiment documentation**. | 
+| 4 | [GitHub](https://github.com/) | **Version control system** for managing experiment workflows. | 
+| 5 | [DVC (Data Version Control)](https://dvc.org/) | AI-powered **data and experiment versioning tool**. | 
+| 6 | [Paperspace Gradient](https://gradient.paperspace.com/) | **Cloud-based AI experiment management system**. | 
+
+## ✅ **Best Practices for a Strong Methodology & Experiment Plan**  
+📌 **Define Clear Objectives** – Outline the purpose of each experiment and expected outcomes.  
+📌 **Use AI for Efficiency** – Leverage **AI-driven tools for automation, model selection, and data preprocessing**.  
+📌 **Optimize Parameters** – Implement **hyperparameter tuning strategies** to improve model performance.  
+📌 **Ensure Reproducibility** – Document all experiments using **Notion, Jupyter Notebook, or GitHub**.  
+📌 **Visualize Workflows** – Use AI diagramming tools to create **clear, structured experiment workflows**.  
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
