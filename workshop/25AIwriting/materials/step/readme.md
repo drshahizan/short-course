@@ -17,30 +17,10 @@ Publishing in a **high-impact journal** is a prestigious achievement that requir
 
 Generating and organizing **innovative research ideas** is crucial for **problem-solving, research structuring, and creative exploration**. AI-powered brainstorming tools help researchers, writers, and professionals **visualize, refine, and expand** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
 
-### AI Tools for Brainstorming and Idea Generation
-
-### **How to Brainstorm and Generate Ideas?**
-1. **Use AI Mind-Mapping Tools**  
-   - **[Ideamap](../brain/ideamap.md), [EdrawMax](../brain/edrawmax.md)** → Automatically generates **concept maps** based on keywords.
-   - **[Napkin.ai](../brain/napkin.md)** → Organizes fragmented ideas into structured insights.
-   - **[Markmap](../brain/markmap.md)** → Converts Markdown text into **interactive mind maps** for organizing ideas.
-
-2. **Explore Research Topics with AI Assistants**  
-   - **[Google Gemini](../brain/gemini.md)** and **[Microsoft Copilot](../brain/copilot.md)** can analyze trends and **suggest emerging research areas**.  
-   - Example: *"What are the recent advancements in AI-driven cybersecurity?"*
-
-3. **Refine and Structure Ideas**  
-   - **[HyperWrite](../brain/hyperwrite.md)** → Helps in structuring research problems by providing **logical outlines**.  
-   - **[ChatGPT](../brain/chatgpt.md)** → Assists in **expanding and narrowing research focus**.  
-   - Example: *"Suggest a research question based on the latest developments in IoT security."*
-
-✅ **AI Tools to Use:**
-- **[Ideamap](../brain/ideamap.md), [EdrawMax](../brain/edrawmax.md) and [Napkin.ai](../brain/napkin.md)** – Generate concept maps.
-- **[Markmap](../brain/markmap.md)** – Create mind maps.
-- **[HyperWrite](../brain/hyperwrite.md)** – Structure research problems.
-- **[Google Gemini](../brain/gemini.md)** – Analyze trends.
-- **[Microsoft Copilot](../brain/copilot.md)** – Generate topic insights.
-- **[ChatGPT](../brain/chatgpt.md)** – Refine research questions.
+### AI Tools:
+1. Mind Mapping & Visual Structuring
+2. Research & Idea Expansion
+3. Prompting & Automated Brainstorming
 
 ## Step 2: [Identify a Suitable Journal](../journal)  
 
