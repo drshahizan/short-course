@@ -12,8 +12,6 @@
 
 Publishing in a **high-impact journal** is a prestigious achievement requiring **originality, clarity, and high scientific rigor**. This guide provides a **structured breakdown of each step**, leveraging **AI tools** to enhance your workflow and **maximize efficiency**.  
 
----
-
 ## 📝 Step 1: [Brainstorming and Idea Generation](../brain)  
 
 💡 **Why?** Generating and organizing **innovative research ideas** is crucial for **problem-solving, structuring research, and creative exploration**.  
@@ -24,8 +22,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Research & Idea Expansion  
 ✔️ Prompting & Automated Brainstorming  
 
-
-
 ## 📚 Step 2: [Identify a Suitable Journal](../journal)  
 
 📌 **Why?** Selecting the right **academic journal** ensures your research reaches the **right audience**, **maximizes impact**, and **meets publication standards**.  
@@ -34,8 +30,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✅ **AI Tools:**  
 ✔️ Journal Recommendation  
 ✔️ Journal Selection & Research Indexing  
-
-
 
 ## 🎯 **Step 3: [Define Your Research Topic & Problem Statement](../research)  
 
@@ -48,8 +42,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Read and Summarize Peer-Reviewed Papers  
 ✔️ Generate & Refine Research Questions  
 
----
-
 ## 🔍 **Step 4: [Conduct a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)  
 
 📖 **Why?** A **well-structured literature review** forms the backbone of any research, ensuring **credibility, justification, and contextual relevance**.  
@@ -60,8 +52,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Reference Management & Citation Analysis  
 ✔️ Extracting & Summarizing Key Findings  
 ✔️ Visualizing Research Trends & Citation Networks  
-
----
 
 ## ⚙️ Step 5: [Develop Methodology and Experiment Plan](../methodology)  
 
@@ -74,8 +64,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Model Evaluation & Experiment Optimization  
 ✔️ Visualizing Methodology & Experimental Design  
 
----
-
 ## 📊 Step 6: [Analyze and Visualize Results](../analysis)  
 
 📈 **Why?** A **structured analysis and visualization** of research results help in conveying findings **effectively, accurately, and comprehensively**.  
@@ -86,7 +74,6 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Data Visualizations & Interactive Graphs  
 ✔️ Interpretation & Summarization  
 ✔️ Diagram Generation & Research Visualization  
-
 
 ## ✍️ Step 7: [Writing the Manuscript Using AI Assistance](../write)  
 
