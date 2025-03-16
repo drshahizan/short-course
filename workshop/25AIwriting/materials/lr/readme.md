@@ -46,50 +46,43 @@ An **SLR follows a structured and rigorous methodology** to collect, analyze, an
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1️⃣ | [Zeta Alpha](https://search.zeta-alpha.com/) | AI-powered **Neural Discovery Platform** for research and knowledge management. | 
-| 2️⃣ | [EvidenceHunt](https://evidencehunt.com/) | AI-driven **clinical evidence search engine** for healthcare professionals. | 
-| 3️⃣ | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **academic search engine** that finds **relevant scientific literature**. | 
-| 4️⃣ | [R Discovery](https://discovery.researcher.life/) | AI-enhanced **comprehensive research platform** for literature discovery. | 
-| 5️⃣ | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore related research. | 
-| 6️⃣ | [Consensus.app](https://consensus.app/) | AI-based **research summarization tool** for extracting key insights. | 
-| 7️⃣ | [Elicit](https://elicit.com/) | AI-powered **literature review and research workflow automation**. | 
-
-
+| 1 | [Zeta Alpha](https://search.zeta-alpha.com/) | AI-powered **Neural Discovery Platform** for research and knowledge management. | 
+| 2 | [EvidenceHunt](https://evidencehunt.com/) | AI-driven **clinical evidence search engine** for healthcare professionals. | 
+| 3 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **academic search engine** that finds **relevant scientific literature**. | 
+| 4 | [R Discovery](https://discovery.researcher.life/) | AI-enhanced **comprehensive research platform** for literature discovery. | 
+| 5 | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore related research. | 
+| 6 | [Consensus.app](https://consensus.app/) | AI-based **research summarization tool** for extracting key insights. | 
+| 7 | [Elicit](https://elicit.com/) | AI-powered **literature review and research workflow automation**. | 
 
 ### **2️⃣ Reference Management & Citation Analysis** 🗂  
 
-| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
-| --- | ---------------- | ------------------ | :--------: |
-| 1️⃣ | [Zotero](https://www.zotero.org/) | Free **reference manager** that helps organize **academic papers**. | 🔗 |
-| 2️⃣ | [Mendeley](https://www.mendeley.com/) | AI-powered **bibliography and citation management tool**. | 🔗 |
-| 3️⃣ | [EndNote](https://endnote.com/) | Industry-standard **reference management software**. | 🔗 |
-| 4️⃣ | [Paperpile](https://paperpile.com/) | Cloud-based **citation manager** that integrates with Google Docs. | 🔗 |
+|  No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Zotero](https://www.zotero.org/) | Free **reference manager** that helps organize **academic papers**. | 
+| 2 | [Mendeley](https://www.mendeley.com/) | AI-powered **bibliography and citation management tool**. | 
+| 3 | [EndNote](https://endnote.com/) | Industry-standard **reference management software**. | 
+| 4 | [Paperpile](https://paperpile.com/) | Cloud-based **citation manager** that integrates with Google Docs. | 
 
----
 
-### **3️⃣ Extracting & Summarizing Key Findings** ✍  
+### 3️⃣ Extracting & Summarizing Key Findings ✍  
 
-| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
-| --- | ---------------- | ------------------ | :--------: |
-| 1️⃣ | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **summary generator** for research papers. | 🔗 |
-| 2️⃣ | [DeepSeek](https://deepseek.com/) | Helps researchers **analyze and synthesize literature efficiently**. | 🔗 |
-| 3️⃣ | [Qwen AI](https://qwen.ai/) | AI-powered tool for **extracting key arguments from academic content**. | 🔗 |
-| 4️⃣ | [Kimi AI](https://kimi.ai/) | AI-driven assistant for **structuring and refining literature reviews**. | 🔗 |
-| 5️⃣ | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing and literature review drafts**. | 🔗 |
-
----
+|  No. | 🛠 Tool Name | 📖 Function | 
+| --- | ---------------- | ------------------ |
+| 1 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **summary generator** for research papers. | 
+| 2 | [DeepSeek](https://deepseek.com/) | Helps researchers **analyze and synthesize literature efficiently**. | 
+| 3 | [Qwen AI](https://qwen.ai/) | AI-powered tool for **extracting key arguments from academic content**. | 
+| 4 | [Kimi AI](https://kimi.ai/) | AI-driven assistant for **structuring and refining literature reviews**. | 
+| 5 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing and literature review drafts**. | 
 
 ### **4️⃣ Visualizing Research Trends & Citation Networks** 🌐  
 
-| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
-| --- | ---------------- | ------------------ | :--------: |
-| 1️⃣ | [Inciteful](https://inciteful.xyz/) | AI-powered **citation graph builder** for mapping research. | 🔗 |
-| 2️⃣ | [Open Knowledge Maps](https://openknowledgemaps.org/) | Creates **interactive knowledge graphs** for research visualization. | 🔗 |
-| 3️⃣ | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 🔗 |
-| 4️⃣ | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 🔗 |
-| 5️⃣ | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 🔗 |
-
----
+|  No. | 🛠 **Tool Name** | 📖 **Function** | 
+| --- | ---------------- | ------------------ | 
+| 1 | [Inciteful](https://inciteful.xyz/) | AI-powered **citation graph builder** for mapping research. | 
+| 2 | [Open Knowledge Maps](https://openknowledgemaps.org/) | Creates **interactive knowledge graphs** for research visualization. | 
+| 3 | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 
+| 4 | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 
+| 5 | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 
 
 ## ✅ **Best Practices for a Systematic Literature Review (SLR)**  
 
@@ -98,8 +91,6 @@ An **SLR follows a structured and rigorous methodology** to collect, analyze, an
 📌 **Screen & Filter Papers** – Use **AI-powered tools** to streamline paper selection.  
 📌 **Document & Synthesize Findings** – Maintain a structured record of research results.  
 📌 **Follow PRISMA Guidelines** – Ensure the SLR is **transparent and replicable**.  
-
-🚀 **With AI-powered tools, researchers can streamline literature reviews, enhance research transparency, and accelerate academic writing efficiency!**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
