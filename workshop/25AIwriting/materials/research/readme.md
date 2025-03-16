@@ -31,9 +31,9 @@ Once a topic is chosen, refining it into **clear, concise, and impactful** resea
 🔹 **[Elicit.org](https://elicit.org/)** – Suggests **research questions** based on existing studies.  
 
 
-## ✅ **AI Tools to Assist in Research Topic Definition**  
+## 🛠 **AI Tools to Assist in Research Topic Definition**  
 
-| No. | 🛠 **Tool Name** | 📖 **Description** |
+| No. | Tool Name | 📖 Description |
 | ---: | ---------------- | ------------------ |
 | 1 | [Elicit.org](https://elicit.org/) | AI-powered tool for **finding research gaps**, automating **literature reviews**, and suggesting **relevant studies**. |
 | 2 | [Connected Papers](https://www.connectedpapers.com/) | Visualizes **connections between research papers**, helping to **identify underexplored areas**. |
