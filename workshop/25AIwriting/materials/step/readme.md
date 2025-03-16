@@ -85,6 +85,10 @@ A strong methodology ensures **replicability**.
 A well-structured **analysis and visualization** of research results is crucial for conveying findings **effectively, accurately, and comprehensively**. AI-powered tools can assist in **statistical analysis, data visualization, result interpretation, and diagram creation**, making complex data **insightful and actionable**.  
 
 ### ✅ AI Tools:
+1. Statistical Analysis & Data Processing
+2. Data Visualizations & Interactive Graphs
+3. Interpretation & Summarization
+4. Diagram Generation & Research Visualization
 
 ## Step 7: [Writing the Manuscript Using AI Assistance](../write)
 Writing a **high-quality research manuscript** requires careful structuring, **clear and concise language**, and **proper formatting**. AI-powered tools can assist in **drafting, refining, and enhancing** your manuscript, helping you create **a polished and professional research paper** suitable for submission to high-impact journals.  
