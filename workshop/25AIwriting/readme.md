@@ -30,10 +30,10 @@ Artificial Intelligence (AI) is revolutionizing academic writing and research. T
 - 4️⃣ Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)
 
 - 5️⃣ Develop Methodology and Experiment Plan
-- Analyze and Visualize Results
-- Write the Manuscript Using AI Assistance
-- Submitting & Handling Peer Reviews
-- Promote Your Research
+- 6️⃣ Analyze and Visualize Results
+- 7️⃣ Write the Manuscript Using AI Assistance
+- 8️⃣ Submitting & Handling Peer Reviews
+- 9️⃣ Promote Your Research
 
 ## **👥 Who Should Attend?**  
 - 🎓 Postgraduate students looking to enhance their research and academic writing.  
