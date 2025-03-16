@@ -33,7 +33,6 @@ Analyzing experimental data requires robust **statistical techniques** to valida
 | 6️⃣ | [KNIME](https://www.knime.com/) | AI-powered **data analytics and machine learning platform**. | 🔗 |
 | 7️⃣ | [Orange Data Mining](https://orangedatamining.com/) | AI-driven **interactive data visualization and analytics tool**. | 🔗 |
 
----
 
 ### **2️⃣ Generate Data Visualizations & Interactive Graphs** 📈  
 Data visualization simplifies the **interpretation of results** by presenting **complex information in an intuitive and interactive way**. AI-powered visualization tools create **professional-grade charts, graphs, and dashboards**.  
@@ -52,7 +51,6 @@ Data visualization simplifies the **interpretation of results** by presenting **
 | 8️⃣ | [Datawrapper](https://www.datawrapper.de/) | AI-powered **visualization tool for creating charts and maps**. | 🔗 |
 | 9️⃣ | [Vosviewer](https://www.vosviewer.com/) | **Bibliometric analysis and scientific network visualization tool**. | 🔗 |
 
----
 
 ### **3️⃣ Interpret and Summarize Findings Clearly** 📑  
 Interpreting results accurately is **key to drawing meaningful conclusions**. AI tools assist in summarizing, explaining trends, and generating structured insights for reports and publications.  
