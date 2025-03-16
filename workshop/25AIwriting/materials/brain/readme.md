@@ -22,10 +22,10 @@ These tools help in **visualizing ideas, structuring concepts, and organizing th
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Ideamap](ideamap) | AI-powered **mind mapping and structured brainstorming**. | 
-| 2 | [Napkin.ai](napkin) | Converts text ideas into **diagrams, charts, and flowcharts**. | 
-| 3 | [Markmap](markmap) | Converts **Markdown text into interactive mind maps**. | 
-| 4 | [EdrawMax](edrawmax) | **All-in-one diagramming tool** for flowcharts, mind maps, and more. | 
+| 1 | [Ideamap](ideamap.md) | AI-powered **mind mapping and structured brainstorming**. | 
+| 2 | [Napkin.ai](napkin.md) | Converts text ideas into **diagrams, charts, and flowcharts**. | 
+| 3 | [Markmap](markmap.md) | Converts **Markdown text into interactive mind maps**. | 
+| 4 | [EdrawMax](edrawmax.md) | **All-in-one diagramming tool** for flowcharts, mind maps, and more. | 
 | 5 | [Infogram](https://infogram.com/) | **AI-powered data visualization** for research presentation. | 
 | 6 | [Miro AI Diagram](https://miro.com/ai/diagram-ai/) | AI-powered **interactive diagramming tool**. | 
 | 7 | [Venngage AI Diagram](https://venngage.com/ai-tools/diagram-generator) | Creates **professional diagrams and infographics**. | 
@@ -37,10 +37,10 @@ These tools assist in **generating new research ideas, alternative solutions, an
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Google Gemini](gemini) | AI-driven **idea expansion and research assistance**. | 
-| 2 | [Microsoft Copilot](copilot) | AI-powered **research structuring and brainstorming tool**. | 
-| 3 | [ChatGPT](chatgpt) | Generates **creative research ideas and structured outlines**. | 
-| 4 | [HyperWrite](hyperwrite) | AI-powered **creative problem-solving assistant**. | 
+| 1 | [Google Gemini](gemini.md) | AI-driven **idea expansion and research assistance**. | 
+| 2 | [Microsoft Copilot](copilot.md) | AI-powered **research structuring and brainstorming tool**. | 
+| 3 | [ChatGPT](chatgpt.md) | Generates **creative research ideas and structured outlines**. | 
+| 4 | [HyperWrite](hyperwrite.md) | AI-powered **creative problem-solving assistant**. | 
 | 5 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
 | 6 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
 
