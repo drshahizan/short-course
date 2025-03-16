@@ -18,7 +18,7 @@ Selecting the right **brainstorming tool** is essential for **idea generation, r
 ## 🔥 **Top AI-Powered Brainstorming Tools**
 Best AI-driven tools for **brainstorming, mind mapping, and idea generation**:
 
-### 1. [Ideamap](materials/brain/ideamap.md)  
+### 1. [Ideamap](ideamap.md)  
   - 📌 **AI-Powered Mind Mapping & Idea Structuring**  
 🔹 Automatically generates **mind maps** to help users visualize and organize thoughts effectively.  
 🔹 Facilitates **concept structuring, problem-solving, and research planning**.  
