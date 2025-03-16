@@ -13,7 +13,7 @@
 
 Publishing in a **high-impact journal** is a prestigious achievement that requires **originality, clarity, and high scientific rigor**. This guide provides a **detailed breakdown of each step**, incorporating **AI tools** to enhance your workflow and **maximize efficiency**.
 
-## **Step 1: Brainstorming and Idea Generation**  
+## [Step 1: Brainstorming and Idea Generation](brain)  
 
 Before starting your research, you need to **brainstorm ideas, explore concepts, and refine your research direction**.
 
