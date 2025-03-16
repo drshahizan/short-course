@@ -23,31 +23,17 @@ Publishing articles during a PhD is a crucial component of academic and professi
 - Publications in high-impact journals (e.g., WoS Q1 journals) establish credibility as a researcher.  
 - A strong publication record improves employability in academia, research institutions, and industries.  
 
-📖 **Related Article:**  
-🔗 [Why Publishing in High-Impact Journals Matters](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177681)  
-
-
 ### **4️⃣ Building Research Networks** 🤝💡  
 - Presenting research at conferences enables networking with experts and potential collaborators.  
 - Exposure to new ideas and discussions can refine the research direction.  
-
-📖 **Related Article:**  
-🔗 [Networking for Researchers: A Guide](https://www.elsevier.com/connect/how-to-network-effectively-as-a-researcher)  
 
 ### **5️⃣ Meeting University and Funding Requirements** 🏛️💰  
 - Many universities require PhD students to publish a minimum number of papers before submission.  
 - Funding bodies often expect research output in the form of publications.  
 
-📖 **Related Article:**  
-🔗 [Publication Requirements for PhD Graduates](https://www.nature.com/articles/d41586-018-05634-8)  
-
-
 ### **6️⃣ Bridging the Gap Between Research and Industry** 🏭💻  
 - For Computer Science, especially in areas like AI, cybersecurity, and data science, published research can be applied in real-world scenarios.  
 - Industry collaborations may emerge based on published findings.  
-
-📖 **Related Article:**  
-🔗 [From Research to Industry: How Publications Influence Technology](https://cacm.acm.org/magazines/2020/10/247841-how-research-articles-influence-the-tech-industry/fulltext)  
 
 ## **Mapping the Thesis to Articles 📊🖋️**
 
@@ -60,8 +46,7 @@ Each chapter of a PhD thesis can be transformed into research articles, allowing
 | **Chapter 3: Methodology** ⚙️ | An article detailing the proposed framework, algorithm, or model, with a focus on its novelty and theoretical foundations. | Research article (WoS Q1) |
 | **Chapter 4: Experimental Design & Implementation** 🛠️ | A detailed study on the implementation of the proposed system, including datasets, tools, and techniques. | Research article (WoS Q1/Scopus) |
 | **Chapter 5: Results & Discussion** 📊 | An article presenting experimental results, comparative analysis, and discussion of findings. | Research article (WoS Q1) |
-| **Chapter 6: Case Studies or Applications** 🏛️ | A case study on real-world applications of the proposed approach, highlighting its effectiveness. | Case study paper (Scopus/WoS Q2) |
-| **Chapter 7: Conclusion & Future Work** 🔮 | A short paper discussing the implications of findings and proposing future research directions. | Short communication (WoS/Scopus) |
+| **Chapter 6: Conclusion & Future Work** 🔮 | A short paper discussing the implications of findings and proposing future research directions. | - |
 
 📖 **Related Article:**  
 🔗 [How to Structure Your PhD Thesis into Papers](https://www.sciencedirect.com/science/article/pii/S0020748918302224)  
