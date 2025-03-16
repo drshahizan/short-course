@@ -13,16 +13,51 @@ A well-defined research problem ensures **clarity and novelty**.
  <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
 
-## **How to Define a Research Topic?**
-1. **Identify Knowledge Gaps**  
-   - Use **[Elicit.org](https://elicit.org/)** or **[Connected Papers](https://www.connectedpapers.com/)**.
+Here is the **refined and professional** version of your content in **Markdown**, making it more structured, visually appealing, and detailed:
 
-2. **Generate and Refine Research Questions**  
-   - Use **[ChatGPT](https://openai.com/chatgpt/)** to brainstorm research questions.
+---
 
-✅ **AI Tools to Use:**
-- **[Elicit.org](https://elicit.org/)** – Find research gaps.
-- **[Connected Papers](https://www.connectedpapers.com/)** – Explore related papers.
+# 🎯 **Defining Your Research Topic & Problem Statement**  
+
+A well-defined research topic and problem statement are **critical** to ensuring the **clarity, relevance, and novelty** of your study. A strong foundation leads to **meaningful contributions** to the field and increases the chances of publication in **high-impact journals**.  
+
+📌 **Why is it important?**  
+✅ Helps in **identifying knowledge gaps**  
+✅ Ensures **research originality and significance**  
+✅ Provides a **clear direction** for data collection and analysis  
+✅ Aligns with **publication and funding requirements**  
+
+## 🔍 **How to Define a Research Topic?**  
+
+### **1️⃣ Identify Knowledge Gaps** 🔎  
+To ensure your research contributes **new insights**, it is crucial to identify **gaps in existing literature**.  
+✅ Use **AI-powered tools** to analyze research trends and discover **unexplored areas**.  
+
+🔹 **[Elicit.org](https://elicit.org/)** – AI-driven tool for **literature review and research gap identification**.  
+🔹 **[Connected Papers](https://www.connectedpapers.com/)** – Visualizes **connections between related research papers**.  
+
+### **2️⃣ Generate and Refine Research Questions** 🧩  
+Once a topic is chosen, refining it into **clear, concise, and impactful** research questions is essential.  
+
+✅ Use **AI brainstorming tools** to structure and validate research questions:  
+🔹 **[ChatGPT](https://openai.com/chatgpt/)** – Generates **research questions** and provides **alternative perspectives**.  
+🔹 **[Elicit.org](https://elicit.org/)** – Suggests **research questions** based on existing studies.  
+
+
+## ✅ **AI Tools to Assist in Research Topic Definition**  
+
+| No. | 🛠 **Tool Name** | 📖 **Description** |
+| ---: | ---------------- | ------------------ |
+| 1 | [Elicit.org](https://elicit.org/) | AI-powered tool for **finding research gaps**, automating **literature reviews**, and suggesting **relevant studies**. |
+| 2 | [Connected Papers](https://www.connectedpapers.com/) | Visualizes **connections between research papers**, helping to **identify underexplored areas**. |
+| 3 | [ChatGPT](https://openai.com/chatgpt/) | Assists in **brainstorming research questions**, refining problem statements, and generating **alternative study approaches**. |
+
+## 📌 **Best Practices for Defining a Strong Research Topic**
+✨ **Be Specific** – Avoid broad topics; focus on **one key issue**.  
+✨ **Ensure Relevance** – Align with **current research trends** and **real-world applications**.  
+✨ **Check Feasibility** – Ensure access to **data, tools, and resources**.  
+✨ **Review Literature** – Use **AI tools** to explore **existing studies and research gaps**.  
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
