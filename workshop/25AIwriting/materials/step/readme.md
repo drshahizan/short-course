@@ -5,93 +5,123 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
-</a>
+# 📌 A Step-by-Step Guide to Writing a **High-Impact Journal Article** Using AI Tools  
 
-Publishing in a **high-impact journal** is a prestigious achievement that requires **originality, clarity, and high scientific rigor**. This guide provides a **detailed breakdown of each step**, incorporating **AI tools** to enhance your workflow and **maximize efficiency**.
+[![Dr Shahizan AI Tools](article_ai.png)](https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting)  
 
-## Step 1: [Brainstorming and Idea Generation](../brain)  
+Publishing in a **high-impact journal** is a prestigious achievement requiring **originality, clarity, and high scientific rigor**. This guide provides a **structured breakdown of each step**, leveraging **AI tools** to enhance your workflow and **maximize efficiency**.  
 
-Generating and organizing **innovative research ideas** is crucial for **problem-solving, research structuring, and creative exploration**. AI-powered brainstorming tools help researchers, writers, and professionals **visualize, refine, and expand** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
+---
 
-### ✅ AI Tools:
-1. Mind Mapping & Visual Structuring
-2. Research & Idea Expansion
-3. Prompting & Automated Brainstorming
+## 📝 Step 1: [Brainstorming and Idea Generation](../brain)  
 
-## Step 2: [Identify a Suitable Journal](../journal)  
+💡 **Why?** Generating and organizing **innovative research ideas** is crucial for **problem-solving, structuring research, and creative exploration**.  
+🔍 **How AI Helps:** AI-powered brainstorming tools assist researchers in **visualizing, refining, and expanding** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
 
-Selecting the right **academic journal** is a **critical step** in the publication process. Choosing a suitable journal ensures that **your research reaches the right audience, maximizes impact, and meets publication standards**. With AI-powered tools, researchers can now efficiently match their manuscripts to **high-impact journals** based on **title, abstract, keywords, and research field**.  
+✅ **AI Tools:**  
+✔️ Mind Mapping & Visual Structuring  
+✔️ Research & Idea Expansion  
+✔️ Prompting & Automated Brainstorming  
 
-### ✅ AI Tools:
-1. Journal Recommendation
-2. Journal Selection & Research Indexing
 
-## Step 3: [Define Your Research Topic & Problem Statement](../research)    
-A well-defined research topic and problem statement are **fundamental to academic success**, ensuring **clarity, originality, and impact**. With AI-powered tools, researchers can efficiently **identify knowledge gaps, generate research questions, and streamline literature reviews** to refine their study focus.
 
-### ✅ AI Tools:
-1. Identify Knowledge Gaps in Existing Research
-2. Perform Literature Review & Analyze Research Trends
-3. Read and Summarize Peer-Reviewed Papers Efficiently
-4. Generate & Refine Research Questions
+## 📚 Step 2: [Identify a Suitable Journal](../journal)  
 
-## Step 4: [Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)
-A **well-structured literature review** is a crucial component of any research study, providing the foundation for **identifying knowledge gaps, supporting hypotheses, and justifying research objectives**. A **Systematic Literature Review (SLR)** goes a step further by **adopting a structured and replicable methodology** to ensure **transparency, objectivity, and comprehensiveness** in reviewing existing studies.  
+📌 **Why?** Selecting the right **academic journal** ensures your research reaches the **right audience**, **maximizes impact**, and **meets publication standards**.  
+🤖 **How AI Helps:** AI tools efficiently match manuscripts to **high-impact journals** based on **title, abstract, keywords, and research field**.  
 
-### ✅ AI Tools:
-1. Discover Relevant Research Papers
-2. Reference Management & Citation Analysis
-3. Extracting & Summarizing Key Findings
-4. Visualizing Research Trends & Citation Networks
+✅ **AI Tools:**  
+✔️ Journal Recommendation  
+✔️ Journal Selection & Research Indexing  
 
-## Step 5: [Develop Methodology and Experiment Plan](../methodology)
-A **well-structured methodology** is essential for ensuring that **your research is replicable, reliable, and scientifically sound**. The methodology defines how data will be collected, analyzed, and interpreted to achieve research objectives. AI-powered tools can assist in **experiment planning, data preprocessing, model development, evaluation, and diagram visualization**.
 
-### ✅ AI Tools:
-1. Dataset Preparation & Experiment Design
-2. Model Development & Algorithm Implementation
-3. Model Evaluation & Experiment Optimization
-4. Visualizing Methodology and Experimental Design
 
-## Step 6: [Analyze and Visualize Results](../analysis)
-A well-structured **analysis and visualization** of research results is crucial for conveying findings **effectively, accurately, and comprehensively**. AI-powered tools can assist in **statistical analysis, data visualization, result interpretation, and diagram creation**, making complex data **insightful and actionable**.  
+## 🎯 **Step 3: [Define Your Research Topic & Problem Statement](../research)  
 
-### ✅ AI Tools:
-1. Statistical Analysis & Data Processing
-2. Data Visualizations & Interactive Graphs
-3. Interpretation & Summarization
-4. Diagram Generation & Research Visualization
+🎯 **Why?** A well-defined research topic and problem statement are **fundamental** to academic success, ensuring **clarity, originality, and impact**.  
+🤖 **How AI Helps:** AI-powered tools efficiently **identify knowledge gaps, generate research questions, and streamline literature reviews**.  
 
-## Step 7: [Writing the Manuscript Using AI Assistance](../write)
-Writing a **high-quality research manuscript** requires careful structuring, **clear and concise language**, and **proper formatting**. AI-powered tools can assist in **drafting, refining, and enhancing** your manuscript, helping you create **a polished and professional research paper** suitable for submission to high-impact journals.  
+✅ **AI Tools:**  
+✔️ Identify Knowledge Gaps in Existing Research  
+✔️ Perform Literature Review & Analyze Research Trends  
+✔️ Read and Summarize Peer-Reviewed Papers  
+✔️ Generate & Refine Research Questions  
 
-### ✅ AI Tools:
-1. Drafting Research Papers
-2. Language Enhancement & Proofreading
-3. Plagiarism Detection & Citation Formatting
-4. Research Paper Formatting & Submission
-   
-## Step 8: [Submitting & Handling Peer Reviews](../submit)
-Submitting your research paper and navigating the **peer review process** is a critical step in academic publishing. Properly preparing your manuscript for submission and **handling reviewer comments professionally** increases the chances of **acceptance in high-impact journals**. AI-powered tools can assist in **submission formatting, journal selection, responding to reviewers, and refining your manuscript** for final acceptance.  
+---
 
-### ✅ AI Tools:
-1. Journal Selection & Manuscript Preparation
-2. Drafting Responses & Handling Peer Reviews
-3. Revising & Improving Manuscripts After Peer Review
-4. Submission Tracking & Workflow Management
+## 🔍 **Step 4: [Conduct a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)  
 
-## Step 9: [Promote Your Research](../promote)
-Once your research is **accepted and published**, the next crucial step is to **increase its visibility, impact, and citations**. Effective **research promotion** ensures that your work reaches **a global audience, engages researchers, and influences future studies**. AI-powered tools can help in **enhancing research discoverability, sharing insights across platforms, and analyzing engagement metrics**.  
+📖 **Why?** A **well-structured literature review** forms the backbone of any research, ensuring **credibility, justification, and contextual relevance**.  
+🤖 **How AI Helps:** AI tools facilitate **research discovery, reference management, citation analysis, and visualization of research trends**.  
 
-### ✅ AI Tools:
-1. Index Your Research in Academic Databases
-2. Share Your Research on Social & Professional Networks
-3. Create Visual Summaries & Research Highlights
-4. Publish Blog Posts & Research Summaries
+✅ **AI Tools:**  
+✔️ Discover Relevant Research Papers  
+✔️ Reference Management & Citation Analysis  
+✔️ Extracting & Summarizing Key Findings  
+✔️ Visualizing Research Trends & Citation Networks  
+
+---
+
+## ⚙️ Step 5: [Develop Methodology and Experiment Plan](../methodology)  
+
+📌 **Why?** A well-structured methodology ensures your research is **replicable, reliable, and scientifically sound**.  
+🤖 **How AI Helps:** AI tools assist in **experiment planning, data preprocessing, model development, evaluation, and visualization**.  
+
+✅ **AI Tools:**  
+✔️ Dataset Preparation & Experiment Design  
+✔️ Model Development & Algorithm Implementation  
+✔️ Model Evaluation & Experiment Optimization  
+✔️ Visualizing Methodology & Experimental Design  
+
+---
+
+## 📊 Step 6: [Analyze and Visualize Results](../analysis)  
+
+📈 **Why?** A **structured analysis and visualization** of research results help in conveying findings **effectively, accurately, and comprehensively**.  
+🤖 **How AI Helps:** AI-powered tools support **statistical analysis, data visualization, and research interpretation**.  
+
+✅ **AI Tools:**  
+✔️ Statistical Analysis & Data Processing  
+✔️ Data Visualizations & Interactive Graphs  
+✔️ Interpretation & Summarization  
+✔️ Diagram Generation & Research Visualization  
+
+
+## ✍️ Step 7: [Writing the Manuscript Using AI Assistance](../write)  
+
+📝 **Why?** Writing a **high-quality research manuscript** requires **proper structuring, clarity, and adherence to academic standards**.  
+🤖 **How AI Helps:** AI-powered tools assist in **drafting, refining, proofreading, and formatting** research papers.  
+
+✅ **AI Tools:**  
+✔️ Drafting Research Papers  
+✔️ Language Enhancement & Proofreading  
+✔️ Plagiarism Detection & Citation Formatting  
+✔️ Research Paper Formatting & Submission  
+
+## 📑 Step 8: [Submitting & Handling Peer Reviews](../submit)  
+
+🛠️ **Why?** Proper submission formatting and **handling reviewer comments professionally** can **significantly improve** acceptance rates in **high-impact journals**.  
+🤖 **How AI Helps:** AI tools aid in **submission tracking, journal selection, and refining manuscripts** based on peer review feedback.  
+
+✅ **AI Tools:**  
+✔️ Journal Selection & Manuscript Preparation  
+✔️ Drafting Responses & Handling Peer Reviews  
+✔️ Revising & Improving Manuscripts After Peer Review  
+✔️ Submission Tracking & Workflow Management  
+
+## 🚀 [Step 9: Promote Your Research](../promote)  
+
+📢 **Why?** Increasing research visibility ensures **higher citations, global reach, and greater academic impact**.  
+🤖 **How AI Helps:** AI-powered tools enhance **research discoverability, social media engagement, and citation tracking**.  
+
+✅ **AI Tools:**  
+✔️ Index Your Research in Academic Databases  
+✔️ Share Your Research on Social & Professional Networks  
+✔️ Create Visual Summaries & Research Highlights  
+✔️ Publish Blog Posts & Research Summaries  
+
+🔗 **Need More?** Check out the full workshop resources **[here](https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting)**  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
