@@ -26,8 +26,8 @@ Artificial Intelligence (AI) is revolutionizing academic writing and research. T
 
 - 3️⃣ [Define Your Research Topic & Problem Statement](materials/research)
 
-- Conduct a Comprehensive Literature Review
-- Develop Methodology and Experiment Plan
+- 4️⃣ Conduct a Comprehensive Literature Review
+- 5️⃣ Develop Methodology and Experiment Plan
 - Analyze and Visualize Results
 - Write the Manuscript Using AI Assistance
 - Submit & Handle Peer Reviews
