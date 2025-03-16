@@ -30,7 +30,7 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 - Step 8: Submit & Handle Peer Reviews
 - Step 9: Promote Your Research
 
-### 1️⃣ [Brainstorming and Idea Generation](material/brain) 💡🧠
+### 1️⃣ [Brainstorming and Idea Generation](materials/brain) 💡🧠
 
 🔹 [Ideamap](materials/brain/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
 
