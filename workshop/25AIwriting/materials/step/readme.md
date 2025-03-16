@@ -66,20 +66,13 @@ A well-structured literature review **justifies your study**.
 - **[Zotero](https://www.zotero.org/)** / **[Mendeley](https://www.mendeley.com/)** – Manage references.
 
 ## Step 5: [Develop Methodology and Experiment Plan](../methodology)
+A **well-structured methodology** is essential for ensuring that **your research is replicable, reliable, and scientifically sound**. The methodology defines how data will be collected, analyzed, and interpreted to achieve research objectives. AI-powered tools can assist in **experiment planning, data preprocessing, model development, evaluation, and diagram visualization**.
 
-A strong methodology ensures **replicability**.
-
-### **How to Design a Methodology?**
-1. **Define Your Dataset and Experimental Setup**  
-   - Use **[ChatGPT](https://openai.com/chatgpt/)** to outline **data preprocessing**.
-
-2. **Develop Your Model/Algorithm**  
-   - Implement experiments using **[Jupyter Notebook](https://jupyter.org/)** or **[Google Colab](https://colab.research.google.com/)**.
-
-✅ **AI Tools to Use:**
-- **[ChatGPT](https://openai.com/chatgpt/)** – Generate pseudocode.
-- **[Jupyter Notebook](https://jupyter.org/)** – Code experiments.
-- **[Google Colab](https://colab.research.google.com/)** – Run Python models.
+### ✅ AI Tools:
+1. Dataset Preparation & Experiment Design
+2. Model Development & Algorithm Implementation
+3. Model Evaluation & Experiment Optimization
+4. Visualizing Methodology and Experimental Design
 
 ## Step 6: [Analyze and Visualize Results](../analysis)
 A well-structured **analysis and visualization** of research results is crucial for conveying findings **effectively, accurately, and comprehensively**. AI-powered tools can assist in **statistical analysis, data visualization, result interpretation, and diagram creation**, making complex data **insightful and actionable**.  
