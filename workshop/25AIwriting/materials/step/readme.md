@@ -110,7 +110,7 @@ A strong methodology ensures **replicability**.
 - **[Jupyter Notebook](https://jupyter.org/)** – Code experiments.
 - **[Google Colab](https://colab.research.google.com/)** – Run Python models.
 
-## **Step 6: [Analyze and Visualize Results](../analysis)
+## Step 6: [Analyze and Visualize Results](../analysis)
 
 ### **How to Present Results Effectively?**
 1. **Use Statistical Tests and Data Visualization**  
@@ -123,7 +123,7 @@ A strong methodology ensures **replicability**.
 - **[Python (Matplotlib, Seaborn)](https://matplotlib.org/)** – For statistical plots.
 - **[Tableau](https://www.tableau.com/)** – For interactive graphs.
 
-## **Step 7: Write the Manuscript Using AI Assistance**  
+## Step 7: [Writing the Manuscript Using AI Assistance](../write)
 
 ### **How to Structure Your Paper?**
 1. **Write Each Section Using AI**  
