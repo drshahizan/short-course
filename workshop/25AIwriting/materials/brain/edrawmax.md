@@ -23,8 +23,6 @@
 - **Rich Template Library** – Includes thousands of pre-built templates and symbols to streamline diagram development.
 - **Cross-Platform Compatibility** – Available on **Windows, macOS, Linux, and as a web-based version**, ensuring accessibility across different devices.
 
----
-
 ## 2. How to Use EdrawMax: A Step-by-Step Guide
 
 ### *Case Study: Developing a Smart Village Model*
