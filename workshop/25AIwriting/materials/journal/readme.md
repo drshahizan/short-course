@@ -54,7 +54,6 @@ AI tools leverage **machine learning algorithms** to analyze the content of a ma
 | 8 | [EndNote Match](https://support.clarivate.com/Endnote/s/article/EndNote-Manuscript-Matcher?language=en_US) | Uses **title and abstract** to suggest relevant journals. |
 | 9 | [JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) | A **free** bioinformatics tool that matches manuscripts to **MEDLINE-indexed** journals. It also helps identify potential reviewers and related papers. |
 
-🚀 **Selecting the right journal enhances your chances of publication success!** Use AI-powered tools to streamline the process and ensure your research reaches the most impactful audience.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
