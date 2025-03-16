@@ -41,12 +41,12 @@ Each chapter of a PhD thesis can be transformed into research articles, allowing
 
 | **Thesis Chapter** 📖       | **Potential Articles** 📜                                                                                | **Publication Type** 🏅 |
 |--------------------------|---------------------------------------------------------------------------------------------------------|----------------------|
-| **Chapter 1: Introduction** 🎯 | A survey paper on recent trends, challenges, and research gaps in the chosen domain.                   | Review article (WoS Q1) |
-| **Chapter 2: Literature Review** 📚 | A systematic literature review (SLR) summarizing existing approaches, highlighting gaps and future directions. | Systematic Review (WoS Q1) |
-| **Chapter 3: Methodology** ⚙️ | An article detailing the proposed framework, algorithm, or model, with a focus on its novelty and theoretical foundations. | Research article (WoS Q1) |
-| **Chapter 4: Experimental Design & Implementation** 🛠️ | A detailed study on the implementation of the proposed system, including datasets, tools, and techniques. | Research article (WoS Q1/Scopus) |
-| **Chapter 5: Results & Discussion** 📊 | An article presenting experimental results, comparative analysis, and discussion of findings. | Research article (WoS Q1) |
-| **Chapter 6: Conclusion & Future Work** 🔮 | A short paper discussing the implications of findings and proposing future research directions. | - |
+| **Chapter 1: Introduction** 🎯 | A survey paper on recent trends, challenges, and research gaps in the chosen domain.                   | Review article (WoS/Scopus) |
+| **Chapter 2: Literature Review** 📚 | A systematic literature review (SLR) summarizing existing approaches, highlighting gaps and future directions. | Systematic Review (WoS Q1/Q2) |
+| **Chapter 3: Methodology** ⚙️ | An article detailing the proposed framework, algorithm, or model, with a focus on its novelty and theoretical foundations. | Research article (WoS/Scopus) |
+| **Chapter 4: Experimental Design & Implementation** 🛠️ | A detailed study on the implementation of the proposed system, including datasets, tools, and techniques. | Research article (WoS Q1/Q2) |
+| **Chapter 5: Results & Discussion** 📊 | An article presenting experimental results, comparative analysis, and discussion of findings. | Research article (WoS Q1/Q2) |
+| **Chapter 6: Conclusion & Future Work** 🔮 | - | - |
 
 ## **Best Practices for Aligning Thesis and Articles 🏗️📝**
 
