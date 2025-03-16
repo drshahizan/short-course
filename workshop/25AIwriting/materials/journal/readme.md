@@ -43,7 +43,7 @@ Every journal has unique **author guidelines** and **submission criteria** that 
 AI tools leverage **machine learning algorithms** to analyze the content of a manuscript and suggest the most appropriate journals for publication. These tools not only save time but also enhance the chances of acceptance by aligning submissions with journals that have previously published similar research.
 
 |  No. | 🛠 **Tool Name** | 📖 **Description** |
-| --- | ---------------- | ------------------ |
+| ---: | ---------------- | ------------------ |
 | 2 | [Elsevier Journal Finder](https://journalfinder.elsevier.com/) | Matches your paper's **title, abstract, or keywords** with Elsevier's **vast catalog** of journals. |
 | 3| [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match) | Suggests suitable Wiley journals based on **title and abstract**, covering **1,400+ hybrid and open-access** options. |
 | 4 | [Edanz Journal Selector](https://www.edanz.com/journal-selector) | Compares **28,000+ journals** based on **impact factor, field of study, and publisher** to provide tailored recommendations. |
