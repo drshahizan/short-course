@@ -75,7 +75,7 @@ A well-defined research problem ensures **clarity and novelty**.
 - **[Elicit.org](https://elicit.org/)** – Find research gaps.
 - **[Connected Papers](https://www.connectedpapers.com/)** – Explore related papers.
 
-## **Step 4: Conduct a Comprehensive Literature Review**  
+## Step 4: [Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)
 
 A well-structured literature review **justifies your study**.
 
