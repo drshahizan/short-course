@@ -8,7 +8,7 @@
 # Identify a Suitable Journal
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
+ <img src="journal.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
 
 
