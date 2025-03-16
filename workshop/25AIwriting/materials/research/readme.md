@@ -10,10 +10,10 @@
 A well-defined research topic and problem statement are **critical** to ensuring the **clarity, relevance, and novelty** of your study. A strong foundation leads to **meaningful contributions** to the field and increases the chances of publication in **high-impact journals**.  
 
 📌 **Why is it important?**  
-✅ Helps in **identifying knowledge gaps**  
-✅ Ensures **research originality and significance**  
-✅ Provides a **clear direction** for data collection and analysis  
-✅ Aligns with **publication and funding requirements**  
+- ✅ Helps in **identifying knowledge gaps**  
+- ✅ Ensures **research originality and significance**  
+- ✅ Provides a **clear direction** for data collection and analysis  
+- ✅ Aligns with **publication and funding requirements**  
 
 ## 🔍 **How to Define a Research Topic?**  
 
