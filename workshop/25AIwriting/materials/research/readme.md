@@ -44,8 +44,29 @@ A **comprehensive literature review** is essential for establishing **what has a
 | 4 | [Research Rabbit](https://www.researchrabbit.ai/) | AI-based **paper discovery tool** that finds **semantically related studies**. | 
 | 5 | [Inciteful](https://inciteful.xyz/) | Uses AI to **analyze citation networks** and identify critical research papers. | 
 
-### **3️⃣ Generate & Refine Research Questions** 🧩  
-A strong research question should be **clear, focused, and relevant**. AI tools can assist in **brainstorming, structuring, and refining research questions** to improve clarity and originality.  
+### **3️⃣ Read and Summarize Peer-Reviewed Papers Efficiently** 📑  
+Understanding and summarizing peer-reviewed research papers can be time-consuming. AI-powered tools help by **breaking down complex papers, generating key takeaways, and simplifying academic jargon**.  
+
+✅ **AI Tools for Reading & Summarizing Peer-Reviewed Papers:**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Aetherbrain](https://aetherbrain.ai/) | AI-based **research paper summarization tool** for quick insights. | 
+| 2 | [Petal](https://www.petal.org/) | AI-powered **scientific literature exploration and analysis tool**. | 
+| 3 | [Explain Paper](https://www.explainpaper.com/) | AI-driven tool that **breaks down complex research papers** into simpler terms. | 
+| 4 | [Chat PDF](https://www.chatpdf.com/) | Allows **interactive Q&A with research papers in PDF format**. | 
+| 5 | [Humata](https://www.humata.ai/) | AI-powered tool for **quickly summarizing and analyzing PDFs**. | 
+| 6 | [Lateral AI](https://www.lateral.io/) | AI-driven **semantic research tool** for exploring academic literature. | 
+| 7 | [Paper Brain](https://www.paperbrain.study/) | AI-powered research **paper exploration and summarization**. | 
+| 8 | [Scholarcy](https://www.scholarcy.com/) | AI-generated **summary cards for academic papers**. | 
+| 9 | [SciSpace Copilot](https://typeset.io/) | AI-powered **reading assistant** that explains research papers. | 
+| 10 | [Unriddle](https://www.unriddle.ai/) | AI-driven **literature simplification and knowledge extraction tool**. | 
+| 11 | [Sharly AI](https://www.sharly.ai/) | AI-powered **document reading assistant for academic papers**. | 
+| 12 | [Open Read](https://www.openread.academy/) | AI-based **research summarization and key insights extraction tool**. | 
+
+
+### **4️⃣ Generate & Refine Research Questions** 🧩  
+A strong research question should be **clear, focused, and relevant**. AI tools assist in **brainstorming, structuring, and refining research questions** to ensure focus and originality.  
 
 ✅ **AI Tools for Research Question Generation:**  
 
@@ -56,19 +77,6 @@ A strong research question should be **clear, focused, and relevant**. AI tools 
 | 3 | [Qwen AI](https://qwen.ai/) | AI-powered tool designed for **brainstorming and expanding academic ideas**. | 
 | 4 | [Kimi AI](https://kimi.ai/) | Assists in **generating research frameworks, hypotheses, and structured methodologies**. | 
 | 5 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **research structuring and idea generation** tool. | 
-
-### **4️⃣ Select a Relevant Research Topic** 🏆  
-AI tools help researchers **explore trending topics, evaluate feasibility, and refine study areas** to align with academic and industry demands.  
-
-✅ **AI Tools for Research Topic Selection & Refinement:**  
-
-| No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------------- | ------------------ | 
-| 1 | [SciSpace](https://typeset.io/) | AI-powered **research assistant** suggesting **related studies**. | 
-| 2 | [Paperguide](https://paperguide.ai/) | Uses **machine learning** to recommend **relevant research papers**. | 
-| 3 | [Jenni.ai](https://jenni.ai/) | AI-powered **academic writing assistant** for **structuring research ideas**. | 
-| 4 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing clarity, coherence, and research articulation**. | 
-| 5 | [Julius AI](https://julius.ai/) | AI-powered assistant helping in **structuring research proposals**. | 
 
 ## ✅ **Best Practices for Defining a Strong Research Topic**  
 📌 **Be Specific** – Avoid vague or overly broad topics; focus on a **well-defined problem**.  
