@@ -40,7 +40,7 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
 - **[Microsoft Copilot](../brain/copilot.md)** – Generate topic insights.
 - **[ChatGPT](../brain/chatgpt.md)** – Refine research questions.
 
-## **Step 2: [Identify a Suitable Journal](../journal)  
+## Step 2: [Identify a Suitable Journal](../journal)  
 
 Selecting the right journal ensures that your research reaches the correct audience and meets **publication standards**.
 
@@ -59,7 +59,7 @@ Selecting the right journal ensures that your research reaches the correct audie
 - **[Elsevier Journal Finder](https://journalfinder.elsevier.com/)** – Suggests journals.
 - **[Springer Journal Suggester](https://journalsuggester.springer.com/)** – Matches abstracts with journals.
 
-## **Step 3: Define Your Research Topic & Problem Statement**  
+## Step 3: [Define Your Research Topic & Problem Statement](../research)    
 
 A well-defined research problem ensures **clarity and novelty**.
 
