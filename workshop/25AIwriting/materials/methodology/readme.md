@@ -10,10 +10,10 @@
 A **well-structured methodology** is essential for ensuring that **your research is replicable, reliable, and scientifically sound**. The methodology defines how data will be collected, analyzed, and interpreted to achieve research objectives. AI-powered tools can assist in **experiment planning, data preprocessing, model development, evaluation, and diagram visualization**.
 
 📌 **Why is a Strong Methodology Important?**  
-✅ Ensures **research transparency and replicability**  
-✅ Provides a **clear roadmap** for data collection and analysis  
-✅ Enhances **accuracy, consistency, and reproducibility**  
-✅ Improves **efficiency** by leveraging AI-driven experiment design  
+- ✅ Ensures **research transparency and replicability**  
+- ✅ Provides a **clear roadmap** for data collection and analysis  
+- ✅ Enhances **accuracy, consistency, and reproducibility**  
+- ✅ Improves **efficiency** by leveraging AI-driven experiment design  
 
 ## 🔍 **How to Design a Methodology?**  
 
@@ -23,7 +23,7 @@ A well-structured **dataset and experimental setup** lay the foundation for accu
 ✅ **AI-Powered Tools for Dataset Preparation & Experiment Design:**  
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------- | ---------: | 
+| ---: | ---------- | --------- | 
 | 1 | [ChatGPT](https://openai.com/chatgpt/) | Generates **research methodology frameworks and data preprocessing pipelines**. | 
 | 2 | [Google Colab](https://colab.research.google.com/) | Cloud-based **Python coding platform for experiment execution**. | 
 | 3 | [Jupyter Notebook](https://jupyter.org/) | Open-source **interactive environment for coding and experimentation**. | 
@@ -39,7 +39,7 @@ Choosing the right **framework, experiment environment, and optimization techniq
 ✅ **AI Tools for Model Development & Algorithm Implementation:**  
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------- | ---------: | 
+| ---: | ---------- | --------- | 
 | 1 | [TensorFlow](https://www.tensorflow.org/) | Open-source **machine learning framework** for deep learning models. | 
 | 2 | [PyTorch](https://pytorch.org/) | **Flexible deep learning framework** for AI model training. | 
 | 3 | [AutoML by Google](https://cloud.google.com/automl/) | AI-powered **automated machine learning tool**. | 
@@ -55,7 +55,7 @@ After building a model, rigorous **evaluation and optimization** are required to
 ✅ **AI Tools for Model Evaluation & Experiment Optimization:**  
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------- | ---------: | 
+| ---: | ---------- | --------- | 
 | 1 | [MLflow](https://mlflow.org/) | **End-to-end tracking** for ML experiments. | 
 | 2 | [Optuna](https://optuna.org/) | AI-driven **hyperparameter tuning tool**. | 
 | 3 | [GridSearchCV (Scikit-learn)](https://scikit-learn.org/) | **Grid-based hyperparameter search** for model optimization. | 
