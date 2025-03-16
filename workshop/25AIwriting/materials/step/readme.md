@@ -94,7 +94,7 @@ A well-structured literature review **justifies your study**.
 - **[Research Rabbit](https://www.researchrabbit.ai/)** – Discover connected research.
 - **[Zotero](https://www.zotero.org/)** / **[Mendeley](https://www.mendeley.com/)** – Manage references.
 
-## **Step 5: Develop Methodology and Experiment Plan**  
+## Step 5: [Develop Methodology and Experiment Plan](../methodology)
 
 A strong methodology ensures **replicability**.
 
