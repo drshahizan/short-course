@@ -31,7 +31,7 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Journal Recommendation  
 ✔️ Journal Selection & Research Indexing  
 
-## 🎯 **Step 3: [Define Your Research Topic & Problem Statement](../research)  
+## 🎯 Step 3: [Define Your Research Topic & Problem Statement](../research)  
 
 🎯 **Why?** A well-defined research topic and problem statement are **fundamental** to academic success, ensuring **clarity, originality, and impact**.  
 🤖 **How AI Helps:** AI-powered tools efficiently **identify knowledge gaps, generate research questions, and streamline literature reviews**.  
@@ -42,7 +42,7 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Read and Summarize Peer-Reviewed Papers  
 ✔️ Generate & Refine Research Questions  
 
-## 🔍 **Step 4: [Conduct a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)  
+## 🔍 Step 4: [Conduct a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)  
 
 📖 **Why?** A **well-structured literature review** forms the backbone of any research, ensuring **credibility, justification, and contextual relevance**.  
 🤖 **How AI Helps:** AI tools facilitate **research discovery, reference management, citation analysis, and visualization of research trends**.  
@@ -97,7 +97,7 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
 ✔️ Revising & Improving Manuscripts After Peer Review  
 ✔️ Submission Tracking & Workflow Management  
 
-## 🚀 [Step 9: Promote Your Research](../promote)  
+## 🚀 Step 9: [Promote Your Research](../promote)  
 
 📢 **Why?** Increasing research visibility ensures **higher citations, global reach, and greater academic impact**.  
 🤖 **How AI Helps:** AI-powered tools enhance **research discoverability, social media engagement, and citation tracking**.  
