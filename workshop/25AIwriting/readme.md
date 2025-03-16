@@ -20,39 +20,9 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ### 👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
 
-- Step 1: Brainstorming and Idea Generation
-- Step 2: Identify a Suitable Journal
-- Step 3: Define Your Research Topic & Problem Statement
-- Step 4: Conduct a Comprehensive Literature Review
-- Step 5: Develop Methodology and Experiment Plan  
-- Step 6: Analyze and Visualize Results
-- Step 7: Write the Manuscript Using AI Assistance
-- Step 8: Submit & Handle Peer Reviews
-- Step 9: Promote Your Research
-
 ### 1️⃣ [Brainstorming and Idea Generation](materials/brain) 💡🧠
 
-🔹 [Ideamap](materials/brain/ideamap.md): An AI-powered tool that facilitates brainstorming by generating and organizing ideas into mind maps, helping users visualize and structure their thoughts effectively. ​
-
-🔹 [Napkin.ai](materials/brain/napkin.md): Tool that turns text into visuals like charts, diagrams, and flowcharts.
-
-🔹 [Markmap](materials/brain/markmap.md): A lightweight tool for creating interactive mind maps from Markdown files. It allows users to structure thoughts efficiently, making it a great choice for brainstorming, outlining, and concept mapping.
-
-🔹 [EdrawMax](materials/brain/edrawmax.md): A powerful all-in-one diagramming software developed by Wondershare. It enables users to create a wide variety of diagrams, including flowcharts, mind maps, organizational charts, network diagrams, engineering drawings, and more.
-
-🔹 [HyperWrite's Brainstorming Tool](materials/brain/hyperwrite.md): This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
-
-🔹 [Google Gemini](materials/brain/gemini.md): Google Gemini offers an AI-powered brainstorming feature that helps users expand on their initial ideas by suggesting alternative angles, deeper insights, and potential refinements based on industry knowledge and trends.
-
-🔹 [Microsoft Copilot](materials/brain/copilot.md): Copilot integrates directly into Microsoft 365 apps, providing AI-driven suggestions in Word, PowerPoint, and OneNote to refine, organize, and structure ideas efficiently while maintaining clarity and coherence.
-
-🔹 [ChatGPT](materials/brain/chatgpt.md): An AI assistant that helps generate, refine, and expand ideas by providing contextual insights, suggesting alternative approaches, and facilitating structured brainstorming sessions based on user input.
-
-🔹 [AI-Powered Brainstorming & Idea Generation for High-Impact Computer Science Research](materials/brain/prompt.md): This guide provides structured AI prompts for Google Gemini, Microsoft Copilot and ChatGPT to brainstorm and generate research ideas suitable for Web of Science Q1/Q2 Computer Science journals.
-
-### **2️⃣ [Identify a Suitable Journal](materials/journal) 📚**  
-
-
+### 2️⃣ [Identify a Suitable Journal](materials/journal) 📚
 
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
