@@ -7,14 +7,14 @@
 
 # Identify a Suitable Journal
 
+Selecting the right journal ensures that your research reaches the correct audience and meets **publication standards**.
+
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="journal.png" alt="Dr Shahizan AI tools"  height="300">
 </a>
 
 
-Selecting the right journal ensures that your research reaches the correct audience and meets **publication standards**.
-
-### **How to Select a Suitable Journal?**
+## **How to Select a Suitable Journal?**
 1. **Check the Journal’s Impact Factor and Ranking**  
    - Use **[Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/)** to verify high-impact journals.
 
