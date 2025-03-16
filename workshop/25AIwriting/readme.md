@@ -14,7 +14,7 @@
 - **👥 Target Audience:** Postgraduate Students & Academic Staff  
 
 ## **📖 Overview**  
-Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and research. This workshop, *Mastering Academic Writing with AI Assistance*, is designed to help postgraduate students 🎓 and academic staff 👩‍🏫 leverage AI tools to enhance their writing, research, and publication process. Participants will learn how to integrate AI into their workflow, from literature review and data analysis to manuscript submission and academic visualization.  
+Artificial Intelligence (AI) is revolutionizing academic writing and research. This workshop, *Mastering Academic Writing with AI Assistance*, is designed to help postgraduate students and academic staff leverage AI tools to enhance their writing, research, and publication process. Participants will learn how to integrate AI into their workflow, from literature review and data analysis to manuscript submission and academic visualization.  
 
 ## **🎯 What Participants Will Learn**  
 
