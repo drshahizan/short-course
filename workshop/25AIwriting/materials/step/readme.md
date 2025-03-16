@@ -24,22 +24,11 @@ Generating and organizing **innovative research ideas** is crucial for **problem
 
 ## Step 2: [Identify a Suitable Journal](../journal)  
 
-Selecting the right journal ensures that your research reaches the correct audience and meets **publication standards**.
+Selecting the right **academic journal** is a **critical step** in the publication process. Choosing a suitable journal ensures that **your research reaches the right audience, maximizes impact, and meets publication standards**. With AI-powered tools, researchers can now efficiently match their manuscripts to **high-impact journals** based on **title, abstract, keywords, and research field**.  
 
-### **How to Select a Suitable Journal?**
-1. **Check the Journal’s Impact Factor and Ranking**  
-   - Use **[Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/)** to verify high-impact journals.
-
-2. **Find Journals Based on Your Abstract**  
-   - Use **[Elsevier’s Journal Finder](https://journalfinder.elsevier.com/)** or **[Springer Journal Suggester](https://journalsuggester.springer.com/)**.
-
-3. **Check Journal Requirements**  
-   - Read the **Author Guidelines** and **submission criteria**.
-
-✅ **AI Tools to Use:**
-- **[Scimago (SJR)](https://www.scimagojr.com/)** – Find high-impact journals.
-- **[Elsevier Journal Finder](https://journalfinder.elsevier.com/)** – Suggests journals.
-- **[Springer Journal Suggester](https://journalsuggester.springer.com/)** – Matches abstracts with journals.
+### AI Tools:
+1. Journal Recommendation
+2. Journal Selection & Research Indexing
 
 ## Step 3: [Define Your Research Topic & Problem Statement](../research)    
 
