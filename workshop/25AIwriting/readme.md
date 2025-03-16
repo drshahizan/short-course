@@ -38,6 +38,8 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 🔹 [Markmap](materials/brain/markmap.md): A lightweight tool for creating interactive mind maps from Markdown files. It allows users to structure thoughts efficiently, making it a great choice for brainstorming, outlining, and concept mapping.
 
+🔹 [EdrawMax](materials/brain/edrawmax.md): A powerful all-in-one diagramming software developed by Wondershare. It enables users to create a wide variety of diagrams, including flowcharts, mind maps, organizational charts, network diagrams, engineering drawings, and more.
+
 🔹 [HyperWrite's Brainstorming Tool](materials/brain/hyperwrite.md): This AI-driven idea generator assists in brainstorming creative solutions based on a given problem or text description, aiding in overcoming creative blocks. ​
 
 🔹 [Google Gemini](materials/brain/gemini.md): Google Gemini offers an AI-powered brainstorming feature that helps users expand on their initial ideas by suggesting alternative angles, deeper insights, and potential refinements based on industry knowledge and trends.
