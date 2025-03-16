@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# The Importance of Publishing Articles During a PhD in Computer Science 🖥️📚
+# Why Publishing Research Papers is Essential for a Successful PhD in Computer Science 🖥️📚
 
 Publishing articles during a PhD is a crucial component of academic and professional development. It serves multiple purposes, including validating research findings ✅, contributing to the scientific community 🌍, and enhancing career prospects 🚀. In the field of Computer Science, where technological advancements evolve rapidly ⚡, disseminating research through publications ensures that the work is recognized, reviewed, and improved upon by peers.
 
