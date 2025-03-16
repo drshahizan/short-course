@@ -26,7 +26,7 @@ These tools help in **visualizing ideas, structuring concepts, and organizing th
 | 2 | [Napkin.ai](napkin.md) | Converts text ideas into **diagrams, charts, and flowcharts**. | 
 | 3 | [Markmap](markmap.md) | Converts **Markdown text into interactive mind maps**. | 
 | 4 | [EdrawMax](edrawmax.md) | **All-in-one diagramming tool** for flowcharts, mind maps, and more. | 
-| 5 | [Infogram](https://infogram.com/) | **AI-powered data visualization** for research presentation. | 
+| 5 | [Infogram](infogram.md) | **AI-powered data visualization** for research presentation. | 
 | 6 | [Miro AI Diagram](https://miro.com/ai/diagram-ai/) | AI-powered **interactive diagramming tool**. | 
 | 7 | [Venngage AI Diagram](https://venngage.com/ai-tools/diagram-generator) | Creates **professional diagrams and infographics**. | 
 | 8 | [Eraser.io DiagramGPT](https://www.eraser.io/diagramgpt) | AI-generated **flowcharts and structured workflows**. | 
