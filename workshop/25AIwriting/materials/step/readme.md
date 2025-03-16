@@ -137,7 +137,7 @@ A strong methodology ensures **replicability**.
 - **[DeepL Write](https://www.deepl.com/write)** – Improve writing.
 - **[Grammarly](https://www.grammarly.com/)** – Fix grammar issues.
 
-## **Step 8: Submit & Handle Peer Reviews**  
+## Step 8: [Submitting & Handling Peer Reviews](../submit)
 
 ✅ **AI Tools to Use:**
 - **[ChatGPT](https://openai.com/chatgpt/)** – Draft response letters.
