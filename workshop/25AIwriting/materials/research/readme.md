@@ -20,24 +20,30 @@ A well-defined research topic and problem statement are **fundamental to academi
 ### 1️⃣ Identify Knowledge Gaps 🔎  
 A strong research topic is built on a **clear understanding of existing literature**. AI-powered tools help researchers **analyze trends, identify underexplored areas, and refine their focus**.  
 
-- ✅ **Use these AI tools to explore research gaps:**  
-🔹 **[Connected Papers](https://www.connectedpapers.com/)** – Visualizes **connections between related studies** to explore new areas.  
-🔹 **[Litmaps](https://www.litmaps.com/)** – Creates **interactive citation maps** to track academic research.  
-🔹 **[Semantic Scholar](https://www.semanticscholar.org/)** – AI-driven tool that **summarizes key papers** and **suggests related research**.  
-🔹 **[Inciteful](https://inciteful.xyz/)** – Analyzes **citation networks** to identify **high-impact papers and research gaps**.  
-🔹 **[Scite](https://scite.ai/)** – Provides **citation-based insights** on how papers are being discussed in the academic community.
-🔹 **[Elicit](https://elicit.org/)** – AI-powered literature review assistant that suggests **relevant research gaps**.  
+✅ **Use these AI tools to explore research gaps:**
+  
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered **academic search assistant** that summarizes key findings from multiple sources. | 
+| 2 | [Skolar AI](https://skolar.ai/) | AI-driven **research discovery tool** that recommends **relevant academic papers**. | 
+| 3 | [Connected Papers](https://www.connectedpapers.com/) | Visualizes **connections between studies** to uncover new research directions. | 
+| 4 | [Litmaps](https://www.litmaps.com/) | Creates **interactive citation maps** for tracking academic research. | 
+| 5 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **literature search** with **semantic filtering** for identifying knowledge gaps. | 
+| 6 | [Elicit](https://elicit.org/) | AI-driven **literature review assistant** that suggests **relevant research gaps**. | 
+| 7 | [Scite](https://scite.ai/) | Provides **citation-based insights** on how papers are discussed in academic communities. | 
 
 ### 2️⃣ Generate and Refine Research Questions 🧩  
 A well-defined research question is **precise, answerable, and significant**. AI-driven tools help in **brainstorming, structuring, and refining research questions** to enhance clarity.  
 
-- ✅ **Use these AI tools for question generation and refinement:**  
-🔹 **[Concensus](https://consensus.app/)** – Extracts **key insights from research papers** to support evidence-based research questions.  
-🔹 **[Jenni.ai](https://jenni.ai/)** – AI-powered assistant for **writing and structuring research ideas**.  
-🔹 **[DeepSeek AI](https://deepseek.com/)** – AI model that assists in **generating structured research insights and refining problem statements**.  
-🔹 **[Qwen](https://qwen.ai/)** – AI-powered brainstorming tool designed for **idea expansion and structured academic writing**.  
-🔹 **[Kimi AI](https://kimi.ai/)** – AI assistant for **generating research frameworks, hypotheses, and structured methodologies**.
-🔹 **[ChatGPT](https://openai.com/chatgpt/)** – Generates **research questions**, provides alternative study approaches, and refines problem statements.
+✅ **Use these AI tools for question generation and refinement:**  
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Concensus](https://consensus.app/) | Extracts **key insights from research papers** to refine research questions. | 
+| 2 | [Jenni.ai](https://jenni.ai/) | AI-powered **research writing assistant** that helps **generate structured ideas**. | 
+| 3 | [DeepSeek AI](https://deepseek.com/) | AI model that provides **structured insights and problem statement refinement**. | 
+| 4 | [Qwen AI](https://qwen.ai/) | AI-powered tool designed for **brainstorming and expanding academic ideas**. | 
+| 5 | [Kimi AI](https://kimi.ai/) | AI assistant that helps **generate research frameworks, hypotheses, and methodologies**. | 
+| 6 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **idea generation and research structuring tool**. | 
 
 ## 📚 AI-Powered Tools for Research Topic Definition
 
