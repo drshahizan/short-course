@@ -24,6 +24,11 @@ Artificial Intelligence (AI) is revolutionizing academic writing and research. T
 
 - 2️⃣ [Identify a Suitable Journal](materials/journal) 
 
+- 3️⃣ [Define Your Research Topic & Problem Statement](materials/research)
+
+
+
+---
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
 🔹 Identifying research gaps and summarizing key papers efficiently.  
