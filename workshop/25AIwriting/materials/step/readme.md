@@ -47,23 +47,13 @@ A well-defined research problem ensures **clarity and novelty**.
 - **[Connected Papers](https://www.connectedpapers.com/)** – Explore related papers.
 
 ## Step 4: [Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)
+A **well-structured literature review** is a crucial component of any research study, providing the foundation for **identifying knowledge gaps, supporting hypotheses, and justifying research objectives**. A **Systematic Literature Review (SLR)** goes a step further by **adopting a structured and replicable methodology** to ensure **transparency, objectivity, and comprehensiveness** in reviewing existing studies.  
 
-A well-structured literature review **justifies your study**.
-
-### **How to Perform a Literature Review?**
-1. **Search for Relevant Papers**  
-   - Use **[Semantic Scholar](https://www.semanticscholar.org/)** or **[Research Rabbit](https://www.researchrabbit.ai/)**.
-
-2. **Manage and Organize References**  
-   - Use **[Zotero](https://www.zotero.org/)** or **[Mendeley](https://www.mendeley.com/)**.
-
-3. **Summarize Key Findings**  
-   - Use **[ChatGPT](https://openai.com/chatgpt/)** to generate **concise summaries**.
-
-✅ **AI Tools to Use:**
-- **[Semantic Scholar](https://www.semanticscholar.org/)** – Find academic papers.
-- **[Research Rabbit](https://www.researchrabbit.ai/)** – Discover connected research.
-- **[Zotero](https://www.zotero.org/)** / **[Mendeley](https://www.mendeley.com/)** – Manage references.
+### ✅ AI Tools:
+1. Discover Relevant Research Papers
+2. Reference Management & Citation Analysis
+3. Extracting & Summarizing Key Findings
+4. Visualizing Research Trends & Citation Networks
 
 ## Step 5: [Develop Methodology and Experiment Plan](../methodology)
 A **well-structured methodology** is essential for ensuring that **your research is replicable, reliable, and scientifically sound**. The methodology defines how data will be collected, analyzed, and interpreted to achieve research objectives. AI-powered tools can assist in **experiment planning, data preprocessing, model development, evaluation, and diagram visualization**.
