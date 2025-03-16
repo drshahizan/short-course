@@ -17,7 +17,7 @@ Submitting your research paper and navigating the **peer review process** is a c
 
 ## 🔍 **How to Submit and Manage the Peer Review Process?**  
 
-### 1️⃣ Prepare the Manuscript for Submission** 📝  
+### 1️⃣ Prepare the Manuscript for Submission 📝  
 Before submitting, ensure your manuscript **meets all journal requirements**, including formatting, reference style, and submission guidelines.  
 
 ✅ **AI-Powered Tools for Journal Selection & Manuscript Preparation:**  
@@ -30,7 +30,7 @@ Before submitting, ensure your manuscript **meets all journal requirements**, in
 | 4 | [Paperpal](https://www.paperpal.com/) | AI-powered **manuscript refinement and formatting assistant**. | 
 | 5 | [SciSpace](https://typeset.io/) | **Formats manuscripts** according to journal guidelines. | 
 
-### 2️⃣ Handle Peer Review & Draft Responses to Reviewers** 📩  
+### 2️⃣ Handle Peer Review & Draft Responses to Reviewers 📩  
 Receiving **peer review feedback** is an essential part of publishing. **Responding professionally to reviewer comments** ensures **constructive engagement** and **increases acceptance chances**.  
 
 ✅ **AI Tools for Drafting Responses & Handling Peer Reviews:**  
