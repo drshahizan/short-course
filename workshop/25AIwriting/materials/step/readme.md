@@ -19,26 +19,26 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
 
 ### **How to Brainstorm and Generate Ideas?**
 1. **Use AI Mind-Mapping Tools**  
-   - **[Ideamap](https://ideamap.ai/), [EdrawMax](../brain/edrawmax.md)** → Automatically generates **concept maps** based on keywords.
-   - **[Napkin.ai](https://www.napkin.ai/)** → Organizes fragmented ideas into structured insights.
-   - **[Markmap](https://markmap.js.org/)** → Converts Markdown text into **interactive mind maps** for organizing ideas.
+   - **[Ideamap](../brain/ideamap.md), [EdrawMax](../brain/edrawmax.md)** → Automatically generates **concept maps** based on keywords.
+   - **[Napkin.ai](../brain/napkin.md)** → Organizes fragmented ideas into structured insights.
+   - **[Markmap](../brain/markmap.md)** → Converts Markdown text into **interactive mind maps** for organizing ideas.
 
 2. **Explore Research Topics with AI Assistants**  
-   - **[Google Gemini](https://gemini.google.com/)** and **[Microsoft Copilot](https://copilot.microsoft.com/)** can analyze trends and **suggest emerging research areas**.  
+   - **[Google Gemini](../brain/gemini.md)** and **[Microsoft Copilot](../brain/copilot.md)** can analyze trends and **suggest emerging research areas**.  
    - Example: *"What are the recent advancements in AI-driven cybersecurity?"*
 
 3. **Refine and Structure Ideas**  
-   - **[HyperWrite](https://www.hyperwriteai.com/)** → Helps in structuring research problems by providing **logical outlines**.  
-   - **[ChatGPT](https://openai.com/chatgpt/)** → Assists in **expanding and narrowing research focus**.  
+   - **[HyperWrite](../brain/hyperwrite.md)** → Helps in structuring research problems by providing **logical outlines**.  
+   - **[ChatGPT](../brain/chatgpt.md)** → Assists in **expanding and narrowing research focus**.  
    - Example: *"Suggest a research question based on the latest developments in IoT security."*
 
 ✅ **AI Tools to Use:**
-- **[Ideamap](https://ideamap.ai/), [EdrawMax](/brain/edrawmax.md) and [Napkin.ai](https://www.napkin.ai/)** – Generate concept maps.
-- **[Markmap](https://markmap.js.org/)** – Create mind maps.
-- **[HyperWrite](https://www.hyperwriteai.com/)** – Structure research problems.
-- **[Google Gemini](https://gemini.google.com/)** – Analyze trends.
-- **[Microsoft Copilot](https://copilot.microsoft.com/)** – Generate topic insights.
-- **[ChatGPT](https://openai.com/chatgpt/)** – Refine research questions.
+- **[Ideamap](../brain/ideamap.md), [EdrawMax](../brain/edrawmax.md) and [Napkin.ai](../brain/napkin.md)** – Generate concept maps.
+- **[Markmap](../brain/markmap.md)** – Create mind maps.
+- **[HyperWrite](../brain/hyperwrite.md)** – Structure research problems.
+- **[Google Gemini](../brain/gemini.md)** – Analyze trends.
+- **[Microsoft Copilot](../brain/copilot.md)** – Generate topic insights.
+- **[ChatGPT](../brain/chatgpt.md)** – Refine research questions.
 
 ## **Step 2: Identify a Suitable Journal**  
 
