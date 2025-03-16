@@ -115,10 +115,13 @@ A strong methodology ensures **replicability**.
 - **[Grammarly](https://www.grammarly.com/)** – Improve clarity.
 
 ## Step 9: [Promote Your Research](../promote)
-- Index Your Research in Academic Databases*
-- Share Your Research on Social & Professional Networks
-- Create Visual Summaries & Research Highlights
-- Publish Blog Posts & Research Summaries
+Once your research is **accepted and published**, the next crucial step is to **increase its visibility, impact, and citations**. Effective **research promotion** ensures that your work reaches **a global audience, engages researchers, and influences future studies**. AI-powered tools can help in **enhancing research discoverability, sharing insights across platforms, and analyzing engagement metrics**.  
+
+### AI Tools:
+1. Index Your Research in Academic Databases
+2. Share Your Research on Social & Professional Networks
+3. Create Visual Summaries & Research Highlights
+4. Publish Blog Posts & Research Summaries
 
 ### 🙌🏻 Connect with Me
 <p align="left">
