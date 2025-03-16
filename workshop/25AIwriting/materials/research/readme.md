@@ -17,64 +17,58 @@ A well-defined research topic and problem statement are **fundamental to academi
 
 ## 🔍 **How to Define a Research Topic?**  
 
-### 1️⃣ Identify Knowledge Gaps 🔎  
-A strong research topic is built on a **clear understanding of existing literature**. AI-powered tools help researchers **analyze trends, identify underexplored areas, and refine their focus**.  
+### **1️⃣ Identify Knowledge Gaps in Existing Research** 🔎  
+A strong research topic begins with a **thorough understanding of existing studies**. AI-powered tools help **analyze trends, highlight underexplored areas, and provide deeper insights into research gaps**.  
 
-✅ **Use these AI tools to explore research gaps:**
-  
+✅ **AI Tools for Knowledge Gap Identification:**  
+
+|  No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered academic **search assistant** that summarizes research trends. | 
+| 2 | [Skolar AI](https://skolar.ai/) | AI-driven **research discovery tool** recommending **relevant academic papers**. | 
+| 3 | [Semantic Scholar](https://www.semanticscholar.org/) | Uses AI to **analyze and summarize research papers** with key insights. | 
+| 4 | [Scite](https://scite.ai/) | Provides **citation-based insights** to track the impact of a study. | 
+| 5 | [SSRN](https://www.ssrn.com/index.cfm/en/) | A **social sciences research network** helping in research selection. | 
+
+
+### **2️⃣ Perform Literature Review & Analyze Research Trends** 📚  
+A **comprehensive literature review** is essential for establishing **what has already been studied** and identifying **research opportunities**. AI-driven tools can streamline this process by **visualizing citation networks, summarizing key findings, and identifying critical papers**.  
+
+✅ **AI Tools for Literature Review & Research Gap Analysis:**  
+
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered **academic search assistant** that summarizes key findings from multiple sources. | 
-| 2 | [Skolar AI](https://skolar.ai/) | AI-driven **research discovery tool** that recommends **relevant academic papers**. | 
-| 3 | [Connected Papers](https://www.connectedpapers.com/) | Visualizes **connections between studies** to uncover new research directions. | 
-| 4 | [Litmaps](https://www.litmaps.com/) | Creates **interactive citation maps** for tracking academic research. | 
-| 5 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **literature search** with **semantic filtering** for identifying knowledge gaps. | 
-| 6 | [Elicit](https://elicit.org/) | AI-driven **literature review assistant** that suggests **relevant research gaps**. | 
-| 7 | [Scite](https://scite.ai/) | Provides **citation-based insights** on how papers are discussed in academic communities. | 
+| 1 | [Elicit](https://elicit.org/) | AI-powered **literature review assistant** that identifies key findings and research gaps. | 
+| 2 | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to find related studies. | 
+| 3 | [Litmaps](https://www.litmaps.com/) | **Creates interactive citation maps** for tracking research. | 
+| 4 | [Research Rabbit](https://www.researchrabbit.ai/) | AI-based **paper discovery tool** that finds **semantically related studies**. | 
+| 5 | [Inciteful](https://inciteful.xyz/) | Uses AI to **analyze citation networks** and identify critical research papers. | 
 
-### 2️⃣ Generate and Refine Research Questions 🧩  
-A well-defined research question is **precise, answerable, and significant**. AI-driven tools help in **brainstorming, structuring, and refining research questions** to enhance clarity.  
+### **3️⃣ Generate & Refine Research Questions** 🧩  
+A strong research question should be **clear, focused, and relevant**. AI tools can assist in **brainstorming, structuring, and refining research questions** to improve clarity and originality.  
 
-✅ **Use these AI tools for question generation and refinement:**  
+✅ **AI Tools for Research Question Generation:**  
+
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Concensus](https://consensus.app/) | Extracts **key insights from research papers** to refine research questions. | 
-| 2 | [Jenni.ai](https://jenni.ai/) | AI-powered **research writing assistant** that helps **generate structured ideas**. | 
-| 3 | [DeepSeek AI](https://deepseek.com/) | AI model that provides **structured insights and problem statement refinement**. | 
-| 4 | [Qwen AI](https://qwen.ai/) | AI-powered tool designed for **brainstorming and expanding academic ideas**. | 
-| 5 | [Kimi AI](https://kimi.ai/) | AI assistant that helps **generate research frameworks, hypotheses, and methodologies**. | 
-| 6 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **idea generation and research structuring tool**. | 
+| 1 | [Consensus](https://consensus.app/) | Extracts **key insights from research papers** to refine research questions. | 
+| 2 | [DeepSeek AI](https://deepseek.com/) | AI-driven tool for **structuring research topics and refining problem statements**. | 
+| 3 | [Qwen AI](https://qwen.ai/) | AI-powered tool designed for **brainstorming and expanding academic ideas**. | 
+| 4 | [Kimi AI](https://kimi.ai/) | Assists in **generating research frameworks, hypotheses, and structured methodologies**. | 
+| 5 | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **research structuring and idea generation** tool. | 
 
-## 📚 AI-Powered Tools for Research Topic Definition
+### **4️⃣ Select a Relevant Research Topic** 🏆  
+AI tools help researchers **explore trending topics, evaluate feasibility, and refine study areas** to align with academic and industry demands.  
 
-### 📌 AI Tools for Literature Review & Research Gap Analysis
-| No. | Tool Name | Description |
-| ---: | ---------------- | ------------------ |
-| 1 | [Elicit](https://elicit.org/) | AI-powered tool for **literature review, research question generation, and gap analysis**. |
-| 2 | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore **related research topics**. |
-| 3 | [Litmaps](https://www.litmaps.com/) | **Creates interactive citation maps** to track academic research progress. |
-| 4 | [Research Rabbit](https://www.researchrabbit.ai/) | AI-driven **paper discovery tool** for finding **semantically related studies**. |
-| 5 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **literature search** with **semantic filtering and summarization**. |
-| 6 | [Inciteful](https://inciteful.xyz/) | **Analyzes citation networks** to track **high-impact studies and research trends**. |
-| 7 | [Scite](https://scite.ai/) | Provides **citation-based insights** on paper impact and academic discussions. |
+✅ **AI Tools for Research Topic Selection & Refinement:**  
 
-### 🛠 AI Tools for Research Topic Ideation & Question Refinement
-| No. | Tool Name | Description |
-| ---: | ---------------- | ------------------ |
-| 1 | [Concensus](https://consensus.app/) | Extracts **key insights from scientific literature** to support **research question development**. |
-| 2 | [DeepSeek AI](https://deepseek.com/) | AI-driven tool for **structuring research topics and refining methodologies**. |
-| 3 | [Qwen AI](https://qwen.ai/) | AI-powered model for **expanding research ideas and optimizing academic writing**. |
-| 4 | [Kimi AI](https://kimi.ai/) | AI tool for **structuring research hypotheses and methodologies**. |
-| 5 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing clarity, coherence, and research articulation**. |
-| 6 | [Jenni.ai](https://jenni.ai/) | AI-powered assistant for **writing and structuring research ideas**. |
-| 7 | [Julius AI](https://julius.ai/) | AI-powered writing assistant that helps in **structuring research ideas and drafting proposals**. |
-| 8 | [ChatGPT](https://openai.com/chatgpt/) | Assists in **brainstorming research questions** and refining problem statements. |
-
-### 🔬 AI Tools for Research Discovery & Topic Selection 
-| No. | Tool Name | Description |
-| --- | ---------------- | ------------------ |
-| 1 | [SciSpace](https://typeset.io/) | AI-powered **research assistant** that suggests related studies and enhances readability. |
-| 2 | [Paperguide](https://paperguide.ai/) | Uses **machine learning** to recommend **relevant research papers** based on topic inputs. |
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [SciSpace](https://typeset.io/) | AI-powered **research assistant** suggesting **related studies**. | 
+| 2 | [Paperguide](https://paperguide.ai/) | Uses **machine learning** to recommend **relevant research papers**. | 
+| 3 | [Jenni.ai](https://jenni.ai/) | AI-powered **academic writing assistant** for **structuring research ideas**. | 
+| 4 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing clarity, coherence, and research articulation**. | 
+| 5 | [Julius AI](https://julius.ai/) | AI-powered assistant helping in **structuring research proposals**. | 
 
 ## ✅ **Best Practices for Defining a Strong Research Topic**  
 📌 **Be Specific** – Avoid vague or overly broad topics; focus on a **well-defined problem**.  
