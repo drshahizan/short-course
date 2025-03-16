@@ -77,9 +77,7 @@ Each chapter of a PhD thesis can be transformed into research articles, allowing
 Publishing articles during a PhD is not merely a requirement but a strategic approach to academic and professional success. By mapping thesis chapters to publications, PhD candidates can systematically contribute to the scientific community while ensuring their work gains recognition. Furthermore, aligning research with industry needs and leveraging AI tools can enhance publication quality, leading to impactful contributions in the field of Computer Science.  
 
 📖 **Further Reading & Resources:**  
-🔗 [How to Write a Research Paper: A Guide for PhD Students](https://www.springernature.com/gp/researchers/campaigns/how-to-write-a-research-paper)  
 🔗 [How to Get Published in High-Impact Journals](https://authorservices.taylorandfrancis.com/publishing-your-research/)  
-🔗 [Tips for Writing a Q1 Journal Paper](https://www.nature.com/articles/d41586-022-00423-0)  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
