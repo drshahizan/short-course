@@ -22,7 +22,7 @@ These tools help in **visualizing ideas, structuring concepts, and organizing th
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Ideamap](ideamap.md) | AI-powered **mind mapping and structured brainstorming**. | 
+| 1 | [Ideamap.ai](ideamap.md) | AI-powered **mind mapping and structured brainstorming**. | 
 | 2 | [Napkin.ai](napkin.md) | Converts text ideas into **diagrams, charts, and flowcharts**. | 
 | 3 | [Markmap](markmap.md) | Converts **Markdown text into interactive mind maps**. | 
 | 4 | [EdrawMax](edrawmax.md) | **All-in-one diagramming tool** for flowcharts, mind maps, and more. | 
