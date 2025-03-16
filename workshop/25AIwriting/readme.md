@@ -17,7 +17,7 @@
 Artificial Intelligence (AI) is revolutionizing academic writing and research. This workshop, *Mastering Academic Writing with AI Assistance*, is designed to help postgraduate students and academic staff leverage AI tools to enhance their writing, research, and publication process. Participants will learn how to integrate AI into their workflow, from literature review and data analysis to manuscript submission and academic visualization.  
 
 ## **🎯 What Participants Will Learn**  
-
+[Why Publishing Research Papers is Essential?](materials/step/important.md)
 👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
 
 - 1️⃣ [Brainstorming and Idea Generation](materials/brain) 
