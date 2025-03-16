@@ -15,16 +15,9 @@ Publishing articles during a PhD is a crucial component of academic and professi
 - Publishing in reputable journals or conferences allows the research to undergo peer review, ensuring that the methodologies and findings are rigorously evaluated.  
 - Constructive feedback from reviewers helps improve the quality of the research before finalizing the thesis.  
 
-📖 **Related Article:**  
-🔗 [How Peer Review Improves Research Quality](https://www.nature.com/articles/d41586-019-03012-6)  
-
 ### **2️⃣ Contribution to the Scientific Community** 🌎🔬  
 - Research should not remain confined to the thesis document; it must be shared to contribute to the broader knowledge base.  
 - Articles can introduce novel algorithms, frameworks, or methodologies that others can build upon.  
-
-📖 **Related Article:**  
-🔗 [The Role of Publications in Scientific Progress](https://www.sciencemag.org/careers/2020/06/importance-publishing-during-phd)  
-
 
 ### **3️⃣ Enhancing Academic and Professional Reputation** 🏆🎓  
 - Publications in high-impact journals (e.g., WoS Q1 journals) establish credibility as a researcher.  
