@@ -17,17 +17,16 @@ A well-defined research topic and problem statement are **critical** to ensuring
 
 ## 🔍 **How to Define a Research Topic?**  
 
-### 1️⃣ Identify Knowledge Gaps 🔎  
+### 1️⃣ Identify Knowledge Gaps 
 To ensure your research contributes **new insights**, it is crucial to identify **gaps in existing literature**.  
-✅ Use **AI-powered tools** to analyze research trends and discover **unexplored areas**.  
-
+- ✅ Use **AI-powered tools** to analyze research trends and discover **unexplored areas**.  
 🔹 **[Elicit.org](https://elicit.org/)** – AI-driven tool for **literature review and research gap identification**.  
 🔹 **[Connected Papers](https://www.connectedpapers.com/)** – Visualizes **connections between related research papers**.  
 
-### 2️⃣ Generate and Refine Research Questions 🧩  
+### 2️⃣ Generate and Refine Research Questions 
 Once a topic is chosen, refining it into **clear, concise, and impactful** research questions is essential.  
 
-✅ Use **AI brainstorming tools** to structure and validate research questions:  
+- ✅ Use **AI brainstorming tools** to structure and validate research questions:  
 🔹 **[ChatGPT](https://openai.com/chatgpt/)** – Generates **research questions** and provides **alternative perspectives**.  
 🔹 **[Elicit.org](https://elicit.org/)** – Suggests **research questions** based on existing studies.  
 
