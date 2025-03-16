@@ -75,9 +75,9 @@ To maximize your use of Napkin.ai, explore the following resources:
 
 ## 4. Additional Resources
 
-- **Napkin.ai Help Center:** Access guides and support for using Napkin.ai effectively. [Visit here](https://help.napkin.ai/en/collections/3741376-getting-started)
+- **Napkin.ai Help Center:** Access guides and support for using Napkin.ai effectively. [Visit here](https://help.napkin.ai/en/collections/3741376-getting-started)
 
-- **Napkin.ai YouTube Channel:** Explore tutorials and feature updates directly from the Napkin.ai team. [Visit here](https://www.youtube.com/@napkin_ai)
+- **Napkin.ai YouTube Channel:** Explore tutorials and feature updates directly from the Napkin.ai team. [Visit here](https://www.youtube.com/@napkin_ai)
 
 By integrating Napkin.ai into your workflow, you can enhance the clarity and impact of your communications, making complex ideas more accessible and engaging.
  
