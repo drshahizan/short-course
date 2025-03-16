@@ -40,7 +40,7 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
 - **[Microsoft Copilot](../brain/copilot.md)** – Generate topic insights.
 - **[ChatGPT](../brain/chatgpt.md)** – Refine research questions.
 
-## **Step 2: Identify a Suitable Journal**  
+## **Step 2: [Identify a Suitable Journal](../journal)  
 
 Selecting the right journal ensures that your research reaches the correct audience and meets **publication standards**.
 
