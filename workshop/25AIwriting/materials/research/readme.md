@@ -21,12 +21,12 @@ A well-defined research topic and problem statement are **fundamental to academi
 A strong research topic is built on a **clear understanding of existing literature**. AI-powered tools help researchers **analyze trends, identify underexplored areas, and refine their focus**.  
 
 - ✅ **Use these AI tools to explore research gaps:**  
-🔹 **[Elicit](https://elicit.org/)** – AI-powered literature review assistant that suggests **relevant research gaps**.  
 🔹 **[Connected Papers](https://www.connectedpapers.com/)** – Visualizes **connections between related studies** to explore new areas.  
 🔹 **[Litmaps](https://www.litmaps.com/)** – Creates **interactive citation maps** to track academic research.  
 🔹 **[Semantic Scholar](https://www.semanticscholar.org/)** – AI-driven tool that **summarizes key papers** and **suggests related research**.  
 🔹 **[Inciteful](https://inciteful.xyz/)** – Analyzes **citation networks** to identify **high-impact papers and research gaps**.  
-🔹 **[Scite](https://scite.ai/)** – Provides **citation-based insights** on how papers are being discussed in the academic community.  
+🔹 **[Scite](https://scite.ai/)** – Provides **citation-based insights** on how papers are being discussed in the academic community.
+🔹 **[Elicit](https://elicit.org/)** – AI-powered literature review assistant that suggests **relevant research gaps**.  
 
 ### 2️⃣ Generate and Refine Research Questions 🧩  
 A well-defined research question is **precise, answerable, and significant**. AI-driven tools help in **brainstorming, structuring, and refining research questions** to enhance clarity.  
