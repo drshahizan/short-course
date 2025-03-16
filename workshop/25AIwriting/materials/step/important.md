@@ -48,9 +48,6 @@ Each chapter of a PhD thesis can be transformed into research articles, allowing
 | **Chapter 5: Results & Discussion** 📊 | An article presenting experimental results, comparative analysis, and discussion of findings. | Research article (WoS Q1) |
 | **Chapter 6: Conclusion & Future Work** 🔮 | A short paper discussing the implications of findings and proposing future research directions. | - |
 
-📖 **Related Article:**  
-🔗 [How to Structure Your PhD Thesis into Papers](https://www.sciencedirect.com/science/article/pii/S0020748918302224)  
-
 ## **Best Practices for Aligning Thesis and Articles 🏗️📝**
 
 ### ✅ **1. Early Planning**  
@@ -75,9 +72,6 @@ Each chapter of a PhD thesis can be transformed into research articles, allowing
 ### ✅ **5. Selecting the Right Journals** 🏆  
 - Aim for reputable, indexed journals (WoS Q1/Q2) to maximize impact.  
 - Consider open-access journals for wider dissemination.  
-
-📖 **Related Article:**  
-🔗 [How to Choose the Right Journal for Your Research](https://www.elsevier.com/authors/tools-and-resources/how-to-select-a-journal)  
 
 ## **Conclusion 🎯**
 Publishing articles during a PhD is not merely a requirement but a strategic approach to academic and professional success. By mapping thesis chapters to publications, PhD candidates can systematically contribute to the scientific community while ensuring their work gains recognition. Furthermore, aligning research with industry needs and leveraging AI tools can enhance publication quality, leading to impactful contributions in the field of Computer Science.  
