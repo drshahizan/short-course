@@ -82,32 +82,19 @@ A strong methodology ensures **replicability**.
 - **[Google Colab](https://colab.research.google.com/)** – Run Python models.
 
 ## Step 6: [Analyze and Visualize Results](../analysis)
+A well-structured **analysis and visualization** of research results is crucial for conveying findings **effectively, accurately, and comprehensively**. AI-powered tools can assist in **statistical analysis, data visualization, result interpretation, and diagram creation**, making complex data **insightful and actionable**.  
 
-### **How to Present Results Effectively?**
-1. **Use Statistical Tests and Data Visualization**  
-   - **[Python (Matplotlib, Seaborn)](https://matplotlib.org/)** for statistical plots.
-
-2. **Interpret Results Clearly**  
-   - Use **[ChatGPT](https://openai.com/chatgpt/)** to summarize findings.
-
-✅ **AI Tools to Use:**
-- **[Python (Matplotlib, Seaborn)](https://matplotlib.org/)** – For statistical plots.
-- **[Tableau](https://www.tableau.com/)** – For interactive graphs.
+### ✅ AI Tools:
 
 ## Step 7: [Writing the Manuscript Using AI Assistance](../write)
+Writing a **high-quality research manuscript** requires careful structuring, **clear and concise language**, and **proper formatting**. AI-powered tools can assist in **drafting, refining, and enhancing** your manuscript, helping you create **a polished and professional research paper** suitable for submission to high-impact journals.  
 
-### **How to Structure Your Paper?**
-1. **Write Each Section Using AI**  
-   - **Use [ChatGPT](https://openai.com/chatgpt/)** to **draft Introduction, Conclusion, and Discussion**.
-
-2. **Improve Language & Readability**  
-   - **Use [DeepL Write](https://www.deepl.com/write)** or **[Grammarly](https://www.grammarly.com/)**.
-
-✅ **AI Tools to Use:**
-- **[ChatGPT](https://openai.com/chatgpt/)** – Draft sections.
-- **[DeepL Write](https://www.deepl.com/write)** – Improve writing.
-- **[Grammarly](https://www.grammarly.com/)** – Fix grammar issues.
-
+### ✅ AI Tools:
+1. Drafting Research Papers
+2. Language Enhancement & Proofreading
+3. Plagiarism Detection & Citation Formatting
+4. Research Paper Formatting & Submission
+   
 ## Step 8: [Submitting & Handling Peer Reviews](../submit)
 Submitting your research paper and navigating the **peer review process** is a critical step in academic publishing. Properly preparing your manuscript for submission and **handling reviewer comments professionally** increases the chances of **acceptance in high-impact journals**. AI-powered tools can assist in **submission formatting, journal selection, responding to reviewers, and refining your manuscript** for final acceptance.  
 
