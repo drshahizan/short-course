@@ -33,11 +33,11 @@ Selecting the right **academic journal** is a **critical step** in the publicati
 ## Step 3: [Define Your Research Topic & Problem Statement](../research)    
 A well-defined research topic and problem statement are **fundamental to academic success**, ensuring **clarity, originality, and impact**. With AI-powered tools, researchers can efficiently **identify knowledge gaps, generate research questions, and streamline literature reviews** to refine their study focus.
 
-
 ### ✅ AI Tools:
-1. Explore research gaps
-2. Question generation and refinement
-3. Research Discovery & Topic Selection 
+1. Identify Knowledge Gaps in Existing Research
+2. Perform Literature Review & Analyze Research Trends
+3. Read and Summarize Peer-Reviewed Papers Efficiently
+4. Generate & Refine Research Questions
 
 ## Step 4: [Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)](../lr)
 A **well-structured literature review** is a crucial component of any research study, providing the foundation for **identifying knowledge gaps, supporting hypotheses, and justifying research objectives**. A **Systematic Literature Review (SLR)** goes a step further by **adopting a structured and replicable methodology** to ensure **transparency, objectivity, and comprehensiveness** in reviewing existing studies.  
