@@ -8,7 +8,7 @@
 # Brainstorming and Idea Generation: Infogram💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://storage.googleapis.com/jotterpad-assets/plugins/markmap/plugins-markmap1.png" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://cdn.jifo.co/js/dist/35e36ad5717a3089b2246e91c9cf72e6.png" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
 ## 1. Introduction
