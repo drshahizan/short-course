@@ -39,7 +39,7 @@ A well-defined research question is **precise, answerable, and significant**. AI
 ## 📚 AI-Powered Tools for Research Topic Definition
 
 ### 📌 AI Tools for Literature Review & Research Gap Analysis
-| No. | 🛠 **Tool Name** | 📖 **Description** |
+| No. | Tool Name | Description |
 | ---: | ---------------- | ------------------ |
 | 1 | [Elicit](https://elicit.org/) | AI-powered tool for **literature review, research question generation, and gap analysis**. |
 | 2 | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore **related research topics**. |
@@ -50,7 +50,7 @@ A well-defined research question is **precise, answerable, and significant**. AI
 | 7 | [Scite](https://scite.ai/) | Provides **citation-based insights** on paper impact and academic discussions. |
 
 ### 🛠 AI Tools for Research Topic Ideation & Question Refinement
-| No. | 🛠 **Tool Name** | 📖 **Description** |
+| No. | Tool Name | Description |
 | ---: | ---------------- | ------------------ |
 | 1 | [ChatGPT](https://openai.com/chatgpt/) | Assists in **brainstorming research questions** and refining problem statements. |
 | 2 | [Concensus](https://consensus.app/) | Extracts **key insights from scientific literature** to support **research question development**. |
@@ -59,11 +59,10 @@ A well-defined research question is **precise, answerable, and significant**. AI
 | 5 | [Julius AI](https://julius.ai/) | AI-powered writing assistant that helps in **structuring research ideas and drafting proposals**. |
 
 ### 🔬 AI Tools for Research Discovery & Topic Selection 
-| No. | 🛠 **Tool Name** | 📖 **Description** |
+| No. | Tool Name | Description |
 | --- | ---------------- | ------------------ |
 | 1 | [SciSpace](https://typeset.io/) | AI-powered **research assistant** that suggests related studies and enhances readability. |
 | 2 | [Paperguide](https://paperguide.ai/) | Uses **machine learning** to recommend **relevant research papers** based on topic inputs. |
-
 
 ## ✅ **Best Practices for Defining a Strong Research Topic**  
 📌 **Be Specific** – Avoid vague or overly broad topics; focus on a **well-defined problem**.  
