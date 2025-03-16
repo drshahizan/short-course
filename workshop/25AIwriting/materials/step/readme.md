@@ -19,7 +19,7 @@ Before starting your research, you need to **brainstorm ideas, explore concepts,
 
 ### **How to Brainstorm and Generate Ideas?**
 1. **Use AI Mind-Mapping Tools**  
-   - **[Ideamap](https://ideamap.ai/), [EdrawMax](./brain/edrawmax.md)** → Automatically generates **concept maps** based on keywords.
+   - **[Ideamap](https://ideamap.ai/), [EdrawMax](brain/edrawmax.md)** → Automatically generates **concept maps** based on keywords.
    - **[Napkin.ai](https://www.napkin.ai/)** → Organizes fragmented ideas into structured insights.
    - **[Markmap](https://markmap.js.org/)** → Converts Markdown text into **interactive mind maps** for organizing ideas.
 
