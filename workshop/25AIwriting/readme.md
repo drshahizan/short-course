@@ -18,11 +18,11 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 ## **🎯 What Participants Will Learn**  
 
-### 👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
+- 👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
 
-### 1️⃣ [Brainstorming and Idea Generation](materials/brain) 💡🧠
+- 1️⃣ [Brainstorming and Idea Generation](materials/brain) 
 
-### 2️⃣ [Identify a Suitable Journal](materials/journal) 📚
+- 2️⃣ [Identify a Suitable Journal](materials/journal) 
 
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
