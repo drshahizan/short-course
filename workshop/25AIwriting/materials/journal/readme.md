@@ -44,19 +44,17 @@ AI tools leverage **machine learning algorithms** to analyze the content of a ma
 
 |  No. | 🛠 **Tool Name** | 📖 **Description** |
 | ---: | ---------------- | ------------------ |
+| 1 | [Manuscript Matcher (Clarivate)](https://mjl.clarivate.com/manuscript-matcher) | Utilizes **Web of Science data** to suggest appropriate journals. |
 | 2 | [Elsevier Journal Finder](https://journalfinder.elsevier.com/) | Matches your paper's **title, abstract, or keywords** with Elsevier's **vast catalog** of journals. |
 | 3| [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match) | Suggests suitable Wiley journals based on **title and abstract**, covering **1,400+ hybrid and open-access** options. |
 | 4 | [Edanz Journal Selector](https://www.edanz.com/journal-selector) | Compares **28,000+ journals** based on **impact factor, field of study, and publisher** to provide tailored recommendations. |
 | 5 | [Springer Journal Suggester](https://journalsuggester.springer.com/) | Provides a list of **Springer journals** relevant to your manuscript’s subject. |
-| 6 | [Publons](https://publons.com/) | Identifies journals that offer **peer review services** while tracking researcher contributions. |
-| 7 | [Manuscript Matcher (Clarivate)](https://mjl.clarivate.com/manuscript-matcher) | Utilizes **Web of Science data** to suggest appropriate journals. |
-| 8 | [SSRN](https://www.ssrn.com/index.cfm/en/) | A **social sciences research network** that aids in journal selection. |
-|9 | [JournalGuide](https://www.journalguide.com/) | Matches manuscripts to journals based on **topic and author preferences**. |
-| 🔟 | [EndNote Match](https://support.clarivate.com/Endnote/s/article/EndNote-Manuscript-Matcher?language=en_US) | Uses **title and abstract** to suggest relevant journals. |
-| 1️⃣ | [JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) | A **free** bioinformatics tool that matches manuscripts to **MEDLINE-indexed** journals. It also helps identify potential reviewers and related papers. |
+| 6 | [SSRN](https://www.ssrn.com/index.cfm/en/) | A **social sciences research network** that aids in journal selection. |
+| 7 | [JournalGuide](https://www.journalguide.com/) | Matches manuscripts to journals based on **topic and author preferences**. |
+| 8 | [EndNote Match](https://support.clarivate.com/Endnote/s/article/EndNote-Manuscript-Matcher?language=en_US) | Uses **title and abstract** to suggest relevant journals. |
+| 9 | [JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) | A **free** bioinformatics tool that matches manuscripts to **MEDLINE-indexed** journals. It also helps identify potential reviewers and related papers. |
 
 🚀 **Selecting the right journal enhances your chances of publication success!** Use AI-powered tools to streamline the process and ensure your research reaches the most impactful audience.
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
