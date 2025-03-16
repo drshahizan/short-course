@@ -5,18 +5,6 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Define Your Research Topic & Problem Statement
-
-A well-defined research problem ensures **clarity and novelty**.
-
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
-</a>
-
-Here is the **refined and professional** version of your content in **Markdown**, making it more structured, visually appealing, and detailed:
-
----
-
 # 🎯 **Defining Your Research Topic & Problem Statement**  
 
 A well-defined research topic and problem statement are **critical** to ensuring the **clarity, relevance, and novelty** of your study. A strong foundation leads to **meaningful contributions** to the field and increases the chances of publication in **high-impact journals**.  
