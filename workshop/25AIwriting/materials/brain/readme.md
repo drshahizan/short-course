@@ -51,8 +51,7 @@ These tools **generate structured prompts and AI-guided brainstorming sessions**
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
 | 1 | [AI-Powered Brainstorming for High-Impact Research](prompt.md) | AI-generated **brainstorming prompts** for research. | 
-| 2 | [Prompt Perfect](https://www.promptperfect.ai/) | **Optimized AI prompt engineering** for brainstorming. | 
-| 3 | [AIPRM for ChatGPT](https://www.aiprm.com/) | **Pre-built prompt templates** for structured ideation. | 
+| 2 | [AIPRM for ChatGPT](https://www.aiprm.com/) | **Pre-built prompt templates** for structured ideation. | 
 
 ## ✅ Best Practices for Brainstorming with AI  
 - 📌 **Choose the Right Tool** – Use **mind mapping tools** for visual structuring and **AI-powered brainstorming assistants** for content generation.  
