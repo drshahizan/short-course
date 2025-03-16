@@ -39,17 +39,17 @@ Data visualization simplifies the **interpretation of results** by presenting **
 
 ✅ **AI-Powered Tools for Data Visualization:**  
 
-| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 
-| --- | ---------------- | ------------------ | 
-| 1️⃣ | [Python (Matplotlib, Seaborn)](https://matplotlib.org/) | **Statistical plots and data visualizations**. | 
-| 2️⃣ | [Tableau](https://www.tableau.com/) | AI-driven **interactive data visualization platform**. | 
-| 3️⃣ | [Power BI](https://powerbi.microsoft.com/) | Microsoft **AI-powered business intelligence visualization**. | 
-| 4️⃣ | [Plotly](https://plotly.com/) | **Interactive Python-based graphing library**. | 
-| 5️⃣ | [Google Data Studio](https://datastudio.google.com/) | **Cloud-based visualization and dashboarding tool**. | 
-| 6️⃣ | [D3.js](https://d3js.org/) | JavaScript library for **custom interactive data visualizations**. | 
-| 7️⃣ | [RAWGraphs](https://rawgraphs.io/) | Open-source **data visualization tool for researchers**. | 
-| 8️⃣ | [Datawrapper](https://www.datawrapper.de/) | AI-powered **visualization tool for creating charts and maps**. | 
-| 9️⃣ | [Vosviewer](https://www.vosviewer.com/) | **Bibliometric analysis and scientific network visualization tool**. | 
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Python (Matplotlib, Seaborn)](https://matplotlib.org/) | **Statistical plots and data visualizations**. | 
+| 2 | [Tableau](https://www.tableau.com/) | AI-driven **interactive data visualization platform**. | 
+| 3 | [Power BI](https://powerbi.microsoft.com/) | Microsoft **AI-powered business intelligence visualization**. | 
+| 4 | [Plotly](https://plotly.com/) | **Interactive Python-based graphing library**. | 
+| 5 | [Google Data Studio](https://datastudio.google.com/) | **Cloud-based visualization and dashboarding tool**. | 
+| 6 | [D3.js](https://d3js.org/) | JavaScript library for **custom interactive data visualizations**. | 
+| 7 | [RAWGraphs](https://rawgraphs.io/) | Open-source **data visualization tool for researchers**. | 
+| 8 | [Datawrapper](https://www.datawrapper.de/) | AI-powered **visualization tool for creating charts and maps**. | 
+| 9 | [Vosviewer](https://www.vosviewer.com/) | **Bibliometric analysis and scientific network visualization tool**. | 
 
 
 ### **3️⃣ Interpret and Summarize Findings Clearly** 📑  
