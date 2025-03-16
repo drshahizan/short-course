@@ -5,77 +5,62 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🚀 **Brainstorming and Idea Generation** 💡🧠  
+# Brainstorming and Idea Generation 💡🧠  
 
-Selecting the right **brainstorming tool** is essential for **idea generation, research structuring, and creative problem-solving**. AI-powered brainstorming tools enable researchers, writers, and professionals to efficiently **develop, refine, and organize** their ideas through **mind mapping, structured thinking, and AI-generated insights**.
+Generating and organizing **innovative research ideas** is crucial for **problem-solving, research structuring, and creative exploration**. AI-powered brainstorming tools help researchers, writers, and professionals **visualize, refine, and expand** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
 
-📌 **With AI-driven brainstorming tools, you can:**  
-  - ✅ Generate structured **mind maps** and **diagrams**  
-  - ✅ Visualize **concepts, workflows, and processes**  
-  - ✅ Enhance **creativity and critical thinking**  
-  - ✅ Optimize **research planning and development**  
+📌 **Why Use AI for Brainstorming?**  
+- ✅ **Generate structured** mind maps and diagrams  
+- ✅ **Visualize** concepts, workflows, and processes  
+- ✅ **Enhance creativity** and overcome idea blocks  
+- ✅ **Optimize** research planning and content development  
 
-## 🔥 **Top AI-Powered Brainstorming Tools**
-Best AI-driven tools for **brainstorming, mind mapping, and idea generation**:
+## 🔍 AI Tools for Brainstorming and Idea Generation  
 
-### 1. [Ideamap](ideamap.md)  
-  - 📌 **AI-Powered Mind Mapping & Idea Structuring**  
-🔹 Automatically generates **mind maps** to help users visualize and organize thoughts effectively.  
-🔹 Facilitates **concept structuring, problem-solving, and research planning**.  
+### 1️⃣ AI-Powered Mind Mapping & Visual Structuring 🗺️  
+These tools help in **visualizing ideas, structuring concepts, and organizing thoughts** using AI-generated **diagrams, mind maps, and interactive workflows**.
 
-
-### 2. [Napkin.ai](napkin.md)  
-  - 📌 **Transforming Text into Visuals**  
-🔹 Converts raw **text ideas** into **visuals like charts, diagrams, and flowcharts**.  
-🔹 Ideal for **concept development, presentations, and structured documentation**.  
-
-### 3. [Markmap](markmap.md)   
-  - 📌 **Lightweight Interactive Mind Mapping Tool**  
-🔹 Converts **Markdown files** into **interactive mind maps**.  
-🔹 Great for **outlining research ideas, structuring projects, and knowledge management**.  
-
-### 4. [EdrawMax](edrawmax.md)
-  - 📌 **All-in-One Diagramming Software**  
-🔹 **Versatile**—Supports **flowcharts, network diagrams, engineering drawings, and more**.  
-🔹 Perfect for **academic research, project planning, and business development**.  
-
-### 5. [Infogram](https://infogram.com/) 📊
-📌 AI-Powered Data Visualization & Infographics
-🔹 Generates interactive reports, infographics, and visual data representations.
-🔹 Great for academic presentations, business reports, and research communication.
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Ideamap](ideamap) | AI-powered **mind mapping and structured brainstorming**. | 
+| 2 | [Napkin.ai](napkin) | Converts text ideas into **diagrams, charts, and flowcharts**. | 
+| 3 | [Markmap](markmap) | Converts **Markdown text into interactive mind maps**. | 
+| 4 | [EdrawMax](edrawmax) | **All-in-one diagramming tool** for flowcharts, mind maps, and more. | 
+| 5 | [Infogram](https://infogram.com/) | **AI-powered data visualization** for research presentation. | 
+| 6 | [Miro AI Diagram](https://miro.com/ai/diagram-ai/) | AI-powered **interactive diagramming tool**. | 
+| 7 | [Venngage AI Diagram](https://venngage.com/ai-tools/diagram-generator) | Creates **professional diagrams and infographics**. | 
+| 8 | [Eraser.io DiagramGPT](https://www.eraser.io/diagramgpt) | AI-generated **flowcharts and structured workflows**. | 
 
 
-### 6. [HyperWrite](hyperwrite.md)  
-  - 📌 **AI-Driven Creative Problem Solving**  
-🔹 Generates **innovative solutions** based on a **given problem or research topic**.  
-🔹 Helps in **overcoming creative blocks and refining initial ideas**.  
+### **2️⃣ AI-Powered Research & Idea Expansion** 🧠  
+These tools assist in **generating new research ideas, alternative solutions, and structured content development**.
 
-### 7. [Google Gemini](gemini.md)  
-  - 📌 **AI-Powered Brainstorming & Research Assistant**  
-🔹 **Expands on initial ideas** by suggesting **alternative approaches, deeper insights, and industry trends**.  
-🔹 Ideal for **research proposal refinement, academic writing, and technology-driven innovations**.  
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Google Gemini](gemini) | AI-driven **idea expansion and research assistance**. | 
+| 2 | [Microsoft Copilot](copilot) | AI-powered **research structuring and brainstorming tool**. | 
+| 3 | [ChatGPT](chatgpt) | Generates **creative research ideas and structured outlines**. | 
+| 4 | [HyperWrite](hyperwrite) | AI-powered **creative problem-solving assistant**. | 
+| 5 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
+| 6 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
 
-### 8. [Microsoft Copilot](copilot.md)  
-  - 📌 **Integrated AI for Research & Content Structuring**  
-🔹 Works directly within **Microsoft 365 apps** like **Word, PowerPoint, and OneNote**.  
-🔹 Enhances clarity, structure, and organization in **reports, presentations, and academic papers**.  
 
-### 9. [ChatGPT](chatgpt.md)   
-  - 📌 **AI-Assisted Ideation & Structured Brainstorming**  
-🔹 Generates **creative research ideas**, suggests **alternative approaches**, and provides **contextual insights**.  
-🔹 Supports **structured brainstorming sessions** based on **user input and research goals**.  
+### **3️⃣ AI-Powered Prompting & Automated Brainstorming** 🔍  
+These tools **generate structured prompts and AI-guided brainstorming sessions** for research innovation.
 
-### 10. [AI-Powered Brainstorming for High-Impact Research](prompt.md)  
-  - 📌 **Optimized AI Prompts for Research Innovation**  
-🔹 A structured guide featuring AI-generated **prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT**.  
-🔹 Designed for **brainstorming research ideas suitable for Web of Science Q1/Q2 Computer Science journals**.  
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [AI-Powered Brainstorming for High-Impact Research](https://www.researchai.com/prompts) | AI-generated **brainstorming prompts** for research. | 
+| 2 | [Prompt Perfect](https://www.promptperfect.ai/) | **Optimized AI prompt engineering** for brainstorming. | 
+| 3 | [AIPRM for ChatGPT](https://www.aiprm.com/) | **Pre-built prompt templates** for structured ideation. | 
 
-## Why Use AI-Powered Brainstorming Tools?
-  - ✨ **Enhances Creativity:** Overcomes mental blocks and generates **fresh ideas**.  
-  - ✨ **Saves Time:** Quickly organizes thoughts into **structured outputs**.  
-  - ✨ **Improves Research Efficiency:** Aids in **concept development and academic writing**.  
-  - ✨ **Supports Collaboration:** Enables seamless **team brainstorming and knowledge sharing**.  
-
+## ✅ Best Practices for Brainstorming with AI  
+- 📌 **Choose the Right Tool** – Use **mind mapping tools** for visual structuring and **AI-powered brainstorming assistants** for content generation.  
+- 📌 **Refine and Expand Ideas** – Use AI-driven tools like **Google Gemini, ChatGPT, and Claude AI** to enhance initial thoughts.  
+- 📌 **Visualize Concepts** – Transform ideas into **interactive diagrams and structured workflows** using **Infogram, Venngage, and EdrawMax**.  
+- 📌 **Collaborate with Teams** – Utilize AI-integrated platforms like **Miro AI** to conduct **team brainstorming sessions**.  
+- 📌 **Optimize Prompts for AI** – Use **AI-Powered Brainstorming Prompts** to guide AI assistants in structured idea generation.
+  
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
