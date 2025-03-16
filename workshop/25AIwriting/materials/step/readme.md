@@ -110,7 +110,7 @@ A strong methodology ensures **replicability**.
 - **[Jupyter Notebook](https://jupyter.org/)** – Code experiments.
 - **[Google Colab](https://colab.research.google.com/)** – Run Python models.
 
-## **Step 6: Analyze and Visualize Results**  
+## **Step 6: [Analyze and Visualize Results](../analysis)
 
 ### **How to Present Results Effectively?**
 1. **Use Statistical Tests and Data Visualization**  
