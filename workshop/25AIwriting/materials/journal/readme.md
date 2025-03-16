@@ -5,54 +5,70 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📌 Identifying a Suitable Journal for Your Research
+# 📌 **Identifying a Suitable Journal for Your Research**  
 
-Selecting the right journal is a **critical step** in the publication process, ensuring that your research reaches the correct audience and meets the **highest publication standards**. With the advancement of AI-powered tools, researchers can now efficiently match their manuscripts to **relevant, high-impact journals** based on various factors such as title, abstract, and keywords.
+Selecting the right **academic journal** is a **critical step** in the publication process. Choosing a suitable journal ensures that **your research reaches the right audience, maximizes impact, and meets publication standards**. With AI-powered tools, researchers can now efficiently match their manuscripts to **high-impact journals** based on **title, abstract, keywords, and research field**.  
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="journal.png" alt="Dr Shahizan AI tools"  height="300">
-</a>
-  
-## 🎯 **How to Select the Right Journal?**
-To maximize the impact of your research, consider the following key factors when selecting a journal:
+## 🎯 **Key Factors to Consider When Selecting a Journal**  
 
-### **1️⃣ Evaluate Journal Impact and Ranking**  
-A journal's **impact factor** and ranking indicate its influence in the research community.  
-✅ Use **[Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/)** to assess high-impact journals.
+### **1️⃣ Assess Journal Impact & Ranking** 📊  
+A journal's **impact factor** and ranking indicate its **influence and credibility** in the research community.  
 
-### **2️⃣ Find Journals Based on Your Abstract**  
-Many AI-powered tools can analyze your **abstract** and suggest suitable journals.  
-🔹 Recommended tools:  
-- **[Elsevier Journal Finder](https://journalfinder.elsevier.com/)**  
-- **[Springer Journal Suggester](https://journalsuggester.springer.com/)**  
+✅ **Use AI tools to check journal rankings:**  
+- **[Scimago Journal & Country Rank (SJR)](https://www.scimagojr.com/)** – Provides impact factor rankings.  
+- **[Web of Science](https://www.webofscience.com/)** – Tracks citations and research influence.  
+- **[Scopus](https://www.scopus.com/)** – Analyzes publication metrics and research visibility.  
 
-### **3️⃣ Review Journal Submission Guidelines**  
-Every journal has unique **author guidelines** and **submission criteria** that must be followed.  
-📌 **Check for:**  
-- Word limits  
-- Formatting requirements  
-- Open-access policies  
-- Scope and topic alignment  
+### **2️⃣ Find Journals Based on Your Manuscript** 🔍  
+AI-powered tools can analyze your **title, abstract, and keywords** to suggest the most relevant journals.  
 
-✅ **AI Tools to Assist in Journal Selection:**  
-- **[Scimago (SJR)](https://www.scimagojr.com/)** – Identifies high-impact journals.  
-- **[Elsevier Journal Finder](https://journalfinder.elsevier.com/)** – Matches manuscripts to relevant journals.  
-- **[Springer Journal Suggester](https://journalsuggester.springer.com/)** – Suggests appropriate journals based on manuscript content.  
+✅ **AI Tools for Journal Recommendation:**  
 
-## 🔍 **AI-Powered Journal Selection Tools**
-AI tools leverage **machine learning algorithms** to analyze the content of a manuscript and suggest the most appropriate journals for publication. These tools not only save time but also enhance the chances of acceptance by aligning submissions with journals that have previously published similar research.
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Elsevier Journal Finder](https://journalfinder.elsevier.com/) | Matches your paper's **title, abstract, or keywords** to Elsevier journals. | 
+| 2 | [Springer Journal Suggester](https://journalsuggester.springer.com/) | Suggests Springer journals **based on manuscript content**. | 
+| 3 | [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match) | Recommends Wiley journals **covering 1,400+ open-access and hybrid options**. | 
+| 4 | [Edanz Journal Selector](https://www.edanz.com/journal-selector) | Searches **28,000+ journals** based on **impact factor, field, and publisher**. | 
+| 5 | [JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) | Compares manuscripts to **MEDLINE-indexed** journals **for biomedical research**. | 
+| 6 | [Manuscript Matcher (Clarivate)](https://mjl.clarivate.com/manuscript-matcher) | Uses **Web of Science data** for precise journal recommendations. | 
 
-|  No. | 🛠 **Tool Name** | 📖 **Description** |
-| ---: | ---------------- | ------------------ |
-| 1 | [Manuscript Matcher (Clarivate)](https://mjl.clarivate.com/manuscript-matcher) | Utilizes **Web of Science data** to suggest appropriate journals. |
-| 2 | [Elsevier Journal Finder](https://journalfinder.elsevier.com/) | Matches your paper's **title, abstract, or keywords** with Elsevier's **vast catalog** of journals. |
-| 3| [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match) | Suggests suitable Wiley journals based on **title and abstract**, covering **1,400+ hybrid and open-access** options. |
-| 4 | [Edanz Journal Selector](https://www.edanz.com/journal-selector) | Compares **28,000+ journals** based on **impact factor, field of study, and publisher** to provide tailored recommendations. |
-| 5 | [Springer Journal Suggester](https://journalsuggester.springer.com/) | Provides a list of **Springer journals** relevant to your manuscript’s subject. |
-| 6 | [SSRN](https://www.ssrn.com/index.cfm/en/) | A **social sciences research network** that aids in journal selection. |
-| 7 | [JournalGuide](https://www.journalguide.com/) | Matches manuscripts to journals based on **topic and author preferences**. |
-| 8 | [EndNote Match](https://support.clarivate.com/Endnote/s/article/EndNote-Manuscript-Matcher?language=en_US) | Uses **title and abstract** to suggest relevant journals. |
-| 9 | [JANE (Journal/Author Name Estimator)](https://jane.biosemantics.org/) | A **free** bioinformatics tool that matches manuscripts to **MEDLINE-indexed** journals. It also helps identify potential reviewers and related papers. |
+### **3️⃣ Review Journal Submission Guidelines** 📝  
+Each journal has specific **submission criteria** that must be followed, including:  
+✅ Word count limits  
+✅ Formatting requirements (APA, IEEE, MLA, etc.)  
+✅ Open-access policies  
+✅ Peer review process and response time  
+
+🔹 **Check author guidelines on journal websites or use:**  
+- **[SciSpace (Formerly Typeset.io)](https://typeset.io/)** – Formats your manuscript according to **journal-specific** requirements.  
+- **[Paperpal](https://www.paperpal.com/)** – AI-powered **manuscript refinement** for submission readiness.  
+
+## 🔍 **AI-Powered Tools for Journal Selection & Research Indexing**  
+
+AI tools **streamline the journal selection process** by analyzing manuscripts and suggesting journals with **a high likelihood of acceptance**.  
+
+### **🛠 Top AI Tools for Journal Selection & Research Indexing**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Scimago Journal Rank (SJR)](https://www.scimagojr.com/) | Ranks journals by **impact factor and field**. | 
+| 2 | [Web of Science](https://www.webofscience.com/) | Tracks **citations and journal impact**. | 
+| 3 | [Scopus](https://www.scopus.com/) | Provides **research metrics and citation tracking**. | 
+| 4 | [ORCID](https://orcid.org/) | Assigns **unique researcher IDs** for tracking publications. | 
+| 5 | [ResearchGate](https://www.researchgate.net/) | Academic **networking and publication sharing**. | 
+| 6 | [SSRN](https://www.ssrn.com/index.cfm/en/) | **Preprint platform** for social sciences research. | 
+| 7 | [JournalGuide](https://www.journalguide.com/) | Matches manuscripts to journals based on **topic and author preferences**. | 
+| 8 | [EndNote Match](https://support.clarivate.com/Endnote/s/article/EndNote-Manuscript-Matcher?language=en_US) | Suggests journals based on **title and abstract**. | 
+
+## ✅ **Best Practices for Selecting the Right Journal**  
+
+- 📌 **Choose a Journal with High Impact** – Check **Scimago (SJR), Scopus, or Web of Science** rankings.  
+- 📌 **Match Your Research to the Journal Scope** – Use AI-powered **journal finders** like **Elsevier Journal Finder**.  
+- 📌 **Follow Submission Guidelines** – Ensure compliance with **word count, formatting, and scope** requirements.  
+- 📌 **Check for Open Access Options** – Determine whether the journal supports **open-access publishing**.  
+- 📌 **Track Citations & Research Indexing** – Register with **Google Scholar, ORCID, and ResearchGate** for wider visibility.  
+
 
 
 ### 🙌🏻 Connect with Me
