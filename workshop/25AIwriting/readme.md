@@ -18,7 +18,7 @@ Artificial Intelligence (AI) is revolutionizing academic writing and research. T
 
 ## **🎯 What Participants Will Learn**  
 
-- 👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
+👣 [A Step-by-Step Guide to Writing a High-Impact Journal Article Using AI Tools](materials/step)
 
 - 1️⃣ [Brainstorming and Idea Generation](materials/brain) 
 
