@@ -50,6 +50,10 @@ Artificial Intelligence (AI) 🤖 is revolutionizing academic writing and resear
 
 🔹 [AI-Powered Brainstorming & Idea Generation for High-Impact Computer Science Research](materials/brain/prompt.md): This guide provides structured AI prompts for Google Gemini, Microsoft Copilot and ChatGPT to brainstorm and generate research ideas suitable for Web of Science Q1/Q2 Computer Science journals.
 
+### **2️⃣ Identify a Suitable Journal 📚**  
+
+
+
 ### **1️⃣ Literature Review & Research Discovery 📚**  
 🔹 How to use AI-powered tools like **Elicit, Research Rabbit, and Connected Papers** to find relevant studies.  
 🔹 Identifying research gaps and summarizing key papers efficiently.  
