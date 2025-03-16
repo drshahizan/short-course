@@ -32,9 +32,12 @@ A strong research topic is built on a **clear understanding of existing literatu
 A well-defined research question is **precise, answerable, and significant**. AI-driven tools help in **brainstorming, structuring, and refining research questions** to enhance clarity.  
 
 - ✅ **Use these AI tools for question generation and refinement:**  
-🔹 **[ChatGPT](https://openai.com/chatgpt/)** – Generates **research questions**, provides alternative study approaches, and refines problem statements.  
 🔹 **[Concensus](https://consensus.app/)** – Extracts **key insights from research papers** to support evidence-based research questions.  
 🔹 **[Jenni.ai](https://jenni.ai/)** – AI-powered assistant for **writing and structuring research ideas**.  
+🔹 **[DeepSeek AI](https://deepseek.com/)** – AI model that assists in **generating structured research insights and refining problem statements**.  
+🔹 **[Qwen](https://qwen.ai/)** – AI-powered brainstorming tool designed for **idea expansion and structured academic writing**.  
+🔹 **[Kimi AI](https://kimi.ai/)** – AI assistant for **generating research frameworks, hypotheses, and structured methodologies**.
+🔹 **[ChatGPT](https://openai.com/chatgpt/)** – Generates **research questions**, provides alternative study approaches, and refines problem statements.
 
 ## 📚 AI-Powered Tools for Research Topic Definition
 
@@ -52,11 +55,14 @@ A well-defined research question is **precise, answerable, and significant**. AI
 ### 🛠 AI Tools for Research Topic Ideation & Question Refinement
 | No. | Tool Name | Description |
 | ---: | ---------------- | ------------------ |
-| 1 | [ChatGPT](https://openai.com/chatgpt/) | Assists in **brainstorming research questions** and refining problem statements. |
-| 2 | [Concensus](https://consensus.app/) | Extracts **key insights from scientific literature** to support **research question development**. |
-| 3 | [Jenni.ai](https://jenni.ai/) | AI-powered assistant for **writing and structuring research ideas**. |
-| 4 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing clarity, coherence, and research articulation**. |
-| 5 | [Julius AI](https://julius.ai/) | AI-powered writing assistant that helps in **structuring research ideas and drafting proposals**. |
+| 1 | [Concensus](https://consensus.app/) | Extracts **key insights from scientific literature** to support **research question development**. |
+| 2 | [DeepSeek AI](https://deepseek.com/) | AI-driven tool for **structuring research topics and refining methodologies**. |
+| 3 | [Qwen AI](https://qwen.ai/) | AI-powered model for **expanding research ideas and optimizing academic writing**. |
+| 4 | [Kimi AI](https://kimi.ai/) | AI tool for **structuring research hypotheses and methodologies**. |
+| 5 | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing clarity, coherence, and research articulation**. |
+| 6 | [Jenni.ai](https://jenni.ai/) | AI-powered assistant for **writing and structuring research ideas**. |
+| 7 | [Julius AI](https://julius.ai/) | AI-powered writing assistant that helps in **structuring research ideas and drafting proposals**. |
+| 8 | [ChatGPT](https://openai.com/chatgpt/) | Assists in **brainstorming research questions** and refining problem statements. |
 
 ### 🔬 AI Tools for Research Discovery & Topic Selection 
 | No. | Tool Name | Description |
