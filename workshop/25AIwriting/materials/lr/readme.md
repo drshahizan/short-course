@@ -5,33 +5,101 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)
+# 📚 Conducting a Comprehensive Literature Review & Systematic Literature Review (SLR)
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="article_ai.png" alt="Dr Shahizan AI tools"  height="300">
-</a>
+A **well-structured literature review** is a crucial component of any research study, providing the foundation for **identifying knowledge gaps, supporting hypotheses, and justifying research objectives**. A **Systematic Literature Review (SLR)** goes a step further by **adopting a structured and replicable methodology** to ensure **transparency, objectivity, and comprehensiveness** in reviewing existing studies.  
 
-Publishing in a **high-impact journal** is a prestigious achievement that requires **originality, clarity, and high scientific rigor**. This guide provides a **detailed breakdown of each step**, incorporating **AI tools** to enhance your workflow and **maximize efficiency**.
+## 🎯 **Why is a Literature Review Important?**  
 
-## **Step 4: Conduct a Comprehensive Literature Review**  
+✅ **Identifies research gaps** and justifies the study’s novelty  
+✅ **Builds a strong theoretical foundation** for research  
+✅ **Prevents redundancy** by ensuring originality  
+✅ **Enhances credibility** by integrating high-quality sources  
+✅ **Facilitates reproducibility** through systematic documentation  
 
-A well-structured literature review **justifies your study**.
+## 🔍 **Types of Literature Reviews**  
 
-### **How to Perform a Literature Review?**
-1. **Search for Relevant Papers**  
-   - Use **[Semantic Scholar](https://www.semanticscholar.org/)** or **[Research Rabbit](https://www.researchrabbit.ai/)**.
+### **1️⃣ Traditional Literature Review (Narrative Review)**  
+A **traditional review** provides a **broad overview** of a research topic, summarizing and analyzing prior studies **without a strict methodology**. It is **flexible** but can suffer from **bias and lack of reproducibility**.  
 
-2. **Manage and Organize References**  
-   - Use **[Zotero](https://www.zotero.org/)** or **[Mendeley](https://www.mendeley.com/)**.
+### **2️⃣ Systematic Literature Review (SLR) 🔬**  
+An **SLR follows a structured and rigorous methodology** to collect, analyze, and synthesize existing literature, ensuring **transparency, objectivity, and replicability**.  
 
-3. **Summarize Key Findings**  
-   - Use **[ChatGPT](https://openai.com/chatgpt/)** to generate **concise summaries**.
+📌 **Key Steps in an SLR:**  
+1. **Define Research Questions** – Use frameworks like **PICO (for healthcare) or PRISMA**.  
+2. **Develop a Search Strategy** – Identify **databases, keywords, and Boolean operators**.  
+3. **Set Inclusion/Exclusion Criteria** – Define eligibility for selecting studies.  
+4. **Conduct Systematic Searching** – Use databases like **Scopus, Web of Science, and IEEE Xplore**.  
+5. **Screen and Select Relevant Papers** – Use AI tools for **filtering and citation analysis**.  
+6. **Extract and Analyze Data** – Identify **trends, findings, and research gaps**.  
+7. **Synthesize Findings** – Summarize the literature using **qualitative or quantitative methods**.  
+8. **Report the Review** – Follow **PRISMA guidelines** for reporting results.  
 
-✅ **AI Tools to Use:**
-- **[Semantic Scholar](https://www.semanticscholar.org/)** – Find academic papers.
-- **[Research Rabbit](https://www.researchrabbit.ai/)** – Discover connected research.
-- **[Zotero](https://www.zotero.org/)** / **[Mendeley](https://www.mendeley.com/)** – Manage references.
+✅ **SLR Guidelines & Frameworks:**  
+- **PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)**  
+- **PICO (Population, Intervention, Comparison, Outcome) – Healthcare SLR**  
+- **Cochrane Review Guidelines**  
 
+## 🛠 **AI-Powered Tools for Conducting Literature Reviews**  
+
+### **1️⃣ Discover Relevant Research Papers** 🔎  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1️⃣ | [Zeta Alpha](https://search.zeta-alpha.com/) | AI-powered **Neural Discovery Platform** for research and knowledge management. | 
+| 2️⃣ | [EvidenceHunt](https://evidencehunt.com/) | AI-driven **clinical evidence search engine** for healthcare professionals. | 
+| 3️⃣ | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered **academic search engine** that finds **relevant scientific literature**. | 
+| 4️⃣ | [R Discovery](https://discovery.researcher.life/) | AI-enhanced **comprehensive research platform** for literature discovery. | 
+| 5️⃣ | [Connected Papers](https://www.connectedpapers.com/) | **Visualizes citation networks** to explore related research. | 
+| 6️⃣ | [Consensus.app](https://consensus.app/) | AI-based **research summarization tool** for extracting key insights. | 
+| 7️⃣ | [Elicit](https://elicit.com/) | AI-powered **literature review and research workflow automation**. | 
+
+
+
+### **2️⃣ Reference Management & Citation Analysis** 🗂  
+
+| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
+| --- | ---------------- | ------------------ | :--------: |
+| 1️⃣ | [Zotero](https://www.zotero.org/) | Free **reference manager** that helps organize **academic papers**. | 🔗 |
+| 2️⃣ | [Mendeley](https://www.mendeley.com/) | AI-powered **bibliography and citation management tool**. | 🔗 |
+| 3️⃣ | [EndNote](https://endnote.com/) | Industry-standard **reference management software**. | 🔗 |
+| 4️⃣ | [Paperpile](https://paperpile.com/) | Cloud-based **citation manager** that integrates with Google Docs. | 🔗 |
+
+---
+
+### **3️⃣ Extracting & Summarizing Key Findings** ✍  
+
+| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
+| --- | ---------------- | ------------------ | :--------: |
+| 1️⃣ | [ChatGPT](https://openai.com/chatgpt/) | AI-powered **summary generator** for research papers. | 🔗 |
+| 2️⃣ | [DeepSeek](https://deepseek.com/) | Helps researchers **analyze and synthesize literature efficiently**. | 🔗 |
+| 3️⃣ | [Qwen AI](https://qwen.ai/) | AI-powered tool for **extracting key arguments from academic content**. | 🔗 |
+| 4️⃣ | [Kimi AI](https://kimi.ai/) | AI-driven assistant for **structuring and refining literature reviews**. | 🔗 |
+| 5️⃣ | [PaperPal](https://www.paperpal.com/) | Enhances **academic writing and literature review drafts**. | 🔗 |
+
+---
+
+### **4️⃣ Visualizing Research Trends & Citation Networks** 🌐  
+
+| 🏆 No. | 🛠 **Tool Name** | 📖 **Function** | 🔗 **Link** |
+| --- | ---------------- | ------------------ | :--------: |
+| 1️⃣ | [Inciteful](https://inciteful.xyz/) | AI-powered **citation graph builder** for mapping research. | 🔗 |
+| 2️⃣ | [Open Knowledge Maps](https://openknowledgemaps.org/) | Creates **interactive knowledge graphs** for research visualization. | 🔗 |
+| 3️⃣ | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 🔗 |
+| 4️⃣ | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 🔗 |
+| 5️⃣ | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 🔗 |
+
+---
+
+## ✅ **Best Practices for a Systematic Literature Review (SLR)**  
+
+📌 **Develop a Research Protocol** – Clearly define research objectives, search strategies, and criteria.  
+📌 **Use Multiple Databases** – Combine searches from **Scopus, Web of Science, IEEE Xplore, and Google Scholar**.  
+📌 **Screen & Filter Papers** – Use **AI-powered tools** to streamline paper selection.  
+📌 **Document & Synthesize Findings** – Maintain a structured record of research results.  
+📌 **Follow PRISMA Guidelines** – Ensure the SLR is **transparent and replicable**.  
+
+🚀 **With AI-powered tools, researchers can streamline literature reviews, enhance research transparency, and accelerate academic writing efficiency!**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
