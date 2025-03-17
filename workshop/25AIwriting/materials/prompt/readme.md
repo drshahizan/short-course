@@ -15,27 +15,40 @@
 AI-powered prompts can significantly enhance research, academic writing, and idea generation. This curated list provides essential resources for effective AI usage in academia.
 
 ## **AI Prompt Resources**
-### 1. Brainstorming & Idea Generation
-- 📌 [Brainstorming & Idea Generation Guide](brain.md)
+### **1. Brainstorming & Idea Generation**
+- 📌 [Brainstorming & Idea Generation Guide](brain.md)  
+- ✨ [AI Prompts for Research Topic Ideation](https://www.promptingguide.ai/brainstorming)  
 
-### 2. Defining Your Research Topic & Problem Statement
-- 📌 [How to Define Your Research Topic](topic.md)
+### **2. Defining Your Research Topic & Problem Statement**
+- 📌 [How to Define Your Research Topic](topic.md)  
+- 🔍 [AI Prompts for Refining Research Questions](https://github.com/f/awesome-chatgpt-prompts#academic-research)  
 
-### 3. [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt)
-- 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)
+### **3. [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt)**
+- 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)  
+- ✍️ [AI Prompts for Content Structuring & Storytelling](https://www.promptingguide.ai/content-writing)  
 
-### 4. Specialized AI Prompts for Research & Writing
-- 📖 [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)
-- 📑 [ChatGPT Prompts for Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)
-- 📝 [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)
+### **4. Specialized AI Prompts for Research & Writing**
+- 📖 [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)  
+- 📑 [ChatGPT Prompts for Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)  
+- 📝 [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)  
+- 🎯 [AI Prompts for Literature Reviews & Citation Analysis](https://www.promptingguide.ai/literature-review)  
 
-### 5. Advanced AI Prompt Strategies
-- 💡 [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)
+### **5. Advanced AI Prompt Strategies**
+- 💡 [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)  
+- 🔬 [AI Prompts for Data Interpretation & Hypothesis Testing](https://www.promptingguide.ai/data-analysis)  
+- 🏆 [Expert-Level Academic Writing Prompts](https://github.com/f/awesome-chatgpt-prompts)  
 
-### 6. AI-Powered Document Analysis
-- 📂 [Chat with Copilot Regarding PDF Files](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)
+### **6. AI-Powered Document Analysis**
+- 📂 [Chat with Copilot Regarding PDF Files](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)  
+- 📜 [AI Prompts for Research Summarization & Proofreading](https://www.promptingguide.ai/editing)  
 
----
+### **7. AI Prompts for Critical Thinking & Problem Solving**
+- 🧠 [AI Prompts for Critical Thinking in Research](https://www.promptingguide.ai/critical-thinking)  
+- 📊 [AI Prompts for Hypothesis Testing & Data Interpretation](https://www.promptingguide.ai/data-analysis)  
+
+### **8. AI Prompts for Editing & Proofreading**
+- 🔍 [AI Prompts for Refining Academic Writing](https://www.promptingguide.ai/editing)  
+- 🖊️ [AI Prompts for Grammar & Clarity Improvements](https://www.promptingguide.ai/grammar-check)  
 
 ### **How to Use These Resources?**
 1. **Start with Brainstorming** – Use AI to generate innovative ideas.
