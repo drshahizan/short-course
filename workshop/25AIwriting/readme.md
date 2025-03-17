@@ -34,6 +34,8 @@ Artificial Intelligence (AI) is revolutionizing academic writing and research. T
 - 7️⃣ Write the Manuscript Using AI Assistance
 - 8️⃣ Submitting & Handling Peer Reviews
 - 9️⃣ Promote Your Research
+🔆 [AI Prompt](materials/prompt)
+
 
 ## **👥 Who Should Attend?**  
 - 🎓 Postgraduate students looking to enhance their research and academic writing.  
