@@ -17,11 +17,9 @@ AI-powered prompts can significantly enhance research, academic writing, and ide
 ## **AI Prompt Resources**
 ### **1. Brainstorming & Idea Generation**
 - 📌 [Brainstorming & Idea Generation Guide](brain.md)  
-- ✨ [AI Prompts for Research Topic Ideation](https://www.promptingguide.ai/brainstorming)  
 
 ### **2. Defining Your Research Topic & Problem Statement**
 - 📌 [How to Define Your Research Topic](topic.md)  
-- 🔍 [AI Prompts for Refining Research Questions](https://github.com/f/awesome-chatgpt-prompts#academic-research)  
 
 ### **3. [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt)**
 - 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)  
