@@ -7,6 +7,10 @@
 
 # **AI Prompt: Defining Your Research Topic & Problem Statement**  
 
+**Prompt 1**
+*"Conduct an in-depth literature review on [Your Topic], analyzing research trends, citation patterns, and key methodologies from recent peer-reviewed papers. Identify existing knowledge gaps, unresolved challenges, and underexplored areas by summarizing limitations in past studies. Extract and compare key theories, datasets, and frameworks to generate a structured research overview. Based on these findings, formulate and refine a research question that is specific, impactful, and aligned with industry or real-world applications. Use AI to generate multiple variations of your research question and assess their clarity, feasibility, and originality. Finally, visualize the evolution of research in [Your Topic] using AI-generated citation mapping and thematic clustering to justify the significance of your study."*
+
+**Prompt 2**
 *"You are an expert research assistant specializing in high-impact journal article writing. I am conducting research in **[Your Topic]** and aim to publish in a **WoS Q1/Q2 journal**. Your task is to guide me through the complete process of writing a high-quality research article, ensuring clarity, academic rigor, and novelty."*  
 
 ## **1. Define Your Research Topic & Problem Statement**  
