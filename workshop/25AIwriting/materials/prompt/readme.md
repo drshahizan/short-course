@@ -28,7 +28,6 @@ AI-powered prompts can significantly enhance research, academic writing, and ide
 - 📖 [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)  
 - 📑 [ChatGPT Prompts for Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)  
 - 📝 [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)  
-- 🎯 [AI Prompts for Literature Reviews & Citation Analysis](https://www.promptingguide.ai/literature-review)  
 
 ### **5. Advanced AI Prompt Strategies**
 - 💡 [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)  
