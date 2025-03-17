@@ -5,139 +5,76 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **AI Prompt: Brainstorming & Idea Generation**  
+# **AI Prompt: Defining Your Research Topic & Problem Statement**  
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://cdnp.kittl.com/ZyO41q8jQArT0F76_HowtobuildagreatAIprompt.png?auto=format,compress" alt="Dr Shahizan AI tools"  height="400">
-</a>
+*"You are an expert research assistant specializing in high-impact journal article writing. I am conducting research in **[Your Topic]** and aim to publish in a **WoS Q1/Q2 journal**. Your task is to guide me through the complete process of writing a high-quality research article, ensuring clarity, academic rigor, and novelty."*  
 
-This guide provides **structured AI prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT** to help brainstorm and generate high-quality **research ideas** suitable for **Web of Science Q1/Q2 Computer Science journals**. Each tool includes **three primary prompts** and **two additional related prompts** for deeper research exploration.
+## **1. Define Your Research Topic & Problem Statement**  
 
----
+1. "Based on recent trends in [Your Topic], suggest 5 research problems that are underexplored and have high research impact potential."  
+2. "Summarize the key challenges in [Your Topic] and propose innovative research directions that address these challenges."  
+3. "Identify 3 major gaps in the current research landscape of [Your Topic] using recent WoS Q1 publications as references."  
+4. "Compare the scope, limitations, and significance of different problem statements within [Your Topic] to determine the most impactful research direction."  
+5. "Generate a structured problem statement for a study on [Your Topic] that aligns with WoS Q1 journal expectations."  
+6. "Rewrite the following research problem statement in a way that emphasizes originality, significance, and research contribution: [Your Input]."  
+7. "Provide an AI-driven SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) for research in [Your Topic]."  
+8. "Explain how advancements in AI and emerging technologies impact the evolution of research in [Your Topic]."  
+9. "Suggest 5 potential applications of research in [Your Topic] that could lead to industry adoption and high citation impact."  
+10. "Based on [Your Topic], propose a compelling research hypothesis that is testable and relevant to current technological advancements."  
 
-## **1. Expanding Research Ideas with AI**  
+## **2. Identify Knowledge Gaps in Existing Research**  
 
-### **Prompt 1: Identifying Emerging Research Gaps**  
-*"I am preparing a research article on [Your Topic] for submission to a Web of Science Q1/Q2 Computer Science journal. Please analyze the latest research trends, identify **at least five emerging challenges**, and propose innovative solutions. Ensure that the ideas are aligned with top-tier journal standards and highlight research gaps in AI, cybersecurity, data science, or IoT if relevant."*
+1. "Analyze recent WoS Q1 journal articles on [Your Topic] and extract 5 key research gaps that require further study."  
+2. "Generate a comparison table highlighting unexplored areas in [Your Topic] based on systematic literature reviews."  
+3. "Provide a critical evaluation of existing methodologies in [Your Topic] and identify their limitations."  
+4. "Summarize the most cited challenges in [Your Topic] and propose new research opportunities to address them."  
+5. "Analyze open-access datasets and research papers to identify underexplored subfields in [Your Topic]."  
+6. "Suggest innovative research frameworks that could bridge gaps in the literature of [Your Topic]."  
+7. "Generate 3 key research questions that arise from gaps in existing work on [Your Topic]."  
+8. "Map out a conceptual diagram that visualizes the current research gaps in [Your Topic]."  
+9. "Provide a structured research gap analysis based on [Your Topic], aligning it with real-world problems."  
+10. "Formulate research objectives that address major gaps in the existing literature of [Your Topic]."  
 
-🔹 **Related Prompt 1:** *"Suggest three potential datasets that can be used for a study on [Your Topic]. Explain their sources, advantages, and limitations in research."*  
-🔹 **Related Prompt 2:** *"Identify five key ethical considerations and potential biases researchers should address when working on [Your Topic] in AI and Computer Science."*  
+## **3. Perform Literature Review & Analyze Research Trends**  
 
-
-### **Prompt 2: AI-Assisted Research Framework Development**  
-*"Generate a structured research framework for my study on [Your Topic]. The framework should include:  
-1. **Title Suggestions** – Unique and impactful titles.  
-2. **Research Problem & Justification** – A well-defined problem and its significance.  
-3. **Methodological Approach** – Suitable techniques, models, or datasets.  
-4. **Expected Findings & Contributions** – How this research advances knowledge.  
-5. **Interdisciplinary Applications** – Links to AI, blockchain, IoT, or cybersecurity.  
-
-Ensure all elements are aligned with high-impact journals in Web of Science."*
-
-🔹 **Related Prompt 1:** *"Provide a comparison table of different machine learning or deep learning models suitable for analyzing data in [Your Topic]. Include accuracy, computational complexity, and limitations."*  
-🔹 **Related Prompt 2:** *"Suggest five innovative ways AI can enhance current research methodologies in [Your Topic]."*  
-
-
-### **Prompt 3: Predicting Future Research Directions**  
-*"Based on recent advancements in [Your Topic], predict **the next five years of research** in this domain. Identify potential breakthroughs, ethical concerns, and practical applications. Provide insights into how researchers can contribute to this field while aligning with high-impact journals."*  
-
-🔹 **Related Prompt 1:** *"What industries or real-world applications will benefit most from advancements in [Your Topic]? Provide five examples with justifications."*  
-🔹 **Related Prompt 2:** *"How can policymakers and regulatory bodies prepare for emerging trends in [Your Topic]? Suggest three key policy recommendations."*  
-
-
-## **2. Refining and Structuring Research Ideas**  
-
-### **Prompt 1: Creating a Research Roadmap**  
-*"I am developing a Computer Science research paper on [Your Topic] for a Web of Science Q1/Q2 journal. Create a **detailed research roadmap** that includes:  
-- Key objectives  
-- Theoretical foundation  
-- Methodology (AI/ML models, big data, security frameworks)  
-- Challenges & limitations  
-- Future work & practical implications  
-
-Ensure the roadmap is structured for high-impact journal publication."*
-
-🔹 **Related Prompt 1:** *"Provide a step-by-step implementation guide for an AI-based approach in [Your Topic]. Include tools, libraries, and programming languages required."*  
-🔹 **Related Prompt 2:** *"List five key journals and conferences where research on [Your Topic] would have the highest impact. Provide reasons for selection."*  
-
-### **Prompt 2: Analyzing Existing Literature and Identifying Gaps**  
-*"Perform a **literature review analysis** on [Your Topic]. Summarize existing research, highlight **five key studies**, and identify their limitations. Suggest how my research can build upon or address these gaps to contribute to a Q1/Q2 journal."*
-
-🔹 **Related Prompt 1:** *"Create a chronological timeline of the major breakthroughs in [Your Topic] over the past 10 years."*  
-🔹 **Related Prompt 2:** *"Generate a citation-based analysis of the most influential papers in [Your Topic], explaining why they are highly cited."*  
+1. "Generate an annotated bibliography of the 10 most relevant papers in [Your Topic] from the last 5 years."  
+2. "Summarize key findings from WoS Q1 journal articles on [Your Topic] and present them in a literature matrix."  
+3. "Analyze citation trends and emerging research patterns in [Your Topic] using AI-based text mining."  
+4. "Identify the top 5 influential authors and institutions in [Your Topic] and summarize their contributions."  
+5. "Create a structured literature review outline for a study on [Your Topic] based on recent research developments."  
+6. "Compare and contrast the methodologies used in the top 10 cited papers in [Your Topic]."  
+7. "Extract the most common keywords and themes from recent high-impact publications in [Your Topic]."  
+8. "Provide a meta-analysis of previous studies on [Your Topic] and highlight trends that indicate future research directions."  
+9. "Summarize the theoretical frameworks commonly used in [Your Topic] and evaluate their effectiveness."  
+10. "Propose an AI-assisted approach to systematically review research articles related to [Your Topic]."  
 
 
-### **Prompt 3: Enhancing Research Proposal with AI**  
-*"Refine my research proposal on [Your Topic] by improving:  
-1. The clarity of the research question.  
-2. Novelty and originality of the approach.  
-3. Justification of the methodology.  
-4. Potential industry applications.  
+## **4. Read and Summarize Peer-Reviewed Papers**  
 
-Ensure the refinements align with high-impact Web of Science journals."*  
+1. "Summarize the key findings, methodology, and contributions of the paper '[Insert Paper Title]' in a structured format."  
+2. "Compare the strengths and weaknesses of two papers on [Your Topic] and present them in a tabular format."  
+3. "Identify the core research questions addressed in '[Insert Paper Title]' and analyze their significance."  
+4. "Extract the most important technical details from '[Insert Paper Title]' and simplify them for a broader audience."  
+5. "Generate a critical review of '[Insert Paper Title]', evaluating its methodology, findings, and limitations."  
+6. "Summarize '[Insert Paper Title]' using the PRISMA systematic review approach."  
+7. "Identify the impact of '[Insert Paper Title]' on the field of [Your Topic] and suggest potential follow-up studies."  
+8. "Create a visual summary (concept map or flowchart) of the main ideas in '[Insert Paper Title]'."  
+9. "Generate a structured discussion on how '[Insert Paper Title]' contributes to closing research gaps in [Your Topic]."  
+10. "Rewrite a complex section from '[Insert Paper Title]' in simpler terms while preserving technical accuracy."  
 
-🔹 **Related Prompt 1:** *"Suggest five ways to improve the readability and impact of my research proposal for reviewers in Web of Science Q1/Q2 journals."*  
-🔹 **Related Prompt 2:** *"Provide a checklist of essential elements required in a research proposal for submission to top Computer Science journals."*  
+## **5. Generate & Refine Research Questions**  
 
-## **3. Visualizing Research Ideas with Mind Maps**  
+1. "Generate 5 high-impact research questions for a study in [Your Topic] that align with recent advancements."  
+2. "Refine the following research question to improve clarity, feasibility, and academic significance: [Your Input]."  
+3. "Transform broad research themes in [Your Topic] into focused and testable research questions."  
+4. "Analyze the structure of research questions in high-impact journals and suggest improvements for [Your Topic]."  
+5. "Generate exploratory, descriptive, and causal research questions for a study on [Your Topic]."  
+6. "Develop qualitative and quantitative research questions that align with current trends in [Your Topic]."  
+7. "Validate whether the following research question is novel and feasible for a WoS Q1 publication: [Your Input]."  
+8. "Compare different formulations of a research question and identify the most suitable version for publication."  
+9. "Provide AI-based recommendations for improving the clarity and specificity of the research question: [Your Input]."  
+10. "Generate 3 research questions that address interdisciplinary aspects of [Your Topic] and could lead to high-impact contributions."  
 
-### **Prompt 1: Generating a Research Mind Map**  
-*"Create an interactive **mind map** to visualize my research article on [Your Topic]. The map should include:  
-- Main topic (center node)  
-- Subtopics (e.g., research problem, trends, literature gap, methodology, contributions)  
-- Connections between key ideas  
-
-Ensure the structure is logical, easy to navigate, and aligned with Q1/Q2 journal expectations."*
-
-🔹 **Related Prompt 1:** *"Design a hierarchical flowchart that illustrates the research process for [Your Topic]."*  
-🔹 **Related Prompt 2:** *"Develop a mind map showing how different subfields of AI contribute to advancements in [Your Topic]."*  
-
-### **Prompt 2: Organizing Literature Review Insights**  
-*"Generate a **literature review mind map** for [Your Topic], categorizing studies based on:  
-1. Research methodologies  
-2. Key findings  
-3. Limitations & research gaps  
-4. Future directions  
-
-Ensure the visualization helps in structuring a review paper for a high-impact journal."*
-
-### **Prompt 3: Mapping the Evolution of Research Trends**  
-*"Create a **timeline-based mind map** showing how [Your Topic] has evolved over the past decade. Highlight major breakthroughs, key publications, and emerging challenges. Provide insights into where the field is heading and potential new research directions."*  
-
-## **4. Advanced AI-Assisted Brainstorming**  
-
-### **Prompt 1: High-Impact Research Question Development**  
-*"Generate a list of **10 research questions** related to [Your Topic] that are:  
-- Novel and impactful  
-- Aligned with real-world applications  
-- Suitable for Web of Science Q1/Q2 Computer Science journals  
-- Interdisciplinary (where applicable, connecting with AI, IoT, cybersecurity, blockchain, or cloud computing)"*
-
-🔹 **Related Prompt 1:** *"Rewrite the research questions to ensure clarity, specificity, and a strong hypothesis-driven approach."*  
-🔹 **Related Prompt 2:** *"Suggest three research questions that focus on interdisciplinary approaches combining [Your Topic] with AI, cybersecurity, and blockchain."*  
-
-### **Prompt 2: Comparing Research Methodologies**  
-*"For a Web of Science Q1/Q2 paper on [Your Topic], compare three different research methodologies. Provide:  
-- Strengths and weaknesses of each  
-- Suitability for high-impact research  
-- Expected outcomes when applied to [Your Topic]  
-
-Recommend the most effective methodology for journal submission."*
-
-🔹 **Related Prompt 1:** *"Analyze the feasibility of hybrid research methodologies combining qualitative and quantitative approaches for [Your Topic]."*  
-🔹 **Related Prompt 2:** *"Identify three case studies where different methodologies have been successfully applied to [Your Topic]."*  
-
-### **Prompt 3: AI-Generated Literature Review Summary**  
-*"Summarize **the latest research** on [Your Topic] by extracting key insights from recent Q1/Q2 journal articles. Include:  
-- Main contributions  
-- Technological advancements  
-- Ethical concerns  
-- Future research potential  
-
-Ensure the summary aligns with the latest trends in AI, cybersecurity, and emerging technologies."*  
-
-🔹 **Related Prompt 1:** *"Generate a list of top 10 most cited papers in [Your Topic] and summarize their main contributions."*  
-🔹 **Related Prompt 2:** *"Identify and discuss three controversial debates or challenges in the literature related to [Your Topic]."*  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
