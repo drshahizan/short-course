@@ -31,20 +31,9 @@ AI-powered prompts can significantly enhance research, academic writing, and ide
 
 ### **5. Advanced AI Prompt Strategies**
 - 💡 [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)  
-- 🔬 [AI Prompts for Data Interpretation & Hypothesis Testing](https://www.promptingguide.ai/data-analysis)  
-- 🏆 [Expert-Level Academic Writing Prompts](https://github.com/f/awesome-chatgpt-prompts)  
 
 ### **6. AI-Powered Document Analysis**
 - 📂 [Chat with Copilot Regarding PDF Files](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)  
-- 📜 [AI Prompts for Research Summarization & Proofreading](https://www.promptingguide.ai/editing)  
-
-### **7. AI Prompts for Critical Thinking & Problem Solving**
-- 🧠 [AI Prompts for Critical Thinking in Research](https://www.promptingguide.ai/critical-thinking)  
-- 📊 [AI Prompts for Hypothesis Testing & Data Interpretation](https://www.promptingguide.ai/data-analysis)  
-
-### **8. AI Prompts for Editing & Proofreading**
-- 🔍 [AI Prompts for Refining Academic Writing](https://www.promptingguide.ai/editing)  
-- 🖊️ [AI Prompts for Grammar & Clarity Improvements](https://www.promptingguide.ai/grammar-check)  
 
 ### **How to Use These Resources?**
 1. **Start with Brainstorming** – Use AI to generate innovative ideas.
