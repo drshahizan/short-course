@@ -15,24 +15,24 @@
 AI-powered prompts can significantly enhance research, academic writing, and idea generation. This curated list provides essential resources for effective AI usage in academia.
 
 ## **AI Prompt Resources**
-### **1. Brainstorming & Idea Generation**
+### 1. Brainstorming & Idea Generation
 - 📌 [Brainstorming & Idea Generation Guide](brain.md)
 
-### **2. Defining Your Research Topic & Problem Statement**
+### 2. Defining Your Research Topic & Problem Statement
 - 📌 [How to Define Your Research Topic](topic.md)
 
-### **3. Effective Prompt Engineering**
-- 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)  
+### 3. [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt)
+- 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)
 
-### **4. Specialized AI Prompts for Research & Writing**
+### 4. Specialized AI Prompts for Research & Writing
 - 📖 [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)
 - 📑 [ChatGPT Prompts for Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)
 - 📝 [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)
 
-### **5. Advanced AI Prompt Strategies**
+### 5. Advanced AI Prompt Strategies
 - 💡 [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)
 
-### **6. AI-Powered Document Analysis**
+### 6. AI-Powered Document Analysis
 - 📂 [Chat with Copilot Regarding PDF Files](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)
 
 ---
