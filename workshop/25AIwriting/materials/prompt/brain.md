@@ -7,10 +7,6 @@
 
 # **AI Prompt: Brainstorming & Idea Generation**  
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://cdnp.kittl.com/ZyO41q8jQArT0F76_HowtobuildagreatAIprompt.png?auto=format,compress" alt="Dr Shahizan AI tools"  height="400">
-</a>
-
 This guide provides **structured AI prompts** for **Google Gemini, Microsoft Copilot, and ChatGPT** to help brainstorm and generate high-quality **research ideas** suitable for **Web of Science Q1/Q2 Computer Science journals**. Each tool includes **three primary prompts** and **two additional related prompts** for deeper research exploration.
 
 ---
