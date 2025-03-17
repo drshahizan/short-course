@@ -23,7 +23,6 @@ AI-powered prompts can significantly enhance research, academic writing, and ide
 
 ### **3. [Copywriting with ChatGPT](https://drshahizan.gitbook.io/copywriting-chatgpt)**
 - 🚀 [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)  
-- ✍️ [AI Prompts for Content Structuring & Storytelling](https://www.promptingguide.ai/content-writing)  
 
 ### **4. Specialized AI Prompts for Research & Writing**
 - 📖 [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)  
