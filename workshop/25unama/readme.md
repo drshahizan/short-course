@@ -6,8 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Systematic Literature Review (SLR) Workshop
-*A Three-Stage Comprehensive Training Program*  
+# Workshop *Systematic Literature Review (SLR)*
 
 <!--
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25slr">
@@ -16,51 +15,60 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/flowchart%20SLR.png" alt="Shahizan SLR"  height="300">
 
-## 📌 Workshop Synopsis
-The **Systematic Literature Review (SLR) Workshop** is designed to provide researchers, academicians, and postgraduate students with a structured approach to conducting high-quality literature reviews. This **three-stage training program** offers a step-by-step guide, covering the **fundamentals of SLR**, **practical tools and techniques**, and **personalized coaching sessions** to refine participants' research.
+## 📌 Sinopsis Workshop
 
-By the end of this workshop, participants will have the **knowledge, skills, and hands-on experience** needed to conduct a **rigorous and well-structured systematic literature review**, preparing them for high-impact research publications.
+**Workshop Systematic Literature Review (SLR)** ini dirancang khusus untuk **peneliti, akademisi, dan mahasiswa pascasarjana** yang ingin meningkatkan kemampuan mereka dalam melakukan kajian literatur secara sistematis dan berkualitas tinggi. Melalui **program pelatihan dua hari**, peserta akan dipandu secara bertahap mulai dari pemahaman dasar SLR, penerapan teknik dan alat bantu terkini, hingga sesi praktik langsung dan konsultasi penelitian.
 
-📍 Venue: Hyflex Room, Faculty of Computing, Universiti Teknologi Malaysia
+Salah satu komponen utama workshop ini adalah penggunaan kerangka **PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)** yang telah diakui secara internasional sebagai standar dalam pelaporan hasil SLR. Peserta akan dikenalkan dengan **diagram PRISMA**, checklist, dan bagaimana cara menerapkannya dalam proses peninjauan literatur secara efektif dan transparan.
 
-🎤 Speaker: Assoc. Prof. Dr. Mohd Shahizan Othman
+Workshop ini merupakan kolaborasi antara **Universitas Dinamika Bangsa (UNAMA)** dan **Universiti Teknologi Malaysia (UTM)**, dengan narasumber berpengalaman dalam bidang riset dan publikasi ilmiah internasional.
+
+📍 **Tempat**: Ruang Auditorium, UNAMA Kota Baru  
+🎤 **Narasumber**:  
+- Assoc. Prof. Dr. Mohd Shahizan Bin Othman  
+- Assoc. Prof. Dr. Mohd Murtadha Bin Mohamad  
+- Apri Junaidi, M.Kom., M.CS
 
 ---
 
-## 📅 [Stage 1: Introduction to Systematic Literature Review (SLR)](mat/s1.md)
-🗓 **Date: 10 March 2025**  
-*(Focus: Understanding the fundamentals, methodology, and significance of SLR in research.)*  
-1. **Literature Review and SLR**
-2. **Fundamentals of SLR**
-3. **Formulating Research Questions and Identifying Research Gaps for SLR**  
-4. **Searching and Selecting Relevant Literature: Strategies for Comprehensive Coverage**  
-5. **Evaluating and Managing Literature: Tools and Techniques for Effective Review**  
-6. **Critical Appraisal of Selected Studies: Ensuring Quality and Relevance in SLR**  
+## 📅 Jadwal Workshop
 
-## 📅 [Stage 2: Techniques and Tools for Systematic Literature Review](mat/s2.md)
-🗓 **Date: 11 March 2025**  
-*(Focus: Practical approaches, tools, and methods for conducting SLR effectively.)*  
-1. **PRISMA 2020**
-2. **Tools and Software for SLR**
+### 🗓 **Hari Pertama: Rabu, 16 April 2025**  
+**Fokus: Dasar dan Metodologi SLR**
 
+1. Pengenalan Kajian Literatur dan Perbedaan dengan SLR  
+2. Konsep Dasar dan Signifikansi SLR dalam Riset Akademik  
+3. Merumuskan Pertanyaan Penelitian dan Mengidentifikasi Kesenjangan Riset  
+4. Strategi Pencarian Literatur yang Komprehensif  
+5. Teknik Seleksi Literatur yang Relevan dan Berkualitas  
+6. Pengenalan Tools untuk Pengelolaan Literatur (Mendeley, Zotero, EndNote)
 
-## 📅 [Stage 3: Coaching and Hands-on Systematic Literature Review](mat/s3.md)
-🗓 **Date: 18 March 2025**  
-*(Focus: Practical application, personalized coaching, and refining participants' research.)*  
+---
 
-1. **Search and screen for Literature**  
-2. **Quality Assessment**  
-3. **Writing and Publishing SLR**  
+### 🗓 **Hari Kedua: Kamis, 17 April 2025**  
+**Fokus: Teknik, Tools, dan Sesi Praktik**
 
-### **🎯 Key Takeaways from the Workshop:**  
-✔️ Understand the principles and best practices of Systematic Literature Review (SLR).  
-✔️ Master advanced **literature search techniques** using reputable databases.  
-✔️ Efficiently **manage and organize references** using Mendeley, EndNote, and Zotero.  
-✔️ Learn **data extraction, synthesis, and analysis techniques** to derive meaningful insights.  
-✔️ Gain **hands-on experience** in using bibliometric tools like VosViewer and R for text mining.  
-✔️ Get **personalized coaching and feedback** to improve and finalize your SLR paper.  
+1. Pengenalan dan Penerapan **PRISMA 2020**  
+2. Penyusunan Diagram Alur PRISMA dan Checklist Evaluasi  
+3. Penggunaan Tools SLR (Rayyan, Publish or Perish, VosViewer)  
+4. Teknik Sintesis Data dan Penilaian Kualitas Studi  
+5. Panduan Penulisan Hasil SLR secara Efektif  
+6. Praktik Langsung: Screening, Coding, dan Analisis Literatur  
+7. Sesi Konsultasi dan Coaching Personal
 
-This workshop is suitable for **postgraduate students, early-career researchers, and academicians** who aim to conduct high-quality literature reviews for **theses, dissertations, and research publications**.
+---
+
+## 🎯 *Manfaat yang Akan Diperoleh dari Workshop Ini*:
+
+✅ Memahami prinsip dasar dan praktik terbaik dalam melaksanakan **Systematic Literature Review (SLR)**  
+✅ Menguasai teknik pencarian literatur secara efektif menggunakan **database bereputasi**  
+✅ Mampu menyusun **pertanyaan penelitian** dan mengidentifikasi celah riset berdasarkan kajian literatur  
+✅ Terampil dalam **mengelola dan mengorganisir referensi** menggunakan aplikasi seperti **Mendeley, EndNote, dan Zotero**  
+✅ Menerapkan **standar PRISMA 2020** untuk memastikan kualitas dan transparansi proses SLR  
+✅ Melakukan **sintesis dan analisis data** dari literatur secara sistematik dan kritis  
+✅ Menggunakan alat bantu bibliometrik seperti **VosViewer** dan **R (Bibliometrix)**  
+✅ Mendapatkan **bimbingan dan umpan balik langsung** untuk menyempurnakan naskah SLR masing-masing  
+✅ Menyusun **laporan akhir atau artikel ilmiah SLR** yang siap untuk publikasi di jurnal bereputasi
 
 ### 🙌🏻 Connect with Me
 <p align="left">
