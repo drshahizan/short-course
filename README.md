@@ -7,7 +7,7 @@
 
 # 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/short-course/">
+<a href="https://github.com/drshahizan/short-course/25unama">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/Unama%20SLR.jpeg" alt="Dr Shahizan SLR"  height="400">
 </a> 
 
@@ -33,7 +33,7 @@
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 |6 May | 🇲🇾 Universiti Tun Hussein Onn Malaysia | [ICTMBE 2025 - Workshop: AI Tools in Research](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE) | 
 |22 Apr| 🇲🇾 Universiti Teknologi Malaysia             | [GitHub for Researchers: Managing Your Academic Projects Efficiently](https://github.com/drshahizan/short-course/) | 
-|14 Apr| 🇮🇩 Universitas Dinamika Bangsa             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/) | 
+|14 Apr| 🇮🇩 Universitas Dinamika Bangsa             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/25Unama) | 
 |17 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Mastering Academic Writing with AI Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25AIwriting) | 
 | 10 - 18 Mac| 🇲🇾 Universiti Teknologi Malaysia             | [Systematic Literature Review (SLR) Workshop](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) <br> - [Stage 1: Introduction to Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) <br> - [Stage 2: Techniques and Tools for Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) <br> - [Stage 3: Coaching and Hands-on Systematic Literature Review](https://github.com/drshahizan/short-course/tree/main/workshop/25slr) | 
 |24 Feb | 🇲🇾 Universiti Teknologi Malaysia             | [Perkongsian Strategik 1: Teknologi AI dalam Penulisan Pelaporan. Program Penetapan Kandungan Laporan Tahunan Dan Penyata Kewangan Utm 2024](https://github.com/drshahizan/short-course/tree/main/workshop/25kewangan) | 
