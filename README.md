@@ -7,7 +7,7 @@
 
 # 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/short-course/25unama">
+<a href="https://github.com/drshahizan/short-course/workshop/25unama">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/Unama%20SLR.jpeg" alt="Dr Shahizan SLR"  height="400">
 </a> 
 
