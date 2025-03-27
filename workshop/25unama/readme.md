@@ -8,12 +8,9 @@
 
 # Workshop *Systematic Literature Review (SLR)*
 
-<!--
-<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25slr">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/25slr.jpeg" alt="Shahizan SLR"  height="400">
-</a> -->
-
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/flowchart%20SLR.png" alt="Shahizan SLR"  height="300">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25unama">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/Unama%20SLR.jpeg" alt="Dr Shahizan SLR"  height="400">
+</a> 
 
 ## 📌 Sinopsis Workshop
 
