@@ -30,7 +30,7 @@ Workshop ini merupakan kolaborasi antara **Universitas Dinamika Bangsa (UNAMA)**
 
 ## 📅 Jadwal Workshop
 
-### 🗓 **[Hari Pertama: Rabu, 16 April 2025](/mat/s1.md)**  
+### 🗓 **[Hari Pertama: Rabu, 16 April 2025](mat/s1.md)**  
 **Fokus: Dasar dan Metodologi SLR**
 
 1. Pengenalan Kajian Literatur dan Perbedaan dengan SLR  
