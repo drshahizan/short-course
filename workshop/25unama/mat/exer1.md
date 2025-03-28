@@ -5,56 +5,52 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise 1: Buying a New Car – A Systematic Review Approach
+# 🛒 **Latihan 1: Membeli Mobil Baru – Pendekatan Systematic Review**
 
-## Scenario
-You are planning to buy a new car, but with so many options available in the market, you want to make an informed decision. Instead of relying on opinions, you decide to conduct a **Systematic Literature Review (SLR)** by gathering data from various sources, comparing key features, and analyzing expert reviews.  
+## 📌 **Skenario**  
+Anda berencana untuk membeli mobil baru, namun dengan begitu banyak pilihan yang tersedia di pasar, Anda ingin membuat keputusan yang tepat. Daripada sekadar bergantung pada opini orang lain, Anda memilih untuk menerapkan pendekatan Systematic Literature Review (SLR) dengan mengumpulkan data dari berbagai sumber terpercaya, membandingkan fitur-fitur utama, serta menganalisis ulasan dari para pakar otomotif.
 
-## Objective:
-To systematically analyze different car models based on predefined criteria such as price, fuel efficiency, safety features, resale value, and customer reviews.  
+## 🎯 **Tujuan:**  
+Menganalisis secara sistematis berbagai model mobil berdasarkan kriteria yang telah ditentukan seperti harga, efisiensi bahan bakar, fitur keselamatan, nilai jual kembali, dan ulasan pelanggan.
 
-**Steps:**  
-1. **Define Research Questions (RQ)**  
+## 📋 **Langkah-langkah:**  
+1. **Merumuskan Pertanyaan Penelitian (Research Questions / RQ)**  
+2. **Mengidentifikasi Sumber Data**  
+3. **Menentukan Kriteria Inklusi dan Eksklusi**  
+4. **Ekstraksi dan Sintesis Data**  
+5. **Analisis dan Kesimpulan**
 
-2. **Identify Data Sources**  
+## 📄 **[Template Dokumen Latihan](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)**
 
-3. **Inclusion & Exclusion Criteria**  
+## 🧪 **Contoh**
 
-4. **Data Extraction & Synthesis**  
+### 🎯 **Tujuan:**  
+Menganalisis secara sistematis berbagai model mobil berdasarkan kriteria yang telah ditentukan seperti harga, efisiensi bahan bakar, fitur keselamatan, nilai jual kembali, dan ulasan pelanggan.
 
-5. **Analysis & Conclusion**  
+### 📋 **Langkah-langkah:**
 
+1. **Merumuskan Pertanyaan Penelitian (RQ):**  
+   - Apa saja model mobil terbaik yang tersedia di pasar berdasarkan keandalan dan keterjangkauan?  
+   - Bagaimana perbandingan antar mobil dari segi efisiensi bahan bakar, fitur keselamatan, dan teknologi?  
+   - Bagaimana tren kepuasan pelanggan terhadap berbagai merek mobil?
 
-## 📕 [Document Template](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)
+2. **Mengidentifikasi Sumber Data:**  
+   - Ulasan otomotif daring (misalnya: Edmunds, Car and Driver, Autotrader)  
+   - Spesifikasi resmi dari produsen mobil  
+   - Laporan konsumen  
+   - Perbandingan ahli dari blog otomotif
 
-## Example
+3. **Kriteria Inklusif dan Eksklusif:**  
+   - **Inklusi:** Mobil yang dirilis dalam tiga tahun terakhir, tersedia di pasar lokal, dan berada dalam rentang anggaran tertentu  
+   - **Eksklusi:** Mobil sport berperforma tinggi, mobil mewah di luar anggaran, model yang sudah tidak diproduksi lagi
 
-**Objective:**  
-To systematically analyze different car models based on predefined criteria such as price, fuel efficiency, safety features, resale value, and customer reviews.  
+4. **Ekstraksi dan Sintesis Data:**  
+   - Membandingkan mobil berdasarkan harga, performa, biaya perawatan, nilai jual kembali, dan peringkat keselamatan  
+   - Mengidentifikasi pola dalam ulasan pengguna (misalnya: keluhan umum, fitur yang paling dihargai)
 
-**Steps:**  
-1. **Define Research Questions (RQ)**  
-   - What are the best car models available in the market based on reliability and affordability?  
-   - How do different cars compare in terms of fuel efficiency, safety, and technology features?  
-   - What are the customer satisfaction trends for various brands?  
-
-2. **Identify Data Sources**  
-   - Online automotive reviews (e.g., Edmunds, Car and Driver, Autotrader)  
-   - Manufacturer specifications  
-   - Consumer reports  
-   - Expert comparisons from automotive blogs  
-
-3. **Inclusion & Exclusion Criteria**  
-   - **Inclusion:** Cars released within the last three years, available in the local market, price range within a specified budget.  
-   - **Exclusion:** High-performance sports cars, luxury vehicles beyond budget, discontinued models.  
-
-4. **Data Extraction & Synthesis**  
-   - Compare the cars based on price, performance, maintenance costs, resale value, and safety ratings.  
-   - Identify patterns in user reviews (e.g., frequent complaints, top-rated features).  
-
-5. **Analysis & Conclusion**  
-   - Provide a comparative summary of the cars reviewed.  
-   - Make a recommendation based on the systematic findings.  
+5. **Analisis dan Kesimpulan:**  
+   - Menyusun ringkasan perbandingan dari mobil-mobil yang ditinjau  
+   - Memberikan rekomendasi berdasarkan temuan sistematis yang telah diperoleh
 
 ### 🙌🏻 Connect with Me
 <p align="left">
