@@ -14,7 +14,7 @@
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting/images/hep.jpeg" alt="Dr Shahizan SLR"  height="200">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/hep.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
