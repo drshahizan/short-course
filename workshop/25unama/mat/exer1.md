@@ -5,13 +5,13 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🛒 **Latihan 1: Membeli Mobil Baru – Pendekatan Systematic Review**
+# 🚗 Latihan 1: Menelusuri Pilihan Mobil Baru dengan Pendekatan Systematic Review
 
 ## 📌 **Skenario**  
-Anda berencana untuk membeli mobil baru, namun dengan begitu banyak pilihan yang tersedia di pasar, Anda ingin membuat keputusan yang tepat. Daripada sekadar bergantung pada opini orang lain, Anda memilih untuk menerapkan pendekatan Systematic Literature Review (SLR) dengan mengumpulkan data dari berbagai sumber terpercaya, membandingkan fitur-fitur utama, serta menganalisis ulasan dari para pakar otomotif.
+Sebagai seorang penulis baru di majalah otomotif, Anda sedang menyusun artikel edisi perdana yang membahas mobil baru. Dengan banyaknya model dan merek yang bersaing di pasar, Anda tidak ingin hanya mengandalkan opini semata. Sebaliknya, Anda memilih untuk menggunakan pendekatan Systematic Literature Review (SLR) untuk menyusun artikel yang komprehensif, informatif, dan berdasarkan data.
 
 ## 🎯 **Tujuan:**  
-Menganalisis secara sistematis berbagai model mobil berdasarkan kriteria yang telah ditentukan seperti harga, efisiensi bahan bakar, fitur keselamatan, nilai jual kembali, dan ulasan pelanggan.
+Menganalisis dan membandingkan berbagai model mobil secara sistematis berdasarkan kriteria utama seperti harga, efisiensi bahan bakar, fitur keselamatan, nilai jual kembali, dan ulasan pelanggan. Tujuannya adalah membantu pembaca membuat keputusan pembelian yang lebih terinformasi.
 
 ## 📋 **Langkah-langkah:**  
 1. **Merumuskan Pertanyaan Penelitian (Research Questions / RQ)**  
@@ -25,32 +25,35 @@ Menganalisis secara sistematis berbagai model mobil berdasarkan kriteria yang te
 ## 🧪 **Contoh**
 
 ### 🎯 **Tujuan:**  
-Menganalisis secara sistematis berbagai model mobil berdasarkan kriteria yang telah ditentukan seperti harga, efisiensi bahan bakar, fitur keselamatan, nilai jual kembali, dan ulasan pelanggan.
+Melakukan tinjauan literatur sistematis terhadap mobil keluaran terbaru untuk mengetahui mana yang paling layak dipilih berdasarkan kebutuhan pasar lokal.
 
 ### 📋 **Langkah-langkah:**
 
 1. **Merumuskan Pertanyaan Penelitian (RQ):**  
-   - Apa saja model mobil terbaik yang tersedia di pasar berdasarkan keandalan dan keterjangkauan?  
-   - Bagaimana perbandingan antar mobil dari segi efisiensi bahan bakar, fitur keselamatan, dan teknologi?  
-   - Bagaimana tren kepuasan pelanggan terhadap berbagai merek mobil?
+   - Mobil mana yang paling direkomendasikan untuk keluarga muda berdasarkan efisiensi dan keamanan?
+
+   - Bagaimana perbandingan antara model dari pabrikan Jepang, Eropa, dan Korea dalam segi biaya perawatan dan teknologi?
+
+   - Apa pendapat mayoritas konsumen terhadap mobil-mobil keluaran terbaru di segmen menengah?
 
 2. **Mengidentifikasi Sumber Data:**  
-   - Ulasan otomotif daring (misalnya: Edmunds, Car and Driver, Autotrader)  
+   - Ulasan otomotif terkenal (misalnya: Edmunds, Car and Driver, Autotrader)  
    - Spesifikasi resmi dari produsen mobil  
-   - Laporan konsumen  
-   - Perbandingan ahli dari blog otomotif
+   - Laporan dari organisasi konsumen dan forum pemilik mobil
+   - Artikel ulasan dan perbandingan dari blog dan kanal YouTube otomotif
 
 3. **Kriteria Inklusif dan Eksklusif:**  
-   - **Inklusi:** Mobil yang dirilis dalam tiga tahun terakhir, tersedia di pasar lokal, dan berada dalam rentang anggaran tertentu  
-   - **Eksklusi:** Mobil sport berperforma tinggi, mobil mewah di luar anggaran, model yang sudah tidak diproduksi lagi
+   - **Inklusi:** Mobil keluaran 3 tahun terakhir, tersedia di pasar Indonesia, dan masuk dalam kisaran harga Rp100–Rp400 juta
+   - **Eksklusi:** Mobil sport, model mewah di luar anggaran, dan model yang sudah tidak diproduksi
 
 4. **Ekstraksi dan Sintesis Data:**  
    - Membandingkan mobil berdasarkan harga, performa, biaya perawatan, nilai jual kembali, dan peringkat keselamatan  
    - Mengidentifikasi pola dalam ulasan pengguna (misalnya: keluhan umum, fitur yang paling dihargai)
 
 5. **Analisis dan Kesimpulan:**  
-   - Menyusun ringkasan perbandingan dari mobil-mobil yang ditinjau  
-   - Memberikan rekomendasi berdasarkan temuan sistematis yang telah diperoleh
+   - Menyusun tabel perbandingan mobil-mobil berdasarkan lima kriteria utama
+
+   - Memberikan rekomendasi akhir, misalnya: “Mobil A cocok untuk pengguna urban dengan kebutuhan efisiensi tinggi”, atau “Mobil B unggul dalam fitur keselamatan dan cocok untuk keluarga dengan anak kecil”
 
 ### 🙌🏻 Connect with Me
 <p align="left">
