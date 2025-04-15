@@ -5,9 +5,69 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# SLR article from Indonesia
+# List of Systematic Literature Review Articles from Indonesia
 
 ## Web of Science
+
+1. **S. D. Ristianto, A. Putri, & Y. Rosmansyah**  
+   *Personalized Gamification: A Technological Approach for Student Education – A Systematic Literature Review*.  
+   _IEEE Access_, **vol. 13**, pp. 55712–55726, 2025.  
+   DOI: [10.1109/ACCESS.2025.3552826](https://doi.org/10.1109/ACCESS.2025.3552826)
+
+2. **Y. D. Rahayu, C. Fatichah, A. Yuniarti, & Y. P. Rahayu**  
+   *Advancements and Challenges in Video-Based Deception Detection: A Systematic Literature Review of Datasets, Modalities, and Methods*.  
+   _IEEE Access_, **vol. 13**, pp. 28098–28122, 2025.  
+   DOI: [10.1109/ACCESS.2025.3533545](https://doi.org/10.1109/ACCESS.2025.3533545)
+
+3. **W. Hidayat & K. Surendro**  
+   *Quantum Computing in Addressing Greenhouse Gas Emissions: A Systematic Literature Review*.  
+   _Egyptian Informatics Journal_, **29**, 100622, 2025.  
+   DOI: [10.1016/j.eij.2025.100622](https://doi.org/10.1016/j.eij.2025.100622)
+
+4. **D. Eliza, T. Mulyeni, Yulsyofriend, N. Mahyuddin, Y. Erita, & M. Dhanil**  
+   *Implementation of Project-Based Learning in Improving Scientific Literacy in Early Childhood Education: Systematic Literature Review*.  
+   _Journal of Baltic Science Education_, **24(1)**, pp. 71–91, 2025.  
+   DOI: [10.2538-7138](https://doi.org/10.2538-7138)
+
+5. **N. K. S. Putri, U. L. Yuhana, D. O. Siahaan, W. Rahayu, & E. Pardede**  
+   *Assistive Technology Classification for Students With Disabilities in Higher Education: A Systematic Literature Review*.  
+   _IEEE Access_, **vol. 13**, pp. 28135–28149, 2025.  
+   DOI: [10.1109/ACCESS.2025.3538322](https://doi.org/10.1109/ACCESS.2025.3538322)
+
+6. **P. J. E. Gildore, S. Aryanto, & E. T. Denatara**  
+   *Effective Reading Intervention Strategies for Primary Grade Students in Indonesia: A Systematic Review*.  
+   _Cogent Education_, **12(1)**, 2025.  
+   DOI: [10.1080/2331186X.2025.2482470](https://doi.org/10.1080/2331186X.2025.2482470)
+
+7. **A. Hidayat & T. Chao**  
+   *Unleashing Mathematics Teachers: Insights from a Systematic Literature Review on Digital Learning in Indonesia*.  
+   _Cogent Education_, **12(1)**, 2024.  
+   DOI: [10.1080/2331186X.2024.2442868](https://doi.org/10.1080/2331186X.2024.2442868)
+
+8. **L. O. Alimusa, R. T. Ratnasari, & F. F. Hasib**  
+   *Determinants of Halal Food Customer Behaviour in the Context of Indonesia and Malaysia: A Systematic Literature Review*.  
+   _Journal of Islamic Accounting and Business Research_, ahead-of-print, 2024.  
+   DOI: [10.1108/JIABR-12-2023-0433](https://doi.org/10.1108/JIABR-12-2023-0433)
+
+9. **A. Z. Ilma, I. Wilujeng, A. Widowati, M. Nurtanto, & N. Kholifah**  
+   *A Systematic Literature Review of STEM Education in Indonesia (2016–2021): Contribution to Improving Skills in 21st Century Learning*.  
+   _Pegem Journal of Education and Instruction_, **13(2)**, pp. 134–146, 2023.  
+   DOI: [10.47750/pegegog.13.02.17](https://doi.org/10.47750/pegegog.13.02.17)
+
+10. **A. Abdillah, I. Widianingsih, R. A. Buchari, & H. Nurasa**  
+    *Implications of Urban Farming on Urban Resilience in Indonesia: Systematic Literature Review and Research Identification*.  
+    _Cogent Food & Agriculture_, **9(1)**, 2023.  
+    DOI: [10.1080/23311932.2023.2216484](https://doi.org/10.1080/23311932.2023.2216484)
+
+11. **H. Nurasa, A. Abdillah, Q. M. Adikancana, & I. Widianingsih**  
+    *Organization Ecosystem for Inclusive Development in Indonesia: A Bibliometric Analysis and Literature Review*.  
+    _Cogent Social Sciences_, **10(1)**, 2024.  
+    DOI: [10.1080/23311886.2024.2368949](https://doi.org/10.1080/23311886.2024.2368949)
+
+12. **H. Vo Van, M. Abu Afifa, N. Nguyen, & D. V. Bui**  
+    *Cloud Accounting: A Systematic Literature Review*.  
+    _Global Knowledge, Memory and Communication_, ahead-of-print, 2025.  
+    DOI: [10.1108/GKMC-04-2024-0246](https://doi.org/10.1108/GKMC-04-2024-0246)
 
 ## Scopus
 
