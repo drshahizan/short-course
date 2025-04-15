@@ -7,6 +7,10 @@
 
 # SLR article from Indonesia
 
+## Web of Science
+
+## Scopus
+
 1. Nurbayani, S., Dede, M., & Widiawaty, M. A. (2022). Utilizing library repository for sexual harassment study in Indonesia: A systematic literature review. *Heliyon*, *8*(8), e10194. https://doi.org/10.1016/j.heliyon.2022.e10194
 
 2. Dewi, E. A. S., Zuhairi, S., Bona, P., & Suprapto, A. (2023). Implementation of the Unified Theory of Acceptance and Use of Technology (UTAUT) Model during the Pandemic Era: A Systematic Literature Review (SLR). *Jurnal Komunikasi Malaysia*, *39*(3), 17. https://doi.org/10.17576/JKMJC-2023-3903-17
