@@ -7,8 +7,6 @@
 
 # List of Systematic Literature Review Articles from Indonesia
 
-## Web of Science
-
 1. **S. D. Ristianto, A. Putri, & Y. Rosmansyah**  
    *Personalized Gamification: A Technological Approach for Student Education – A Systematic Literature Review*.  
    _IEEE Access_, **vol. 13**, pp. 55712–55726, 2025.  
