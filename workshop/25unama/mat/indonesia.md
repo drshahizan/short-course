@@ -69,26 +69,50 @@
     _Global Knowledge, Memory and Communication_, ahead-of-print, 2025.  
     DOI: [10.1108/GKMC-04-2024-0246](https://doi.org/10.1108/GKMC-04-2024-0246)
 
-## Scopus
+13. **Nurbayani, S., Dede, M., & Widiawaty, M. A.**  
+   *Utilizing Library Repository for Sexual Harassment Study in Indonesia: A Systematic Literature Review*.  
+   _Heliyon_, **8**(8), e10194, 2022.  
+   DOI: [10.1016/j.heliyon.2022.e10194](https://doi.org/10.1016/j.heliyon.2022.e10194)
 
-1. Nurbayani, S., Dede, M., & Widiawaty, M. A. (2022). Utilizing library repository for sexual harassment study in Indonesia: A systematic literature review. *Heliyon*, *8*(8), e10194. https://doi.org/10.1016/j.heliyon.2022.e10194
+14. **Dewi, E. A. S., Zuhairi, S., Bona, P., & Suprapto, A.**  
+   *Implementation of the Unified Theory of Acceptance and Use of Technology (UTAUT) Model During the Pandemic Era: A Systematic Literature Review (SLR)*.  
+   _Jurnal Komunikasi Malaysia_, **39**(3), 17, 2023.  
+   DOI: [10.17576/JKMJC-2023-3903-17](https://doi.org/10.17576/JKMJC-2023-3903-17)
 
-2. Dewi, E. A. S., Zuhairi, S., Bona, P., & Suprapto, A. (2023). Implementation of the Unified Theory of Acceptance and Use of Technology (UTAUT) Model during the Pandemic Era: A Systematic Literature Review (SLR). *Jurnal Komunikasi Malaysia*, *39*(3), 17. https://doi.org/10.17576/JKMJC-2023-3903-17
+15. **Syafe’i, S. S., Widarti, H. R., Dasna, I. W., Habiddin, & Wonorahardjo, S.**  
+   *STEM and STEAM Affects Computational Thinking Skill: A Systematic Literature Review*.  
+   _Orbital: Electronic Journal of Chemistry_, **15**(4), 208–216, 2023.  
+   DOI: [10.17807/orbital.v15i4.18323](https://doi.org/10.17807/orbital.v15i4.18323)
 
-3. Syafe’i, S. S., Widarti, H. R., Dasna, I. W., Habiddin, & Wonorahardjo, S. (2023). STEM and STEAM affects computational thinking skill: A systematic literature review. *Orbital: Electron. J. Chem.*, *15*(4), 208-216. https://doi.org/10.17807/orbital.v15i4.18323
+16. **Nurkhin, A., Rohman, A., & Prabowo, T. J. W.**  
+   *Accountability of Pondok Pesantren: A Systematic Literature Review*.  
+   _Cogent Business & Management_, **11**(1), 2332503, 2024.  
+   DOI: [10.1080/23311975.2024.2332503](https://doi.org/10.1080/23311975.2024.2332503)
 
-4. Nurkhin, A., Rohman, A., & Prabowo, T. J. W. (2024). Accountability of pondok pesantren; a systematic literature review. *Cogent Business & Management*, *11*(1), 2332503. https://doi.org/10.1080/23311975.2024.2332503
+17. **Surya, H. A., Sukono, Napitupulu, H., & Ismail, N.**  
+   *A Systematic Literature Review of Insurance Claims Risk Measurement Using the Hidden Markov Model*.  
+   _Risks_, **12**(11), 169, 2024.  
+   DOI: [10.3390/risks12110169](https://doi.org/10.3390/risks12110169)
 
-5. Surya, H. A., Sukono, Napitupulu, H., & Ismail, N. (2024). A systematic literature review of insurance claims risk measurement using the Hidden Markov Model. *Risks*, *12*(11), 169. https://doi.org/10.3390/risks12110169
+18. **Nasfi, A., Aimon, H., & Sentosa, S. U.**  
+   *Build the Village Economy: A Systematic Review on Academic Publication of Indonesian Village-Owned Enterprises*.  
+   _Cogent Social Sciences_, **9**(2), 2252682, 2023.  
+   DOI: [10.1080/23311886.2023.2252682](https://doi.org/10.1080/23311886.2023.2252682)
 
-6. Nasfi, A., Aimon, H., & Sentosa, S. U. (2023). Build the village economy: A systematic review on academic publication of Indonesian village-owned. *Cogent Social Sciences*, *9*(2), 2252682. https://doi.org/10.1080/23311886.2023.2252682
+19. **Wirani, Y., Eitiveni, I., & Sucahyo, Y. G.**  
+   *Framework of Smart and Integrated Household Waste Management System: A Systematic Literature Review Using PRISMA*.  
+   _Sustainability_, **16**(12), 4898, 2024.  
+   DOI: [10.3390/su16124898](https://doi.org/10.3390/su16124898)
 
-7. Wirani, Y., Eitiveni, I., & Sucahyo, Y. G. (2024). Framework of smart and integrated household waste management system: A systematic literature review using PRISMA. *Sustainability*, *16*(12), 4898. https://doi.org/10.3390/su16124898
+20. **Taufiq, R., Warnars, H. L. H. S., Soeparno, H., & Oktavia, T.**  
+   *Adoption of Blockchain Technology for ASCM Solution: A Systematic Literature Review*.  
+   _TEM Journal_, **13**(4), 2758–2772, 2024.  
+   DOI: [10.18421/TEM134-13](https://doi.org/10.18421/TEM134-13)
 
-8. Taufiq, R., Warnars, H. L. H. S., Soeparno, H., & Oktavia, T. (2024). Adoption of blockchain technology for ASCM solution: A systematic literature review. *TEM Journal*, *13*(4), 2758-2772. https://doi.org/10.18421/TEM134-13
-
-9. Wijayanti, H., Supian, S., Chaerani, D., & Shuib, A. (2024). Robust goal programming as a novelty asset liability management modeling in non-financial companies: A systematic literature review. *Computation*, *12*(11), 220. https://doi.org/10.3390/computation12110220
-
+21. **Wijayanti, H., Supian, S., Chaerani, D., & Shuib, A.**  
+   *Robust Goal Programming as a Novelty Asset Liability Management Modeling in Non-Financial Companies: A Systematic Literature Review*.  
+   _Computation_, **12**(11), 220, 2024.  
+   DOI: [10.3390/computation12110220](https://doi.org/10.3390/computation12110220)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
@@ -101,6 +125,3 @@
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
-
-
