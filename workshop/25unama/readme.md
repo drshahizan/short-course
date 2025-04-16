@@ -42,7 +42,7 @@ Workshop ini merupakan kolaborasi antara **Universitas Dinamika Bangsa (UNAMA)**
 
 ---
 
-### 🗓 **Hari Kedua: Kamis, 17 April 2025**  
+### 🗓 **[Hari Kedua: Kamis, 17 April 2025](mat/s2.md)**  
 **Fokus: Teknik, Tools, dan Sesi Praktik**
 
 1. Pengenalan dan Penerapan **PRISMA 2020**  
