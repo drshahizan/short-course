@@ -20,7 +20,7 @@ Menganalisis dan membandingkan berbagai model mobil secara sistematis berdasarka
 4. **Ekstraksi dan Sintesis Data**  
 5. **Analisis dan Kesimpulan**
 
-## 📄 **[Template Dokumen Latihan](https://github.com/drshahizan/short-course/blob/main/workshop/25slr/images/MSO_Exer1_SLR.docx)**
+## 📄 **[Template Dokumen Latihan](https://github.com/drshahizan/short-course/blob/main/workshop/25unama/mat/MSO_Exer1_SLR1.docx)**
 
 ## 🧪 **Contoh**
 
