@@ -38,6 +38,19 @@ Participants will explore **AI-driven literature review tools**, data analysis t
    - Understanding the capabilities of **multimodal AI models** for integrating text, images, and data.  
    - Using next-gen AI for **customized research insights and smarter academic writing**.  
 
+Zeta Alpha
+Scopus AI, 
+Scispace, 
+Kimi,
+Qwen - Thinking
+Napkin AI, 
+infogram.com, 
+Gemini - deep research
+ChatGPT - deep research
+NotebookLM
+
+
+
 ### **Who Should Attend?**  
 ✅ **Students, researchers, academics, and professionals** looking to leverage AI for smarter and faster research outcomes.  
 
