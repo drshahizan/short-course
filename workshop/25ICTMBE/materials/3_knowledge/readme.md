@@ -10,7 +10,7 @@
 ## 🔸 Purpose
 To make sense of gathered knowledge, connect different themes, and visualize literature review structure or conceptual models.
 
-**💡 Why Use AI in This Step?**
+## 💡 Why Use AI in This Step?
 AI helps organize fragmented knowledge into coherent structures. It enables researchers to visualize complex ideas, track connections, and structure research outlines.
 
 **Tools:**
