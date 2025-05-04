@@ -6,8 +6,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# 📌 A Step-by-Step Guide to Writing a Journal Article Using AI Tools  
-![Dr Shahizan AI Tools](https://github.com/drshahizan/short-course/raw/main/workshop/25AIwriting/materials/step/article_ai.png)
+# 📌 A Step-by-Step Guide to Writing a **High-Impact Journal Article** Using AI Tools  
+
+[![Dr Shahizan AI Tools](article_ai.png)](https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting)  
 
 Publishing in a **high-impact journal** is a prestigious achievement requiring **originality, clarity, and high scientific rigor**. This guide provides a **structured breakdown of each step**, leveraging **AI tools** to enhance your workflow and **maximize efficiency**.  
 
@@ -120,3 +121,4 @@ Publishing in a **high-impact journal** is a prestigious achievement requiring *
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
+
