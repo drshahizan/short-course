@@ -7,7 +7,7 @@
 
 # 2. Idea Generation & Research Design
 
-**🔸 Purpose:**
+## 🔸 Purpose
 To develop and expand research questions, hypotheses, and theoretical foundations. This is the stage of creativity and clarity.
 
 **💡 Why Use AI in This Step?**
