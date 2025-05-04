@@ -15,11 +15,14 @@ AI helps overcome time-consuming, keyword-limited searches by understanding mean
 
 ## AI Tools
 
-* **Zeta Alpha** – Performs semantic (meaning-based) searches across scientific papers, offering contextual results beyond basic keyword matching. Ideal for identifying cutting-edge trends.
-* **Scopus AI** – Enhances traditional Scopus search with AI-generated overviews, related questions, and suggested papers—all from verified sources.
-* **SciSpace** – Provides simplified summaries of academic papers, explains terminology, traces citations, and offers Q\&A on scientific content.
-* **Kimi** – Allows users to upload a paper and ask questions about it. It explains complex ideas and supports deep reading, especially useful for technical documents.
+* **🧠 Zeta Alpha** –
+An AI-powered semantic search engine designed for academic research. Unlike traditional keyword-based search, Zeta Alpha understands the meaning behind your query and returns conceptually relevant papers. It also helps users track research trends and follow topic-specific updates using natural language search capabilities.
 
+* **📚 Scopus AI** – A new feature within the Scopus platform that uses generative AI to summarize research areas, suggest related documents, and answer specific queries based on a curated database of peer-reviewed literature. It helps in quickly understanding complex research landscapes and identifying seminal works.
+
+* **🧾 SciSpace** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
+
+* **🔍 Kimi (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
