@@ -15,8 +15,12 @@ AI helps organize fragmented knowledge into coherent structures. It enables rese
 
 ## AI Tools
 
-* **Markmap** – Turns markdown notes into dynamic, collapsible mind maps. Great for planning literature reviews or structuring thesis outlines.
-* **NotebookLM** – Google's AI notebook assistant that understands and summarizes your uploaded research documents. You can query it directly and extract contextual insights.
+* **🧭 Markmap**
+A markdown-based mind mapping tool that converts simple text notes into interactive mind maps. Particularly useful for organizing literature review themes, visualizing research frameworks, or mapping theoretical concepts.
+
+* **📒 NotebookLM (by Google)**
+A “research assistant notebook” that lets users upload their own documents (papers, PDFs, notes) and then query them contextually. It’s like having a personalized chatbot that only knows your project documents and helps you extract insights or draft summaries from them.
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
