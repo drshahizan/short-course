@@ -13,6 +13,14 @@ To search, filter, and understand the most relevant scholarly work efficiently. 
 ## 💡 Why Use AI in This Step?
 AI helps overcome time-consuming, keyword-limited searches by understanding meaning, suggesting connections, and summarizing dense papers. It allows researchers to discover relevant insights faster and more comprehensively.
 
+## AI Tools
+
+* **Zeta Alpha** – Performs semantic (meaning-based) searches across scientific papers, offering contextual results beyond basic keyword matching. Ideal for identifying cutting-edge trends.
+* **Scopus AI** – Enhances traditional Scopus search with AI-generated overviews, related questions, and suggested papers—all from verified sources.
+* **SciSpace** – Provides simplified summaries of academic papers, explains terminology, traces citations, and offers Q\&A on scientific content.
+* **Kimi** – Allows users to upload a paper and ask questions about it. It explains complex ideas and supports deep reading, especially useful for technical documents.
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
