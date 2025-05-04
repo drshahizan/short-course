@@ -20,21 +20,21 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
 * **SciSpace** – Research summarization, citation tracing, and question answering
 
-### 🧠 **2. Idea Generation & Research Design**
+### 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**
 * **Qwen** – Advanced Chinese-English model for logic-based academic thought
 * **Kimi** – AI assistant for digesting and explaining scientific papers
 * **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
 * **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
 
-### 🗺️ **3. Knowledge Organization & Mind Mapping**
+### 🗺️ **[3. Knowledge Organization & Mind Mapping](./materials/3_knowledge)**
 * **Markmap** – Interactive markdown-based mind mapping for concept clarity
 * **NotebookLM** – Google’s research notebook with contextual document analysis
 
-### 📊 **4. Data & Result Visualization**
+### 📊 **[4. Data & Result Visualization](./materials/4_data)**
 * **Napkin AI** – Also helpful for translating concepts into diagrams or flows
 * **Infogram.com** – Create engaging infographics, charts, and data dashboards
 
-### 🤖 **5. Writing & Deep Research Assistance**
+### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
 * **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
 * **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
 
