@@ -7,6 +7,17 @@
 
 # 3. Knowledge Organization & Mind Mapping
 
+**🔸 Purpose:**
+To make sense of gathered knowledge, connect different themes, and visualize literature review structure or conceptual models.
+
+**💡 Why Use AI in This Step?**
+AI helps organize fragmented knowledge into coherent structures. It enables researchers to visualize complex ideas, track connections, and structure research outlines.
+
+**Tools:**
+
+* **Markmap** – Turns markdown notes into dynamic, collapsible mind maps. Great for planning literature reviews or structuring thesis outlines.
+* **NotebookLM** – Google's AI notebook assistant that understands and summarizes your uploaded research documents. You can query it directly and extract contextual insights.
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
