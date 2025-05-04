@@ -13,6 +13,8 @@ To synthesize information, write academic content, and prepare drafts of literat
 ## 💡 Why Use AI in This Step?
 AI writing assistants improve efficiency, reduce writer’s block, support academic tone, and provide grammar, structure, and referencing assistance. They can also synthesize from multiple documents.
 
+## AI Tools
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
