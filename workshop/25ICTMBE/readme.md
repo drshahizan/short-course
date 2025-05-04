@@ -21,7 +21,7 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **SciSpace** – Research summarization, citation tracing, and question answering
 
 ### 🧠 **2. Idea Generation & Research Design**
-* **Qwen - Thinking** – Advanced Chinese-English model for logic-based academic thought
+* **Qwen** – Advanced Chinese-English model for logic-based academic thought
 * **Kimi** – AI assistant for digesting and explaining scientific papers
 * **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
 * **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
