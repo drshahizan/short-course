@@ -15,8 +15,11 @@ AI simplifies the creation of visual content by transforming text or data into p
 
 ## AI Tools
 
-* **Napkin AI** – Converts written logic into structured diagrams. Useful for visualizing theoretical frameworks, process flows, or research models.
-* **Infogram.com** – Drag-and-drop platform for creating research visuals such as bar charts, timelines, survey result dashboards, and conceptual infographics.
+**🎨 Napkin AI**
+Beyond ideation, Napkin AI also helps visualize the structure of research models or findings. It supports text-to-diagram capabilities, making it useful for illustrating frameworks, workflows, or comparisons in results sections.
+
+**📈 Infogram.com**
+An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
