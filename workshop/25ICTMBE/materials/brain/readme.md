@@ -38,20 +38,11 @@ These tools assist in **generating new research ideas, alternative solutions, an
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
 | 1 | [Google Gemini](gemini.md) | AI-driven **idea expansion and research assistance**. | 
-| 2 | [Microsoft Copilot](copilot.md) | AI-powered **research structuring and brainstorming tool**. | 
+| 2 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
 | 3 | [ChatGPT](chatgpt.md) | Generates **creative research ideas and structured outlines**. | 
 | 4 | [HyperWrite](hyperwrite.md) | AI-powered **creative problem-solving assistant**. | 
 | 5 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
-| 6 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
-
-
-### **3️⃣ AI-Powered Prompting & Automated Brainstorming** 🔍  
-These tools **generate structured prompts and AI-guided brainstorming sessions** for research innovation.
-
-| No. | 🛠 **Tool Name** | 📖 **Function** | 
-| ---: | ---------------- | ------------------ | 
-| 1 | [AI-Powered Brainstorming for High-Impact Research](prompt.md) | AI-generated **brainstorming prompts** for research. | 
-| 2 | [AIPRM for ChatGPT](https://www.aiprm.com/) | **Pre-built prompt templates** for structured ideation. | 
+| 6 | [Microsoft Copilot](copilot.md) | AI-powered **research structuring and brainstorming tool**. | 
 
 ## ✅ Best Practices for Brainstorming with AI  
 - 📌 **Choose the Right Tool** – Use **mind mapping tools** for visual structuring and **AI-powered brainstorming assistants** for content generation.  
