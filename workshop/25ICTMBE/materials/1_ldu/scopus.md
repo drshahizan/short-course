@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🔍 Scopus AI: Enhancing Research with Generative AI
+# 🔍 [Scopus AI](https://www-scopus-com.ezproxy.utm.my/pages/home#scopus-ai): Enhancing Research with Generative AI
 
 **Scopus AI** is a generative AI-powered research assistant developed by **Elsevier**, integrated within the **Scopus platform**. It is designed to support researchers with intuitive, efficient exploration of peer-reviewed scientific literature using advanced natural language processing and Retrieval-Augmented Generation (RAG) technology.
 
