@@ -15,7 +15,7 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 
 ## **What Participants Will Learn:**  
 
-### 🔍 **1. Literature Discovery & Understanding**
+### 🔍 **[1. Literature Discovery & Understanding](.materials/)**
 * **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
 * **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
 * **SciSpace** – Research summarization, citation tracing, and question answering
@@ -31,8 +31,7 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **NotebookLM** – Google’s research notebook with contextual document analysis
 
 ### 📊 **4. Data & Result Visualization**
-
-* **Napkin AI** (again) – Also helpful for translating concepts into diagrams or flows
+* **Napkin AI** – Also helpful for translating concepts into diagrams or flows
 * **Infogram.com** – Create engaging infographics, charts, and data dashboards
 
 ### 🤖 **5. Writing & Deep Research Assistance**
