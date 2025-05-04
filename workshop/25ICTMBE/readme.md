@@ -15,7 +15,7 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 
 ## **What Participants Will Learn:**  
 
-### 🔍 **[1. Literature Discovery & Understanding](.materials/)**
+### 🔍 **[1. Literature Discovery & Understanding](./materials/1_ldu)**
 * **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
 * **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
 * **SciSpace** – Research summarization, citation tracing, and question answering
