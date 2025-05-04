@@ -7,6 +7,17 @@
 
 # 4. Data & Result Visualization
 
+**🔸 Purpose:**
+To communicate findings clearly through visuals—essential for publications, reports, or presentations.
+
+**💡 Why Use AI in This Step?**
+AI simplifies the creation of visual content by transforming text or data into professional charts, infographics, or diagrams—without needing design expertise.
+
+**Tools:**
+
+* **Napkin AI** – Converts written logic into structured diagrams. Useful for visualizing theoretical frameworks, process flows, or research models.
+* **Infogram.com** – Drag-and-drop platform for creating research visuals such as bar charts, timelines, survey result dashboards, and conceptual infographics.
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
