@@ -7,7 +7,7 @@
 
 # 5. Writing & Deep Research Assistance
 
-##🔸 Purpose
+## 🔸 Purpose
 To synthesize information, write academic content, and prepare drafts of literature reviews, discussions, or proposals.
 
 ## 💡 Why Use AI in This Step?
