@@ -10,7 +10,7 @@
 ## 🔸 Purpose
 To develop and expand research questions, hypotheses, and theoretical foundations. This is the stage of creativity and clarity.
 
-**💡 Why Use AI in This Step?**
+## 💡 Why Use AI in This Step?
 AI stimulates creativity, expands narrow ideas into broader frameworks, and suggests logical progressions. It also helps structure research designs and provides inspiration from global knowledge bases.
 
 **Tools:**
