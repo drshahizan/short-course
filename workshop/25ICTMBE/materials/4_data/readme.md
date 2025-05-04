@@ -10,7 +10,7 @@
 ## 🔸 Purpose
 To communicate findings clearly through visuals—essential for publications, reports, or presentations.
 
-**💡 Why Use AI in This Step?**
+## 💡 Why Use AI in This Step?
 AI simplifies the creation of visual content by transforming text or data into professional charts, infographics, or diagrams—without needing design expertise.
 
 **Tools:**
