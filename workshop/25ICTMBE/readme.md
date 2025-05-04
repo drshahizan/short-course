@@ -35,9 +35,8 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **Infogram.com** – Create engaging infographics, charts, and data dashboards
 
 ### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
-* **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
 * **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
-
+* **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
 
 ## 👩‍💻 Who Should Attend
 Postgraduate students, early-career researchers, and academic professionals seeking to enhance their research efficiency using AI-driven tools.
