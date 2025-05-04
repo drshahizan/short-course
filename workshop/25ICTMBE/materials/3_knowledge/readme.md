@@ -13,7 +13,7 @@ To make sense of gathered knowledge, connect different themes, and visualize lit
 ## 💡 Why Use AI in This Step?
 AI helps organize fragmented knowledge into coherent structures. It enables researchers to visualize complex ideas, track connections, and structure research outlines.
 
-**Tools:**
+## AI Tools
 
 * **Markmap** – Turns markdown notes into dynamic, collapsible mind maps. Great for planning literature reviews or structuring thesis outlines.
 * **NotebookLM** – Google's AI notebook assistant that understands and summarizes your uploaded research documents. You can query it directly and extract contextual insights.
