@@ -13,7 +13,7 @@ To communicate findings clearly through visuals—essential for publications, re
 ## 💡 Why Use AI in This Step?
 AI simplifies the creation of visual content by transforming text or data into professional charts, infographics, or diagrams—without needing design expertise.
 
-**Tools:**
+## AI Tools
 
 * **Napkin AI** – Converts written logic into structured diagrams. Useful for visualizing theoretical frameworks, process flows, or research models.
 * **Infogram.com** – Drag-and-drop platform for creating research visuals such as bar charts, timelines, survey result dashboards, and conceptual infographics.
