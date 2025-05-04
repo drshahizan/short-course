@@ -20,7 +20,7 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 
 * **📚 [Scopus AI](scopus.md)** – A new feature within the Scopus platform that uses generative AI to summarize research areas, suggest related documents, and answer specific queries based on a curated database of peer-reviewed literature. It helps in quickly understanding complex research landscapes and identifying seminal works.
 
-* **🧾 SciSpace** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
+* **🧾 [SciSpace](https://scispace.com/)** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
 
 ## Others
 
