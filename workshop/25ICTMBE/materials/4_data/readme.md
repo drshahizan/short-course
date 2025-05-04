@@ -7,7 +7,7 @@
 
 # 4. Data & Result Visualization
 
-**🔸 Purpose:**
+## 🔸 Purpose
 To communicate findings clearly through visuals—essential for publications, reports, or presentations.
 
 **💡 Why Use AI in This Step?**
