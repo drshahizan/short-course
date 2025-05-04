@@ -15,7 +15,7 @@ AI helps overcome time-consuming, keyword-limited searches by understanding mean
 
 ## AI Tools
 
-* **🧠 Zeta Alpha** –
+* **🧠 [Zeta Alpha](https://www.zeta-alpha.com/)** –
 An AI-powered semantic search engine designed for academic research. Unlike traditional keyword-based search, Zeta Alpha understands the meaning behind your query and returns conceptually relevant papers. It also helps users track research trends and follow topic-specific updates using natural language search capabilities.
 
 * **📚 Scopus AI** – A new feature within the Scopus platform that uses generative AI to summarize research areas, suggest related documents, and answer specific queries based on a curated database of peer-reviewed literature. It helps in quickly understanding complex research landscapes and identifying seminal works.
