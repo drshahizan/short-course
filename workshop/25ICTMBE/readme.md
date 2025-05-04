@@ -43,7 +43,9 @@ Scopus AI,
 Scispace, 
 Kimi,
 Qwen - Thinking
-Napkin AI, 
+Napkin AI,
+Ideamap.ai
+Markmap
 infogram.com, 
 Gemini - deep research
 ChatGPT - deep research
