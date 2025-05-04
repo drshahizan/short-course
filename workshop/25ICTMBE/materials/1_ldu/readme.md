@@ -22,7 +22,6 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 
 * **🧾 SciSpace** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
 
-* **🔍 Kimi (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
