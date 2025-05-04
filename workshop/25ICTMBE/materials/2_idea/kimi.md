@@ -5,7 +5,65 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# 🤖 Kimi.ai: Advanced AI Assistant by Moonshot AI
+
+**Kimi.ai** is a cutting-edge AI assistant developed by [Moonshot AI](https://www.moonshot.cn/), a Beijing-based artificial intelligence company founded in March 2023. Designed to enhance productivity and creativity, Kimi.ai excels in processing extensive context, multimodal reasoning, and real-time web interaction.
+
+## 🧠 Key Features
+
+### 1. Ultra-Long Context Processing
+- **Context Window**: Supports up to **2 million Chinese characters** in a single prompt, enabling comprehensive understanding of lengthy documents.
+- **Use Cases**: Ideal for analyzing academic papers, legal documents, and extensive reports.
+
+### 2. Multimodal Capabilities
+- **Text, Image, and Code Processing**: Handles various data types, allowing for tasks like image analysis and code debugging.
+- **Kimi-VL**: An open-source vision-language model capable of processing text, images, and videos with a context window of up to 128,000.
+
+### 3. Real-Time Web Browsing
+- **Web Search Integration**: Accesses over 100 websites to provide up-to-date information and enhance responses.
+  
+### 4. File Upload and Analysis
+- **Document Processing**: Analyzes up to 50 files simultaneously, including PDFs, Word documents, and images.
+
+### 5. Advanced Reasoning and Problem-Solving
+- **Chain-of-Thought (CoT) Reasoning**: Breaks down complex problems into manageable steps for accurate solutions.
+- **Reinforcement Learning**: Continuously improves through interaction and feedback, enhancing problem-solving abilities over time.
+
+### 6. Multilingual Support
+- **Language Processing**: Excels in both Chinese and English, catering to a diverse user base.
+
+## 💼 Applications
+
+### Education
+- **Students and Educators**: Assists in interpreting academic materials, generating study guides, and creating lesson plans.
+
+### Business and Corporate
+- **Market Analysts and Strategists**: Analyzes market trends and financial reports to provide actionable insights.
+
+### Content Creation
+- **Writers and Bloggers**: Generates SEO-optimized content, blog posts, and marketing copy.
+
+### Software Development
+- **Developers**: Aids in code generation, debugging, and optimization across various programming languages.
+
+### Healthcare
+- **Medical Professionals**: Analyzes medical reports and patient data to support diagnostics.
+
+### Legal Sector
+- **Lawyers and Paralegals**: Assists in drafting legal documents and reviewing extensive legal materials.
+
+## 📱 Access and Availability
+
+- **Platforms**: Available on web interfaces and mobile applications, including iOS.
+- **Usage**: Offers a freemium model with unlimited usage, making advanced AI accessible to a broad audience.
+
+## 🔗 Additional Resources
+
+- **Official Website**: [kimi.moonshot.cn](https://kimi.moonshot.cn/)
+- **GitHub Repository**: [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL)
+- **Technical Reports**:
+  - [Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491)
+  - [Kimi-Audio Technical Report](https://arxiv.org/abs/2504.18425)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
