@@ -22,6 +22,20 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 
 * **🧾 SciSpace** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
 
+## Others
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Google Gemini](gemini.md) | AI-driven **idea expansion and research assistance**. | 
+| 2 | [ChatGPT](chatgpt.md) | Generates **creative research ideas and structured outlines**. | 
+| 3 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
+| 4 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
+| 5 | [Microsoft Copilot](copilot.md) | AI-powered **research structuring and brainstorming tool**. | 
+| 6 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
+| 7 | [HyperWrite](hyperwrite.md) | AI-powered **creative problem-solving assistant**. | 
+
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
