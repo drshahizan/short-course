@@ -14,11 +14,12 @@ To synthesize information, write academic content, and prepare drafts of literat
 AI writing assistants improve efficiency, reduce writer’s block, support academic tone, and provide grammar, structure, and referencing assistance. They can also synthesize from multiple documents.
 
 ## AI Tools
+* **🔬 Gemini (Google)**:
+Google’s AI assistant that can perform deep synthesis of complex research topics. It understands uploaded documents, supports multi-source analysis, and can generate drafts or critiques. Particularly effective for comparative studies or writing literature syntheses with source awareness.
+
 * **🧑‍🎓 ChatGPT (ScholarGPT mode)**:
 An optimized interface for academic writing. It assists in summarizing articles, paraphrasing paragraphs, drafting literature reviews, and even generating citations in APA/MLA formats. ScholarGPT prompt templates allow for targeted outputs suitable for thesis writing and journal publication.
 
-* **🔬 Gemini (Google)**:
-Google’s AI assistant that can perform deep synthesis of complex research topics. It understands uploaded documents, supports multi-source analysis, and can generate drafts or critiques. Particularly effective for comparative studies or writing literature syntheses with source awareness.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
