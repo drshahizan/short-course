@@ -15,7 +15,7 @@ AI stimulates creativity, expands narrow ideas into broader frameworks, and sugg
 
 ## AI Tools
 
-* **🧮 Qwen - Thinking (by Alibaba)**
+* **🧮 [Qwen](https://chat.qwen.ai) - (by Alibaba)**
 An advanced LLM (large language model) optimized for reasoning and academic exploration. It can engage in structured argumentation, develop logical flow in research ideas, and assist bilingual (Chinese-English) researchers in framing research questions or outlining proposals.
 
 * **🔍 Kimi (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
