@@ -7,6 +7,18 @@
 
 # 2. Idea Generation & Research Design
 
+**🔸 Purpose:**
+To develop and expand research questions, hypotheses, and theoretical foundations. This is the stage of creativity and clarity.
+
+**💡 Why Use AI in This Step?**
+AI stimulates creativity, expands narrow ideas into broader frameworks, and suggests logical progressions. It also helps structure research designs and provides inspiration from global knowledge bases.
+
+**Tools:**
+
+* **Qwen - Thinking** – Supports structured academic thinking, especially in logic-heavy domains. Excellent for bilingual researchers and logic model development.
+* **Ideamap.ai** – Generates idea networks or concept maps from keywords. Useful for problem identification, conceptual framework development, and topic refinement.
+* **Napkin AI** – Transforms short, unstructured inputs into visual idea sketches or flow diagrams. A quick way to visualize models and design logic.
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
