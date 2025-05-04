@@ -15,9 +15,15 @@ AI stimulates creativity, expands narrow ideas into broader frameworks, and sugg
 
 ## AI Tools
 
-* **Qwen - Thinking** – Supports structured academic thinking, especially in logic-heavy domains. Excellent for bilingual researchers and logic model development.
-* **Ideamap.ai** – Generates idea networks or concept maps from keywords. Useful for problem identification, conceptual framework development, and topic refinement.
-* **Napkin AI** – Transforms short, unstructured inputs into visual idea sketches or flow diagrams. A quick way to visualize models and design logic.
+* **🧮 Qwen - Thinking (by Alibaba)**
+An advanced LLM (large language model) optimized for reasoning and academic exploration. It can engage in structured argumentation, develop logical flow in research ideas, and assist bilingual (Chinese-English) researchers in framing research questions or outlining proposals.
+
+* **🗺️ Ideamap.ai**
+A visual brainstorming platform that uses AI to expand your initial keywords or phrases into a map of connected ideas. Great for early-stage research design, identifying unexplored angles, and turning vague interests into structured themes or research questions.
+
+* **🖼️ Napkin AI**
+Transforms short text or raw thoughts into visual concept diagrams. Researchers can input a few sentences about their study or hypothesis, and Napkin will produce a structured sketch or diagram, aiding in research design planning, flowcharts, or logic modeling.
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
