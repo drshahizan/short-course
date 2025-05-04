@@ -13,7 +13,7 @@ To develop and expand research questions, hypotheses, and theoretical foundation
 ## 💡 Why Use AI in This Step?
 AI stimulates creativity, expands narrow ideas into broader frameworks, and suggests logical progressions. It also helps structure research designs and provides inspiration from global knowledge bases.
 
-**Tools:**
+## AI Tools
 
 * **Qwen - Thinking** – Supports structured academic thinking, especially in logic-heavy domains. Excellent for bilingual researchers and logic model development.
 * **Ideamap.ai** – Generates idea networks or concept maps from keywords. Useful for problem identification, conceptual framework development, and topic refinement.
