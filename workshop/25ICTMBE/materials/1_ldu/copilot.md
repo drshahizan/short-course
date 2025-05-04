@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Brainstorming and Idea Generation: Microsoft Copilot💡🧠
+# Microsoft Copilot💡🧠
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://store-images.s-microsoft.com/image/apps.36459.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.c0fbfed4-09cf-4672-be75-064859803961" alt="Dr Shahizan AI tools"  height="400">
