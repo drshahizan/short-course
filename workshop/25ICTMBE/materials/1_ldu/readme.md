@@ -7,13 +7,11 @@
 
 # 1. Literature Discovery & Understanding
 
-Generating and organizing **innovative research ideas** is crucial for **problem-solving, research structuring, and creative exploration**. AI-powered brainstorming tools help researchers, writers, and professionals **visualize, refine, and expand** their thoughts through **mind mapping, structured thinking, and AI-driven suggestions**.  
+## 🔸 Purpose:
+To search, filter, and understand the most relevant scholarly work efficiently. This phase forms the foundation for defining your research gap and framing research questions.
 
-📌 **Why Use AI for Brainstorming?**  
-- ✅ **Generate structured** mind maps and diagrams  
-- ✅ **Visualize** concepts, workflows, and processes  
-- ✅ **Enhance creativity** and overcome idea blocks  
-- ✅ **Optimize** research planning and content development  
+## 💡 Why Use AI in This Step?
+AI helps overcome time-consuming, keyword-limited searches by understanding meaning, suggesting connections, and summarizing dense papers. It allows researchers to discover relevant insights faster and more comprehensively.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
