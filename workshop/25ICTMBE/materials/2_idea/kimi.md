@@ -32,25 +32,69 @@
 ### 6. Multilingual Support
 - **Language Processing**: Excels in both Chinese and English, catering to a diverse user base.
 
-## 💼 Applications
+## 💡 Role of Kimi.ai in Research Design & Idea Generation
 
-### Education
-- **Students and Educators**: Assists in interpreting academic materials, generating study guides, and creating lesson plans.
+### 1. **Topic Discovery and Refinement**
+- Kimi can analyze long documents (e.g., research papers, reports, articles) and extract key concepts and gaps.
+- Helps generate refined, niche topic ideas from broad research interests.
+- Example:  
+  > “Summarize key research gaps from this uploaded review on climate-smart agriculture.”
 
-### Business and Corporate
-- **Market Analysts and Strategists**: Analyzes market trends and financial reports to provide actionable insights.
+### 2. **Brainstorming Interdisciplinary Ideas**
+- With advanced contextual reasoning and broad domain knowledge, Kimi can bridge disciplines.
+- Supports creative combinations of fields (e.g., AI + linguistics, finance + climate).
+- Example:  
+  > “Give research ideas that combine machine learning and mental health interventions.”
 
-### Content Creation
-- **Writers and Bloggers**: Generates SEO-optimized content, blog posts, and marketing copy.
+### 3. **Problem Statement & Rationale Development**
+- Helps draft concise, coherent research problem statements based on a given context or uploaded document.
+- Can analyze research trends and societal needs to support the rationale for your study.
+- Example:  
+  > “Write a research problem statement about student engagement in online learning, using this file.”
 
-### Software Development
-- **Developers**: Aids in code generation, debugging, and optimization across various programming languages.
+### 4. **Research Question and Hypothesis Generation**
+- Generates clear, structured research questions and testable hypotheses.
+- Can align RQs with specific variables, population groups, or contexts.
+- Example:  
+  > “Generate three possible research questions and hypotheses based on a study on AI in medical education.”
 
-### Healthcare
-- **Medical Professionals**: Analyzes medical reports and patient data to support diagnostics.
+### 5. **Methodology Suggestions**
+- Suggests suitable research designs, data collection techniques, and instruments based on your objectives.
+- Especially helpful for designing surveys, interviews, or experiments with complex variables.
+- Example:  
+  > “What is a suitable methodology for studying digital literacy among rural teachers?”
 
-### Legal Sector
-- **Lawyers and Paralegals**: Assists in drafting legal documents and reviewing extensive legal materials.
+## ⚙️ Why Use Kimi in This Step?
+
+| Step                         | AI Benefits with Kimi.ai                                                 |
+|------------------------------|--------------------------------------------------------------------------|
+| Topic Discovery              | Analyzes uploaded literature to highlight gaps and new angles            |
+| Idea Expansion               | Encourages interdisciplinary connections and novel research directions   |
+| RQ/Hypothesis Drafting       | Provides well-structured academic phrasing for research components       |
+| Method Selection             | Recommends designs based on objectives and variables                    |
+| Document-Based Insight       | Handles large files and extracts relevant ideas for framing studies      |
+
+## 🚀 Strengths for Researchers
+- **Ultra-Long Context Support**: Handles up to 2 million characters, making it ideal for reviewing thesis documents, SLRs, and large datasets.
+- **Multimodal Input**: Accepts PDFs, DOCs, images, and web links—making it flexible across content types.
+- **Precise Summarization**: Generates condensed overviews of lengthy papers or proposals to spark new ideas.
+
+
+## 📌 Limitations to Consider
+- **No Citation Integration**: Does not auto-generate APA/MLA citations like Scopus AI or SciSpace.
+- **Web Search Boundaries**: Its browsing may be limited to selected sites, depending on the mode.
+- **Language Bias**: Stronger in Chinese-language content but offers good English performance for academic writing.
+
+
+
+## ✅ Example Prompt Ideas
+
+```text
+1. "Review this uploaded article and suggest 5 possible research gaps."
+2. "Brainstorm topic ideas combining education, AI, and rural communities."
+3. "Propose a research question and matching methodology for a study on mobile banking in Sub-Saharan Africa."
+4. "Analyze this proposal draft and improve the problem statement and objectives."
+```
 
 ## 📱 Access and Availability
 
