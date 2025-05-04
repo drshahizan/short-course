@@ -19,10 +19,10 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
 * **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
 * **SciSpace** – Research summarization, citation tracing, and question answering
-* **Kimi** – AI assistant for digesting and explaining scientific papers
 
 ### 🧠 **2. Idea Generation & Research Design**
 * **Qwen - Thinking** – Advanced Chinese-English model for logic-based academic thought
+* **Kimi** – AI assistant for digesting and explaining scientific papers
 * **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
 * **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
 
