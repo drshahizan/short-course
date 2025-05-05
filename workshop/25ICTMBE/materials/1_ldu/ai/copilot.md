@@ -7,9 +7,7 @@
 
 # Microsoft Copilot💡🧠
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://store-images.s-microsoft.com/image/apps.36459.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.c0fbfed4-09cf-4672-be75-064859803961" alt="Dr Shahizan AI tools"  height="400">
-</a>
 
 
 ## 1. Introduction
