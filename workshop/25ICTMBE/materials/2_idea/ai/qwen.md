@@ -7,8 +7,7 @@
 
 # [Qwen.ai](https://chat.qwen.ai/): Alibaba’s Next-Generation Large Language Model
 
-
- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*mzqlZrYuFnX0HNRZ.png" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://miro.medium.com/v2/resize:fit:1074/format:webp/1*BhXY3gN6bG_xSSPHe0mL3w.png" alt="Dr Shahizan AI tools"  height="400">
 
 **Qwen.ai** is a family of large language models (LLMs) developed by **Alibaba Cloud** to power advanced applications in **natural language understanding**, **reasoning**, and **multimodal AI**. Designed to support both English and Chinese tasks, Qwen models have become notable for their **open-source access**, **high performance**, and **enterprise-level integration**.
 
