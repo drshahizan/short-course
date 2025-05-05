@@ -7,7 +7,7 @@
 
 # [NotebookLM](https://notebooklm.google.com)
 
- <img src="https://acranger.com/wp-content/uploads/2025/02/featured-89417f5b-3004-405d-b7a5-ea7da8202f75-678x381.jpeg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2nQthiYsykwEmSo5DiGRyg.png" alt="Dr Shahizan AI tools"  height="400">
 
 **NotebookLM** (formerly known as Project Tailwind) is Google’s AI-powered research notebook designed to help users synthesize and organize information from multiple sources. It allows researchers, students, and writers to upload documents, take notes, and ask questions—turning passive reading into active learning. As a tool focused on **knowledge organization**, it plays a vital role in structuring ideas and creating conceptual clarity during the research process.
 
