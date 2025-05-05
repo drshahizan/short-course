@@ -15,18 +15,15 @@ AI stimulates creativity, expands narrow ideas into broader frameworks, and sugg
 
 ## AI Tools
 
-* **🧮 [Qwen](./ai/qwen.md) - (by Alibaba)**
-An advanced LLM (large language model) optimized for reasoning and academic exploration. It can engage in structured argumentation, develop logical flow in research ideas, and assist bilingual (Chinese-English) researchers in framing research questions or outlining proposals.
+**🧮 [Qwen](./ai/qwen.md)** is a large language model optimized for logical reasoning and academic exploration, particularly useful in formulating structured research arguments and logical frameworks. It helps researchers, especially bilingual (Chinese-English) users, to generate coherent research questions, develop research proposals, and refine conceptual ideas by simulating logical academic discourse.
 
-* **🔍 [Kimi](./ai/kimi.md) - (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
+**🔍 [Kimi](./ai/kimi.md)** is an advanced AI assistant that allows researchers to upload scientific papers and interact with the content through natural language queries. Ideal for research design, Kimi enables users to extract insights, understand technical jargon, and identify knowledge gaps or potential variables, making it easier to build upon existing literature and shape focused research questions.
 
-* 🔍 [Grok](./ai/grok.md)
-* 
-* **🖼️ [Napkin AI](./ai/napkin.md)**
-Transforms short text or raw thoughts into visual concept diagrams. Researchers can input a few sentences about their study or hypothesis, and Napkin will produce a structured sketch or diagram, aiding in research design planning, flowcharts, or logic modeling.
+**🔍 [Grok](./ai/grok.md)** is a conversational AI designed to simulate creative reasoning and exploratory thought processes. It supports early-stage research design by offering unconventional perspectives, brainstorming alternative angles, and challenging assumptions, effectively acting as an idea sparring partner for researchers trying to frame or rethink their studies.
 
-* **🗺️ [Ideamap.ai](./ai/ideamap.md)**
-A visual brainstorming platform that uses AI to expand your initial keywords or phrases into a map of connected ideas. Great for early-stage research design, identifying unexplored angles, and turning vague interests into structured themes or research questions.
+**🖼️ [Napkin AI](./ai/napkin.md)** takes raw or loosely structured research ideas and turns them into visual concept diagrams, helping researchers articulate their study’s structure. Whether outlining hypotheses, mapping logical flows, or designing theoretical frameworks, Napkin AI provides quick visualizations that assist in planning and refining research models or flowcharts.
+
+**🗺️ [Ideamap.ai](./ai/ideamap.md)** is a visual ideation tool that transforms initial keywords or phrases into an expandable map of interconnected concepts. It is particularly effective for researchers in the idea generation stage, allowing them to explore related topics, identify research gaps, and develop structured themes or research directions from vague starting points.
 
 
 ### 🙌🏻 Connect with Me
