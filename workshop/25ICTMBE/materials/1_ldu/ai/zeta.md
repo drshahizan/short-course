@@ -7,7 +7,7 @@
 
 # Zeta Alpha 
 
- <img src="https://static.wixstatic.com/media/111555_975f42b13cac49669fe9b0299fa92c03~mv2.gif" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://static.wixstatic.com/media/111555_7b1270097ebd46ec9ec6ff485d415b6a~mv2.png/v1/fill/w_1200,h_706,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/111555_7b1270097ebd46ec9ec6ff485d415b6a~mv2.png" alt="Dr Shahizan AI tools"  height="400">
 
 **Zeta Alpha** is a neural discovery and research intelligence platform powered by AI. It helps researchers, analysts, and innovation teams explore complex domains, uncover research gaps, and accelerate the process of turning ideas into structured research designs. With powerful neural search, Retrieval-Augmented Generation (RAG), and intelligent research agents, Zeta Alpha transforms how research is done in both academia and enterprise.
 
