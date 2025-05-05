@@ -21,6 +21,18 @@ A markdown-based mind mapping tool that converts simple text notes into interact
 * **📒 NotebookLM (by Google)**
 A “research assistant notebook” that lets users upload their own documents (papers, PDFs, notes) and then query them contextually. It’s like having a personalized chatbot that only knows your project documents and helps you extract insights or draft summaries from them.
 
+## Others
+
+| No. | 🛠 **Tool Name**                                                   | 📖 **Function** |
+| --- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 1   | [**NotebookLM**](https://notebooklm.google.com/)                   | AI-powered notebook that lets you upload documents and receive contextual summaries, Q\&A, and insights. |
+| 2   | [**Markmap**](https://markmap.js.org/)                             | Converts markdown files into interactive mind maps—great for outlining literature or arguments.          |
+| 3   | [**Scapple**](https://www.literatureandlatte.com/scapple/overview) | A free-form idea mapping tool for connecting concepts without rigid structures.                          |
+| 4   | [**Obsidian**](https://obsidian.md/)                               | Markdown-based knowledge management tool with backlinks and graph view to visualize connections.         |
+| 5   | [**Xmind AI**](https://xmind.app/ai/)                              | Mind mapping with AI support to expand, summarize, and structure complex topics.                         |
+| 6   | [**Scrintal**](https://www.scrintal.com/)                          | Visual research workspace combining cards and documents with connection lines for clarity.               |
+| 7   | [**Miro (AI Assist)**](https://miro.com/)                          | Collaborative whiteboard with AI-enhanced clustering, brainstorming, and workflow mapping.               |
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
