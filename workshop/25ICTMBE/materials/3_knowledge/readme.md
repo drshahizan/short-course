@@ -27,7 +27,6 @@ A “research assistant notebook” that lets users upload their own documents (
 | --- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | 4   | [**Obsidian**](https://obsidian.md/)                               | Markdown-based knowledge management tool with backlinks and graph view to visualize connections.         |
 | 5   | [**Xmind AI**](https://xmind.app/)                              | Mind mapping with AI support to expand, summarize, and structure complex topics.                         |
-| 6   | [**Scrintal**](https://www.scrintal.com/)                          | Visual research workspace combining cards and documents with connection lines for clarity.               |
 | 7   | [**Miro (AI Assist)**](https://miro.com/)                          | Collaborative whiteboard with AI-enhanced clustering, brainstorming, and workflow mapping.               |
 
 
