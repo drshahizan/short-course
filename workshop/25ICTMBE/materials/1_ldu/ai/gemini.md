@@ -7,9 +7,7 @@
 
 # [Google Gemini](https://gemini.google.com)
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
- <img src="https://diplo-media.s3.eu-central-1.amazonaws.com/2024/08/gemini-google-youtube-ai-content-creating-headline-brainstorm-with-gemini-1024x585.jpg" alt="Dr Shahizan AI tools"  height="400">
-</a>
+ <img src="https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png" alt="Dr Shahizan AI tools"  height="400">
 
 **Google Gemini** is a family of multimodal large language models developed by Google DeepMind. It combines state-of-the-art language understanding with image, video, and code processing capabilities. As part of Google Workspace and Bard (now integrated into Gemini), it serves as a versatile assistant for students, educators, and researchers—particularly during the **early phases of research planning and ideation**.
 
