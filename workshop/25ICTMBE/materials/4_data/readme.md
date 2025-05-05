@@ -36,19 +36,26 @@ Well-structured visuals help convey findings clearly to academic supervisors, ex
 
 ## AI Tools
 
+ChatGPT
 **🎨 Napkin AI**
 Beyond ideation, Napkin AI also helps visualize the structure of research models or findings. It supports text-to-diagram capabilities, making it useful for illustrating frameworks, workflows, or comparisons in results sections.
 
 **📈 [Infogram.com](./ai/infogram.md)**
 An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
 
+[**ChatGPT**](https://chatgpt.com/)
+
+## Others
 | No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
 | --: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-|   1 | [**ChatGPT**](https://chatgpt.com/)                                                        | Converts natural language prompts into charts (bar, line, pie, etc.) using GPT-powered chart generation. |
-|   2 | [**Plotly AI Assistant**](https://plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
-|   3 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
-|   4 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
-|   5 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
+| 1 | [Inciteful](https://inciteful.xyz/) | AI-powered **citation graph builder** for mapping research. | 
+| 2 | [Open Knowledge Maps](https://openknowledgemaps.org/) | Creates **interactive knowledge graphs** for research visualization. | 
+| 3 | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 
+| 4 | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 
+| 5 | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 
+|   6 | [**Plotly AI Assistant**](https://plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
+|   7 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
+|   8 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
 
 
 ### 🙌🏻 Connect with Me
