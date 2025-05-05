@@ -84,7 +84,6 @@ Total population by ethnicity:
 These statistics provide a comprehensive overview of Malaysia’s population changes by year, gender, age group, and ethnicity, supporting demographic analysis and public policy planning.
 ```
 
----
 
 ## 📊 Generate Appropriate Charts
 
@@ -106,7 +105,6 @@ A pie or bar chart showing population by ethnic group. Bumiputera Melayu has the
 These visualizations offer clear insights into how Malaysia’s population is segmented across different demographic categories.
 ```
 
----
 
 ## 💬 Suggested 15 Prompts to Explore the Dataset
 
@@ -158,7 +156,6 @@ Here are 15 useful prompts you can use with ChatGPT to explore the Malaysian pop
 15. **Year-to-Year Comparison**:
     - "Compare Malaysia’s population in 1980 and 2020."
 
-These prompts can guide your exploration and analysis, helping uncover trends and demographic shifts in Malaysia over time.
 ```
 
 ### 🙌🏻 Connect with Me
