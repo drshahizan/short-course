@@ -5,61 +5,88 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Google Gemini💡🧠
+# [Google Gemini](https://gemini.google.com)
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://diplo-media.s3.eu-central-1.amazonaws.com/2024/08/gemini-google-youtube-ai-content-creating-headline-brainstorm-with-gemini-1024x585.jpg" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
-## 1. Introduction
+**Google Gemini** is a family of multimodal large language models developed by Google DeepMind. It combines state-of-the-art language understanding with image, video, and code processing capabilities. As part of Google Workspace and Bard (now integrated into Gemini), it serves as a versatile assistant for students, educators, and researchers—particularly during the **early phases of research planning and ideation**.
 
-[Google Gemini](https://gemini.google.com) is Google's next-generation AI model, designed to assist users with a wide range of tasks, from generating creative content to solving complex problems. It is an advanced multimodal AI system that can process and generate text, images, code, and more, making it a powerful tool for brainstorming, research, and productivity.
+## 💡 Role of Google Gemini in Research Design & Idea Generation
 
-Gemini is particularly useful for businesses, educators, researchers, and content creators who need AI-powered insights, creative solutions, and intelligent automation.
+### 1. **Idea Brainstorming with Contextual Intelligence**
+- Gemini supports **natural language conversations** that help researchers explore new or trending topics.
+- It integrates search capabilities from Google, enabling real-time insights.
+- Example:  
+  > “Suggest current research ideas on AI in climate resilience.”
 
-### **Key Features:**
-- **Multimodal Capabilities** – Understands and generates text, images, code, and other formats.
-- **Advanced AI Reasoning** – Capable of solving complex problems and generating structured ideas.
-- **Integration with Google Workspace** – Can be used within Google Docs, Gmail, and other apps for enhanced productivity.
-- **Creative Assistance** – Helps with brainstorming, content generation, and idea refinement.
+### 2. **Research Topic Refinement**
+- Gemini helps narrow broad themes into **focused, researchable questions** by suggesting angles, variables, and target populations.
+- Example:  
+  > “Turn ‘online education’ into 3 specific research questions with possible contexts.”
 
-## 2. How to Use Google Gemini: A Step-by-Step Guide
+### 3. **Problem Statement and Objective Drafting**
+- Generates compelling **backgrounds, problem statements, and objectives** with academic tone.
+- Allows multiple iterations for tone adjustment, length, and clarity.
+- Example:  
+  > “Write a problem statement for a study on misinformation during elections.”
 
-## *Case Study: Developing a Smart Village Model*
+### 4. **Generating Research Questions and Hypotheses**
+- Suggests formal research questions (RQs) aligned with academic standards (descriptive, comparative, or causal).
+- Formulates **testable hypotheses** based on theoretical or real-world prompts.
+- Example:  
+  > “Create two hypotheses for a study on remote work productivity among tech employees.”
 
-### **Step 1: Access Google Gemini**
-- Visit [Google Gemini](https://gemini.google.com) and log in with your Google account.
-- If using Gemini within Google Workspace, open Google Docs, Gmail, or other apps where Gemini is integrated.
+### 5. **Visual Mind Mapping and Concept Structuring**
+- Gemini can **generate diagrams or visual explanations** of relationships between concepts.
+- Helpful for outlining a **conceptual or theoretical framework**.
+- Example:  
+  > “Create a visual explanation for the TAM model in online banking adoption.”
 
-### **Step 2: Define the Problem or Objective**
-- Start a conversation with Gemini by providing a clear question or prompt, such as:
-  > *"How can AI and IoT be used to develop a sustainable Smart Village Model?"*
+### 6. **Methodology Suggestions**
+- Gemini suggests:
+  - Research designs (qualitative, quantitative, mixed)
+  - Sampling methods
+  - Data collection instruments
+  - Analysis techniques
+- Example:  
+  > “What research design is suitable for studying digital literacy among university students?”
 
-### **Step 3: Generate Ideas and Insights**
-- Gemini will analyze your query and provide structured ideas, which may include:
-  - **Infrastructure Development** – Use of IoT sensors for water management, smart lighting, and waste management.
-  - **Energy Optimization** – AI-powered renewable energy grid for efficient power distribution.
-  - **Agricultural Enhancement** – AI-driven precision farming techniques for optimizing crop yields.
-  - **Healthcare Access** – Telemedicine and AI-powered diagnostics for rural healthcare.
-  - **Education and Connectivity** – Smart classrooms and AI-assisted remote learning platforms.
+## ⚙️ Why Use Google Gemini in This Step?
 
-### **Step 4: Refine and Expand Ideas**
-- Ask follow-up questions to refine the ideas:
-  > *"Can you provide case studies of successful smart villages?"*  
-  > *"How can blockchain technology enhance governance in a smart village?"*
+| Step                            | Google Gemini’s Advantage                                               |
+|----------------------------------|-------------------------------------------------------------------------|
+| Idea Generation                 | Combines Google Search with LLM intelligence to provide fresh ideas     |
+| Problem and Objective Writing   | Helps formulate logical, academically sound problem statements          |
+| Hypothesis Creation             | Transforms ideas into structured and testable hypotheses                |
+| Visual Concept Building         | Supports generation of flowcharts, diagrams, or mind maps               |
+| Method Selection                | Recommends appropriate methods based on topic, sample, and scope        |
 
-- Gemini will provide real-world examples and deeper insights to help validate and enhance your project.
+## 🚀 Strengths for Researchers
 
-### **Step 5: Collaborate and Implement**
-- If working within **Google Docs**, use Gemini to structure the document:
-  - Generate a **detailed project plan**.
-  - Summarize **key points** for presentations.
-  - Draft a **proposal** for stakeholders.
+- **Multimodal Reasoning**: Works with text, images, code, and spreadsheets.
+- **Real-Time Information**: Integrated with Google Search for up-to-date data and trend awareness.
+- **Workspace Integration**: Collaborates within Docs, Slides, Gmail, and Sheets for seamless drafting.
+- **Accessibility**: Available on web, mobile, and across platforms via Google Workspace.
 
-- If using **Google Sheets**, Gemini can assist in **data analysis** for budgeting and planning.
+## 📌 Limitations to Consider
 
+- **No Direct Access to Paywalled Literature**: Doesn’t retrieve full academic papers like Scopus or SciSpace.
+- **Non-Citation Based Output**: Responses are informative but require fact-checking and source validation.
+- **Creative Variability**: May require user prompts to increase academic specificity.
 
-## 3. Learning Resources
+## ✅ Example Prompt Ideas
+
+```text
+1. "What are five possible research titles on AI use in urban transportation planning?"
+2. "Generate a research problem, objectives, and RQs for a study on student use of generative AI tools."
+3. "Create a mind map explaining the UTAUT model for technology acceptance."
+4. "Compare qualitative vs quantitative methods for studying telehealth satisfaction."
+5. "Suggest a theoretical framework for studying digital well-being among teenagers."
+```
+
+## Learning Resources
 
 To maximize your use of Google Gemini, explore the following learning resources:
 
@@ -79,13 +106,11 @@ To maximize your use of Google Gemini, explore the following learning resources:
 - **[Google Research on Gemini AI](https://ai.googleblog.com/)**  
   Insights into Gemini’s development and AI advancements.
 
-
-## 4. Additional Resources
+## Additional Resources
 
 - **Google Workspace AI Tools** – Learn how Gemini integrates with Google Docs, Gmail, and Sheets. [Explore here](https://workspace.google.com/).
 - **Google AI Ethics & Responsible AI** – Understanding how Google ensures fairness and safety in AI models. [More info](https://cloud.google.com/responsible-ai).
 
-By leveraging **Google Gemini**, individuals, businesses, and educators can enhance their creativity, optimize workflows, and drive innovation in areas such as **smart villages, business strategy, education, and sustainability**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
