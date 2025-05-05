@@ -18,10 +18,10 @@ You need to download the document before performing data analysis using ChatGPT.
 
 ## 2. Upload the File
 
-1. Please upload the file named `population_malaysia.csv` into the ChatGPT input box and enter the prompt: **"Describe this dataset"** (refer to the figure below).
+1. Please upload the file named `population_malaysia.csv` into the ChatGPT input box and enter the prompt: **"huraikan berkaitan data ini"** (refer to the figure below).
 
 <p align="center">
-<img src="population.png"  height="150" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/chatgpt1.png"  height="150" />
 </p>
 
 2. Sample Output:
