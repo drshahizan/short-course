@@ -45,14 +45,24 @@ An optimized interface for academic writing. It assists in summarizing articles,
 
 ## Others
 
-| No. | 🛠 **Tool Name**                                  | 📖 **Function**                                                                                                             |
+| No. |Tool Name                                  | Function |
 | --: | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-|  1. | [**Notion AI**](https://www.notion.so/product/ai) | Assists in drafting, rewriting, and organizing research notes or full sections with clear academic structure.               |
-|  2. | [**SciSpace**](https://typeset.io/scispace/)      | AI-powered platform for reading, understanding, and summarizing scientific papers, plus citation tracing.                   |
-|  3. | [**Scite.ai**](https://scite.ai/)                 | Suggests evidence-based citations and shows how cited papers support, contradict, or mention your claim.                    |
-|  4. | [**Elicit**](https://elicit.org/)                 | AI research assistant that helps you find papers, extract findings, and assist with literature synthesis.                   |
-|  5. | [**Grammarly**](https://www.grammarly.com/go)   | Offers advanced writing suggestions for tone, structure, and clarity with academic-appropriate feedback.                    |
-|  6. | [**Claude AI**](https://claude.ai/)               | Long-context AI model useful for in-depth review of full drafts, generating feedback, and improving logical cohesion.       |
+|  1. | [Notion AI](https://www.notion.so/product/ai) | Assists in drafting, rewriting, and organizing research notes or full sections with clear academic structure.               |
+|  2. | [SciSpace](https://typeset.io/scispace/)      | AI-powered platform for reading, understanding, and summarizing scientific papers, plus citation tracing.                   |
+|  3. | [Scite.ai](https://scite.ai/)                 | Suggests evidence-based citations and shows how cited papers support, contradict, or mention your claim.                    |
+|  4. | [Elicit](https://elicit.org/)                 | AI research assistant that helps you find papers, extract findings, and assist with literature synthesis.                   |
+|  5. | [Grammarly](https://www.grammarly.com/go)   | Offers advanced writing suggestions for tone, structure, and clarity with academic-appropriate feedback.                    |
+|  6. | [Claude AI](https://claude.ai/)               | Long-context AI model useful for in-depth review of full drafts, generating feedback, and improving logical cohesion.       |
+
+✅ **AI-Powered Tools for Journal Selection & Manuscript Preparation:**  
+
+| No. | 🛠 **Tool Name** | 📖 **Function** | 
+| ---: | ---------------- | ------------------ | 
+| 1 | [Elsevier Journal Finder](https://journalfinder.elsevier.com/) | AI-powered **journal recommendation tool**. | 
+| 2 | [Springer Journal Suggester](https://journalsuggester.springer.com/) | AI-driven **journal matching tool**. | 
+| 3 | [Wiley Journal Finder](https://journalfinder.wiley.com/) | Suggests **appropriate journals** for submission. | 
+| 4 | [Paperpal](https://www.paperpal.com/) | AI-powered **manuscript refinement and formatting assistant**. | 
+
 
 
 ### 🙌🏻 Connect with Me
