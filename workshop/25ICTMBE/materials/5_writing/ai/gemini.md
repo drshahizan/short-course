@@ -7,7 +7,7 @@
 
 # [Gemini: Deep Research Mode](https://chatgpt.com/gpts)
 
- <img src="https://gpt.kiwi/wp-content/uploads/2014/09/Scholar-GPT.png" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://i.ytimg.com/vi/hYY0YDn2Go8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhttd6Nf6Lz_LBXpGiMCgZyvTFVw" alt="Dr Shahizan AI tools"  height="400">
 
 
 
