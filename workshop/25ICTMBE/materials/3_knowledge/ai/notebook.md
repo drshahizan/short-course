@@ -5,144 +5,71 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Markmap](https://markmap.js.org/repl)
+# [NotebookLM](https://notebooklm.google.com)
 
  <img src="https://storage.googleapis.com/jotterpad-assets/plugins/markmap/plugins-markmap1.png" alt="Dr Shahizan AI tools"  height="400">
 
+**NotebookLM** (formerly known as Project Tailwind) is Google’s AI-powered research notebook designed to help users synthesize and organize information from multiple sources. It allows researchers, students, and writers to upload documents, take notes, and ask questions—turning passive reading into active learning. As a tool focused on **knowledge organization**, it plays a vital role in structuring ideas and creating conceptual clarity during the research process.
 
-## 1. Introduction
-Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. Here's how you can use Markmap:
+## 🧩 Role of NotebookLM in Knowledge Organization & Mind Mapping
 
-## 2. Prompt to create a mind map
-Please type this prompt in tools like ChatGPT.
+### 1. **Document-Centered Knowledge Workspace**
+- Users can upload multiple PDFs, Google Docs, copied text, or links.
+- NotebookLM creates a **context-aware knowledge base**, enabling users to query content within their own curated library.
+- Ideal for organizing **project-specific literature, theories, and case studies**.
 
-  ```
-a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
-Start with the primary concept that embodies the primary theme found in the data. Create primary branches based on
-the identified categories or important subjects. Create thorough sub-branches that focus on certain data points,
-patterns, or insights for every major branch. Make sure the linkages and hierarchies within the data are adequately
-visualised in the mind map.
-  ```
+### 2. **Contextual Q&A and Concept Extraction**
+- Enables users to ask complex questions like:
+  > “What are the main arguments in the second chapter of this thesis?”
+- Automatically generates **summaries, definitions, and timelines** across uploaded content.
+- Helps in **breaking down dense academic texts into digestible chunks**.
 
-### Example: Smart Village Model
+### 3. **Idea Clustering and Concept Structuring**
+- By asking thematic or comparative questions, users can extract and **group ideas by topic, theme, or framework**.
+- Example:  
+  > “List the differences between constructivism and behaviorism across these three sources.”
 
+### 4. **Linking Sources to Notes**
+- NotebookLM allows users to **generate notes linked to specific documents and quotes**.
+- These notes can be organized chronologically, thematically, or conceptually—mimicking mind mapping behavior within a research environment.
+
+### 5. **Outline and Mind Map Drafting Support**
+- Though not a visual mind mapping tool per se, users can prompt NotebookLM to:
+  - Draft hierarchical outlines
+  - Identify **relationships between ideas**
+  - Suggest visual structure for slide decks or reports
+
+## ⚙️ Why Use NotebookLM for Knowledge Mapping?
+
+| Task                           | How NotebookLM Supports It                                            |
+|--------------------------------|------------------------------------------------------------------------|
+| Source Consolidation           | Organizes multiple sources into a searchable, unified workspace       |
+| Thematic Synthesis             | Extracts and links ideas by concept, argument, or author               |
+| Mind Map Drafting              | Provides outlines and logical structure to represent knowledge graph  |
+| Note-Taking & Cross-Referencing| Enables embedded notes with citations and highlights from sources     |
+| Continuous Inquiry             | Lets you refine understanding through contextual Q&A on your own texts|
+
+## 🚀 Strengths for Researchers
+
+- **Private & Personalized**: Works only with content you upload, ensuring relevance and contextual accuracy.
+- **Intelligent Recall**: Remembers what’s been read and discussed, supporting deeper, iterative learning.
+- **Integrated with Google Workspace**: Easily pulls from Google Docs, enabling seamless workflow.
+
+## 📌 Limitations to Consider
+
+- **Not a Visual Tool**: Does not natively create mind maps or diagrams (use third-party apps like Markmap or Miro for that).
+- **Limited Dataset Scope**: Only analyzes documents you provide—no web search or academic database integration.
+- **Beta Features**: As of now, still improving in terms of memory, formatting, and source diversity.
+
+## ✅ Example Prompt Ideas
+
+```text
+1. "Compare the methodology sections in these three uploaded papers."
+2. "What are the recurring themes across my interview transcripts?"
+3. "Create an outline for a literature review based on these notes."
+4. "Summarize each article in 3 bullet points for quick reference."
+5. "List all mentions of 'digital transformation' in these sources and group them by context."
 ```
-# Smart Village Model
-
-## 1. Infrastructure & Connectivity
-   - **Digital Infrastructure**
-     - Broadband access
-     - IoT-enabled devices
-     - Cloud computing integration
-   - **Smart Transportation**
-     - Electric vehicle (EV) charging stations
-     - AI-powered traffic management
-     - Public transport tracking systems
-   - **Renewable Energy**
-     - Solar and wind energy
-     - Smart grids
-     - Energy storage solutions
-
-## 2. Smart Governance & Policy
-   - **E-Governance**
-     - Digital service portals
-     - AI-driven policy decision-making
-   - **Community Engagement**
-     - Open data initiatives
-     - Citizen feedback mechanisms
-   - **Regulatory Framework**
-     - Data privacy laws
-     - ICT infrastructure policies
-
-## 3. Sustainable Agriculture
-   - **Precision Farming**
-     - IoT-enabled soil monitoring
-     - AI-driven crop management
-   - **Smart Irrigation Systems**
-     - Automated water distribution
-     - Weather prediction models
-   - **Supply Chain Optimization**
-     - Blockchain-based tracking
-     - AI-driven market analysis
-
-## 4. Smart Healthcare
-   - **Telemedicine Services**
-     - Remote diagnosis & AI consultation
-     - Wearable health monitoring
-   - **Smart Hospitals**
-     - IoT-enabled patient tracking
-     - AI-powered diagnostics
-   - **Community Health Programs**
-     - AI-driven disease prediction
-     - Mobile health applications
-
-## 5. Education & Digital Literacy
-   - **Smart Schools**
-     - Online learning platforms
-     - AI-powered tutoring
-   - **Skill Development**
-     - Digital literacy programs
-     - AI-driven career guidance
-   - **Access to Information**
-     - Community WiFi hubs
-     - Digital libraries
-
-## 6. Economic Development & Entrepreneurship
-   - **E-Commerce & Digital Marketplaces**
-     - AI-based business insights
-     - Blockchain for secure transactions
-   - **Startups & Innovation Hubs**
-     - AI incubators
-     - Funding & venture capital opportunities
-   - **Financial Inclusion**
-     - Mobile banking & microfinance
-     - AI-powered credit scoring
-
-## 7. Environmental Sustainability
-   - **Smart Waste Management**
-     - AI-driven waste sorting
-     - IoT-enabled collection systems
-   - **Water Resource Management**
-     - AI-based flood prediction
-     - Smart water conservation
-   - **Air Quality Monitoring**
-     - AI-powered pollution detection
-     - Renewable energy incentives
-
-## 8. Security & Privacy
-   - **Cybersecurity Measures**
-     - AI-driven threat detection
-     - Blockchain for data security
-   - **Smart Surveillance**
-     - Facial recognition-based security
-     - IoT-enabled crime prevention
-   - **Privacy Protection**
-     - GDPR-compliant data policies
-     - AI-driven anonymization tools
-
-
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated. 
-```
-
-## 3. [MarkMap](https://markmap.js.org/repl)
-Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
-
-**Example**: Smart Village Model
-
-<p align="center">
-<img src="markmap.png" height="700" />
-</p>
-
-## 4. Interact with Your Mind Map
-You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
-
-Remember, Markmap supports various markdown features such as:
-- **Styling**: Apply bold, italic, strikethrough, and highlights to text.
-- **Code Blocks**: Include code snippets or formulas.
-- **Images and Links**: Embed images and create hyperlinks.
-
-For a detailed guide and advanced features, you can refer to the [Markmap documentation](https://mindmapexpert.com/review/how-to-create-a-mind-map-using-markmap-js/) or visit the [Markmap GitHub repository](https://github.com/dundalek/markmap). Enjoy creating and navigating your mind maps
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
