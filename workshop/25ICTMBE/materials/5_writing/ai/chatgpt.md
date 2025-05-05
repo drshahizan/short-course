@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [ChatGPT: ScholarGPT Mode](https://notebooklm.google.com)
+# [ChatGPT: ScholarGPT Mode](https://chatgpt.com/gpts)
 
- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*2nQthiYsykwEmSo5DiGRyg.png" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://gpt.kiwi/wp-content/uploads/2014/09/Scholar-GPT.png" alt="Dr Shahizan AI tools"  height="400">
 
 **ChatGPT (ScholarGPT mode)** is a specialized configuration of OpenAI’s ChatGPT tailored for academic writing, research support, and scholarly communication. It is designed to help students, researchers, and faculty members write, review, and refine academic content with clarity and rigor. It supports both surface-level productivity (writing assistance) and deep analytical tasks (research reasoning, synthesis, and refinement).
 
