@@ -20,6 +20,8 @@ An advanced LLM (large language model) optimized for reasoning and academic expl
 
 * **🔍 [Kimi](kimi.md) - (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
 
+* 🔍 [Grok](grok.md)
+* 
 * **🖼️ Napkin AI**
 Transforms short text or raw thoughts into visual concept diagrams. Researchers can input a few sentences about their study or hypothesis, and Napkin will produce a structured sketch or diagram, aiding in research design planning, flowcharts, or logic modeling.
 
