@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
-# 🤖 Grok: Elon Musk’s AI Chatbot by xAI
+# [Grok](https://grok.com/): Elon Musk’s AI Chatbot by xAI
  
  <img src="https://opencv.org/wp-content/uploads/2025/02/1920x1080-1.jpg" alt="Dr Shahizan AI tools"  height="400">
 
