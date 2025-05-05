@@ -7,6 +7,8 @@
 
 # 🔍 [Scopus AI](https://www-scopus-com.ezproxy.utm.my/pages/home#scopus-ai): Enhancing Research with Generative AI
 
+ <img src="https://i0.wp.com/mainlib.upd.edu.ph/wp-content/uploads/scopus-ai.png" alt="Dr Shahizan AI tools"  height="400">
+
 **Scopus AI** is a generative AI-powered research assistant developed by **Elsevier**, integrated within the **Scopus platform**. It is designed to support researchers with intuitive, efficient exploration of peer-reviewed scientific literature using advanced natural language processing and Retrieval-Augmented Generation (RAG) technology.
 
 ## 💡 Role of Scopus AI in Research Design & Idea Generation
