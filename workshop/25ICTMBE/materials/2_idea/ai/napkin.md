@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Brainstorming and Idea Generation: Napkin.ai 💡🧠
+# Napkin.ai
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://media.licdn.com/dms/image/v2/D5612AQFBvTor41J2lA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723640194766?e=2147483647&v=beta&t=_izYle446qcCazpub-2ZhK_6_jWdztZq9F12G51hK2c" alt="Dr Shahizan AI tools"  height="400">
