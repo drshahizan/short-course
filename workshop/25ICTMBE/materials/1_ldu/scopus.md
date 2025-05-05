@@ -9,62 +9,75 @@
 
 **Scopus AI** is a generative AI-powered research assistant developed by **Elsevier**, integrated within the **Scopus platform**. It is designed to support researchers with intuitive, efficient exploration of peer-reviewed scientific literature using advanced natural language processing and Retrieval-Augmented Generation (RAG) technology.
 
-## 🌟 Key Features of Scopus AI
+## 💡 Role of Scopus AI in Research Design & Idea Generation
 
-### 1. Natural Language Queries
-- Allows researchers to search using **conversational language**, avoiding the need for Boolean logic.
-- Understands complex queries and reformulates them internally for optimal results.
+### 1. **Natural Language Topic Exploration**
+- Unlike traditional keyword searches, Scopus AI allows you to ask questions in plain language.
+- It returns **Topic Summaries** and **Expanded Summaries** that synthesize findings from peer-reviewed articles.
+- Example:  
+  > “What are the current challenges in adopting AI for university teaching?”
 
-### 2. Summarization with RAG Fusion Technology
-- Uses Elsevier’s **patent-pending Retrieval-Augmented Generation (RAG) Fusion**.
-- Provides:
-  - **Topic Summaries**: Short, coherent explanations of a topic.
-  - **Expanded Summaries**: More detailed overviews.
-  - All summaries include **citations** and **confidence indicators**.
+### 2. **Identifying Research Gaps and Trends**
+- Scopus AI analyzes existing publications and highlights:
+  - Underexplored areas
+  - Emerging themes
+  - Overlapping or outdated studies
+- This helps identify **where your research can contribute meaningfully**.
 
-### 3. Copilot Search Tool
-- Enhances **search transparency and control**.
-- Handles complex questions, refines ambiguous input, and **auto-corrects** errors.
-- Uses a **hybrid search approach** (keyword + vector search).
+### 3. **Framework & Model Discovery**
+- Search queries like "What frameworks are used to study digital transformation in higher education?" return a list of models, including references and confidence scores.
+- These references assist in building your **conceptual framework or theoretical base**.
 
-### 4. Concept Maps
-- Automatically generates **visual mind maps** showing how key ideas relate to each other.
-- Helps in identifying research gaps and new connections.
+### 4. **Generating Research Questions and Hypotheses**
+- Based on retrieved summaries and key papers, Scopus AI can help:
+  - Draft potential research questions
+  - Identify independent/dependent variables
+  - Propose hypothesis directions
+- Example:  
+  > “Suggest three possible research questions for a study on blockchain in agriculture.”
 
-### 5. Foundational Documents
-- Highlights **seminal research articles** foundational to a field.
-- Aids in building a **solid theoretical framework** for new research.
+### 5. **Designing a Suitable Research Methodology**
+- Scopus AI identifies common methods used in specific research domains:
+  - Quantitative vs qualitative
+  - Survey vs experimental designs
+  - Data collection tools
+- You can explore methodological trends over time and across disciplines.
 
-### 6. Emerging Themes
-- Categorizes research topics into:
-  - **Established**
-  - **Emerging**
-  - **Novel**
-- Provides summaries, citations, and even potential **research hypotheses**.
+## ⚙️ Why Use Scopus AI in This Step?
 
-### 7. Topic Experts
-- Identifies **leading authors and experts** in any given area.
-- Supports collaboration and expert consultation efforts.
+| Step                             | Benefits of Using Scopus AI                                          |
+|----------------------------------|----------------------------------------------------------------------|
+| Topic Exploration                | Finds and summarizes emerging research themes                        |
+| Literature Gap Identification    | Highlights areas with little or outdated coverage                    |
+| Theoretical Support              | Recommends models and frameworks based on literature                 |
+| Research Questions Drafting      | Helps transform ideas into structured, testable questions            |
+| Methodological Planning          | Identifies commonly used research methods in a given field           |
 
-## ✅ Why Use AI in This Step?
 
-| Step | Why AI? |
-|------|---------|
-| Literature Search | Automates the discovery of key, relevant sources. Saves time and reduces cognitive overload. |
-| Summarization | Helps digest large volumes of text and extract main points. |
-| Concept Mapping | Visualizes abstract relationships between ideas. Aids in hypothesis development. |
-| Theme Detection | Reveals future research directions and niche areas using predictive insights. |
-| Expert Identification | Speeds up networking and collaboration processes by spotlighting the right scholars. |
+## 🚀 Strengths for Researchers
 
-## 🔐 Responsible AI Principles by Elsevier
+- **Credible Sources Only**: All results are drawn from Scopus’s indexed, peer-reviewed literature.
+- **Cited Summaries**: Topic and expanded summaries include references and confidence indicators.
+- **Interactive Concept Maps**: Visually explore how ideas and subfields are connected.
+- **Expert Discovery**: Identifies key researchers working on similar themes.
 
-Scopus AI is built around **5 Responsible AI Principles**:
 
-1. **Transparency** – Explains how results are generated and includes citations.
-2. **Privacy** – Complies with GDPR and Elsevier's Privacy Policy.
-3. **Security** – Secure handling of user queries and personal data.
-4. **Bias Mitigation** – Prompt engineering to reduce hallucinations and bias.
-5. **Content Governance** – Uses only **curated, peer-reviewed** Scopus content.
+## 📌 Limitations to Consider
+
+- **Subscription-Based**: Full access to Scopus AI requires an institutional subscription.
+- **Citation Generation Only Within Scopus**: No automatic APA/MLA export outside the platform.
+- **Limited Creative Input**: Unlike open LLMs, Scopus AI is academically conservative and fact-bound.
+
+
+## ✅ Example Prompt Ideas
+
+```text
+1. "What are the main research gaps in AI governance in the public sector?"
+2. "What theoretical models are used to study faculty readiness for digital tools?"
+3. "Suggest research questions based on the current literature on smart cities."
+4. "What methods are commonly used in research on personalized learning systems?"
+5. "Summarize recent findings on cybersecurity challenges in higher education."
+```
 
 ## 🧭 Access & Availability
 
