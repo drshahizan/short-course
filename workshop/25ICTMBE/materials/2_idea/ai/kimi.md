@@ -7,6 +7,9 @@
 
 # 🤖 [Kimi.ai](https://kimi.ai/): Advanced AI Assistant by Moonshot AI
 
+
+ <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gSDvfip1uZTsxKokxBOoGw.png" alt="Dr Shahizan AI tools"  height="400">
+
 **Kimi.ai** is a cutting-edge AI assistant developed by [Moonshot AI](https://www.moonshot.cn/), a Beijing-based artificial intelligence company founded in March 2023. Designed to enhance productivity and creativity, Kimi.ai excels in processing extensive context, multimodal reasoning, and real-time web interaction.
 
 ## 🧠 Key Features
