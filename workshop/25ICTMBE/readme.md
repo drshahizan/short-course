@@ -23,6 +23,7 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 ### 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**
 * **Qwen** – Advanced Chinese-English model for logic-based academic thought
 * **Kimi** – AI assistant for digesting and explaining scientific papers
+* **Grok** - is a conversational AI designed to simulate creative reasoning and exploratory thought processes.
 * **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
 * **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
 
@@ -31,12 +32,14 @@ Participants will explore **AI-driven literature review tools**, data analysis t
 * **NotebookLM** – Google’s research notebook with contextual document analysis
 
 ### 📊 **[4. Data & Result Visualization](./materials/4_data)**
+* **ChatGPT** – ChatGPT can assist in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting appropriate visual formats. 
 * **Napkin AI** – Also helpful for translating concepts into diagrams or flows
 * **Infogram.com** – Create engaging infographics, charts, and data dashboards
 
 ### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
 * **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
 * **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
+* **Qwen (Thinking mode)** - Developed by Alibaba, Qwen’s Thinking Mode is designed for structured academic reasoning. It excels at building logical arguments, decomposing complex research problems, and framing thesis-worthy questions. 
 
 ## 👩‍💻 Who Should Attend
 Postgraduate students, early-career researchers, and academic professionals seeking to enhance their research efficiency using AI-driven tools.
