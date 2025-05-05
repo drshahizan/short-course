@@ -7,9 +7,7 @@
 
 # Napkin.ai
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://media.licdn.com/dms/image/v2/D5612AQFBvTor41J2lA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723640194766?e=2147483647&v=beta&t=_izYle446qcCazpub-2ZhK_6_jWdztZq9F12G51hK2c" alt="Dr Shahizan AI tools"  height="400">
-</a>
 
 ## 1. Introduction
 
