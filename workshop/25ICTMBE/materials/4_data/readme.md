@@ -10,8 +10,29 @@
 ## 🔸 Purpose
 To communicate findings clearly through visuals—essential for publications, reports, or presentations.
 
-## 💡 Why Use AI in This Step?
-AI simplifies the creation of visual content by transforming text or data into professional charts, infographics, or diagrams—without needing design expertise.
+## 📊 Why Use AI in This Step?
+Using AI for **Data & Result Visualization** empowers researchers and students to convert raw, complex data into **clear, insightful visuals**—with greater speed, accuracy, and accessibility. Here's why this step benefits from AI integration:
+
+#### 🔍 1. **Simplifies Complex Analysis**
+AI can automatically analyze large or unstructured datasets and identify trends, outliers, and patterns that might be missed by manual methods.
+> 💡 *Example:* Tools like **MonkeyLearn** or **Power BI Copilot** can generate sentiment graphs or trend summaries from textual or numerical data without coding.
+
+#### 🧠 2. **Enhances Insight Discovery**
+AI doesn’t just draw charts—it can recommend **which visualizations best suit the data** and even provide plain-language explanations of the insights.
+> 💡 *Example:* **Tableau GPT** allows users to ask “What factors most affect student dropout?” and receive an interactive chart with interpretation.
+
+#### ⚙️ 3. **Accelerates Workflow**
+Instead of spending hours configuring charts or dashboards, AI can generate polished, shareable visuals with just a prompt or dataset.
+> 💡 *Example:* In **ChartGPT** or **Flourish**, you can input data and get professional visuals ready for publications or presentations.
+
+#### 🧑‍💻 4. **Reduces Technical Barriers**
+Even without data science or coding expertise, users can create advanced visualizations using natural language commands or drag-and-drop interfaces.
+> 💡 *Example:* A PhD student with limited programming skills can still create interactive charts by typing "Show the distribution of responses by age group."
+
+#### 🎯 5. **Improves Research Communication**
+Well-structured visuals help convey findings clearly to academic supervisors, examiners, and non-technical stakeholders.
+> 💡 *Example:* Interactive dashboards created with **Google Sheets AI** or **Waldo** can be embedded into reports, enhancing understanding and engagement.
+
 
 ## AI Tools
 
@@ -23,7 +44,7 @@ An intuitive online tool for creating professional-quality infographics, charts,
 
 | No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
 | --: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-|   1 | [**ChartGPT**](https://www.chartgpt.dev/)                                                        | Converts natural language prompts into charts (bar, line, pie, etc.) using GPT-powered chart generation. |
+|   1 | [**ChatGPT**](https://chatgpt.com/)                                                        | Converts natural language prompts into charts (bar, line, pie, etc.) using GPT-powered chart generation. |
 |   2 | [**VizGPT**](https://app.vizgpt.com/)                                                            | Generates interactive data visualizations from datasets or queries with AI assistance.                   |
 |   3 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
 |   4 | [**Tableau with Einstein AI**](https://www.salesforce.com/products/einstein-analytics/overview/) | Salesforce’s AI-augmented analytics platform to build insightful dashboards and predictive charts.       |
