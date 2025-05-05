@@ -44,7 +44,6 @@ Example data:
 This dataset can be used to analyze population trends by year, gender, age group, and ethnicity.
 ```
 
----
 
 ## 📈 Generate Relevant Statistics
 
