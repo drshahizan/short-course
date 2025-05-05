@@ -33,7 +33,7 @@ By asking follow-up questions, suggesting counterarguments, or pointing out logi
 AI can translate, paraphrase, or simplify complex terms, making it easier for non-native English speakers or interdisciplinary researchers to communicate effectively.
 
 ## AI Tools
-* **🔬 [Gemini (Deep Research mode)(./ai/gemini.md)**:
+* **🔬 [Gemini (Deep Research mode)](./ai/gemini.md)**:
 Google’s AI assistant that can perform deep synthesis of complex research topics. It understands uploaded documents, supports multi-source analysis, and can generate drafts or critiques. Particularly effective for comparative studies or writing literature syntheses with source awareness.
 
 * **🧑‍🎓 [ChatGPT (ScholarGPT mode)](./ai/chatgpt.md)**:
