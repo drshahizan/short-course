@@ -48,7 +48,7 @@ An optimized interface for academic writing. It assists in summarizing articles,
 |   3 | [**SciSpace**](https://typeset.io/scispace/)      | AI-powered platform for reading, understanding, and summarizing scientific papers, plus citation tracing.                   |
 |   4 | [**Scite.ai**](https://scite.ai/)                 | Suggests evidence-based citations and shows how cited papers support, contradict, or mention your claim.                    |
 |   5 | [**Elicit**](https://elicit.org/)                 | AI research assistant that helps you find papers, extract findings, and assist with literature synthesis.                   |
-|   6 | [**GrammarlyGO**](https://www.grammarly.com/go)   | Offers advanced writing suggestions for tone, structure, and clarity with academic-appropriate feedback.                    |
+|   6 | [**Grammarly**](https://www.grammarly.com/go)   | Offers advanced writing suggestions for tone, structure, and clarity with academic-appropriate feedback.                    |
 |   7 | [**Writefull**](https://writefull.com/)           | Tailored for academic writing, it checks grammar, suggests phrasing, and even revises based on discipline-specific corpora. |
 |   8 | [**Claude AI**](https://claude.ai/)               | Long-context AI model useful for in-depth review of full drafts, generating feedback, and improving logical cohesion.       |
 |   9 | [**DeepL Write**](https://www.deepl.com/write)    | Paraphrasing and translation tool optimized for formal and academic tone. Great for multilingual researchers.               |
