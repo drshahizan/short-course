@@ -6,6 +6,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
 # 🤖 Grok: Elon Musk’s AI Chatbot by xAI
+ 
+ <img src="https://opencv.org/wp-content/uploads/2025/02/1920x1080-1.jpg" alt="Dr Shahizan AI tools"  height="400">
 
 **Grok** is an AI-powered chatbot developed by xAI, a company founded by Elon Musk in 2023. Unlike conventional chatbots, Grok is designed to provide informative, humorous, and at times edgy or provocative responses. It integrates real-time information from the X platform (formerly Twitter) and is positioned as a truth-seeking AI assistant with advanced reasoning and creative capabilities.
 
