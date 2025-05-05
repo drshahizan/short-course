@@ -53,10 +53,9 @@ An intuitive online tool for creating professional-quality infographics, charts,
 | 3 | [LitMaps](https://www.litmaps.com/) | Generates **citation maps** to track academic research progress. | 
 | 4 | [Connected Papers](https://www.connectedpapers.com/) | Free tool for **exploring relationships between research papers**. | 
 | 5 | [VOSviewer](https://www.vosviewer.com/) | Constructs and visualizes **bibliometric networks** (co-authorship, citations, etc.). | 
-|   6 | [**Plotly AI Assistant**](https://plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
-|   7 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
-|   8 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
-
+| 6 | [Plotly AI Assistant](https://plotly.com/) | Helps users create Python-based interactive plots and dashboards using natural language. |
+| 7 | [Visily AI](https://www.visily.ai/) | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes. |
+| 8 | [Flourish](https://flourish.studio/) | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup. |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
