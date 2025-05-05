@@ -7,7 +7,7 @@
 
 #  [SciSpace:](https://scispace.com/) The AI for Academic Research
 
- <img src="https://scispace.com/resources/content/images/2023/06/Attention--1-.jpg" alt="Dr Shahizan AI tools"  height="400">
+ <img src="https://library.smu.edu.sg/sites/library.smu.edu.sg/files/topics-insights/Aug-2023/scispace1.png" alt="Dr Shahizan AI tools"  height="400">
 
 **SciSpace** is a powerful AI-powered research platform tailored to support students, academics, and professionals in exploring, understanding, and organizing scientific knowledge. With tools like "Chat with PDF," AI summaries, Deep Review, and writing support, SciSpace simplifies the initial stages of academic research—making it especially valuable during the **Idea Generation** and **Research Design** phases.
 
