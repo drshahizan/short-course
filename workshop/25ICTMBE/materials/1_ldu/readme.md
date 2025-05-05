@@ -26,13 +26,12 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
 | ---: | ---------------- | ------------------ | 
-| 1 | [Google Gemini](./ai/gemini.md) | AI-driven **idea expansion and research assistance**. | 
-| 2 | [ChatGPT](./ai/chatgpt.md) | Generates **creative research ideas and structured outlines**. | 
-| 3 | [Claude AI](https://claude.ai/) | AI-driven **long-form content generation and ideation**. | 
-| 4 | [NotebookLM](https://notebooklm.google.com/) | AI-powered **research document summarization and idea generation**. | 
-| 5 | [Microsoft Copilot](./ai/copilot.md) | AI-powered **research structuring and brainstorming tool**. | 
-| 6 | [HyperWrite](./ai/hyperwrite.md) | AI-powered **creative problem-solving assistant**. | 
-
+| 1 | [Google Gemini](./ai/gemini.md) | Uses natural language and real-time Google Search to help summarize, explore, and clarify academic content, making it easier to understand complex topics from varied sources. | 
+| 2 | [ChatGPT](./ai/chatgpt.md) | Acts as a conversational assistant that helps summarize articles, explain technical terms, and compare findings across multiple sources using context-aware dialogue. | 
+| 3 | [Claude AI](https://claude.ai/) | Processes long documents with high contextual coherence, enabling researchers to query, summarize, and interpret extensive academic papers or reports. | 
+| 4 | [NotebookLM](https://notebooklm.google.com/) | Google’s AI-powered research notebook that ingests your documents and allows contextual Q&A, helping researchers extract insights and trace ideas directly from their sources. |  
+| 5 | [Microsoft Copilot](./ai/copilot.md) | Integrated into Microsoft 365, it assists in reading and summarizing literature within Word, Excel, and PowerPoint—ideal for preparing reviews and synthesizing research findings. | 
+| 6 | [HyperWrite](./ai/hyperwrite.md) | Helps users rephrase, simplify, or summarize dense literature, making it accessible and readable while offering quick insights and writing suggestions. | 
 
 
 
