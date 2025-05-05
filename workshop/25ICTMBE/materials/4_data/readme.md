@@ -46,7 +46,6 @@ An intuitive online tool for creating professional-quality infographics, charts,
 | --: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 |   1 | [**ChatGPT**](https://chatgpt.com/)                                                        | Converts natural language prompts into charts (bar, line, pie, etc.) using GPT-powered chart generation. |
 |   3 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
-|   4 | [**Tableau with Einstein AI**](https://www.salesforce.com/products/einstein-analytics/overview/) | Salesforce’s AI-augmented analytics platform to build insightful dashboards and predictive charts.       |
 |   5 | [**Power BI + Copilot**](https://powerbi.microsoft.com/en-us/copilot/)                           | Microsoft’s business intelligence tool with Copilot for generating reports and visuals from queries.     |
 |   6 | [**Plotly AI Assistant**](https://chat.plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
 |   7 | [**Visily**](https://www.visily.ai/)                                                             | AI UI design tool that can turn sketches or text prompts into visual app mockups and charts.             |
