@@ -7,8 +7,6 @@
 
 # [Qwen: Thinking Mode](https://chat.qwen.ai/)
 
- <img src="https://i.ytimg.com/vi/hYY0YDn2Go8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhttd6Nf6Lz_LBXpGiMCgZyvTFVw" alt="Dr Shahizan AI tools"  height="400">
-
 **Qwen (Thinking Mode)** is the research-optimized variant of Alibaba Cloud’s large language model. Engineered for logical reasoning, multilingual fluency, and long-context comprehension, Qwen is an excellent AI assistant for scholars and researchers seeking to draft, analyze, and refine academic content across complex domains.
 
 ## 🎓 Role of Qwen in Writing & Deep Research Assistance
