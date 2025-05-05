@@ -31,6 +31,13 @@ An intuitive online tool for creating professional-quality infographics, charts,
 |   6 | [**Plotly AI Assistant**](https://chat.plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
 |   7 | [**Visily**](https://www.visily.ai/)                                                             | AI UI design tool that can turn sketches or text prompts into visual app mockups and charts.             |
 |   8 | [**FlowGPT Charts**](https://flowgpt.com/)                                                       | Offers prompt-based generation of visual content, including diagrams and analytical charts.              |
+|   9 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
+|   10 | [**Tableau GPT (Ask Data)**](https://www.tableau.com/products/new/tableau-gpt)   | Tableau’s AI lets you describe your analysis needs in plain language and generates smart dashboards or visuals.     |
+|   11 | [**MonkeyLearn**](https://monkeylearn.com/)                                      | AI-powered text analysis with instant visualizations like word clouds, keyword frequency, and sentiment breakdowns. |
+|   12 | [**Waldo**](https://www.waldo.io/)                                               | AI visualization assistant that builds charts from spreadsheets or queries—no code required.                        |
+|   13 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
