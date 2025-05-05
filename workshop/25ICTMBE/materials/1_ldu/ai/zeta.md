@@ -5,7 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🧠 Zeta Alpha 
+# Zeta Alpha 
+
+ <img src="https://static.wixstatic.com/media/111555_975f42b13cac49669fe9b0299fa92c03~mv2.gif" alt="Dr Shahizan AI tools"  height="400">
 
 **Zeta Alpha** is a neural discovery and research intelligence platform powered by AI. It helps researchers, analysts, and innovation teams explore complex domains, uncover research gaps, and accelerate the process of turning ideas into structured research designs. With powerful neural search, Retrieval-Augmented Generation (RAG), and intelligent research agents, Zeta Alpha transforms how research is done in both academia and enterprise.
 
