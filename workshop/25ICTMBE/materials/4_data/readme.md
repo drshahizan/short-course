@@ -18,7 +18,7 @@ AI simplifies the creation of visual content by transforming text or data into p
 **🎨 Napkin AI**
 Beyond ideation, Napkin AI also helps visualize the structure of research models or findings. It supports text-to-diagram capabilities, making it useful for illustrating frameworks, workflows, or comparisons in results sections.
 
-**📈 Infogram.com**
+**📈 [Infogram.com](.ai/infogram.md)**
 An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
 
 ### 🙌🏻 Connect with Me
