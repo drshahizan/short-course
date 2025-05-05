@@ -31,14 +31,15 @@ Well-structured visuals help convey findings clearly to academic supervisors, ex
 
 ## AI Tools
 
-ChatGPT
-**🎨 Napkin AI**
-Beyond ideation, Napkin AI also helps visualize the structure of research models or findings. It supports text-to-diagram capabilities, making it useful for illustrating frameworks, workflows, or comparisons in results sections.
+🧠 [**ChatGPT**](./ai/chatgpt.md)
+ChatGPT can assist in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting appropriate visual formats. While not a visualization tool itself, it enhances clarity and storytelling around data, making it a valuable companion in the visualization process.
 
-**📈 [Infogram.com](./ai/infogram.md)**
-An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
+**📊 [Infogram.com](./ai/infogram.md)**
+Infogram is a powerful platform for creating professional infographics, interactive charts, and data dashboards. With templates designed for both academic and business contexts, it's perfect for presenting survey results, statistical trends, or conceptual models in a compelling visual format.
 
-[**ChatGPT**](./ai/chatgpt.md)
+**🎨 [Napkin AI](https://www.napkin.ai/)**
+Napkin AI transforms textual input into clear, structured diagrams—ideal for visualizing research frameworks, workflows, and result comparisons. Its intuitive text-to-diagram feature supports clearer communication of complex ideas in your methodology or findings.
+
 
 ## Others
 | No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
