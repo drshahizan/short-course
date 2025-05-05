@@ -39,6 +39,10 @@ Google’s AI assistant that can perform deep synthesis of complex research topi
 * **🧑‍🎓 [ChatGPT (ScholarGPT mode)](./ai/chatgpt.md)**:
 An optimized interface for academic writing. It assists in summarizing articles, paraphrasing paragraphs, drafting literature reviews, and even generating citations in APA/MLA formats. ScholarGPT prompt templates allow for targeted outputs suitable for thesis writing and journal publication.
 
+* **🧠 [Qwen (Thinking Mode)](./ai/qwen.md)**:
+  Developed by Alibaba, Qwen’s *Thinking Mode* is designed for structured academic reasoning. It excels at building logical arguments, decomposing complex research problems, and framing thesis-worthy questions. Especially helpful for bilingual (Chinese-English) researchers, it enables step-by-step refinement of research ideas, supports methodological design, and provides detailed rationales for academic decisions—making it ideal for conceptual development, theoretical grounding, and research proposal drafting.
+
+
 ## Others
 
 | No. | 🛠 **Tool Name**                                  | 📖 **Function**                                                                                                             |
