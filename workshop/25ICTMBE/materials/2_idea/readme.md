@@ -15,17 +15,17 @@ AI stimulates creativity, expands narrow ideas into broader frameworks, and sugg
 
 ## AI Tools
 
-* **🧮 [Qwen](qwen.md) - (by Alibaba)**
+* **🧮 [Qwen](./ai/qwen.md) - (by Alibaba)**
 An advanced LLM (large language model) optimized for reasoning and academic exploration. It can engage in structured argumentation, develop logical flow in research ideas, and assist bilingual (Chinese-English) researchers in framing research questions or outlining proposals.
 
-* **🔍 [Kimi](kimi.md) - (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
+* **🔍 [Kimi](./ai/kimi.md) - (by Moonshot AI)** – An advanced AI chatbot that supports natural language interactions with long-form academic content. Kimi allows users to upload scientific papers and then asks or answers questions contextually. It's particularly effective for breaking down technical or domain-specific papers.
 
-* 🔍 [Grok](grok.md)
+* 🔍 [Grok](./ai/grok.md)
 * 
-* **🖼️ Napkin AI**
+* **🖼️ [Napkin AI](./ai/napkin.md)**
 Transforms short text or raw thoughts into visual concept diagrams. Researchers can input a few sentences about their study or hypothesis, and Napkin will produce a structured sketch or diagram, aiding in research design planning, flowcharts, or logic modeling.
 
-* **🗺️ Ideamap.ai**
+* **🗺️ [Ideamap.ai](./ai/ideamap.md)**
 A visual brainstorming platform that uses AI to expand your initial keywords or phrases into a map of connected ideas. Great for early-stage research design, identifying unexplored angles, and turning vague interests into structured themes or research questions.
 
 
