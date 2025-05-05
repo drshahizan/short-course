@@ -43,7 +43,7 @@ Beyond ideation, Napkin AI also helps visualize the structure of research models
 **📈 [Infogram.com](./ai/infogram.md)**
 An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
 
-[**ChatGPT**](https://chatgpt.com/)
+[**ChatGPT**](.ai/chatgpt.md)
 
 ## Others
 | No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
