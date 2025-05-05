@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Zeta Alpha 
+# [Zeta Alpha](https://www.zeta-alpha.com/)
 
  <img src="https://static.wixstatic.com/media/111555_7b1270097ebd46ec9ec6ff485d415b6a~mv2.png/v1/fill/w_1200,h_706,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/111555_7b1270097ebd46ec9ec6ff485d415b6a~mv2.png" alt="Dr Shahizan AI tools"  height="400">
 
