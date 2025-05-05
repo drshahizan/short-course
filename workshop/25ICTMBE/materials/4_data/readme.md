@@ -45,14 +45,10 @@ An intuitive online tool for creating professional-quality infographics, charts,
 | No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
 | --: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 |   1 | [**ChatGPT**](https://chatgpt.com/)                                                        | Converts natural language prompts into charts (bar, line, pie, etc.) using GPT-powered chart generation. |
-|   3 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
-|   6 | [**Plotly AI Assistant**](https://plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
-|   9 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
-|   10 | [**Tableau GPT (Ask Data)**](https://www.tableau.com/products/new/tableau-gpt)   | Tableau’s AI lets you describe your analysis needs in plain language and generates smart dashboards or visuals.     |
-|   11 | [**MonkeyLearn**](https://monkeylearn.com/)                                      | AI-powered text analysis with instant visualizations like word clouds, keyword frequency, and sentiment breakdowns. |
-|   12 | [**Waldo**](https://www.waldo.io/)                                               | AI visualization assistant that builds charts from spreadsheets or queries—no code required.                        |
-|   13 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
-
+|   2 | [**Plotly AI Assistant**](https://plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
+|   3 | [**Visily AI**](https://www.visily.ai/)                                          | Transforms text or sketches into dashboards or UI mockups—helpful for visualizing data-based prototypes.            |
+|   4 | [**Flourish**](https://flourish.studio/)                                         | Offers rich, interactive data visualization templates enhanced with smart automation and AI-assisted setup.         |
+|   5 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
 
 
 ### 🙌🏻 Connect with Me
