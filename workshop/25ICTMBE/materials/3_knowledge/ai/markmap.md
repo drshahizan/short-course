@@ -16,7 +16,7 @@
 Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. Here's how you can use Markmap:
 
 ## 2. Prompt to create a mind map
-Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
+Please type this prompt in tools like ChatGPT.
 
   ```
 a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
