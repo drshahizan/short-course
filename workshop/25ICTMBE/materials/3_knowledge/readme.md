@@ -25,8 +25,6 @@ A “research assistant notebook” that lets users upload their own documents (
 
 | No. | 🛠 **Tool Name**                                                   | 📖 **Function** |
 | --- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| 1   | [**NotebookLM**](https://notebooklm.google.com/)                   | AI-powered notebook that lets you upload documents and receive contextual summaries, Q\&A, and insights. |
-| 2   | [**Markmap**](https://markmap.js.org/)                             | Converts markdown files into interactive mind maps—great for outlining literature or arguments.          |
 | 3   | [**Scapple**](https://www.literatureandlatte.com/scapple/overview) | A free-form idea mapping tool for connecting concepts without rigid structures.                          |
 | 4   | [**Obsidian**](https://obsidian.md/)                               | Markdown-based knowledge management tool with backlinks and graph view to visualize connections.         |
 | 5   | [**Xmind AI**](https://xmind.app/ai/)                              | Mind mapping with AI support to expand, summarize, and structure complex topics.                         |
