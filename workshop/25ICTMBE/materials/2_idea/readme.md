@@ -25,6 +25,21 @@ AI stimulates creativity, expands narrow ideas into broader frameworks, and sugg
 
 **🗺️ [Ideamap.ai](./ai/ideamap.md)** is a visual ideation tool that transforms initial keywords or phrases into an expandable map of interconnected concepts. It is particularly effective for researchers in the idea generation stage, allowing them to explore related topics, identify research gaps, and develop structured themes or research directions from vague starting points.
 
+## Others
+| AI Tool                                                                                                      | Function |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**DeepSeek**](https://www.tomsguide.com/ai/i-use-deepseek-every-day-7-prompts-i-cant-live-without)              | A Chinese AI model known for strong reasoning and fluency; ideal for summarizing complex research content and organizing ideas into structured narratives.       |
+| [**Gemini Deep Research**](https://inspireip.com/top-ai-idea-generation-software-to-elevate-innovation/)         | A multimodal AI by Google that analyzes data trends, predicts shifts, and suggests impactful ideas for innovative research planning.                             |
+| [**Research Rabbit**](https://www.researchrabbit.ai/)                                                            | Enables paper discovery and visual literature mapping; learns user interests to suggest relevant academic works, ideal for topic expansion and design grounding. |
+| [**Ideator**](https://adamfard.com/blog/ai-design-ideation-tools)                                                | An AI-powered design ideation tool that generates creative thinking prompts and UX ideas through scenario simulation and structured brainstorming.               |
+| [**IdeaSynth**](https://arxiv.org/abs/2410.04025)                                                                | A research development system using LLMs to give feedback on problem definition, proposed solutions, and evaluation strategies, grounded in academic literature. |
+| [**Coral AI**](https://www.reddit.com/r/PhD/comments/1av0qof/part_2_these_are_the_ai_tools_that_have_helped_me/) | AI tool for querying uploaded documents and getting context-based answers with citations—helpful in extracting key ideas from dense content.                     |
+| [**Research Rabbit**](https://www.researchrabbit.ai/)                                                            | Enables paper discovery and visual literature mapping; learns user interests to suggest relevant academic works, ideal for topic expansion and design grounding. |
+| [**Tlooto**](https://en.wikipedia.org/wiki/Tlooto)                                                               | AI-powered assistant supporting literature review, citation formatting, and multilingual content discovery for building solid research foundations.              |
+| [**STORM**](https://en.wikipedia.org/wiki/STORM_%28AI_Tool%29)                                                   | Developed by Stanford, this tool automates generation of cited, structured knowledge articles using web retrieval and LLMs for rapid conceptual grounding.       |
+| [**SCI-IDEA**](https://arxiv.org/abs/2503.19257)                                                                 | Uses LLMs and “Aha Moment” detection to iteratively refine ideas; evaluates novelty, feasibility, and effectiveness based on extracted knowledge facets.         |
+| [**GMind AI**](https://en.wikipedia.org/wiki/GMind_AI)                                                           | A productivity and ideation tool for professionals that combines AI-assisted content creation, research exploration, and innovation support features.            |
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
