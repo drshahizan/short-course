@@ -29,6 +29,13 @@ A “research assistant notebook” that lets users upload their own documents (
 | 2   | [**Xmind AI**](https://xmind.app/)                              | Mind mapping with AI support to expand, summarize, and structure complex topics.                         |
 | 3   | [**Miro (AI Assist)**](https://miro.com/)                          | Collaborative whiteboard with AI-enhanced clustering, brainstorming, and workflow mapping.               |
 
+| No. | 🛠 **Tool Name**                                  | 📖 **Function**                                                                                          |
+| --: | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+|   1. | [**Obsidian**](https://obsidian.md/)              | Markdown-based knowledge management tool with backlinks and graph view to visualize connections.         |
+|   2. | [**Xmind AI**](https://xmind.app/)                | Mind mapping with AI support to expand, summarize, and structure complex topics.                         |
+|   3. | [**Notion AI**](https://www.notion.so/product/ai) | All-in-one workspace with AI support for summarizing notes, organizing research, and generating content. |
+|   4. | [**Google Keep**](https://keep.google.com/)       | Lightweight tool for quick note capture, tagging, and organizing thoughts across devices.                |
+|  5. | [**Miro (AI Assist)**](https://miro.com/)         | Collaborative whiteboard with AI-enhanced clustering, brainstorming, and workflow mapping.               |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
