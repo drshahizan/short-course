@@ -5,7 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  🧠 [SciSpace:](https://scispace.com/) The AI for Academic Research
+#  [SciSpace:](https://scispace.com/) The AI for Academic Research
+
+ <img src="https://scispace.com/resources/content/images/2023/06/Attention--1-.jpg" alt="Dr Shahizan AI tools"  height="400">
 
 **SciSpace** is a powerful AI-powered research platform tailored to support students, academics, and professionals in exploring, understanding, and organizing scientific knowledge. With tools like "Chat with PDF," AI summaries, Deep Review, and writing support, SciSpace simplifies the initial stages of academic research—making it especially valuable during the **Idea Generation** and **Research Design** phases.
 
