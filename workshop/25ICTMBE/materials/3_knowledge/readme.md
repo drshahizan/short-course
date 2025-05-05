@@ -15,10 +15,10 @@ AI helps organize fragmented knowledge into coherent structures. It enables rese
 
 ## AI Tools
 
-* **🧭 Markmap**
+* **🧭 [Markmap](./ai/markmap.md)**
 A markdown-based mind mapping tool that converts simple text notes into interactive mind maps. Particularly useful for organizing literature review themes, visualizing research frameworks, or mapping theoretical concepts.
 
-* **📒 NotebookLM (by Google)**
+* **📒 [NotebookLM](./ai/notebook.md) (by Google)**
 A “research assistant notebook” that lets users upload their own documents (papers, PDFs, notes) and then query them contextually. It’s like having a personalized chatbot that only knows your project documents and helps you extract insights or draft summaries from them.
 
 ## Others
