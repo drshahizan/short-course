@@ -21,6 +21,17 @@ Beyond ideation, Napkin AI also helps visualize the structure of research models
 **📈 [Infogram.com](./ai/infogram.md)**
 An intuitive online tool for creating professional-quality infographics, charts, and dashboards. Perfect for visualizing research data, survey results, or conceptual models for publication or presentation. It offers templates tailored for academic and business use.
 
+| No. | 🛠 **Tool Name**                                                                                 | 📖 **Function**                                                                                          |
+| --: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+|   7 | [**VizGPT**](https://app.vizgpt.com/)                                                            | Generates interactive data visualizations from datasets or queries with AI assistance.                   |
+|   8 | [**Google Sheets + Gemini**](https://workspace.google.com/products/sheets/)                      | AI features help analyze, summarize, and visualize spreadsheet data within Google Workspace.             |
+|   9 | [**Tableau with Einstein AI**](https://www.salesforce.com/products/einstein-analytics/overview/) | Salesforce’s AI-augmented analytics platform to build insightful dashboards and predictive charts.       |
+|  10 | [**Power BI + Copilot**](https://powerbi.microsoft.com/en-us/copilot/)                           | Microsoft’s business intelligence tool with Copilot for generating reports and visuals from queries.     |
+|  11 | [**Plotly AI Assistant**](https://chat.plotly.com/)                                              | Helps users create Python-based interactive plots and dashboards using natural language.                 |
+|  12 | [**Visily**](https://www.visily.ai/)                                                             | AI UI design tool that can turn sketches or text prompts into visual app mockups and charts.             |
+|  13 | [**FlowGPT Charts**](https://flowgpt.com/)                                                       | Offers prompt-based generation of visual content, including diagrams and analytical charts.              |
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
