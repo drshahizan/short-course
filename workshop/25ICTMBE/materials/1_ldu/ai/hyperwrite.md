@@ -13,6 +13,7 @@
 </a>
 
 
+
 **HyperWrite** is an AI writing assistant designed to boost productivity, creativity, and clarity in academic and professional writing. Powered by advanced large language models, it supports researchers throughout the early stages of the research process—from brainstorming ideas to refining research questions and structuring proposals.
 
 
