@@ -7,8 +7,8 @@
 
 # 🚀 Agile Collaboration Hacks ⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25ICTMBE/">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ICTMBE/images/25uthm.png" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="400">
 </a> 
 
 ## 🌍 Collaborative Workshops and Courses: Year 2025
