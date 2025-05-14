@@ -27,8 +27,8 @@ Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemaham
 | 1.| Slaid |[Generatif AI: Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EbrZhFzwAQZCsb5q2Y4Jq6cBXX09SsSFbBfQI5gvtoy7Rg?e=B7B5Q4)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 4. | WhatsApp |[ChatGPT, Copilot](wa-chatgpt.md)|
-| 5. | Telegram |[Copilot](telegram.md)|
+| 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
+| 5. | Telegram |[Copilot](./materials/telegram.md)|
 | 6. | Alatan Gen AI |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/25ctld/deepseek.md)|
 |  |  |[Qwen](https://github.com/drshahizan/short-course/edit/main/25ctld/qwen.md)|
 |  |  |[Kimi](https://github.com/drshahizan/short-course/blob/main/25ctld/kimi.md)|
