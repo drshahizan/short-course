@@ -118,10 +118,6 @@
 
 Grok bukan sekadar chatbot AI biasa—ia menggabungkan pengetahuan, personaliti, dan kesedaran masa nyata untuk memberikan respons yang berguna dan menghiburkan. Dengan kemas kini berterusan dan penyepaduan dalam visi Elon Musk untuk AI dan media sosial, Grok sedang membina kedudukannya sebagai pesaing utama dalam dunia AI generatif.
 
----
-
-Jika anda ingin versi dalam format dokumen (Word/PDF), saya boleh bantu sediakan juga.
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
