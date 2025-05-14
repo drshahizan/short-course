@@ -13,8 +13,8 @@
 **Prompt**:
 
 ```
-Tulis satu e-mel rasmi untuk memohon kebenaran cuti selama dua hari kepada ketua jabatan.
-Sertakan alasan yang sesuai dan nyatakan tarikh bercuti serta tarikh kembali bekerja.
+Tuliskan e-mel rasmi untuk memohon kebenaran cuti selama dua hari kepada ketua jabatan.
+[Sertakan alasan yang sesuai] dan nyatakan [tarikh bercuti] serta [tarikh kembali bekerja].
 ```
 
 ## 🟦 **Latihan 2: Sediakan Minit Mesyuarat Automatik**
