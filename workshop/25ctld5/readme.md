@@ -6,40 +6,19 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Generatif AI: Memudahkan Aktiviti Harian
+# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png"  height="500">
  </p>
 
-Kursus ini bertujuan untuk memperkenalkan konsep dan aplikasi kecerdasan buatan generatif dalam mempermudah tugas harian. Kursus ini merupakan sebahagian daripada inisiatif **Kompetensi Strategik Universiti (Digital Kompetensi)** yang menekankan keperluan penguasaan teknologi digital di kalangan warga akademik dan profesional. Sepanjang kursus ini, peserta akan diperkenalkan kepada teknologi **AI generatif**, termasuk penggunaannya dalam automasi kerja, penulisan kandungan, analisis data, serta integrasi dengan peralatan digital seperti Google Workspace dan perisian lain yang menyokong produktiviti. Selain itu, sesi ini juga akan membincangkan etika dan cabaran dalam penerapan AI generatif dalam kehidupan seharian.
+**Sinopsis Program:**
 
-**Butiran Kursus:**
-- 📍 **Lokasi:** Integrity Room, CTLD, UTM Johor Bahru  
-- 📅 **Tarikh:** 5 Februari 2025 (Rabu)  
-- 🕚 **Masa:** 11.00 pagi - 5.00 petang  
+Revolusi Kecerdasan Buatan (AI) sedang merubah landskap kerja dan pengurusan maklumat dalam organisasi moden. Program ini bertujuan memberi pendedahan kepada peserta tentang bagaimana teknologi AI, khususnya penggunaan **ChatGPT** dan pelbagai aplikasi AI lain, boleh dimanfaatkan untuk meningkatkan **produktiviti kerja** seharian.
 
-**Penceramah:**  
-👨‍🏫 *Prof. Madya Ts. Mohd Shahizan bin Othman*  
-Fakulti Komputeran, UTM Johor Bahru  
+Peserta akan diperkenalkan kepada konsep asas AI generatif serta ditunjukkan kaedah dan strategi mengaplikasikan teknologi ini dalam tugasan rutin, pembuatan keputusan, penulisan, penyelidikan, serta pengurusan data. Ceramah ini akan memberi penekanan kepada penggunaan AI secara **strategik dan bertanggungjawab**, sejajar dengan keperluan **kompetensi digital** warga universiti masa kini.
 
-Program ini dianjurkan oleh **CTLD** dan sesuai untuk pensyarah, penyelidik, pelajar, serta kakitangan akademik yang ingin meneroka potensi AI generatif dalam meningkatkan produktiviti dan inovasi dalam pendidikan serta pentadbiran.
+Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemahaman yang lebih mendalam tentang potensi AI dalam menyokong pencapaian objektif kerja yang lebih cekap, cepat dan inovatif.
 
-## Gambar
-
-<img src="images/ctld4.jpg" alt="Shahizan UTM"  height="350">
-
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/ctld2.jpg" alt="Shahizan UTM"  height="200">
-</a>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/ctld3.jpg" alt="Shahizan UTM"  height="200">
-</a><br>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/ctld1.jpg" alt="Shahizan UTM"  height="200">
-</a>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/ctld5.jpg" alt="Shahizan UTM"  height="200">
-</a>
 
 ## Bahan Pengajaran
 
