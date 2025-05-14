@@ -20,16 +20,17 @@
 ### 💬 **Prompt 1: Penulisan Laporan Pencapaian Universiti**
 
 ```
-Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Universiti Teknologi Malaysia dari segi kedudukan ranking,
-bilangan pelajar, pencapaian penyelidikan dan kolaborasi industri. Sediakan dalam bentuk laporan ringkas satu halaman.
+Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Universiti Teknologi Malaysia dari segi kedudukan
+ranking, bilangan pelajar, pencapaian penyelidikan dan kolaborasi industri. Sediakan dalam bentuk laporan
+ringkas satu halaman.
 ```
 
 ### 💬 **Prompt 2: E-mel Cadangan kepada Pengurusan**
 
 ```
 Tulis satu e-mel cadangan kepada pihak pengurusan untuk mencadangkan penyertaan jabatan dalam Hari Terbuka UTM
-berdasarkan pencapaian UTM dalam QS World University Rankings 2025 dan kekuatan penyelidikan universiti. Gunakan nada
-profesional dan meyakinkan.
+berdasarkan pencapaian UTM dalam QS World University Rankings 2025 dan kekuatan penyelidikan universiti. Gunakan
+nada profesional dan meyakinkan.
 ```
 
 ### 💬 **Prompt 3: Skrip Pembentangan UTM untuk Majlis Rasmi**
