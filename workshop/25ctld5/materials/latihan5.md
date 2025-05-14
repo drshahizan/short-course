@@ -58,16 +58,12 @@ Hasilkan carta garis yang menunjukkan unjuran pertumbuhan penduduk Malaysia dari
 Gunakan unjuran pertumbuhan purata tahunan berdasarkan data sedia ada (2015–2025).
 ```
 
-
-
 ### 💬 **Contoh Prompt 3: Analisis Kesan Ramalan Penduduk kepada Perancangan Dasar**
 
 ```
 Berdasarkan anggaran jumlah penduduk Malaysia yang dijangka mencapai lebih 38 juta menjelang 2035,
 cadangkan 3 langkah perancangan dasar kerajaan dalam bidang kesihatan, pendidikan, dan perumahan.
 ```
-
----
 
 ### 💬 **Contoh Prompt 4: Jadual Anggaran Penduduk Tahunan (2025–2035)**
 
