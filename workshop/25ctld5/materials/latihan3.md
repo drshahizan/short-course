@@ -20,31 +20,38 @@
 ### 💬 **Prompt 1: Penulisan Laporan Pencapaian Universiti**
 
 ```
-Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Universiti Teknologi Malaysia dari segi kedudukan ranking, bilangan pelajar, pencapaian penyelidikan dan kolaborasi industri. Sediakan dalam bentuk laporan ringkas satu halaman.
+Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Universiti Teknologi Malaysia dari segi kedudukan ranking,
+bilangan pelajar, pencapaian penyelidikan dan kolaborasi industri. Sediakan dalam bentuk laporan ringkas satu halaman.
 ```
 
 ### 💬 **Prompt 2: E-mel Cadangan kepada Pengurusan**
 
 ```
-Tulis satu e-mel cadangan kepada pihak pengurusan untuk mencadangkan penyertaan jabatan dalam Hari Terbuka UTM berdasarkan pencapaian UTM dalam QS World University Rankings 2025 dan kekuatan penyelidikan universiti. Gunakan nada profesional dan meyakinkan.
+Tulis satu e-mel cadangan kepada pihak pengurusan untuk mencadangkan penyertaan jabatan dalam Hari Terbuka UTM
+berdasarkan pencapaian UTM dalam QS World University Rankings 2025 dan kekuatan penyelidikan universiti. Gunakan nada
+profesional dan meyakinkan.
 ```
 
 ### 💬 **Prompt 3: Skrip Pembentangan UTM untuk Majlis Rasmi**
 
 ```
-Sediakan skrip 2 minit untuk pembentangan dalam majlis pelawat luar negara ke UTM. Perkenalkan universiti dengan maklumat terkini (2025) berkaitan bilangan fakulti, pelajar antarabangsa, dan kolaborasi global. Gunakan gaya formal dan persuasif.
+Sediakan skrip 2 minit untuk pembentangan dalam majlis pelawat luar negara ke UTM. Perkenalkan universiti dengan
+maklumat terkini (2025) berkaitan bilangan fakulti, pelajar antarabangsa, dan kolaborasi global. Gunakan gaya
+formal dan persuasif.
 ```
 
 ### 💬 **Prompt 4: Menjana Fakta Ringkas untuk Laman Web atau Brosur**
 
 ```
-Senaraikan 5 fakta menarik tentang UTM berdasarkan maklumat tahun 2025 yang boleh digunakan dalam brosur promosi universiti. Fokus kepada elemen yang boleh menarik minat pelajar antarabangsa dan rakan industri.
+Senaraikan 5 fakta menarik tentang UTM berdasarkan maklumat tahun 2025 yang boleh digunakan dalam brosur promosi
+universiti. Fokus kepada elemen yang boleh menarik minat pelajar antarabangsa dan rakan industri.
 ```
 
 ### 💬 **Contoh Prompt 5: Guna AI untuk Menjana KPI Berasaskan Data Institusi**
 
 ```
-Berdasarkan profil dan pencapaian Universiti Teknologi Malaysia tahun 2025, cadangkan 5 Key Performance Indicators (KPI) yang sesuai untuk mengukur keberkesanan program inovasi dalaman universiti.
+Berdasarkan profil dan pencapaian Universiti Teknologi Malaysia tahun 2025, cadangkan 5 Key Performance Indicators
+(KPI) yang sesuai untuk mengukur keberkesanan program inovasi dalaman universiti.
 ```
 
 ### 🙌🏻 Connect with Me
