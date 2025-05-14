@@ -10,7 +10,7 @@ Sila imbas **kod QR** atau klik pada imej untuk mengakses **Microsoft Copilot** 
 
 <p align="center">
  <a href="https://t.me/CopilotOfficialBot">
- <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/25ctld/images/telegram-copilot.avif"  height="400">
+ <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/workshop/25ctld/images/telegram-copilot.avif"  height="400">
 </a>
 </p>
 
