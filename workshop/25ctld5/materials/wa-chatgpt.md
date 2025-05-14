@@ -11,8 +11,8 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
 
 <table align="center">
   <tr>
-    <td align="center"><img src="images/chatgpt.png" height="300"></td>
-    <td align="center"><img src="images/copilot.png" height="300"></td>
+    <td align="center"><img src="../images/chatgpt.png" height="300"></td>
+    <td align="center"><img src="../images/copilot.png" height="300"></td>
   </tr>
    <tr>
     <th align="center">ChatGPT</th>
