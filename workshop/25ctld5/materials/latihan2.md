@@ -36,7 +36,10 @@ Berdasarkan maklumat berikut, sediakan minit mesyuarat rasmi:
 **Prompt**:
 
 ```
-Sediakan draf laporan bulanan UTM Digital bagi bulan April 2025. Aktiviti utama: penyelenggaraan sistem eLearning, sokongan teknikal semasa peperiksaan akhir, dan latihan penggunaan ChatGPT. Gunakan gaya laporan rasmi dan ringkas.
+Sediakan draf laporan bulanan UTM Digital bagi bulan April 2025.
+Aktiviti utama: penyelenggaraan sistem eLearning, sokongan teknikal semasa peperiksaan akhir,
+dan latihan penggunaan ChatGPT.
+Gunakan gaya laporan rasmi dan ringkas.
 ```
 
 ## 🟦 **Latihan 4: Reka Prompt Berkesan**
@@ -53,7 +56,8 @@ Tolong buat ringkasan laporan.
 **Prompt Lebih Baik**:
 
 ```
-Sediakan ringkasan laporan sepanjang satu perenggan berdasarkan teks ini. Fokus pada pencapaian utama dan isu yang dikenal pasti.
+Sediakan ringkasan laporan sepanjang satu perenggan berdasarkan teks ini.
+Fokus pada pencapaian utama dan isu yang dikenal pasti.
 ```
 
 ## 🟦 **Latihan 5: Susun Jadual Harian Mengikut Keutamaan**
@@ -78,7 +82,8 @@ Bantu susun ikut keutamaan dan masa yang sesuai.
 **Prompt**:
 
 ```
-Tulis satu draf notis rasmi berkaitan pematuhan penggunaan e-mel universiti. Sertakan perkara seperti: larangan menghantar spam, menjaga kerahsiaan data, dan pemantauan oleh pihak pentadbir.
+Tulis satu draf notis rasmi berkaitan pematuhan penggunaan e-mel universiti.
+Sertakan perkara seperti: larangan menghantar spam, menjaga kerahsiaan data, dan pemantauan oleh pihak pentadbir.
 ```
 
 ## 🟦 **Latihan 7: Analisis Maklum Balas Ringkas**
