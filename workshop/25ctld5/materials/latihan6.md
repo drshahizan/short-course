@@ -5,7 +5,65 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 6
+# Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM
+
+### 🎯 Objektif:
+
+* Meningkatkan kebolehan menganalisis data staf akademik menggunakan ChatGPT.
+* Menghasilkan pelaporan, visualisasi dan perancangan sumber manusia berdasarkan data sebenar.
+* Memanfaatkan AI dalam merancang keperluan latihan, promosi, dan pembangunan staf akademik.
+
+### 📌 **Data Rujukan: Staf Akademik UTM (2025)**
+
+(Sumber: UTM Annual Report, Fakta Universiti)
+
+| Kategori                    | Bilangan (2025) |
+| --------------------------- | --------------- |
+| Staf Akademik               | 1,564           |
+| Staf Akademik dengan PhD    | 1,452           |
+| Staf Wanita                 | 746             |
+| Profesor                    | 134             |
+| Profesor Madya              | 611             |
+| Pensyarah Kanan             | 543             |
+| Pensyarah                   | 276             |
+| Pelatih Akademik (Tutor/FA) | 50              |
+
+
+### 💬 **Prompt 1: Carta Pai Komposisi Jawatan Akademik**
+
+```
+Berdasarkan data staf akademik UTM tahun 2025, hasilkan carta pai yang menunjukkan peratusan staf mengikut jawatan: Profesor, Profesor Madya, Pensyarah Kanan, Pensyarah, dan Pelatih Akademik.
+```
+
+### 💬 **Prompt 2: Analisis Kepakaran dan Kualiti Akademik**
+
+```
+Daripada 1,564 staf akademik, 1,452 mempunyai PhD. Kira peratus staf akademik yang mempunyai PhD dan terangkan bagaimana ini memberi kesan positif kepada penyelidikan dan pengajaran di UTM.
+```
+
+### 💬 **Prompt 3: Cadangan Program Pembangunan Akademik**
+
+```
+Berdasarkan data staf akademik UTM 2025, cadangkan 3 program latihan atau pembangunan profesional yang sesuai untuk meningkatkan kemahiran pengajaran dan penyelidikan bagi pensyarah muda.
+```
+
+### 💬 **Prompt 4: Unjuran Pertumbuhan Tenaga Akademik**
+
+```
+Jika bilangan staf akademik UTM dijangka meningkat sebanyak 2% setiap tahun, ramalkan bilangan staf akademik pada tahun 2030. Sediakan jadual unjuran 2025–2030.
+```
+
+### 💬 **Prompt 5: E-mel Rasmi Cadangan Penambahan Tenaga Akademik**
+
+```
+Tulis e-mel rasmi kepada Timbalan Naib Canselor Akademik bagi mencadangkan penambahan staf akademik di fakulti anda. Gunakan data semasa dan nyatakan sebab seperti nisbah staf kepada pelajar dan beban kerja.
+```
+
+### ✅ **Hasil Diharapkan**
+
+* Peserta boleh mengaitkan **data sebenar** dengan **keperluan strategik jabatan/fakulti**.
+* Peserta mampu menghasilkan dokumen rasmi, visualisasi, dan cadangan dasar berdasarkan AI.
+* Penerapan AI ke arah **HR planning dan performance reporting**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
