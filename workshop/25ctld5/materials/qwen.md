@@ -9,7 +9,7 @@
 Qwen Chat adalah model bahasa besar yang dikembangkan oleh Alibaba Cloud. Model ini dirancang untuk menghasilkan teks yang mirip dengan manusia dan dapat digunakan untuk berbagai tugas, seperti menjawab pertanyaan, menulis cerita, membuat email, menulis skrip, melakukan terjemahan, dan banyak lagi. Qwen Chat dilatih menggunakan sejumlah besar data dari internet dan dapat memahami serta merespons dalam beberapa bahasa, termasuk bahasa Melayu.
 
 <p align="center">
- <img src="images/qwen.png" height="400">
+ <img src="../images/qwen.png" height="400">
  </p>
  
 
