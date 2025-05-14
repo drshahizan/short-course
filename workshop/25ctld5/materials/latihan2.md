@@ -24,7 +24,7 @@ Tuliskan e-mel rasmi untuk memohon kebenaran cuti selama dua hari kepada ketua j
 
 ```
 Berdasarkan maklumat berikut, sediakan minit mesyuarat rasmi: 
-- Tarikh: 10 Mei 2025
+- Tarikh: 15 Mei 2025
 - Agenda: Perancangan Hari Inovasi UTM
 - Kehadiran: 10 staf
 - Keputusan: Tempat ditetapkan di Dewan Sultan Iskandar, bajet RM5000, setiap fakulti wajib sediakan 1 booth.
