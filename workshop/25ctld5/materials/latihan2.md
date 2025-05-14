@@ -117,7 +117,8 @@ Sertakan penerangan ringkas setiap cadangan.
 ```
 Sila semak dan perbaiki ayat berikut supaya lebih gramatis dan profesional:
 
-Saya nak maklumkan mesyuarat minggu depan batal dan akan diganti minggu seterusnya, tarikh baru akan diberitahu kemudian.
+Saya nak maklumkan mesyuarat minggu depan batal dan akan diganti minggu seterusnya, tarikh baru
+akan diberitahu kemudian.
 ```
 
 ## 🟦 **Latihan 10: Penilaian Risiko Penggunaan AI di Tempat Kerja**
