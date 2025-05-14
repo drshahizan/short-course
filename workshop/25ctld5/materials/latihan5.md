@@ -16,7 +16,7 @@
 ### 📌 **Data Sebenar: Penduduk Malaysia (Sumber: Jabatan Perangkaan Malaysia)**
 
 | Tahun | Jumlah Penduduk (juta)       |
-| ----- | ---------------------------- |
+| ----- | ----------------------------: |
 | 2015  | 30.33                        |
 | 2016  | 31.19                        |
 | 2017  | 32.02                        |
