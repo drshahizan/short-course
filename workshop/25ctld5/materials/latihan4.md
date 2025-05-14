@@ -20,7 +20,8 @@
 ### 💬 **Prompt 1: Carta Pai Komposisi Pelajar UTM 2025**
 
 ```
-Berdasarkan data berikut, hasilkan carta pai yang menunjukkan peratusan pelajar mengikut peringkat pengajian di UTM pada tahun 2025:
+Berdasarkan data berikut, hasilkan carta pai yang menunjukkan peratusan pelajar mengikut peringkat pengajian di UTM
+pada tahun 2025:
 
 - Pelajar Prasiswazah: 21,581
 - Pelajar Sarjana: 4,069
@@ -52,7 +53,8 @@ Hasilkan graf garis yang menunjukkan perkembangan bilangan alumni UTM dari tahun
 ### 💬 **Prompt 4: Laporan Ringkas Analisis Data Pelajar Antarabangsa**
 
 ```
-Sediakan laporan ringkas mengenai bilangan pelajar antarabangsa di UTM pada tahun 2025, termasuk peratusan berbanding jumlah keseluruhan pelajar dan cadangan untuk meningkatkan kemasukan pelajar antarabangsa.
+Sediakan laporan ringkas mengenai bilangan pelajar antarabangsa di UTM pada tahun 2025, termasuk peratusan berbanding
+jumlah keseluruhan pelajar dan cadangan untuk meningkatkan kemasukan pelajar antarabangsa.
 ```
 
 ### 💬 **Prompt 5: Analisis Kepakaran Staf Akademik**
@@ -63,7 +65,8 @@ Berdasarkan data berikut, sediakan analisis mengenai kepakaran staf akademik di 
 - Jumlah Staf Akademik: 1,564
 - Staf Akademik dengan PhD: 1,452
 
-Hitung peratusan staf akademik yang memiliki PhD dan bincangkan implikasinya terhadap kualiti pengajaran dan penyelidikan.
+Hitung peratusan staf akademik yang memiliki PhD dan bincangkan implikasinya terhadap kualiti pengajaran dan
+penyelidikan.
 ```
 
 ### 🙌🏻 Connect with Me
