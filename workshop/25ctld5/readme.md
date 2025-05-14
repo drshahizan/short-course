@@ -29,10 +29,10 @@ Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemaham
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
 | 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](./materials/telegram.md)|
-| 6. | Alatan Gen AI |[DeepSeek](./materials/deepseek.md)|
-|  |  |[Qwen](./materials/qwen.md)|
-|  |  |[Kimi](./materials/kimi.md)|
+| 6. | Alatan Gen AI |[Qwen](./materials/qwen.md)|
+|  |  |[DeepSeek](./materials/deepseek.md)|
 |  |  |[Napkin.ai](./materials//napkin.md)|
+|  |  |[Kimi](./materials/kimi.md)|
 |7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
