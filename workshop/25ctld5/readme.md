@@ -42,35 +42,14 @@ Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemaham
 |  |  | [Latihan 4: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
 |  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
-|  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
-|8.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/1cot.md)|
-|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/2rtf.md)|
-|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/3bab.md)|
-|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/4tag.md)|
-|  |  | [Kerangka kerja CARE: _Context, Action, Result, Example_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/5care.md)|
-|  |  | [Kerangka kerja RISE: _Role, Input, Steps, Expectation_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/6rise.md)|
-|  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
-|  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
-| |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
-|  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 
 ## Maklumat Tambahan
 
-| No | Pelajaran | Topik |
-|--------:|---------|---------|
-|1. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
-||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-| 2. | Aplikasi AI | [askLAYLA](https://justasklayla.com/) |
-|||[Trip Planner AI](https://tripplanner.ai/)|
-||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
-|||[Sora](https://openai.com/sora)|
-||| [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
-||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
-||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
-||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
+| No | Topik |
+|--------:|---------|
+|1.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|2.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+|3.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
 
 
 ### 🙌🏻 Connect with Me
