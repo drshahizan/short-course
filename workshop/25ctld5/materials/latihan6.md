@@ -32,31 +32,37 @@
 ### 💬 **Prompt 1: Carta Pai Komposisi Jawatan Akademik**
 
 ```
-Berdasarkan data staf akademik UTM tahun 2025, hasilkan carta pai yang menunjukkan peratusan staf mengikut jawatan: Profesor, Profesor Madya, Pensyarah Kanan, Pensyarah, dan Pelatih Akademik.
+Berdasarkan data staf akademik UTM tahun 2025, hasilkan carta pai yang menunjukkan peratusan staf mengikut
+jawatan: Profesor, Profesor Madya, Pensyarah Kanan, Pensyarah, dan Pelatih Akademik.
 ```
 
 ### 💬 **Prompt 2: Analisis Kepakaran dan Kualiti Akademik**
 
 ```
-Daripada 1,564 staf akademik, 1,452 mempunyai PhD. Kira peratus staf akademik yang mempunyai PhD dan terangkan bagaimana ini memberi kesan positif kepada penyelidikan dan pengajaran di UTM.
+Daripada 1,564 staf akademik, 1,452 mempunyai PhD. Kira peratus staf akademik yang mempunyai PhD dan
+terangkan bagaimana ini memberi kesan positif kepada penyelidikan dan pengajaran di UTM.
 ```
 
 ### 💬 **Prompt 3: Cadangan Program Pembangunan Akademik**
 
 ```
-Berdasarkan data staf akademik UTM 2025, cadangkan 3 program latihan atau pembangunan profesional yang sesuai untuk meningkatkan kemahiran pengajaran dan penyelidikan bagi pensyarah muda.
+Berdasarkan data staf akademik UTM 2025, cadangkan 3 program latihan atau pembangunan profesional
+yang sesuai untuk meningkatkan kemahiran pengajaran dan penyelidikan bagi pensyarah muda.
 ```
 
 ### 💬 **Prompt 4: Unjuran Pertumbuhan Tenaga Akademik**
 
 ```
-Jika bilangan staf akademik UTM dijangka meningkat sebanyak 2% setiap tahun, ramalkan bilangan staf akademik pada tahun 2030. Sediakan jadual unjuran 2025–2030.
+Jika bilangan staf akademik UTM dijangka meningkat sebanyak 2% setiap tahun, ramalkan bilangan staf
+akademik pada tahun 2030. Sediakan jadual unjuran 2025–2030.
 ```
 
 ### 💬 **Prompt 5: E-mel Rasmi Cadangan Penambahan Tenaga Akademik**
 
 ```
-Tulis e-mel rasmi kepada Timbalan Naib Canselor Akademik bagi mencadangkan penambahan staf akademik di fakulti anda. Gunakan data semasa dan nyatakan sebab seperti nisbah staf kepada pelajar dan beban kerja.
+Tulis e-mel rasmi kepada Timbalan Naib Canselor Akademik bagi mencadangkan penambahan staf akademik
+di fakulti anda. Gunakan data semasa dan nyatakan sebab seperti nisbah staf kepada pelajar dan
+beban kerja.
 ```
 
 ### ✅ **Hasil Diharapkan**
