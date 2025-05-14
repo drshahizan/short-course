@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# Penggunaan arahan Generatif AI
 
-### 🟦 **Latihan 1: Penulisan E-mel Rasmi**
+## 🟦 **Latihan 1: Penulisan E-mel Rasmi**
 
 **Aktiviti**: Hasilkan e-mel kerja profesional berdasarkan situasi tertentu.
 **Prompt**:
@@ -16,7 +16,7 @@
 Tulis satu e-mel rasmi untuk memohon kebenaran cuti selama dua hari kepada ketua jabatan. Sertakan alasan yang sesuai dan nyatakan tarikh bercuti serta tarikh kembali bekerja.
 ```
 
-### 🟦 **Latihan 2: Sediakan Minit Mesyuarat Automatik**
+## 🟦 **Latihan 2: Sediakan Minit Mesyuarat Automatik**
 
 **Aktiviti**: Gunakan transkrip ringkas untuk jana minit mesyuarat.
 **Prompt**:
@@ -29,7 +29,7 @@ Berdasarkan maklumat berikut, sediakan minit mesyuarat rasmi:
 - Keputusan: Tempat ditetapkan di Dewan Sultan Iskandar, bajet RM5000, setiap fakulti wajib sediakan 1 booth.
 ```
 
-### 🟦 **Latihan 3: Draf Laporan Bulanan**
+## 🟦 **Latihan 3: Draf Laporan Bulanan**
 
 **Aktiviti**: Sediakan draf laporan bulanan unit kerja.
 **Prompt**:
@@ -38,7 +38,7 @@ Berdasarkan maklumat berikut, sediakan minit mesyuarat rasmi:
 Sediakan draf laporan bulanan UTM Digital bagi bulan April 2025. Aktiviti utama: penyelenggaraan sistem eLearning, sokongan teknikal semasa peperiksaan akhir, dan latihan penggunaan ChatGPT. Gunakan gaya laporan rasmi dan ringkas.
 ```
 
-### 🟦 **Latihan 4: Reka Prompt Berkesan**
+## 🟦 **Latihan 4: Reka Prompt Berkesan**
 
 **Aktiviti**: Baiki prompt biasa menjadi lebih spesifik.
 **Tugas**:
@@ -55,7 +55,7 @@ Tolong buat ringkasan laporan.
 Sediakan ringkasan laporan sepanjang satu perenggan berdasarkan teks ini. Fokus pada pencapaian utama dan isu yang dikenal pasti.
 ```
 
-### 🟦 **Latihan 5: Susun Jadual Harian Mengikut Keutamaan**
+## 🟦 **Latihan 5: Susun Jadual Harian Mengikut Keutamaan**
 
 **Aktiviti**: ChatGPT bantu merancang jadual kerja.
 **Prompt**:
@@ -71,7 +71,7 @@ Saya ada 5 tugasan esok:
 Bantu susun ikut keutamaan dan masa yang sesuai.
 ```
 
-### 🟦 **Latihan 6: Jana Draf Polisi atau Notis Rasmi**
+## 🟦 **Latihan 6: Jana Draf Polisi atau Notis Rasmi**
 
 **Aktiviti**: Tulis notis berkaitan amalan kerja atau penggunaan sistem.
 **Prompt**:
@@ -80,7 +80,7 @@ Bantu susun ikut keutamaan dan masa yang sesuai.
 Tulis satu draf notis rasmi berkaitan pematuhan penggunaan e-mel universiti. Sertakan perkara seperti: larangan menghantar spam, menjaga kerahsiaan data, dan pemantauan oleh pihak pentadbir.
 ```
 
-### 🟦 **Latihan 7: Analisis Maklum Balas Ringkas**
+## 🟦 **Latihan 7: Analisis Maklum Balas Ringkas**
 
 **Aktiviti**: Masukkan data ringkas untuk simpulan automatik.
 **Prompt**:
@@ -93,7 +93,7 @@ Berdasarkan maklum balas berikut, buat rumusan penilaian bengkel:
 - Pengajar sangat membantu
 ```
 
-### 🟦 **Latihan 8: Idea Brainstorming AI**
+## 🟦 **Latihan 8: Idea Brainstorming AI**
 
 **Aktiviti**: Guna ChatGPT untuk menjana idea projek atau inisiatif jabatan.
 **Prompt**:
@@ -102,7 +102,7 @@ Berdasarkan maklum balas berikut, buat rumusan penilaian bengkel:
 Cadangkan 5 inisiatif untuk meningkatkan penglibatan staf dalam aktiviti inovasi di UTM. Sertakan penerangan ringkas setiap cadangan.
 ```
 
-### 🟦 **Latihan 9: Semak Grammar & Nada Surat Rasmi**
+## 🟦 **Latihan 9: Semak Grammar & Nada Surat Rasmi**
 
 **Aktiviti**: Gunakan ChatGPT untuk semak dan perbaiki ayat.
 **Prompt**:
@@ -113,7 +113,7 @@ Sila semak dan perbaiki ayat berikut supaya lebih gramatis dan profesional:
 Saya nak maklumkan mesyuarat minggu depan batal dan akan diganti minggu seterusnya, tarikh baru akan diberitahu kemudian.
 ```
 
-### 🟦 **Latihan 10: Penilaian Risiko Penggunaan AI di Tempat Kerja**
+## 🟦 **Latihan 10: Penilaian Risiko Penggunaan AI di Tempat Kerja**
 
 **Aktiviti**: Kenal pasti risiko dan sediakan garis panduan.
 **Prompt**:
