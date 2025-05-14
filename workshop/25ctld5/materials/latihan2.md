@@ -105,7 +105,8 @@ Berdasarkan maklum balas berikut, buat rumusan penilaian bengkel:
 **Prompt**:
 
 ```
-Cadangkan 5 inisiatif untuk meningkatkan penglibatan staf dalam aktiviti inovasi di UTM. Sertakan penerangan ringkas setiap cadangan.
+Cadangkan 5 inisiatif untuk meningkatkan penglibatan staf dalam aktiviti inovasi di UTM.
+Sertakan penerangan ringkas setiap cadangan.
 ```
 
 ## 🟦 **Latihan 9: Semak Grammar & Nada Surat Rasmi**
@@ -125,7 +126,8 @@ Saya nak maklumkan mesyuarat minggu depan batal dan akan diganti minggu seterusn
 **Prompt**:
 
 ```
-Senaraikan 5 risiko utama jika staf menggunakan ChatGPT tanpa panduan. Cadangkan langkah keselamatan dan etika penggunaan AI dalam organisasi.
+Senaraikan 5 risiko utama jika staf menggunakan ChatGPT tanpa panduan.
+Cadangkan langkah keselamatan dan etika penggunaan AI dalam organisasi.
 ```
 
 ### 🙌🏻 Connect with Me
