@@ -20,10 +20,9 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
   </tr>
      <tr>
     <th align="center">https://chatgpt.com/link/whatsapp</th>
-    <th align="center">Microsoft Copilot</th>
+    <th align="center">https://wa.me/message/TJ5MI22N6WUVD1</th>
   </tr>
 </table>
-https://chatgpt.com/link/whatsapp/
 
 ## Prompt ChatGPT di WhatsApp
 
