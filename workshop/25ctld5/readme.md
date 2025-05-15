@@ -26,7 +26,7 @@ Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemaham
 |--------|---------|---------|
 | 1.| Slaid |[ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
+| 3. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
 | 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](./materials/telegram.md)|
 | 6. | Generatif AI |[Qwen](./materials/qwen.md)|
