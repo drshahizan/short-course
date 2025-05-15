@@ -30,6 +30,7 @@ Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemaham
 | 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
 | 5. | Telegram |[Copilot](./materials/telegram.md)|
 | 6. | Generatif AI |[Qwen](./materials/qwen.md)|
+|  |  |[Gemini](https://gemini.google.com/app)|
 |  |  |[DeepSeek](./materials/deepseek.md)|
 |  |  |[Napkin.ai](./materials//napkin.md)|
 |  |  |[Grok](./materials/grok.md)|
