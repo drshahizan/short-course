@@ -6,19 +6,21 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
-<p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png"  height="500">
- </p>
+# Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
 
 **Sinopsis Program:**
 
-Revolusi Kecerdasan Buatan (AI) sedang merubah landskap kerja dan pengurusan maklumat dalam organisasi moden. Program ini bertujuan memberi pendedahan kepada peserta tentang bagaimana teknologi AI, khususnya penggunaan **ChatGPT** dan pelbagai aplikasi AI lain, boleh dimanfaatkan untuk meningkatkan **produktiviti kerja** seharian.
+Kursus ini direka khas untuk guru besar dan guru bagi memperkenalkan potensi dan aplikasi teknologi Kecerdasan Buatan (AI), khususnya ChatGPT, dalam bidang pendidikan. Sepanjang kursus ini, peserta akan didedahkan kepada kaedah praktikal menggunakan ChatGPT dan aplikasi AI lain bagi meningkatkan keberkesanan pengurusan sekolah serta memperkasakan proses pengajaran dan pembelajaran (PdP) di dalam bilik darjah.
 
-Peserta akan diperkenalkan kepada konsep asas AI generatif serta ditunjukkan kaedah dan strategi mengaplikasikan teknologi ini dalam tugasan rutin, pembuatan keputusan, penulisan, penyelidikan, serta pengurusan data. Ceramah ini akan memberi penekanan kepada penggunaan AI secara **strategik dan bertanggungjawab**, sejajar dengan keperluan **kompetensi digital** warga universiti masa kini.
+Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengajaran yang interaktif, menyusun pelaporan pentadbiran, dan mengoptimumkan masa serta sumber melalui penggunaan teknologi AI. Bengkel ini juga menyediakan ruang eksplorasi secara hands-on bagi membina kemahiran asas menggunakan ChatGPT secara bertanggungjawab, selamat, dan beretika dalam konteks pendidikan.
 
-Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemahaman yang lebih mendalam tentang potensi AI dalam menyokong pencapaian objektif kerja yang lebih cekap, cepat dan inovatif.
+**Hasil Pembelajaran:**
 
+* Memahami konsep asas AI dan ChatGPT serta aplikasinya dalam bidang pendidikan.
+* Mengetahui cara-cara penggunaan ChatGPT untuk merancang dan menyokong PdP.
+* Meneroka aplikasi AI untuk kegunaan pengurusan sekolah secara lebih cekap.
+* Mengenalpasti etika dan batasan penggunaan AI dalam konteks pendidikan.
+* Membangunkan kemahiran asas menggunakan ChatGPT melalui aktiviti praktikal.
 
 ## Bahan Pengajaran
 
