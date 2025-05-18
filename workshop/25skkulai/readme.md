@@ -8,7 +8,7 @@
 
 # Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
 
-https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png
+ <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
 
 **Sinopsis Program:**
 
