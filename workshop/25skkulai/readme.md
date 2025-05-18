@@ -29,17 +29,18 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 | No | Pelajaran | Topik |
 |--------|---------|---------|
 | 1.| Slaid |[ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q)
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
-| 5. | Telegram |[Copilot](./materials/telegram.md)|
-| 6. | Aplikasi AI |[Qwen](./materials/qwen.md)|
+| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q)
+| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
+| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
+| 6. | Telegram |[Copilot](./materials/telegram.md)|
+| 7. | Aplikasi AI |[Qwen](./materials/qwen.md)|
 |  |  |[Gemini](https://gemini.google.com/app)|
 |  |  |[DeepSeek](./materials/deepseek.md)|
 |  |  |[Napkin.ai](./materials//napkin.md)|
 |  |  |[Grok](./materials/grok.md)|
 |  |  |[Kimi](./materials/kimi.md)|
-|7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
+|8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
 |  |  | [Latihan 3: Kenali UTM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
 |  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
