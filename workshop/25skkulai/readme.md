@@ -57,6 +57,7 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 |--------:|---------|
 |1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
 |2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)]()|
+|3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
 |3.|[AI and education Guidance for policy-makers (UNESCO)]()|
 |4.|[AI competency framework for teachers (UNESCO)]()|
 |5.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
