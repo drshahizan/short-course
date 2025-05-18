@@ -53,9 +53,14 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 
 | No | Topik |
 |--------:|---------|
-|1.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|2.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|3.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+|1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
+Panduan AI generatif dalam pendidikan dan penyelidikan
+|2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)]()|
+|3.|[AI and education Guidance for policy-makers (UNESCO)]()|
+|4.|[AI competency framework for teachers (UNESCO)]()|
+|5.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+|6.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|7.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 
 
 ### 🙌🏻 Connect with Me
