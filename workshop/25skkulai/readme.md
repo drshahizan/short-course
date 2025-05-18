@@ -8,6 +8,8 @@
 
 # Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
 
+https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png
+
 **Sinopsis Program:**
 
 Kursus ini direka khas untuk guru besar dan guru bagi memperkenalkan potensi dan aplikasi teknologi Kecerdasan Buatan (AI), khususnya ChatGPT, dalam bidang pendidikan. Sepanjang kursus ini, peserta akan didedahkan kepada kaedah praktikal menggunakan ChatGPT dan aplikasi AI lain bagi meningkatkan keberkesanan pengurusan sekolah serta memperkasakan proses pengajaran dan pembelajaran (PdP) di dalam bilik darjah.
@@ -54,7 +56,6 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 | No | Topik |
 |--------:|---------|
 |1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-Panduan AI generatif dalam pendidikan dan penyelidikan
 |2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)]()|
 |3.|[AI and education Guidance for policy-makers (UNESCO)]()|
 |4.|[AI competency framework for teachers (UNESCO)]()|
