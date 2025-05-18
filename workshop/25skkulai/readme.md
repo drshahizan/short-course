@@ -29,7 +29,7 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 | No | Pelajaran | Topik |
 |--------|---------|---------|
 | 1.| Slaid |[ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q)
-| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBFAZsgv__K3e2Qk04fZNxVw?e=mPxdKl)
+| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBqeBYT9WJ0HWwLgb_8wmt6A?e=cjxlwW)
 | 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
 | 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
