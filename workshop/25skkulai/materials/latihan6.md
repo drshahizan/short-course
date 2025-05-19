@@ -5,71 +5,70 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM
+# **Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik Kementerian Pendidikan Malaysia (KPM)**
 
-### 🎯 Objektif:
+### 🎯 **Objektif:**
 
-* Meningkatkan kebolehan menganalisis data staf akademik menggunakan ChatGPT.
+* Meningkatkan kebolehan menganalisis data staf akademik di bawah KPM menggunakan ChatGPT.
 * Menghasilkan pelaporan, visualisasi dan perancangan sumber manusia berdasarkan data sebenar.
-* Memanfaatkan AI dalam merancang keperluan latihan, promosi, dan pembangunan staf akademik.
+* Memanfaatkan AI dalam merancang keperluan latihan, kenaikan pangkat, dan pembangunan kerjaya warga pendidik.
 
-### 📌 **Data Rujukan: Staf Akademik UTM (2025)**
+### 📌 **Data Rujukan: Staf Akademik IPTA di bawah KPM (2025)**
 
-(Sumber: UTM Annual Report, Fakta Universiti)
+(Sumber: Laporan Tahunan KPM, Sistem Pangkalan Data Pendidikan Tinggi)
 
 | Kategori                    | Bilangan (2025) |
 | --------------------------- | --------------- |
-| Staf Akademik               | 1,564           |
-| Staf Akademik dengan PhD    | 1,452           |
-| Staf Wanita                 | 746             |
-| Profesor                    | 134             |
-| Profesor Madya              | 611             |
-| Pensyarah Kanan             | 543             |
-| Pensyarah                   | 276             |
-| Pelatih Akademik (Tutor/FA) | 50              |
+| Staf Akademik IPTA          | 21,500          |
+| Staf Akademik dengan PhD    | 17,800          |
+| Staf Wanita                 | 10,100          |
+| Profesor                    | 2,400           |
+| Profesor Madya              | 8,300           |
+| Pensyarah Kanan             | 6,900           |
+| Pensyarah                   | 3,200           |
+| Pelatih Akademik (Tutor/FA) | 700             |
 
-
-### 💬 **Prompt 1: Carta Pai Komposisi Jawatan Akademik**
+### 💬 **Prompt 1: Carta Pai Komposisi Jawatan Akademik IPTA di bawah KPM**
 
 ```
-Berdasarkan data staf akademik UTM tahun 2025, hasilkan carta pai yang menunjukkan peratusan staf mengikut
+Berdasarkan data staf akademik KPM tahun 2025, hasilkan carta pai yang menunjukkan peratusan staf mengikut
 jawatan: Profesor, Profesor Madya, Pensyarah Kanan, Pensyarah, dan Pelatih Akademik.
 ```
 
 ### 💬 **Prompt 2: Analisis Kepakaran dan Kualiti Akademik**
 
 ```
-Daripada 1,564 staf akademik, 1,452 mempunyai PhD. Kira peratus staf akademik yang mempunyai PhD dan
-terangkan bagaimana ini memberi kesan positif kepada penyelidikan dan pengajaran di UTM.
+Daripada 21,500 staf akademik di IPTA, 17,800 mempunyai PhD. Kira peratus staf akademik yang mempunyai PhD dan
+terangkan bagaimana ini memberi impak kepada kualiti pengajaran, penyelidikan dan pemindahan ilmu dalam IPTA.
 ```
 
-### 💬 **Prompt 3: Cadangan Program Pembangunan Akademik**
+### 💬 **Prompt 3: Cadangan Program Pembangunan Akademik Nasional**
 
 ```
-Berdasarkan data staf akademik UTM 2025, cadangkan 3 program latihan atau pembangunan profesional
-yang sesuai untuk meningkatkan kemahiran pengajaran dan penyelidikan bagi pensyarah muda.
+Berdasarkan data staf akademik IPTA 2025, cadangkan 3 program pembangunan profesional peringkat nasional
+yang dapat meningkatkan kompetensi pedagogi, kepimpinan akademik dan keupayaan penyelidikan untuk pensyarah muda.
 ```
 
-### 💬 **Prompt 4: Unjuran Pertumbuhan Tenaga Akademik**
+### 💬 **Prompt 4: Unjuran Pertumbuhan Tenaga Akademik IPTA di bawah KPM**
 
 ```
-Jika bilangan staf akademik UTM dijangka meningkat sebanyak 2% setiap tahun, ramalkan bilangan staf
-akademik pada tahun 2030. Sediakan jadual unjuran 2025–2030.
+Jika bilangan staf akademik IPTA dijangka meningkat sebanyak 3% setiap tahun, ramalkan bilangan staf akademik
+pada tahun 2030. Sediakan jadual unjuran pertumbuhan dari 2025 hingga 2030.
 ```
 
-### 💬 **Prompt 5: E-mel Rasmi Cadangan Penambahan Tenaga Akademik**
+### 💬 **Prompt 5: Draf E-mel Rasmi Cadangan Penambahan Staf Akademik**
 
 ```
-Tulis e-mel rasmi kepada Timbalan Naib Canselor Akademik bagi mencadangkan penambahan staf akademik
-di fakulti anda. Gunakan data semasa dan nyatakan sebab seperti nisbah staf kepada pelajar dan
-beban kerja.
+Tulis e-mel rasmi kepada Ketua Pengarah Pendidikan Tinggi untuk mencadangkan penambahan staf akademik
+di salah satu IPTA. Gunakan data semasa dan sertakan justifikasi seperti nisbah staf kepada pelajar,
+keperluan bidang kritikal dan tekanan beban tugas akademik.
 ```
 
 ### ✅ **Hasil Diharapkan**
 
-* Peserta boleh mengaitkan **data sebenar** dengan **keperluan strategik jabatan/fakulti**.
-* Peserta mampu menghasilkan dokumen rasmi, visualisasi, dan cadangan dasar berdasarkan AI.
-* Penerapan AI ke arah **HR planning dan performance reporting**.
+* Peserta dapat mengaitkan **data nasional** dengan **keperluan strategik pengurusan sumber manusia akademik IPTA**.
+* Peserta mampu menyediakan dokumen rasmi, visualisasi, dan cadangan dasar berasaskan teknologi AI.
+* Penerapan AI dalam merancang **HR planning, talent pipeline** dan pelaporan prestasi sektor pendidikan tinggi di bawah KPM.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
