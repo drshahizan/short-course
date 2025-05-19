@@ -59,11 +59,11 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 |1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
 |2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](./materials/390836may.pdf)|
 |3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
-|3.|[AI and education Guidance for policy-makers (UNESCO)](./materials/391104eng.pdf)|
-|4.|[AI competency framework for teachers (UNESCO)](/materials/376709eng.pdf)|
-|5.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|6.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|7.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+|4.|[AI and education Guidance for policy-makers (UNESCO)](./materials/391104eng.pdf)|
+|5.|[AI competency framework for teachers (UNESCO)](/materials/376709eng.pdf)|
+|6.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+|7.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|8.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 
 ### 🙌🏻 Connect with Me
 <p align="left">
