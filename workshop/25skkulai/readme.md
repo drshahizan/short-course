@@ -42,7 +42,7 @@ Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengaja
 |  |  |[Kimi](./materials/kimi.md)|
 |8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
-|  |  | [Latihan 3: Kenali UTM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
+|  |  | [Latihan 3: Kenali KPM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
 |  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
 |  |  | [Latihan 5: Peramalan Jumlah Penduduk Malaysia](./materials/latihan5.md)|
 |  |  | [Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM](./materials/latihan6.md)|
