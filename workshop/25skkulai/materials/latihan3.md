@@ -5,22 +5,22 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan 3: Kenali UTM & Tingkatkan Produktiviti Melalui Maklumat Institusi
+# Latihan 3: Kenali Kementerian Pendidikan Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi
 
 ### 🎯 Objektif:
 
-* Mengenal pasti kekuatan dan pencapaian semasa UTM (2025)
+* Mengenal pasti kekuatan dan pencapaian semasa Kementerian Pendidikan Malaysia (2025)
 * Menggunakan maklumat institusi untuk menyokong tugasan kerja, laporan, pembentangan, dan perancangan strategik
 * Melatih peserta menstruktur prompt yang berkesan untuk menjana kandungan berdasarkan data institusi
 
 ### 📌 **Aktiviti Latihan**
 
-**Tugasan**: Gunakan ChatGPT untuk menghasilkan kandungan berdasarkan fakta dan statistik berkaitan UTM (2025) bagi tujuan seperti penulisan laporan rasmi, e-mel cadangan, pembentangan kerja, atau penghasilan dokumen promosi dalaman.
+**Tugasan**: Gunakan ChatGPT untuk menghasilkan kandungan berdasarkan fakta dan statistik berkaitan Kementerian Pendidikan Malaysia (2025) bagi tujuan seperti penulisan laporan rasmi, e-mel cadangan, pembentangan kerja, atau penghasilan dokumen promosi dalaman.
 
-### 💬 **Prompt 1: Penulisan Laporan Pencapaian Universiti**
+### 💬 **Prompt 1: Penulisan Laporan Pencapaian Kementerian Pendidikan Malaysia**
 
 ```
-Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Universiti Teknologi Malaysia dari segi kedudukan
+Berdasarkan data tahun 2025, sediakan ringkasan pencapaian Kementerian Pendidikan Malaysia dari segi kedudukan
 ranking, bilangan pelajar, pencapaian penyelidikan dan kolaborasi industri. Sediakan dalam bentuk laporan
 ringkas satu halaman.
 ```
@@ -28,31 +28,30 @@ ringkas satu halaman.
 ### 💬 **Prompt 2: E-mel Cadangan kepada Pengurusan**
 
 ```
-Tulis satu e-mel cadangan kepada pihak pengurusan untuk mencadangkan penyertaan jabatan dalam Hari Terbuka UTM
-berdasarkan pencapaian UTM dalam QS World University Rankings 2025 dan kekuatan penyelidikan universiti. Gunakan
+Tulis satu e-mel cadangan kepada pihak pengurusan untuk mencadangkan penyertaan jabatan dalam Hari Terbuka Kementerian Pendidikan Malaysia (KPM) berdasarkan pencapaian KPM pada tahun 2024 dan kekuatan penyelidikan universiti. Gunakan
 nada profesional dan meyakinkan.
 ```
 
-### 💬 **Prompt 3: Skrip Pembentangan UTM untuk Majlis Rasmi**
+### 💬 **Prompt 3: Skrip Pembentangan Jabatan Pendidikan Negeri Johor untuk Majlis Rasmi**
 
 ```
-Sediakan skrip 2 minit untuk pembentangan dalam majlis pelawat luar negara ke UTM. Perkenalkan universiti dengan
-maklumat terkini (2025) berkaitan bilangan fakulti, pelajar antarabangsa, dan kolaborasi global. Gunakan gaya
+Sediakan skrip 2 minit untuk pembentangan dalam majlis pelawat luar negara ke Jabatan Pendidikan Negeri Johor. Perkenalkan orgisasi dengan
+maklumat terkini (2025) berkaitan bilangan guru, pelajar, dan kolaborasi global. Gunakan gaya
 formal dan persuasif.
 ```
 
 ### 💬 **Prompt 4: Menjana Fakta Ringkas untuk Laman Web atau Brosur**
 
 ```
-Senaraikan 5 fakta menarik tentang UTM berdasarkan maklumat tahun 2025 yang boleh digunakan dalam brosur promosi
+Senaraikan 5 fakta menarik tentang Jabatan Pendidikan Negeri Johor berdasarkan maklumat tahun 2025 yang boleh digunakan dalam brosur promosi
 universiti. Fokus kepada elemen yang boleh menarik minat pelajar antarabangsa dan rakan industri.
 ```
 
 ### 💬 **Contoh Prompt 5: Guna AI untuk Menjana KPI Berasaskan Data Institusi**
 
 ```
-Berdasarkan profil dan pencapaian Universiti Teknologi Malaysia tahun 2025, cadangkan 5 Key Performance Indicators
-(KPI) yang sesuai untuk mengukur keberkesanan program inovasi dalaman universiti.
+Berdasarkan profil dan pencapaian Kementerian Pendidikan Malaysia tahun 2025, cadangkan 5 Key Performance Indicators
+(KPI) yang sesuai untuk mengukur keberkesanan program inovasi.
 ```
 
 ### 🙌🏻 Connect with Me
