@@ -15,7 +15,7 @@ This workshop is ideal for **early-career researchers**, **postgraduate students
 
 ## Materials
 1. [Open Access (OA) agreement with Springer Nature](elegible.md)
-2. 
+2. [How to Find Eligible Springer Journals by Subject Area](jf.md)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
