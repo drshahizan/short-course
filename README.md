@@ -47,8 +47,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-IIRG Colloquium: Series 3  
-|27 May | 🇲🇾 Universiti Teknologi Malaysia | [IIRG Colloquium: Series 3  ](https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS3) | 
+|27 May | 🇲🇾 Universiti Teknologi Malaysia | [IIRG Colloquium: Series 3](https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS3) | 
 |20 May | 🇲🇾 Pejabat Pendidikan Daerah Kulai | [Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://github.com/drshahizan/short-course/tree/main/workshop/25skkulai) | 
 |15 May | 🇲🇾 Universiti Teknologi Malaysia | [ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5) | 
 |6 May | 🇲🇾 Universiti Tun Hussein Onn Malaysia | [ICTMBE 2025 - Workshop: AI Tools in Research](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE) | 
