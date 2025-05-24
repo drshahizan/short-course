@@ -8,29 +8,45 @@
 # 🚀 Nexscholar: A Research Network Platform
 
 <p align="center">
- <img src="../images/poster_najmi.jpeg" height="600">
- </p>
- 
-Looking for research collaboration or funding for your next project? Join us to discover how Nexscholar is transforming the academic ecosystem with AI-powered tools — and offering grant opportunities for lecturers!
+  <img src="../images/poster_najmi.jpeg" height="600" alt="Nexscholar Poster">
+</p>
 
-👨‍🏫 Special Highlights:
-✅ Grant Opportunities provided by Nexscholar for academic staff
-✅ Collaboration across universities, research groups, and industries
-✅ AI-powered matching to connect with the right collaborators, students, or supervisors
-✅ Showcase and manage your research more effectively
+Are you looking for **research collaboration**, **grant opportunities**, or **AI-driven tools** to enhance your academic journey? Join us for an insightful session on **Nexscholar**, a dynamic platform revolutionizing research networking and collaboration.
 
-🎤 Speaker: Dr. Ahmad Najmi
-📅 Date: 27 May 2025
-🕑 Time: 3.30 PM – 4.30 PM
-📍 Venue: Hyflex Classroom, N28A, UTM
+## 🌟 Why Attend?
 
-🍱 Meal provided for all registered participants
+✅ **Exclusive Grant Opportunities**  
+Nexscholar offers dedicated research funding for **academic staff** across institutions.
 
-Registration Link: https://forms.gle/hg7th4WKeMhzMD6v9
+✅ **Smart Collaboration Matching**  
+Powered by **AI algorithms**, Nexscholar connects you with the right **collaborators**, **students**, or **supervisors** from global academia and industry.
 
-👉 Let’s build a smarter research future — together.
-🌐 Visit us at: [www.nexscholar.com](www.nexscholar.com)
-📲 Contact: 013-7481261
+✅ **Institutional & Industrial Linkages**  
+Forge meaningful partnerships across **universities**, **research groups**, and **industry players**.
+
+✅ **Integrated Research Management**  
+Efficiently manage and showcase your research portfolio on a secure digital platform.
+
+## 🎤 Speaker Information
+
+**👨‍🏫 Speaker:** Dr. Ahmad Najmi Amerhaider Nuar  
+**📅 Date:** Tuesday, 27 May 2025  
+**🕑 Time:** 3:30 PM – 4:30 PM  
+**📍 Venue:** Hyflex Classroom, Block N28A, Faculty of Computing, Universiti Teknologi Malaysia (UTM)
+
+🍱 *Complimentary meal will be provided to all registered participants.*
+
+## 🔗 Registration
+
+👉 **Register now:** [https://forms.gle/hg7th4WKeMhzMD6v9](https://forms.gle/hg7th4WKeMhzMD6v9)
+
+## 🌐 More Information
+
+- 🌍 **Website:** [www.nexscholar.com](http://www.nexscholar.com)  
+- 📞 **Contact:** +60 13-748 1261  
+
+Let’s build a smarter, more connected research future — **together**. 🤝📚💡
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
