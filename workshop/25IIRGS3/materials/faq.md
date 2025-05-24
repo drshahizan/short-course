@@ -17,6 +17,9 @@ To confirm eligibility:
 
 * Submit your manuscript to a journal covered by the agreement.
 * Use at least one of the recognized methods to identify your institutional affiliation during submission.
+
+https://media.springernature.com/full/springer-cms/rest/v1/content/19355956/data/v3
+
 * Upon acceptance, provide accurate institutional details when prompted.
 
 ## 3. **Which article types are covered by this agreement?**
