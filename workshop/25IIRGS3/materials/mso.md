@@ -17,6 +17,7 @@ This workshop is ideal for **early-career researchers**, **postgraduate students
 1. [Open Access (OA) agreement with Springer Nature](elegible.md)
 2. [Publishing open access in a hybrid journal (eligible journals)](https://resource-cms.springernature.com/springer-cms/rest/v1/content/27742874/data/v4)
 3. [How to Find Eligible Springer Journals by Subject Area](jf.md)
+4. [FAQs regarding the Open Access (OA) agreement between Malaysia and Springer Nature](faq.md)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
@@ -29,7 +30,3 @@ This workshop is ideal for **early-career researchers**, **postgraduate students
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
-
-
-
