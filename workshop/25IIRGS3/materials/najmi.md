@@ -15,7 +15,7 @@ In an increasingly interconnected academic world, collaboration and visibility a
 
 Led by **Dr. Ahmad Najmi Amerhaider Nuar**, the session will explore how **Nexscholar** harnesses the power of **AI-driven matching tools** to help academics find the right research partners, supervisors, students, and funding opportunities. Participants will also learn how to showcase their work, manage their research profile, and join a growing network of scholars across disciplines and institutions.
 
-## Key highlights
+## 🔑 Key highlights
 
 * Access to **exclusive research grants** for academic staff
 * **AI-powered collaboration matching** with researchers and industry partners
