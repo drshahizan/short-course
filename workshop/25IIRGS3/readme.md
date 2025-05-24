@@ -6,23 +6,25 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
+# 🎓 IIRG Colloquium – Series 3
 
- <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
+The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Universiti Teknologi Malaysia, is excited to present the third session of its colloquium series! 📢📘 Scheduled for **Tuesday, 27 May 2025**, this academic gathering is designed to inspire and empower researchers, postgraduate students, and faculty members 💡👩‍🎓👨‍🏫.
 
-**Sinopsis Program:**
+🗣️ **Featured Speakers & Topics:**
 
-Kursus ini direka khas untuk guru besar dan guru bagi memperkenalkan potensi dan aplikasi teknologi Kecerdasan Buatan (AI), khususnya ChatGPT, dalam bidang pendidikan. Sepanjang kursus ini, peserta akan didedahkan kepada kaedah praktikal menggunakan ChatGPT dan aplikasi AI lain bagi meningkatkan keberkesanan pengurusan sekolah serta memperkasakan proses pengajaran dan pembelajaran (PdP) di dalam bilik darjah.
+1️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
+Learn how to avoid common pitfalls and polish your academic writing.
 
-Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengajaran yang interaktif, menyusun pelaporan pentadbiran, dan mengoptimumkan masa serta sumber melalui penggunaan teknologi AI. Bengkel ini juga menyediakan ruang eksplorasi secara hands-on bagi membina kemahiran asas menggunakan ChatGPT secara bertanggungjawab, selamat, dan beretika dalam konteks pendidikan.
+2️⃣ **Assoc. Prof. Dr. Mohd Shahizan Othman** – *"Publish Without Pay"* 💸🚫
+Discover how to leverage **Springer Nature’s free APC** opportunity for open-access publication.
 
-**Hasil Pembelajaran:**
+3️⃣ **Dr. Ahmad Najmi Amerhaider Nuar** – *"Nexscholar: A Research Network Platform"* 🌐🔗
+Explore a platform that connects scholars, fosters collaboration, and elevates research visibility.
 
-* Memahami konsep asas AI dan ChatGPT serta aplikasinya dalam bidang pendidikan.
-* Mengetahui cara-cara penggunaan ChatGPT untuk merancang dan menyokong PdP.
-* Meneroka aplikasi AI untuk kegunaan pengurusan sekolah secara lebih cekap.
-* Mengenalpasti etika dan batasan penggunaan AI dalam konteks pendidikan.
-* Membangunkan kemahiran asas menggunakan ChatGPT melalui aktiviti praktikal.
+🎯 This event promises to be an enriching experience that promotes knowledge-sharing, academic excellence, and collaborative research. All are welcome to participate in this engaging afternoon of learning and networking.
+
+Let’s build impactful research together through purpose, passion, and partnership. 🤝💬🌍
+
 
 ## Bahan Pengajaran
 
