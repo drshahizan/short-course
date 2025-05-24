@@ -7,12 +7,13 @@
 
 # 🧭 How to Find Eligible Springer Journals by Subject Area
 
-[![Top Journal Finder Tools - Global Researcher Club](https://tse2.mm.bing.net/th?id=OIP.ecvixln1M7g1xVItZvXe-wHaFL\&pid=Api)](https://globalresearcherclub.org/top-journal-finder-tools/)
+<p align="center">
+  <img src="https://globalresearcherclub.org/wp-content/uploads/2023/10/Screenshot-2023-10-31-182838-jpg.webp" height="400" alt="Springer Journal Finder">
+</p>
 
-https://globalresearcherclub.org/wp-content/uploads/2023/10/Screenshot-2023-10-31-182838-jpg.webp
 1. **Access the Springer Journal Finder**
 
-   * Visit the [Springer Journal Finder](https://journalfinder.springer.com).
+   * Visit the [Springer Journal Finder](https://link.springer.com/journals).
 
 2. **Enter Your Manuscript Details**
 
