@@ -10,7 +10,7 @@
 DeepSeek ialah sebuah syarikat teknologi yang khusus dalam bidang **kecerdasan buatan (AI)** dan **pembelajaran mesin (machine learning)**. Syarikat ini menumpukan usaha dalam membangunkan penyelesaian AI yang inovatif untuk pelbagai industri, termasuk pemprosesan bahasa semula jadi (NLP), penglihatan komputer (computer vision), analisis data, dan automasi. 
 
 <p align="center">
- <img src="https://www.jploft.com/posts/DeepSeek%20Infographic.webp" height="600">
+ <img src="../images/" height="600">
  </p>
  
 <p align="center">
