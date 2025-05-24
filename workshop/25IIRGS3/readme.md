@@ -5,7 +5,6 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
 # 🎓 IIRG Colloquium – Series 3
 
 The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Universiti Teknologi Malaysia, is excited to present the third session of its colloquium series! 📢📘 Scheduled for **Tuesday, 27 May 2025**, this academic gathering is designed to inspire and empower researchers, postgraduate students, and faculty members 💡👩‍🎓👨‍🏫.
@@ -24,21 +23,6 @@ Explore a platform that connects scholars, fosters collaboration, and elevates r
 🎯 This event promises to be an enriching experience that promotes knowledge-sharing, academic excellence, and collaborative research. All are welcome to participate in this engaging afternoon of learning and networking.
 
 Let’s build impactful research together through purpose, passion, and partnership. 🤝💬🌍
-
-
-
-## Maklumat Tambahan
-
-| No | Topik |
-|--------:|---------|
-|1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-|2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](./materials/390836may.pdf)|
-|3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
-|4.|[AI and education Guidance for policy-makers (UNESCO)](./materials/391104eng.pdf)|
-|5.|[AI competency framework for teachers (UNESCO)](/materials/376709eng.pdf)|
-|6.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|7.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|8.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 
 ### 🙌🏻 Connect with Me
 <p align="left">
