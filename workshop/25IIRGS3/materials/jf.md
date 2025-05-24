@@ -11,9 +11,9 @@
   <img src="https://globalresearcherclub.org/wp-content/uploads/2023/10/Screenshot-2023-10-31-182838-jpg.webp" height="400" alt="Springer Journal Finder">
 </p>
 
-1. **Access the Springer Journal Finder**
+1. **Access the Springer Nature Link**
 
-   * Visit the [Springer Journal Finder](https://link.springer.com/journals).
+   * Visit the [Springer Nature Link](https://link.springer.com/journals).
 
 2. **Enter Your Manuscript Details**
 
