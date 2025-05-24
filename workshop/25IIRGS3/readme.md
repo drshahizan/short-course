@@ -14,7 +14,7 @@ The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Uni
 1️⃣ **[Assoc. Prof. Dr. Mohd Shahizan Othman](./materials/mso.md)** – *"Publish Without Pay"* 💸🚫
 Discover how to leverage **Springer Nature’s free APC** opportunity for open-access publication.
 
-2️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
+2️⃣ **[Assoc. Prof. Dr. Shahida Sulaiman](./materials/ss.md)** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
 Learn how to avoid common pitfalls and polish your academic writing.
 
 3️⃣ **[Dr. Ahmad Najmi Amerhaider Nuar](./materials/najmi.md)** – *"Nexscholar: A Research Network Platform"* 🌐🔗
