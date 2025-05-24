@@ -17,7 +17,7 @@ In addition to APC coverage, the agreement provides full access to subscription 
 
 ### 🏛️ Participating Institutions
 
-The agreement includes more than 20 Malaysian institutions. Some of the participating institutions are:[Springer Nature](https://www.springernature.com/gp/open-science/oa-agreements/malaysia)
+The agreement includes more than 20 Malaysian institutions. Some of the participating institutions are:
 
 * Universiti Teknologi Malaysia ✅
 * International Islamic University Malaysia
@@ -40,7 +40,7 @@ To determine if you are eligible to publish under this agreement:
 
 1. **Confirm Institutional Affiliation**: Ensure you are the corresponding author affiliated with one of the participating institutions.
 
-2. **Select an Eligible Journal**: Choose a journal from Springer Nature's portfolio that is included in the agreement.([Springer Nature][3])
+2. **Select an Eligible Journal**: Choose a journal from Springer Nature's portfolio that is included in the agreement.
 
 3. **Submit Your Manuscript**: During the submission process, indicate your institutional affiliation accurately.
 
