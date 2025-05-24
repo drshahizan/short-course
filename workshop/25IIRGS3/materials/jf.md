@@ -9,6 +9,7 @@
 
 [![Top Journal Finder Tools - Global Researcher Club](https://tse2.mm.bing.net/th?id=OIP.ecvixln1M7g1xVItZvXe-wHaFL\&pid=Api)](https://globalresearcherclub.org/top-journal-finder-tools/)
 
+https://globalresearcherclub.org/wp-content/uploads/2023/10/Screenshot-2023-10-31-182838-jpg.webp
 1. **Access the Springer Journal Finder**
 
    * Visit the [Springer Journal Finder](https://journalfinder.springer.com).
