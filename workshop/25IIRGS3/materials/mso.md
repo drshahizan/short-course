@@ -13,7 +13,9 @@ Delivered by **Assoc. Prof. Dr. Mohd Shahizan Othman**, the session will walk pa
 
 This workshop is ideal for **early-career researchers**, **postgraduate students**, and **faculty members** who wish to **publish more strategically and cost-effectively** while increasing their research reach and accessibility.
 
-
+## Materials
+1. [Open Access (OA) agreement with Springer Nature](elegible.md)
+2. 
 
 ### 🙌🏻 Connect with Me
 <p align="left">
