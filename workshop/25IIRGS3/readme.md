@@ -11,7 +11,7 @@ The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Uni
 
 🗣️ **Featured Speakers & Topics:**
 
-1️⃣ **Assoc. Prof. Dr. Mohd Shahizan Othman** – *"Publish Without Pay"* 💸🚫
+1️⃣ **[Assoc. Prof. Dr. Mohd Shahizan Othman](./materials/mso.md)** – *"Publish Without Pay"* 💸🚫
 Discover how to leverage **Springer Nature’s free APC** opportunity for open-access publication.
 
 2️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
