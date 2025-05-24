@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📚 *Workshop Synopsis: Publish Without Pay – Leveraging Springer Nature’s Free APC Opportunity*
+# 📚 Publish Without Pay – Leveraging Springer Nature’s Free APC Opportunity
 
 In today’s academic landscape, **publishing in high-impact journals** often comes with high Article Processing Charges (APCs), limiting opportunities for researchers, especially those without dedicated funding. This workshop titled **"Publish Without Pay: Leveraging Springer Nature’s Free APC Opportunity"** aims to equip participants with practical knowledge on how to **publish open access articles in reputable journals without incurring publication fees**.
 
