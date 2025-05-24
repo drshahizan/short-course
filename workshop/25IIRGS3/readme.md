@@ -12,11 +12,11 @@ The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Uni
 
 🗣️ **Featured Speakers & Topics:**
 
-1️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
-Learn how to avoid common pitfalls and polish your academic writing.
-
-2️⃣ **Assoc. Prof. Dr. Mohd Shahizan Othman** – *"Publish Without Pay"* 💸🚫
+1️⃣ **Assoc. Prof. Dr. Mohd Shahizan Othman** – *"Publish Without Pay"* 💸🚫
 Discover how to leverage **Springer Nature’s free APC** opportunity for open-access publication.
+
+2️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
+Learn how to avoid common pitfalls and polish your academic writing.
 
 3️⃣ **Dr. Ahmad Najmi Amerhaider Nuar** – *"Nexscholar: A Research Network Platform"* 🌐🔗
 Explore a platform that connects scholars, fosters collaboration, and elevates research visibility.
@@ -26,33 +26,6 @@ Explore a platform that connects scholars, fosters collaboration, and elevates r
 Let’s build impactful research together through purpose, passion, and partnership. 🤝💬🌍
 
 
-## Bahan Pengajaran
-
-| No | Pelajaran | Topik |
-|--------|---------|---------|
-| 1.| Slaid |[Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EeYnFrdvX_xKqbsH07QN7acBE_GaVxrrnmhTGrtj3Xdfjw?e=DlHoPb)
-| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBqeBYT9WJ0HWwLgb_8wmt6A?e=cjxlwW)
-| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
-| 6. | Telegram |[Copilot](./materials/telegram.md)|
-| 7. | Aplikasi AI |[Qwen](./materials/qwen.md)|
-|  |  |[Gemini](https://gemini.google.com/app)|
-|  |  |[DeepSeek](./materials/deepseek.md)|
-|  |  |[Napkin.ai](./materials//napkin.md)|
-|  |  |[Grok](./materials/grok.md)|
-|  |  |[Kimi](./materials/kimi.md)|
-|8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
-|  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
-|  |  | [Latihan 3: Kenali KPM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
-|  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
-|  |  | [Latihan 5: Peramalan Jumlah Penduduk Malaysia](./materials/latihan5.md)|
-|  |  | [Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM](./materials/latihan6.md)|
-|  |  | [Latihan 7: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
-|  |  | [Latihan 8: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 9: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
-|  |  | [Latihan 10: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
-|  |  | [Latihan 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
 ## Maklumat Tambahan
 
