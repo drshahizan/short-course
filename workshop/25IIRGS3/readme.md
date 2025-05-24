@@ -17,7 +17,7 @@ Discover how to leverage **Springer Nature’s free APC** opportunity for open-a
 2️⃣ **Assoc. Prof. Dr. Shahida Sulaiman** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
 Learn how to avoid common pitfalls and polish your academic writing.
 
-3️⃣ **Dr. Ahmad Najmi Amerhaider Nuar** – *"Nexscholar: A Research Network Platform"* 🌐🔗
+3️⃣ **[Dr. Ahmad Najmi Amerhaider Nuar](./materials/najmi.md)** – *"Nexscholar: A Research Network Platform"* 🌐🔗
 Explore a platform that connects scholars, fosters collaboration, and elevates research visibility.
 
 🎯 This event promises to be an enriching experience that promotes knowledge-sharing, academic excellence, and collaborative research. All are welcome to participate in this engaging afternoon of learning and networking.
