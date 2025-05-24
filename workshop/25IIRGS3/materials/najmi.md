@@ -11,30 +11,16 @@
   <img src="../images/poster_najmi.jpeg" height="600" alt="Nexscholar Poster">
 </p>
 
-Are you looking for **research collaboration**, **grant opportunities**, or **AI-driven tools** to enhance your academic journey? Join us for an insightful session on **Nexscholar**, a dynamic platform revolutionizing research networking and collaboration.
+In an increasingly interconnected academic world, collaboration and visibility are key to impactful research. This workshop, **"Nexscholar: A Research Network Platform"**, introduces participants to a powerful digital platform designed to revolutionize the way researchers connect, collaborate, and secure funding.
 
-## 🌟 Why Attend?
+Led by **Dr. Ahmad Najmi Amerhaider Nuar**, the session will explore how **Nexscholar** harnesses the power of **AI-driven matching tools** to help academics find the right research partners, supervisors, students, and funding opportunities. Participants will also learn how to showcase their work, manage their research profile, and join a growing network of scholars across disciplines and institutions.
 
-✅ **Exclusive Grant Opportunities**  
-Nexscholar offers dedicated research funding for **academic staff** across institutions.
+## Key highlights
 
-✅ **Smart Collaboration Matching**  
-Powered by **AI algorithms**, Nexscholar connects you with the right **collaborators**, **students**, or **supervisors** from global academia and industry.
-
-✅ **Institutional & Industrial Linkages**  
-Forge meaningful partnerships across **universities**, **research groups**, and **industry players**.
-
-✅ **Integrated Research Management**  
-Efficiently manage and showcase your research portfolio on a secure digital platform.
-
-## 🎤 Speaker Information
-
-**👨‍🏫 Speaker:** Dr. Ahmad Najmi Amerhaider Nuar  
-**📅 Date:** Tuesday, 27 May 2025  
-**🕑 Time:** 3:30 PM – 4:30 PM  
-**📍 Venue:** Hyflex Classroom, Block N28A, Faculty of Computing, Universiti Teknologi Malaysia (UTM)
-
-🍱 *Complimentary meal will be provided to all registered participants.*
+* Access to **exclusive research grants** for academic staff
+* **AI-powered collaboration matching** with researchers and industry partners
+* Tools for managing and promoting research visibility
+* Opportunities to engage in multi-institutional and cross-border collaborations
 
 ## 🔗 Registration
 
@@ -47,6 +33,7 @@ Efficiently manage and showcase your research portfolio on a secure digital plat
 
 Let’s build a smarter, more connected research future — **together**. 🤝📚💡
 
+This workshop is ideal for **academicians**, **research officers**, **postgraduate students**, and **institutional research leaders** who aim to expand their research network and increase their impact within the global research ecosystem.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
