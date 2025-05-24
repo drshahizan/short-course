@@ -7,9 +7,7 @@
 
 # 🎓 IIRG Colloquium – Series 3
 
-The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Universiti Teknologi Malaysia, is excited to present the third session of its colloquium series.
-
-📢📘 Scheduled for **Tuesday, 27 May 2025**, this academic gathering is designed to inspire and empower researchers, postgraduate students, and faculty members 💡👩‍🎓👨‍🏫.
+The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Universiti Teknologi Malaysia, is excited to present the third session of its colloquium series. Scheduled for **Tuesday, 27 May 2025**, this academic gathering is designed to inspire and empower researchers, postgraduate students, and faculty members 💡👩‍🎓👨‍🏫.
 
 🗣️ **Featured Speakers & Topics:**
 
