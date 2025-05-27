@@ -13,6 +13,7 @@ Facilitated by **Assoc. Prof. Dr. Shahida Sulaiman**, this session will provide 
 
 Whether you're at the beginning of your thesis journey or preparing for final submission, this workshop will enhance your writing skills and guide you toward producing a more polished and impactful thesis.
 
+[📘 Slide](ss.pdf)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
