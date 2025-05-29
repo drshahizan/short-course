@@ -7,10 +7,10 @@
 
 # 🧠 English for Global AI: ChatGPT
 
-**📅 Date:** 4 June 2025
-**🕘 Time:** 9:00 AM – 5:00 PM
-**📍 Venue:** UTMSPACE, Block T05, Universiti Teknologi Malaysia, Skudai
-**👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan bin Othman
+- **📅 Date:** 4 June 2025
+- **🕘 Time:** 9:00 AM – 5:00 PM
+- **📍 Venue:** UTMSPACE, Block T05, Universiti Teknologi Malaysia, Skudai
+- **👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan bin Othman
 
 **Synopsis:**
 This professional development program, organized by UTMSPACE, aims to enhance participants' proficiency in using English within the context of Artificial Intelligence applications. Titled *"English for Global AI"*, the focus of Short Course 2 will center on the practical integration of **ChatGPT**, a leading generative AI model, in global communication, education, and workplace productivity.
