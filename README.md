@@ -48,6 +48,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|4 Jun | 🇲🇾 Universiti Teknologi Malaysia | [English for Global AI: ChatGPT](https://github.com/drshahizan/short-course/tree/main/workshop/25Korea)  | 
 |27 May | 🇲🇾 Universiti Teknologi Malaysia | [IIRG Colloquium: Series 3](https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS3) <br> - Publish Without Pay: Leveraging Springer Nature’s Free APC Opportunity  <br> - Ten Common Mistakes in Thesis Writing  <br> - Nexscholar: A Research Network Platform| 
 |20 May | 🇲🇾 PPD Kulai & Persatuan Guru Besar Malaysia | [Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://github.com/drshahizan/short-course/tree/main/workshop/25skkulai) | 
 |15 May | 🇲🇾 Universiti Teknologi Malaysia | [ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5) | 
