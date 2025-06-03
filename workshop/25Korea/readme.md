@@ -9,7 +9,7 @@
 
 - **📅 Date:** 4 June 2025
 - **🕘 Time:** 9:00 AM – 5:00 PM
-- **📍 Venue:** UTMSPACE, Block T05, Universiti Teknologi Malaysia, Skudai
+- **📍 Venue:** Block T05, Universiti Teknologi Malaysia, Skudai
 - **👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan bin Othman
 
 **Synopsis:**
