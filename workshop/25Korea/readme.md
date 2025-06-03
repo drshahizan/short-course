@@ -19,6 +19,35 @@ The full-day course will equip participants with the foundational knowledge and 
 
 This session forms part of UTMSPACE’s ongoing commitment to bridging language skills with AI fluency for professionals in the digital age.
 
+## **What Participants Will Learn:**  
+
+### 🔍 **[1. Literature Discovery & Understanding](./materials/1_ldu)**
+* **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
+* **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
+* **SciSpace** – Research summarization, citation tracing, and question answering
+
+### 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**
+* **Qwen** – Advanced Chinese-English model for logic-based academic thought
+* **Kimi** – AI assistant for digesting and explaining scientific papers
+* **Grok** - is a conversational AI designed to simulate creative reasoning and exploratory thought processes.
+* **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
+* **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
+
+### 🗺️ **[3. Knowledge Organization & Mind Mapping](./materials/3_knowledge)**
+* **Markmap** – Interactive markdown-based mind mapping for concept clarity
+* **NotebookLM** – Google’s research notebook with contextual document analysis
+
+### 📊 **[4. Data & Result Visualization](./materials/4_data)**
+* **ChatGPT** – ChatGPT can assist in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting appropriate visual formats. 
+* **Napkin AI** – Also helpful for translating concepts into diagrams or flows
+* **Infogram.com** – Create engaging infographics, charts, and data dashboards
+
+### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
+* **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
+* **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
+* **Qwen (Thinking mode)** - Developed by Alibaba, Qwen’s Thinking Mode is designed for structured academic reasoning. It excels at building logical arguments, decomposing complex research problems, and framing thesis-worthy questions. 
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
