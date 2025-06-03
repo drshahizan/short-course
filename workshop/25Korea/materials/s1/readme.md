@@ -5,7 +5,83 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  
+#  🟩 **Session 1: Welcome & Introduction to ChatGPT**
+
+This session is designed to help Korean high school students **warm up**, **feel comfortable using English**, and **get introduced to ChatGPT** in an easy and engaging way. The tone should be friendly and supportive, with visual aids and live demonstrations to maintain interest.
+
+## ✅ **1. Ice-Breaking Activity: Introduce Yourself with ChatGPT's Help**
+
+**Objective:** Make students less shy and introduce basic ChatGPT prompting.
+
+* The instructor greets everyone and briefly introduces the workshop.
+
+* Each student will work in pairs or small groups with a device (or guided by the instructor on a projector) to type a simple prompt like:
+
+  > ✍️ *"Help me introduce myself in English. I am 16 years old. I like music and drawing."*
+
+* ChatGPT returns a sentence like:
+
+  > *"Hi! My name is Jisoo. I am 16 years old and I enjoy music and drawing. Nice to meet you!"*
+
+* Students then read aloud their generated introductions (voluntarily or in small groups).
+
+> 💡 *Benefit:* Eases nervousness, shows how ChatGPT can support them immediately.
+
+
+
+## ✅ **2. What is ChatGPT? How Does It Work?**
+
+**Objective:** Explain the basic idea of ChatGPT in simple, age-appropriate English.
+
+* Explain that **ChatGPT is a computer program made by OpenAI** that can read and write like a human.
+* Use visuals or analogies:
+
+  * ChatGPT is like a **very smart robot friend** who has read millions of books and websites.
+  * It doesn’t “think” like a person, but it gives answers based on patterns in data.
+* Key points:
+
+  * It responds to **“prompts”** (questions or instructions).
+  * It uses **machine learning**, especially **language models**.
+
+> 👀 *Visual demo:* Show how ChatGPT answers a few example questions live.
+
+
+## ✅ **3. Why English is Important in AI and the Global World**
+
+**Objective:** Motivate students to see the value of learning English in today’s AI-driven, globalized world.
+
+* Explain that English is the **international language** of:
+
+  * Technology (AI tools, programming)
+  * Science and academic writing
+  * Business and job markets
+* Most AI tools—including ChatGPT—**use English by default**, and understanding English makes them more powerful for learning.
+
+> 🌍 *Mini discussion:* Ask students, “Where do you see English in your life?” (e.g., YouTube, games, K-pop interviews, school subjects)
+
+## ✅ **4. Simple Examples: Asking Questions in English Using ChatGPT (15 minutes)**
+
+**Objective:** Let students try real, simple English prompts and see friendly responses.
+
+Provide 3–5 prompts they can try immediately:
+
+* 🗣️ *“Teach me 5 English words about food.”*
+* 🗣️ *“What is the meaning of ‘curious’?”*
+* 🗣️ *“Make a sentence using the word ‘challenge’.”*
+* 🗣️ *“Help me write a thank you message to my teacher.”*
+
+Instructor demonstrates each example on screen and explains what’s happening.
+
+> ✏️ *Activity:* Each student types one question in English into ChatGPT and reads the response with a partner or aloud.
+
+### 🎯 **Session Goal Recap**
+
+> 🧠 *By the end of this session, students should:*
+
+* Understand what ChatGPT is and what it can do.
+* Feel **safe and confident** asking questions in English.
+* See that AI can help them improve their **real-life English** skills.
+* Start the day with **energy, curiosity, and low anxiety**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
