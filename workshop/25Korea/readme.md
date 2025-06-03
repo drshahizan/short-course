@@ -23,7 +23,7 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 #### 🟩 **Session 1: Welcome & Introduction to ChatGPT**
 * Ice-breaking activity: Introduce yourself with ChatGPT's help
-* hat is ChatGPT? How does it work?
+* What is ChatGPT? How does it work?
 * Why English is important in AI and the global world
 * Simple examples: Asking questions in English using ChatGPT
 
