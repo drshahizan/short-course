@@ -61,6 +61,8 @@ Job interviews in English are common in multinational companies, exchange progra
 * How to maintain polite and professional tone
 * How to reflect and improve on your answers based on AI feedback
 
+### [Exercise](exercise5.md)
+
 ### 🎯 **Session Learning Outcomes**
 
 By the end of this session, you should be able to:
