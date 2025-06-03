@@ -24,13 +24,15 @@ Write about yourself in the spaces provided. Don’t worry about grammar — Cha
 ### 🔹 Step 2: Copy and type this prompt into ChatGPT
 
 ```
-Hi ChatGPT. Please help me write an introduction about myself. My name is [your name]. I am [your age] years old. I am from [your country]. My hobbies are [hobby 1] and [hobby 2].
+Hi ChatGPT. Please help me write an introduction about myself. My name is [your name].
+I am [your age] years old. I am from [your country]. My hobbies are [hobby 1] and [hobby 2].
 ```
 
 ➡️ Example:
 
 ```
-Hi ChatGPT. Please help me write an introduction about myself. My name is Minji. I am 16 years old. I am from Korea. My hobbies are painting and listening to music.
+Hi ChatGPT. Please help me write an introduction about myself. My name is Minji. I am 16 years old. I am from Korea.
+My hobbies are painting and listening to music.
 ```
 
 ### 🔹 Step 3: Read ChatGPT’s response
