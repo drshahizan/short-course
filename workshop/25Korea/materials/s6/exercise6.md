@@ -5,7 +5,39 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🟧 **Session 6
+# 🟧 Session 6
+
+**Lesson 1: Generative AI**
+Explore global trends in generative AI through the [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023), which provides insights into international adoption, public interest, and regional usage patterns.
+
+**Lesson 2: Installation & Sign-in**
+Get started by learning how to sign in and use various AI tools such as ChatGPT, BingAI, Gemini, and AIPRM. Refer to this [installation and sign-in guide](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md) for step-by-step instructions.
+
+**Lesson 3: Prompts**
+Practice using prompts with the following resources:
+
+* [Exercise on prompt usage](https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md)
+* [Effective prompt writing techniques](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)
+* [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)
+* [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)
+* [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)
+* [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts)
+* [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)
+* [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)
+
+**Lesson 4: Copywriting**
+Understand the [role of copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) in the AI era and explore practical applications through a [case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting).
+
+**Lesson 5: Image Creator**
+Learn how to create AI-generated images using various tools:
+
+* [Bing's Image Creator guide](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md)
+* [Prompt example: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)
+* [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/)
+
+**Lesson 6: Games & Challenges**
+Participate in a team-based challenge and scavenger hunt using ChatGPT. This informal and creative activity promotes English language practice through engaging interaction and fun learning.
+
 
 
 ### 🙌🏻 Connect with Me
