@@ -5,7 +5,92 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+## 🟧 Session 5 – ChatGPT Prompt Practice
+
+### ✅ **Instructions:**
+
+1. For each subtopic, read and complete the 5 prompts.
+2. Replace the brackets `[ ]` with your own ideas.
+3. Enter your personalized prompt into ChatGPT and review the result.
+4. Select one prompt and its response to present or submit.
+
+### ✦ 1. **Using ChatGPT to Write a School Essay or Project Report**
+
+1. ```
+   Help me create an essay outline about [the impact of social media on students].
+   ```
+2. ```
+   Suggest three main points I can use in a report about [renewable energy in Malaysia].
+   ```
+3. ```
+   Rewrite this paragraph in formal academic English: [I think online classes are okay, but sometimes boring].
+   ```
+4. ```
+   Help me write the conclusion section of a report about [climate change awareness among teenagers].
+   ```
+5. ```
+   Generate a project title and introduction paragraph for a report about [AI in education].
+   ```
+
+### ✦ 2. **Asking ChatGPT for Help with Science or History in English**
+
+1. ```
+   Explain the process of [photosynthesis / data encryption / the water cycle] in simple English.
+   ```
+2. ```
+   What are the causes and effects of [World War I / the Industrial Revolution]?
+   ```
+3. ```
+   Summarize this topic in 100 words: [the structure of the human brain / the French Revolution].
+   ```
+4. ```
+   Define 5 key terms related to [genetics / ancient civilizations] and give simple examples.
+   ```
+5. ```
+   Create a short paragraph explaining the importance of [vaccination / the printing press].
+   ```
+
+### ✦ 3. **How AI Can Help You in Your Dream Job**
+
+1. ```
+   Describe how AI can support a person working as a [graphic designer / teacher / engineer].
+   ```
+2. ```
+   Write a paragraph about how I can use ChatGPT to improve in my dream job: [data analyst / journalist].
+   ```
+3. ```
+   List 5 skills I need to succeed as a [software developer / business consultant] and explain why each is important.
+   ```
+4. ```
+   Suggest 3 professional email subjects I could use when applying for a job in [marketing / healthcare].
+   ```
+5. ```
+   Draft a simple work report using formal English about [a product launch / a team meeting].
+   ```
+
+### ✦ 4. **Role-Play: ChatGPT as Your Interview Coach**
+
+1. ```
+   Ask me 3 interview questions for a job as a [project manager / customer service officer].
+   ```
+2. ```
+   Give me feedback on my answer: "My greatest strength is [ ] because [ ]."
+   ```
+3. ```
+   How should I answer the question: "Where do you see yourself in five years?" for a [finance / education] role?
+   ```
+4. ```
+   Help me write a short self-introduction for a job interview in [English / software engineering].
+   ```
+5. ```
+   Show me a polite way to ask the interviewer a question about [work culture / job responsibilities].
+   ```
+
+### 📘 **Reflection Question (Optional):**
+
+After completing the prompts, reflect on one:
+
+* What did you learn about how to communicate in English more effectively in a professional or academic setting?
 
 
 ### 🙌🏻 Connect with Me
