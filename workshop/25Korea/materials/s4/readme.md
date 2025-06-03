@@ -70,6 +70,8 @@ You can ask ChatGPT to:
 * Suggest how your character reacts in different situations
 * Turn your character’s journey into a short story or comic-style script
 
+### [Exercise](exercise4.md)
+
 ### 🎯 **Learning Outcomes of This Session**
 
 By the end of this session, you should be able to:
@@ -78,8 +80,6 @@ By the end of this session, you should be able to:
 * Apply descriptive and narrative techniques to build characters and plots
 * Express yourself more confidently in written English through creative formats
 * Develop storytelling skills for future use in public speaking, writing portfolios, or multimedia projects
-
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
