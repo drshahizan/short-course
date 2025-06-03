@@ -54,9 +54,7 @@ Think about which of these tools is most interesting to you.
 * Which ones would be useful for your **school subjects**?
 * Which one do you want to try in the future?
 
-### 🧠 **Class Activity: Matching Tools with School Tasks**
-
-In class, you will work in a team to match each tool with the kind of task it’s best for. This will help you understand how each AI tool can support your learning and creativity.
+### 🧠 [Exercise 2](example2.md)
 
 ### ✅ **What You Will Learn from This Session:**
 
