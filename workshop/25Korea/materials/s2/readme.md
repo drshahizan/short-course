@@ -9,36 +9,43 @@
 
 In this session, you will learn about **5 useful AI tools** that are becoming popular in education and creative thinking around the world. These tools can help you study better, improve your English, and develop your ideas in exciting new ways.
 
-## 🔹 **Qwen**
+### 🔍 **1. Overview of Popular AI Tools in the Global Education World**
 
-Qwen is an AI tool that can help you write and think in a more academic way. It is good at building strong ideas, using proper grammar, and organizing writing clearly.
-You can use Qwen when you want to write a school essay or answer difficult questions in subjects like history, science, or social studies.
-Qwen is also helpful if you want to sound more like a scholar or advanced writer in English.
+Introduce each tool in simple, relatable language. If possible, show short demos or screenshots.
 
-## 🔹 **Kimi**
+#### 📘 **Qwen – Thinking and Writing Like a Scholar**
 
-Kimi is an AI assistant that helps students understand complicated information in simple ways. It is often used to read and explain scientific papers or school texts.
-If you are reading a subject that is hard to understand—like biology or technology—Kimi can help you know what it means, step by step.
-This tool is useful for both reading practice and learning difficult school topics in English.
+* Developed by Alibaba Cloud, Qwen is strong in **logic, language, and structure**.
+* Good at **outlining essays**, **generating academic-style writing**, and **answering reasoning questions**.
+* Great for students who want to **practice formal English** or write school reports.
 
-## 🔹 **Grok**
 
-Grok is designed for creative thinking. It can have deep conversations, share opinions, and help you think about the future or big ideas.
-This tool is good for writing stories, having debates, and exploring new questions.
-If you enjoy writing, imagining, or asking “what if” questions, Grok can help you grow your English and creative skills.
+#### 📄 **Kimi – Understanding and Explaining Academic Papers**
 
-## 🔹 **Napkin AI**
+* Designed for **reading scientific articles** and giving **easy-to-understand explanations**.
+* Perfect for students who are curious about science but struggle with complex English texts.
+* Can help summarize or translate difficult papers into simple English.
 
-Napkin AI is a special tool that takes your ideas and turns them into visual diagrams or simple pictures.
-You can describe a process, concept, or idea—and it will show you a chart, drawing, or mind map.
-This is very useful if you are a visual learner or want to organize your thoughts for school presentations or projects.
-It also helps link English words to pictures, making learning easier.
 
-## 🔹 **Gemini (by Google)**
+#### 🧠 **Grok – Creative Conversations and Big Ideas**
 
-Gemini is a strong and reliable AI for research, writing, and deep learning. It can read articles, find trusted information, and help you write about what you learn.
-This tool is great for schoolwork that involves collecting facts, comparing ideas, or writing about different topics.
-Gemini can help improve your writing, support your studies in English, and give you more confidence with research.
+* Created by xAI (Elon Musk’s team), Grok is good at **open-ended questions** and **imaginative thinking**.
+* Helps with **debates, opinion writing, and brainstorming** new ideas.
+* Can be funny, weird, and smart—great for **creative writing and critical thinking**.
+
+
+#### 🖼️ **Napkin AI – Turn Ideas into Diagrams and Visuals**
+
+* A **text-to-visualization tool**: you describe your idea, and it creates a diagram or chart.
+* Good for **mind maps, project planning, and explaining processes visually**.
+* Supports English learning by connecting words to images (good for visual learners).
+
+
+#### 🔍 **Gemini (Google) – Deep Research and Reliable Writing Help**
+
+* Google’s powerful AI assistant. Strong in **finding sources, summarizing articles**, and writing with **citation awareness**.
+* Excellent for **research projects**, school essays, and studying different subjects in English.
+* You can ask Gemini to compare information, explain ideas, or give reliable data.
 
 ### 💬 **Discussion Time**
 
