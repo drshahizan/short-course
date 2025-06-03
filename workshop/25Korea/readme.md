@@ -64,11 +64,8 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 > 💼 *Activity: Write your dream job description in English with ChatGPT's help.*
 
-#### 🟫 [Session 6: Games & Challenges with ChatGPT](materials/s6)
-* Team challenge: Who can write the best English joke, rap, or speech?
-* ChatGPT-based scavenger hunt in English
-
-> 🏆 *Fun contest: "Best Prompt of the Day!"*
+#### 🟫 [Creative Content Generation with Generative AI](materials/s6)
+This session introduces participants to the practical applications of generative AI in producing diverse creative content. Starting with an overview of global trends in generative AI, learners will explore how to craft effective prompts to guide AI tools like ChatGPT and Copilot. The session continues with the fundamentals of AI-assisted copywriting and culminates in hands-on exploration of AI-powered image generation. By the end of the session, participants will understand how generative AI can be leveraged to create engaging text and visuals, making it a powerful tool for communication, research, and digital creativity.
 
 #### 🟪 **Closing Session: What Did We Learn?**
 * Reflection: What new English words did you learn today?
