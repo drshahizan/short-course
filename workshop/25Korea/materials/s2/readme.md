@@ -13,7 +13,7 @@ In this session, you will learn about **5 useful AI tools** that are becoming po
 
 Introduce each tool in simple, relatable language. If possible, show short demos or screenshots.
 
-#### 📘 **[Qwen – Thinking and Writing Like a Scholar](2_idea/ai/qwen.md)**
+#### 📘 **[Qwen – Thinking and Writing Like a Scholar](/2_idea/ai/qwen.md)**
 
 * Developed by Alibaba Cloud, Qwen is strong in **logic, language, and structure**.
 * Good at **outlining essays**, **generating academic-style writing**, and **answering reasoning questions**.
