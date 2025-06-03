@@ -13,35 +13,34 @@ In this session, you will learn about **5 useful AI tools** that are becoming po
 
 Introduce each tool in simple, relatable language. If possible, show short demos or screenshots.
 
-#### 📘 **[Qwen – Thinking and Writing Like a Scholar](../2_idea/ai/qwen.md)**
+#### 📘 [Qwen – Thinking and Writing Like a Scholar](../2_idea/ai/qwen.md)
 
 * Developed by Alibaba Cloud, Qwen is strong in **logic, language, and structure**.
 * Good at **outlining essays**, **generating academic-style writing**, and **answering reasoning questions**.
 * Great for students who want to **practice formal English** or write school reports.
 
-
-#### 📄 **Kimi – Understanding and Explaining Academic Papers**
+#### 📄 [Kimi – Understanding and Explaining Academic Papers](../2_idea/ai/kimi.md)
 
 * Designed for **reading scientific articles** and giving **easy-to-understand explanations**.
 * Perfect for students who are curious about science but struggle with complex English texts.
 * Can help summarize or translate difficult papers into simple English.
 
 
-#### 🧠 **Grok – Creative Conversations and Big Ideas**
+#### 🧠 [Grok – Creative Conversations and Big Ideas](../2_idea/ai/grok.md)
 
 * Created by xAI (Elon Musk’s team), Grok is good at **open-ended questions** and **imaginative thinking**.
 * Helps with **debates, opinion writing, and brainstorming** new ideas.
 * Can be funny, weird, and smart—great for **creative writing and critical thinking**.
 
 
-#### 🖼️ **Napkin AI – Turn Ideas into Diagrams and Visuals**
+#### 🖼️ [Napkin AI – Turn Ideas into Diagrams and Visuals](../2_idea/ai/napkin.md)
 
 * A **text-to-visualization tool**: you describe your idea, and it creates a diagram or chart.
 * Good for **mind maps, project planning, and explaining processes visually**.
 * Supports English learning by connecting words to images (good for visual learners).
 
 
-#### 🔍 **Gemini (Google) – Deep Research and Reliable Writing Help**
+#### 🔍 [Gemini (Google) – Deep Research and Reliable Writing Help](../2_idea/ai/gemini.md)
 
 * Google’s powerful AI assistant. Strong in **finding sources, summarizing articles**, and writing with **citation awareness**.
 * Excellent for **research projects**, school essays, and studying different subjects in English.
