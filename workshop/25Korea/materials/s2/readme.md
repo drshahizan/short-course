@@ -54,7 +54,7 @@ Think about which of these tools is most interesting to you.
 * Which ones would be useful for your **school subjects**?
 * Which one do you want to try in the future?
 
-### 🧠 [Exercise 2](example2.md)
+### 🧠 [Exercise 2](exercise2.md)
 
 ### ✅ **What You Will Learn from This Session:**
 
