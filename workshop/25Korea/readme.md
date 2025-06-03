@@ -13,40 +13,69 @@
 - **👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan bin Othman
 
 **Synopsis:**
-This professional development program, organized by UTMSPACE, aims to enhance participants' proficiency in using English within the context of Artificial Intelligence applications. Titled *"English for Global AI"*, the focus of Short Course 2 will center on the practical integration of **ChatGPT**, a leading generative AI model, in global communication, education, and workplace productivity.
+This professional development program, organized by UTMSPACE, aims to enhance participants' proficiency in using English within the context of Artificial Intelligence applications. Titled *"English for Global AI"*, the focus of Short Course will center on the practical integration of **ChatGPT**, a leading generative AI model, in global communication, education, and workplace productivity.
 
 The full-day course will equip participants with the foundational knowledge and applied skills to utilize ChatGPT effectively in tasks such as drafting content, generating ideas, summarizing texts, and enhancing English language usage in AI-mediated environments. The training will be led by **Assoc. Prof. Dr. Mohd Shahizan**, an expert in the field of computing and AI communication.
 
 This session forms part of UTMSPACE’s ongoing commitment to bridging language skills with AI fluency for professionals in the digital age.
 
-## **What Participants Will Learn:**  
+### 🗂️ **Content Overview**
 
-### 🔍 **[1. Literature Discovery & Understanding](./materials/1_ldu)**
-* **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
-* **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
-* **SciSpace** – Research summarization, citation tracing, and question answering
+#### 🟩 **Session 1: Welcome & Introduction to ChatGPT**
+* Ice-breaking activity: Introduce yourself with ChatGPT's help
+* hat is ChatGPT? How does it work?
+* Why English is important in AI and the global world
+* Simple examples: Asking questions in English using ChatGPT
 
-### 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**
-* **Qwen** – Advanced Chinese-English model for logic-based academic thought
-* **Kimi** – AI assistant for digesting and explaining scientific papers
-* **Grok** - is a conversational AI designed to simulate creative reasoning and exploratory thought processes.
-* **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
-* **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
+> 🧠 *Goal: Feel comfortable using simple English and AI tools.*
 
-### 🗺️ **[3. Knowledge Organization & Mind Mapping](./materials/3_knowledge)**
-* **Markmap** – Interactive markdown-based mind mapping for concept clarity
-* **NotebookLM** – Google’s research notebook with contextual document analysis
+#### 🟦 **Session 2: Exploring AI Tools for Learning & Creativity**
+* Overview of popular AI tools in the global education world
 
-### 📊 **[4. Data & Result Visualization](./materials/4_data)**
-* **ChatGPT** – ChatGPT can assist in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting appropriate visual formats. 
-* **Napkin AI** – Also helpful for translating concepts into diagrams or flows
-* **Infogram.com** – Create engaging infographics, charts, and data dashboards
+  * **Qwen:** Thinking and writing like a scholar
+  * **Kimi:** Understanding and explaining academic papers
+  * **Grok:** Creative conversations and big ideas
+  * **Napkin AI:** Turn ideas into diagrams and visuals
+  * **Gemini (Google):** Deep research and reliable writing help
+* Discussion: Which tools help with English? Which for school?
 
-### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
-* **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
-* **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
-* **Qwen (Thinking mode)** - Developed by Alibaba, Qwen’s Thinking Mode is designed for structured academic reasoning. It excels at building logical arguments, decomposing complex research problems, and framing thesis-worthy questions. 
+> 💡 *Activity: Match each tool to a real-world student task.*
 
+#### 🟦 **Session 3: Everyday English with ChatGPT**
+* Practice: Making polite requests and greetings
+* ChatGPT as your English study partner
+* Correcting grammar and pronunciation tips
+* Using ChatGPT for vocabulary learning and sentence building
+
+> ✏️ *Activity: Ask ChatGPT to fix or improve your English diary entry.*
+
+#### 🟨 **Session 4: Creative Writing and Storytelling**
+* How to write a short story using ChatGPT
+* Writing English poems, fairy tales, or comic scenes
+* Build your own character and story with AI help
+
+> 🎨 *Group Activity: Create a short story with your team and present it in English.*
+
+#### 🟧 **Session 5: English for the Future – AI, School, and Career**
+* Using ChatGPT to write a school essay or project report
+* Asking ChatGPT for help with science or history in English
+* How AI can help you in your dream job
+* Role-play: ChatGPT as your interview coach
+
+> 💼 *Activity: Write your dream job description in English with ChatGPT's help.*
+
+#### 🟫 **Session 6: Games & Challenges with ChatGPT**
+* Team challenge: Who can write the best English joke, rap, or speech?
+* ChatGPT-based scavenger hunt in English
+
+> 🏆 *Fun contest: "Best Prompt of the Day!"*
+
+#### 🟪 **Closing Session: What Did We Learn?**
+* Reflection: What new English words did you learn today?
+* Feedback session (simple English survey)
+* Photo session & certificate presentation
+
+> 🎓 *Leave with confidence and tools to keep learning English with AI*
 
 
 ### 🙌🏻 Connect with Me
