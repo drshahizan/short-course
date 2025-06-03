@@ -40,7 +40,7 @@ Introduce each tool in simple, relatable language. If possible, show short demos
 * Supports English learning by connecting words to images (good for visual learners).
 
 
-#### 🔍 [Gemini (Google) – Deep Research and Reliable Writing Help](../5_writing/ai/gemini.md)
+#### 🔍 [Gemini (Google) – Deep Research and Reliable Writing Help](../1_ldu/ai/gemini.md)
 
 * Google’s powerful AI assistant. Strong in **finding sources, summarizing articles**, and writing with **citation awareness**.
 * Excellent for **research projects**, school essays, and studying different subjects in English.
