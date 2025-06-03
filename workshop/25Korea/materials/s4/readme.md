@@ -5,11 +5,8 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Certainly! Below is a detailed and structured **Session 4 student note** for **first-year degree students** titled:
 
----
-
-## 🟨 **Session 4: Creative Writing and Storytelling with ChatGPT**
+# 🟨 **Session 4: Creative Writing and Storytelling with ChatGPT**
 
 In this session, you will explore how to use **ChatGPT as a creative writing assistant**. Whether you're writing a short story, a poem, or even a comic scene, ChatGPT can help you **generate ideas, build characters, improve vocabulary**, and write in a more structured and expressive way. This session is designed to develop both your **English writing fluency** and **imaginative thinking**.
 
