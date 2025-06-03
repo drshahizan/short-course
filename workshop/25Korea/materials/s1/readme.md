@@ -59,7 +59,7 @@ This session is designed to help Korean high school students **warm up**, **feel
 
 > 🌍 *Mini discussion:* Ask students, “Where do you see English in your life?” (e.g., YouTube, games, K-pop interviews, school subjects)
 
-## ✅ **4. Simple Examples: Asking Questions in English Using ChatGPT (15 minutes)**
+## ✅ **4. Simple Examples: Asking Questions in English Using ChatGPT**
 
 **Objective:** Let students try real, simple English prompts and see friendly responses.
 
