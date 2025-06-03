@@ -73,6 +73,8 @@ Vocabulary is the foundation of fluent expression. However, **knowing a word** i
 
 Choose five unfamiliar words from your reading material. Ask ChatGPT to define them, provide collocations, and use each word in both an academic and informal sentence.
 
+### [Exercise](exercise1.md)
+
 ### ✅ **Learning Outcomes:**
 
 By the end of this session, you should be able to:
