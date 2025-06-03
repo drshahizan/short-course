@@ -7,7 +7,7 @@
 
 #  🟩 **Session 1: Welcome & Introduction to ChatGPT**
 
-This session is designed to help Korean high school students **warm up**, **feel comfortable using English**, and **get introduced to ChatGPT** in an easy and engaging way. The tone should be friendly and supportive, with visual aids and live demonstrations to maintain interest.
+This session is designed to help Korean students **warm up**, **feel comfortable using English**, and **get introduced to ChatGPT** in an easy and engaging way. The tone should be friendly and supportive, with visual aids and live demonstrations to maintain interest.
 
 ## ✅ **1. Ice-Breaking Activity: Introduce Yourself with ChatGPT's Help**
 
@@ -26,8 +26,6 @@ This session is designed to help Korean high school students **warm up**, **feel
 * Students then read aloud their generated introductions (voluntarily or in small groups).
 
 > 💡 *Benefit:* Eases nervousness, shows how ChatGPT can support them immediately.
-
-
 
 ## ✅ **2. What is ChatGPT? How Does It Work?**
 
@@ -70,8 +68,6 @@ Provide 3–5 prompts they can try immediately:
 * 🗣️ *“Make a sentence using the word ‘challenge’.”*
 * 🗣️ *“Help me write a thank you message to my teacher.”*
 
-Instructor demonstrates each example on screen and explains what’s happening.
-
 > ✏️ *Activity:* Each student types one question in English into ChatGPT and reads the response with a partner or aloud.
 
 ### 🎯 **Session Goal Recap**
@@ -82,6 +78,9 @@ Instructor demonstrates each example on screen and explains what’s happening.
 * Feel **safe and confident** asking questions in English.
 * See that AI can help them improve their **real-life English** skills.
 * Start the day with **energy, curiosity, and low anxiety**.
+
+
+## [Exercise](exercise1.md)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
