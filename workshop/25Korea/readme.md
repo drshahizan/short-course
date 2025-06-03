@@ -29,7 +29,7 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 > 🧠 *Goal: Feel comfortable using simple English and AI tools.*
 
-#### 🟦 **Session 2: Exploring AI Tools for Learning & Creativity**
+#### 🟦 [Session 2: Exploring AI Tools for Learning & Creativity](materials/s2)
 * Overview of popular AI tools in the global education world
 
   * **Qwen:** Thinking and writing like a scholar
@@ -41,7 +41,7 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 > 💡 *Activity: Match each tool to a real-world student task.*
 
-#### 🟦 **Session 3: Everyday English with ChatGPT**
+#### 🟦 [Session 3: Everyday English with ChatGPT](materials/s3)
 * Practice: Making polite requests and greetings
 * ChatGPT as your English study partner
 * Correcting grammar and pronunciation tips
@@ -49,14 +49,14 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 > ✏️ *Activity: Ask ChatGPT to fix or improve your English diary entry.*
 
-#### 🟨 **Session 4: Creative Writing and Storytelling**
+#### 🟨 [Session 4: Creative Writing and Storytelling](materials/s4)
 * How to write a short story using ChatGPT
 * Writing English poems, fairy tales, or comic scenes
 * Build your own character and story with AI help
 
 > 🎨 *Group Activity: Create a short story with your team and present it in English.*
 
-#### 🟧 **Session 5: English for the Future – AI, School, and Career**
+#### 🟧 [Session 5: English for the Future – AI, School, and Career](materials/s5)
 * Using ChatGPT to write a school essay or project report
 * Asking ChatGPT for help with science or history in English
 * How AI can help you in your dream job
@@ -64,7 +64,7 @@ This session forms part of UTMSPACE’s ongoing commitment to bridging language 
 
 > 💼 *Activity: Write your dream job description in English with ChatGPT's help.*
 
-#### 🟫 **Session 6: Games & Challenges with ChatGPT**
+#### 🟫 [Session 6: Games & Challenges with ChatGPT](materials/s6)
 * Team challenge: Who can write the best English joke, rap, or speech?
 * ChatGPT-based scavenger hunt in English
 
