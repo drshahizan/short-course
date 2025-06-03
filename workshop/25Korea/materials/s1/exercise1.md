@@ -7,9 +7,8 @@
 
 #  🟩 Exercise 1: Welcome & Introduction to ChatGPT
 
-**Session:** 🟩 *Welcome & Introduction to ChatGPT*
-**Time:** 20–25 minutes
-**Goal:** Use ChatGPT to help you write a short English introduction and practice speaking.
+- **Time:** 20–25 minutes
+- **Goal:** Use ChatGPT to help you write a short English introduction and practice speaking.
 
 ## 📌 **Instructions for Students**
 
@@ -17,10 +16,10 @@
 
 Write about yourself in the spaces provided. Don’t worry about grammar — ChatGPT will help!
 
-**My name is**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-**I am**: \_\_\_\_\_\_ years old
-**I am from**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-**My hobbies are**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **My name is**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **I am**: \_\_\_\_\_\_ years old
+- **I am from**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **My hobbies are**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### 🔹 Step 2: Copy and type this prompt into ChatGPT
 
