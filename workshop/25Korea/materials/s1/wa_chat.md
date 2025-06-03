@@ -6,8 +6,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Whatsapp
-Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. Sila imbas kod menggunakan telefon bimbit anda. Setelah berjaya disambungkan, perkhidmatan ini akan tersedia di **WhatsApp** anda. Anda kemudian boleh menaip prompt yang diinginkan untuk mendapatkan jawapan atau bantuan secara terus.
+# 📱 WhatsApp Access
+
+You can now use **ChatGPT** or **Microsoft Copilot** directly on **WhatsApp**. Simply scan the QR code using your mobile phone. Once connected, the service will be available through your WhatsApp chat. You can then type in your desired prompt to receive answers or assistance instantly.
 
 <table align="center">
   <tr>
@@ -24,37 +25,35 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
   </tr>
 </table>
 
-## Prompt ChatGPT di WhatsApp
+## 💬 ChatGPT Prompts on WhatsApp
 
-| **Kategori**            | **Prompt ChatGPT di WhatsApp** |
-|-------------------------|--------------------------------|
-| **💼 Produktiviti & Kerja** | "Bantu saya ringkaskan mesej ini supaya lebih profesional dan padat." |
-| **🌍 Penterjemahan & Bahasa** | "Terjemahkan mesej ini ke dalam bahasa Inggeris/Arab/Perancis dengan nada yang sopan." |
-| **🎨 Idea & Kreativiti** | "Saya ingin menulis ucapan hari lahir untuk rakan sekerja. Boleh beri idea yang unik?" |
-| **💬 Bantuan dalam Perbualan** | "Saya ingin membalas mesej ini dengan nada yang mesra tetapi tegas. Bagaimana caranya?" |
-| **🍲 Resepi & Masakan** | "Saya ada ayam dan sayur di rumah. Boleh cadangkan menu mudah untuk makan malam?" |
-| **💡 Motivasi & Inspirasi** | "Beri saya satu kata-kata semangat untuk memulakan hari dengan lebih positif." |
-| **🤖 Teknologi & AI** | "Apa kelebihan menggunakan ChatGPT di WhatsApp untuk meningkatkan produktiviti harian?" |
-| **💰 Kewangan & Perbelanjaan** | "Bagaimana saya boleh menyimpan wang dengan lebih berkesan setiap bulan?" |
-| **📚 Pendidikan & Pembelajaran** | "Terangkan konsep kecerdasan buatan dalam 3 ayat yang mudah difahami." |
-| **🏋️‍♂️ Kesihatan & Gaya Hidup** | "Boleh cadangkan senaman ringan yang boleh dilakukan di rumah dalam masa 10 minit?" |
+Here are some examples of useful prompts you can try with ChatGPT via WhatsApp:
 
-## Prompt Microsoft Copilot di WhatsApp
+* **💼 Productivity & Work**: “Help me summarise this message to make it more professional and concise.”
+* **🌍 Translation & Language**: “Translate this message into English/Arabic/French using a polite tone.”
+* **🎨 Ideas & Creativity**: “I want to write a birthday wish for a colleague. Can you suggest something unique?”
+* **💬 Conversation Support**: “How do I respond to this message in a friendly yet firm tone?”
+* **🍲 Recipes & Cooking**: “I have chicken and vegetables at home. Can you suggest an easy dinner recipe?”
+* **💡 Motivation & Inspiration**: “Give me a motivational quote to start my day on a positive note.”
+* **🤖 Technology & AI**: “What are the benefits of using ChatGPT on WhatsApp for daily productivity?”
+* **💰 Finance & Budgeting**: “How can I save money more effectively each month?”
+* **📚 Education & Learning**: “Explain the concept of artificial intelligence in three simple sentences.”
+* **🏋️‍♂️ Health & Lifestyle**: “Can you suggest a 10-minute light workout I can do at home?”
 
-| **Kategori**            | **Prompt Microsoft Copilot di WhatsApp** |
-|-------------------------|--------------------------------|
-| **📄 Penulisan Dokumen** | "Bantu saya drafkan emel rasmi untuk pensyarah mengenai perjumpaan fakulti minggu depan." |
-| **📊 Analisis Data** | "Bagaimana saya boleh menganalisis keputusan peperiksaan pelajar menggunakan Excel secara lebih efisien?" |
-| **🎓 Pengajaran & Pembelajaran** | "Boleh cadangkan cara menggunakan Microsoft Teams untuk kelas dalam talian yang lebih interaktif?" |
-| **📝 Persediaan Kuliah** | "Senaraikan 5 topik penting berkaitan kecerdasan buatan yang boleh dimasukkan dalam kuliah saya minggu depan." |
-| **🗓️ Pengurusan Jadual** | "Bantu saya susun jadual mesyuarat akademik dan tugasan menggunakan Microsoft Outlook." |
-| **📑 Pengurusan Dokumen** | "Bagaimana saya boleh mengautomasikan penyusunan fail penyelidikan dalam OneDrive atau SharePoint?" |
-| **🤝 Kolaborasi Projek** | "Apa cara terbaik untuk mengurus projek penyelidikan berkumpulan dengan Microsoft Planner?" |
-| **📢 Pengumuman & Notifikasi** | "Bantu saya buat teks pengumuman mesyuarat fakulti yang pendek dan jelas." |
-| **📜 Penyelidikan & Rujukan** | "Senaraikan 5 jurnal terkini mengenai kecerdasan buatan dalam pendidikan tinggi." |
-| **💡 Idea & Inovasi** | "Beri saya idea bagaimana AI boleh digunakan untuk meningkatkan pengalaman pembelajaran di UTM." |
+## 💡 Microsoft Copilot Prompts on WhatsApp
 
+Here are sample prompts to help you make the most of Microsoft Copilot through WhatsApp:
 
+* **📄 Document Writing**: “Help me draft a formal email to my lecturer about next week’s faculty meeting.”
+* **📊 Data Analysis**: “How can I analyse students’ exam results more efficiently in Excel?”
+* **🎓 Teaching & Learning**: “Can you suggest ways to use Microsoft Teams for more interactive online classes?”
+* **📝 Lecture Preparation**: “List five important topics on artificial intelligence I can include in my next lecture.”
+* **🗓️ Schedule Management**: “Help me organise my academic meetings and tasks using Microsoft Outlook.”
+* **📑 Document Management**: “How can I automate the organisation of my research files in OneDrive or SharePoint?”
+* **🤝 Project Collaboration**: “What’s the best way to manage a group research project using Microsoft Planner?”
+* **📢 Announcements & Notifications**: “Help me write a short and clear announcement for the faculty meeting.”
+* **📜 Research & References**: “List five recent journals on artificial intelligence in higher education.”
+* **💡 Ideas & Innovation**: “Give me ideas on how AI can improve the learning experience at UTM.”
 
 
 ### 🙌🏻 Connect with Me
