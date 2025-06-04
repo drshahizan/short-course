@@ -70,6 +70,8 @@ Provide 3–5 prompts they can try immediately:
 
 > ✏️ *Activity:* Each student types one question in English into ChatGPT and reads the response with a partner or aloud.
 
+## ✅ **5. [Whatsapp: ChatGPT and Copilot](wa_chat.md)**
+
 ### 🎯 **Session Goal Recap**
 
 > 🧠 *By the end of this session, students should:*
