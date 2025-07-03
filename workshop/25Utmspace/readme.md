@@ -10,19 +10,26 @@
 
  <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
 
-**Sinopsis Program:**
+**Synopsis:**
+The integration of Artificial Intelligence (AI) in education is rapidly transforming the landscape of teaching and learning. This half-day workshop aims to introduce UTMSpace academicians to the fundamental concepts, tools, and applications of AI that can enhance teaching effectiveness and learner engagement.
 
-Kursus ini direka khas untuk guru besar dan guru bagi memperkenalkan potensi dan aplikasi teknologi Kecerdasan Buatan (AI), khususnya ChatGPT, dalam bidang pendidikan. Sepanjang kursus ini, peserta akan didedahkan kepada kaedah praktikal menggunakan ChatGPT dan aplikasi AI lain bagi meningkatkan keberkesanan pengurusan sekolah serta memperkasakan proses pengajaran dan pembelajaran (PdP) di dalam bilik darjah.
+Participants will explore how AI-driven technologies such as intelligent tutoring systems, automated assessment tools, predictive analytics, and generative AI (e.g., ChatGPT, Gemini) can be strategically adopted to support teaching excellence. Real-world case studies, hands-on activities, and practical demonstrations will be used to illustrate how AI can streamline instructional tasks, personalize learning experiences, and foster data-informed decision-making.
 
-Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengajaran yang interaktif, menyusun pelaporan pentadbiran, dan mengoptimumkan masa serta sumber melalui penggunaan teknologi AI. Bengkel ini juga menyediakan ruang eksplorasi secara hands-on bagi membina kemahiran asas menggunakan ChatGPT secara bertanggungjawab, selamat, dan beretika dalam konteks pendidikan.
+By the end of the workshop, participants will gain a clearer understanding of the potentials and limitations of AI in education, identify suitable tools for their teaching context, and develop initial strategies for integrating AI into their pedagogical practices.
 
-**Hasil Pembelajaran:**
+**Workshop Learning Outcomes**
+By the end of this workshop, participants will be able to:
 
-* Memahami konsep asas AI dan ChatGPT serta aplikasinya dalam bidang pendidikan.
-* Mengetahui cara-cara penggunaan ChatGPT untuk merancang dan menyokong PdP.
-* Meneroka aplikasi AI untuk kegunaan pengurusan sekolah secara lebih cekap.
-* Mengenalpasti etika dan batasan penggunaan AI dalam konteks pendidikan.
-* Membangunkan kemahiran asas menggunakan ChatGPT melalui aktiviti praktikal.
+1. **Explain the fundamental concepts and current developments in Artificial Intelligence (AI) in education**, including technologies such as machine learning, intelligent tutoring systems, and generative AI.
+
+2. **Identify relevant AI applications in teaching and learning**, such as automated assessment, learning analytics, and personalized student experiences.
+
+3. **Evaluate the strengths and limitations of AI implementation in higher education**, particularly from ethical, pedagogical, and practical perspectives.
+
+4. **Explore and experiment with current AI tools (e.g., ChatGPT, Copilot, Gemini)** to support lecture delivery, teaching material generation, and student interaction.
+
+5. **Develop an initial strategy for integrating AI into their own teaching practices**, based on course needs and technological readiness.
+
 
 ## Bahan Pengajaran
 
