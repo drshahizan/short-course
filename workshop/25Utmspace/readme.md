@@ -8,7 +8,7 @@
 
 # Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
 
- <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
+ <img src="" alt="Shahizan SLR"  height="400">
 
 **Synopsis:**
 The integration of Artificial Intelligence (AI) in education is rapidly transforming the landscape of teaching and learning. This half-day workshop aims to introduce UTMSpace academicians to the fundamental concepts, tools, and applications of AI that can enhance teaching effectiveness and learner engagement.
