@@ -18,6 +18,7 @@ Participants will explore how AI-driven technologies such as intelligent tutorin
 By the end of the workshop, participants will gain a clearer understanding of the potentials and limitations of AI in education, identify suitable tools for their teaching context, and develop initial strategies for integrating AI into their pedagogical practices.
 
 **Workshop Learning Outcomes**
+
 By the end of this workshop, participants will be able to:
 
 1. **Explain the fundamental concepts and current developments in Artificial Intelligence (AI) in education**, including technologies such as machine learning, intelligent tutoring systems, and generative AI.
