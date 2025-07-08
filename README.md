@@ -14,6 +14,10 @@
 -->
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
+<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25Utmspace">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/utmspaceAI.jpg" alt="Dr Shahizan AI"  height="200">
+</a> 
+
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25ctld5">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="200">
 </a> 
@@ -48,6 +52,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|10 Jul | 🇲🇾 Universiti Teknologi Malaysia | [Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence](https://github.com/drshahizan/short-course/tree/main/workshop/25Utmspace)  | 
 |4 Jun | 🇲🇾 Universiti Teknologi Malaysia | [English for Global AI: ChatGPT](https://github.com/drshahizan/short-course/tree/main/workshop/25Korea)  | 
 |27 May | 🇲🇾 Universiti Teknologi Malaysia | [IIRG Colloquium: Series 3](https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS3) <br> - Publish Without Pay: Leveraging Springer Nature’s Free APC Opportunity  <br> - Ten Common Mistakes in Thesis Writing  <br> - Nexscholar: A Research Network Platform| 
 |20 May | 🇲🇾 PPD Kulai & Persatuan Guru Besar Malaysia | [Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://github.com/drshahizan/short-course/tree/main/workshop/25skkulai) | 
