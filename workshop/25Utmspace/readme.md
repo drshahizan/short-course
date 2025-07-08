@@ -8,7 +8,8 @@
 
 # Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence
 
- <img src="" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/utmspaceAI.jpg" alt="Shahizan SLR"  height="400">
+
 
 **Synopsis:**
 The integration of Artificial Intelligence (AI) in education is rapidly transforming the landscape of teaching and learning. This half-day workshop aims to introduce UTMSpace academicians to the fundamental concepts, tools, and applications of AI that can enhance teaching effectiveness and learner engagement.
