@@ -37,9 +37,11 @@ By the end of this workshop, participants will be able to:
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EeYnFrdvX_xKqbsH07QN7acBE_GaVxrrnmhTGrtj3Xdfjw?e=DlHoPb)
-| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBqeBYT9WJ0HWwLgb_8wmt6A?e=cjxlwW)
-| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 1.| Slaid |[Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EeYnFrdvX_xKqbsH07QN7acBE_GaVxrrnmhTGrtj3Xdfjw?e=DlHoPb)|
+| 2.|Garis Panduan|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
+| ||[Garis Panduan Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
+| ||[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
+| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
 | 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
 | 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
 | 6. | Telegram |[Copilot](./materials/telegram.md)|
@@ -65,15 +67,12 @@ By the end of this workshop, participants will be able to:
 
 | No | Topik |
 |--------:|---------|
-|1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-|2.|[Garis Panduan Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
-|3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
-|4.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf)|
-|5.|[AI and education Guidance for policy-makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf)|
-|6.|[AI competency framework for teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf)|
-|7.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|8.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|9.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+|1.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf)|
+|2.|[AI and education Guidance for policy-makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf)|
+|3.|[AI competency framework for teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf)|
+|4.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+|5.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|6.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 
 ### 🙌🏻 Connect with Me
 <p align="left">
