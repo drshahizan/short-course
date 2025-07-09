@@ -42,15 +42,15 @@ By the end of this workshop, participants will be able to:
 | ||[Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
 | ||[Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
 | 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/signin.md)|
-| 5. | WhatsApp |[ChatGPT, Copilot](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/wa-chatgpt.md)|
-| 6. | Telegram |[Copilot](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/telegram.md)|
-| 7. | Aplikasi AI |[Qwen](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/qwen.md)|
+| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
+| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
+| 6. | Telegram |[Copilot](./materials/telegram.md)|
+| 7. | Aplikasi AI |[Qwen](./materials/qwen.md)|
 |  |  |[Gemini](https://gemini.google.com/app)|
-|  |  |[DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/deepseek.md)|
-|  |  |[Napkin.ai](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/napkin.md)|
-|  |  |[Grok](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/grok.md)|
-|  |  |[Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/kimi.md)|
+|  |  |[DeepSeek](./materials/deepseek.md)|
+|  |  |[Napkin.ai](./materials/napkin.md)|
+|  |  |[Grok](./materials/grok.md)|
+|  |  |[Kimi](./materials/kimi.md)|
 |8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
 |  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
 |  |  | [Latihan 3: Kenali KPM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
