@@ -12,7 +12,7 @@ Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. S
 <table align="center">
   <tr>
     <td align="center"><img src="../images/qrcode_WA_chatgpt.png" height="300"></td>
-    <td align="center"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Copilot-Social-WhatsApp-QR-code-en-us-1083x722?fmt=png-alpha&scl=1&v3" height="300"></td>
+    <td align="center"><img src="../images/qrcode_wa.copilot.png" height="300"></td>
   </tr>
    <tr>
     <th align="center">ChatGPT</th>
