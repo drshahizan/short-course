@@ -37,7 +37,7 @@ By the end of this workshop, participants will be able to:
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EQrmWYJf7c5EtHJiHOrx6B4BiYKmSssyZ3NEadLpitqRZQ?e=H5a20N)|
+| 1.| Slaid |[Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EQrmWYJf7c5EtHJiHOrx6B4BiYKmSssyZ3NEadLpitqRZQ?e=H5a20N)|
 | 2.|Garis Panduan|[Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
 | ||[Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
 | ||[Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
