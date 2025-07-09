@@ -66,8 +66,9 @@ By the end of this workshop, participants will be able to:
 | No | Topik |
 |--------:|---------|
 |1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-|2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](./materials/390836may.pdf)|
+|1.|[Garis Panduan Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia]()|
 |3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
+|2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](./materials/390836may.pdf)|
 |4.|[AI and education Guidance for policy-makers (UNESCO)](./materials/391104eng.pdf)|
 |5.|[AI competency framework for teachers (UNESCO)](/materials/376709eng.pdf)|
 |6.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
