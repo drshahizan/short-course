@@ -38,9 +38,9 @@ By the end of this workshop, participants will be able to:
 | No | Pelajaran | Topik |
 |--------|---------|---------|
 | 1.| Slaid |[Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EeYnFrdvX_xKqbsH07QN7acBE_GaVxrrnmhTGrtj3Xdfjw?e=DlHoPb)|
-| 2.|Garis Panduan|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-| ||[Garis Panduan Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
-| ||[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
+| 2.|Garis Panduan|[Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
+| ||[Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
+| ||[Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
 | 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
 | 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
 | 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
