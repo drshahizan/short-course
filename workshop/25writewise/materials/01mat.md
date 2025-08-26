@@ -11,14 +11,11 @@
 
 Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexed journals** is considered a mark of quality and international recognition. To succeed, researchers must understand what these indexing systems are, how they differ, and what journals under these systems expect from authors.
 
-| **Resource**                                                      | **Link**                                                                                   |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 📘 ERA Journal List (*Excellence in Research for Australia, ARC*) | [https://www.arc.gov.au/era](https://www.arc.gov.au/era)|
-| 📘 ERA 2023 Submission Journal List|[Link](https://docs.google.com/spreadsheets/d/1LxlabFReLm7NEZw7xvlftZ9hlItGiU9G/edit?gid=1905987743#gid=1905987743)|
-| 📘 Scopus (*Elsevier*)                                            | [https://www.scopus.com](https://www.scopus.com)|
-
-
-
+| **Resource**                                                      | **Link** |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 📘 ERA Journal List (*Excellence in Research for Australia, ARC*) | [https://www.arc.gov.au/era](https://www.arc.gov.au/era) |
+| 📘 ERA 2023 Submission Journal List                               | [Google Sheets Link](https://docs.google.com/spreadsheets/d/1LxlabFReLm7NEZw7xvlftZ9hlItGiU9G/edit?gid=1905987743#gid=1905987743) |
+| 📘 Scopus (*Elsevier*)                                            | [https://www.scopus.com](https://www.scopus.com) |
 
 ## 1. What is ERA?
 
@@ -27,7 +24,7 @@ Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexe
 * ERA maintains a **Journal List** where journals are classified to assess academic performance.
 * For Australian institutions, publishing in ERA-listed journals increases visibility and contributes to **institutional ranking and funding allocation**.
 
-👉 **Key point for students**: Even if you are outside Australia, ERA-listed journals carry credibility because they are selected based on **quality, peer review process, and contribution to research**.
+👉 **Key point**: Even if you are outside Australia, ERA-listed journals carry credibility because they are selected based on **quality, peer review process, and contribution to research**.
 
 ## 2. What is Scopus?
 
@@ -40,10 +37,7 @@ Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexe
   * Evaluate journal impact (using **CiteScore, SNIP, and SJR**).
 * Being indexed in Scopus means the journal is recognized for **global standards, peer review integrity, and research impact**.
 
-👉 **Key point for students**: Publishing in Scopus-indexed journals enhances **international visibility**, increases chances of being cited, and strengthens academic CVs.
-
-
-
+👉 **Key point**: Publishing in Scopus-indexed journals enhances **international visibility**, increases chances of being cited, and strengthens academic CVs.
 
 ## 3. Comparison: ERA vs Scopus
 
@@ -79,7 +73,7 @@ Both ERA and Scopus expect journals to meet **high academic and ethical standard
   * Read the journal’s “Aims and Scope” page before submission.
   * Review past issues to understand the type of articles accepted.
 
-👉 **Tip for students**: Before writing, shortlist 2–3 journals where your article fits **best in scope**.
+👉 **Tips**: Before writing, shortlist 2–3 journals where your article fits **best in scope**.
 
 ## 6. Expectations from Editors and Reviewers
 
