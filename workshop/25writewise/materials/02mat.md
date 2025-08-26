@@ -7,7 +7,13 @@
 
 # 📝 **Exercise: Practical 1 – Assessing Your Draft Paper**
 
-| **Checklist Area**            | **Guiding Questions**                                                                                                                                                                                                                                                 | **Mark (✅ / ❌)** |
+To help participants **critically evaluate their own draft papers** and identify weaknesses that may reduce acceptance chances in ERA/Scopus journals. This exercise builds awareness of common issues and sets the foundation for later AI-assisted improvements.
+
+### **Step 1: Self-Review Checklist**
+
+Use the following **guided checklist** to assess your draft. Mark ✅ (Yes) or ❌ (No) for each point.
+
+| **Checklist Area**            | **Guiding Questions** | **Mark (✅ / ❌)** |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | 📚 **Content & Contribution** | – Is there a **clear research problem/question**? <br> – Does the paper present **novelty/new insights**? <br> – Are objectives aligned with results & conclusion?                                                                                                    |                  |
 | 🏗️ **Structure & Flow**      | – Is the **title precise and clear**? <br> – Does the **abstract summarize problem, method, results, significance**? <br> – Are sections (Intro → Methods → Results → Discussion → Conclusion) well-organized? <br> – Does each paragraph present **one clear idea**? |                  |
