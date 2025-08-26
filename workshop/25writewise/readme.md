@@ -11,11 +11,6 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
 
 
-**Synopsis:**
-Here’s a suitable synopsis you can use for the program featured in the poster:
-
----
-
 ### **Synopsis**
 
 The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
