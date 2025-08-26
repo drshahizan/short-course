@@ -5,7 +5,17 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# Teaching materials
+
+| **No** | **Category**                       | **Content / Resource** | **Focus Area**                                                                       |
+| ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| 1      | **Guidelines & Policies**          | • [Panduan AI Generatif dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> •  [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education & public sector**          |
+| 2      | **National Guidelines (Malaysia)** | • [Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI in Teaching & Learning (Higher Education)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [UTM Generative AI Guidelines for Teaching & Learning](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf) | **Policy adaptation** of Generative AI in Malaysia’s education and government sector |
+| 3      | **Trends & Insights**              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Understanding **global adoption, trends, and interest in AI**                        |
+| 4      | **Practical Installation**         | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step **setup and access** to AI tools |
+| 5      | **Integration with Communication** | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical **integration of AI into messaging platforms** |
+| 6      | **Learning Resources (Media)**     | • [Intro to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | **Awareness & critical perspectives** on AI potential and risks                      |
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
