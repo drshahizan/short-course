@@ -8,7 +8,7 @@
 
 # Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/utmspaceAI.jpg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
 
 
 **Synopsis:**
