@@ -5,7 +5,49 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# 📝 **Practical 2 Prompt Bank – Language Enhancement with AI**
+
+### 1. ✨ **Clarity**
+
+*Goal: Make sentences easy to read and ideas easier to follow.*
+**Prompt:**
+
+> “Rewrite this paragraph to make it clearer and easier to understand. Use shorter sentences, avoid unnecessary words, and maintain the original meaning.”
+
+### 2. ✅ **Grammar**
+
+*Goal: Correct grammar, punctuation, and tense errors without changing the content.*
+**Prompt:**
+
+> “Check this paragraph for grammar, spelling, and punctuation mistakes. Correct them and return a polished version, but do not change the meaning.”
+
+### 3. 🎓 **Academic Tone**
+
+*Goal: Adjust writing style to match formal academic standards.*
+**Prompt:**
+
+> “Rewrite this paragraph in formal academic English suitable for publication in a Scopus-indexed journal. Use precise vocabulary and avoid casual or informal expressions.”
+
+### 4. 🧠 **Technical Detail**
+
+*Goal: Improve precision, terminology, and subject-specific language (especially for STEM).*
+**Prompt:**
+
+> “Refine this paragraph to use accurate technical terms and precise scientific expressions. Ensure the explanation is correct for an academic audience.”
+
+### 5. 🚀 **Structure**
+
+*Goal: Improve logical flow, coherence, and readability.*
+**Prompt:**
+
+> “Restructure this paragraph to improve the logical flow of ideas. Organize the sentences so that the main argument is clear and supporting details follow naturally.”
+
+## 📌 How to Use
+
+* Copy 1–2 paragraphs from your draft.
+* Select the **specific prompt** based on what you want to improve.
+* Paste into an AI tool (ChatGPT, Gemini, Copilot, Qwen, or Grok).
+* Compare results and decide which version is best for your manuscript.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
