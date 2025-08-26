@@ -12,11 +12,19 @@
 
 
 **Synopsis:**
-The integration of Artificial Intelligence (AI) in education is rapidly transforming the landscape of teaching and learning. This half-day workshop aims to introduce UTMSpace academicians to the fundamental concepts, tools, and applications of AI that can enhance teaching effectiveness and learner engagement.
+Here’s a suitable synopsis you can use for the program featured in the poster:
 
-Participants will explore how AI-driven technologies such as intelligent tutoring systems, automated assessment tools, predictive analytics, and generative AI (e.g., ChatGPT, Gemini) can be strategically adopted to support teaching excellence. Real-world case studies, hands-on activities, and practical demonstrations will be used to illustrate how AI can streamline instructional tasks, personalize learning experiences, and foster data-informed decision-making.
+---
 
-By the end of the workshop, participants will gain a clearer understanding of the potentials and limitations of AI in education, identify suitable tools for their teaching context, and develop initial strategies for integrating AI into their pedagogical practices.
+### **Synopsis**
+
+The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
+
+This one-day hands-on workshop introduces participants to the practical use of **Generative AI tools** to refine their manuscripts. By leveraging AI-powered writing assistants, attendees will learn how to enhance clarity, coherence, and scholarly tone, as well as strengthen argumentation and citation management. The session will also cover ethical considerations in AI-assisted academic writing, ensuring participants can integrate these tools responsibly.
+
+Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computing, Universiti Teknologi Malaysia, the workshop emphasizes **interactive learning**. Participants are encouraged to bring along their draft papers to gain personalized feedback and direct improvements during the session.
+
+By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
 
 **Workshop Learning Outcomes**
 
