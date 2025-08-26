@@ -21,20 +21,35 @@ Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computi
 
 By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
 
-**Workshop Learning Outcomes**
 
-By the end of this workshop, participants will be able to:
+### **Workshop Learning Outcomes**
 
-1. **Explain the fundamental concepts and current developments in Artificial Intelligence (AI) in education**, including technologies such as machine learning, intelligent tutoring systems, and generative AI.
+By the end of the workshop, participants will be able to:
 
-2. **Identify relevant AI applications in teaching and learning**, such as automated assessment, learning analytics, and personalized student experiences.
+1. **Understand Publishing Requirements**
 
-3. **Evaluate the strengths and limitations of AI implementation in higher education**, particularly from ethical, pedagogical, and practical perspectives.
+   * Identify the key standards and expectations of ERA and Scopus-indexed journals.
+   * Recognize common reasons for manuscript rejection and strategies to overcome them.
 
-4. **Explore and experiment with current AI tools (e.g., ChatGPT, Copilot, Gemini)** to support lecture delivery, teaching material generation, and student interaction.
+2. **Apply Generative AI Tools in Academic Writing**
 
-5. **Develop an initial strategy for integrating AI into their own teaching practices**, based on course needs and technological readiness.
+   * Utilize AI-powered platforms to improve clarity, coherence, and academic style in draft articles.
+   * Enhance argumentation, literature integration, and citation management with the support of AI.
 
+3. **Improve Draft Manuscripts**
+
+   * Refine participants’ own draft papers through hands-on AI-assisted editing.
+   * Strengthen structure, flow, and overall readability to meet international publishing standards.
+
+4. **Evaluate Ethical and Responsible Use of AI**
+
+   * Discuss ethical considerations and limitations of using Generative AI in scholarly writing.
+   * Apply best practices to ensure academic integrity while integrating AI in manuscript preparation.
+
+5. **Develop Practical Publishing Strategies**
+
+   * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
+   * Gain confidence in aligning research contributions with target journal scopes and impact.
 
 ## Bahan Pengajaran
 
