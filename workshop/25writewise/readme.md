@@ -70,36 +70,14 @@ By the end of the workshop, participants will be able to:
 | **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](materials/09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
 
 
+| **Stage**                                                                   | **Tools & Descriptions** |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔍 **[1. Literature Discovery & Understanding](./materials/1_ldu)**         | • **Zeta Alpha** – Semantic search across academic papers with AI-powered insights <br> • **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus <br> • **SciSpace** – Research summarization, citation tracing, and question answering                                                                                                                                                                                                          |
+| 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**           | • **Qwen** – Advanced Chinese-English model for logic-based academic thought <br> • **Kimi** – AI assistant for digesting and explaining scientific papers <br> • **Grok** – Conversational AI designed to simulate creative reasoning and exploratory thought processes <br> • **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization) <br> • **Ideamap.ai** – Visual ideation tool to expand and connect research concepts |
+| 🗺️ **[3. Knowledge Organization & Mind Mapping](./materials/3_knowledge)** | • **Markmap** – Interactive markdown-based mind mapping for concept clarity <br> • **NotebookLM** – Google’s research notebook with contextual document analysis                                                                                                                                                                                                                                                                                                          |
+| 📊 **[4. Data & Result Visualization](./materials/4_data)**                 | • **ChatGPT** – Assists in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting visual formats <br> • **Napkin AI** – Helpful for translating concepts into diagrams or flows <br> • **Infogram.com** – Create engaging infographics, charts, and data dashboards                                                                                                                                                 |
+| 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**       | • **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing <br> • **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing <br> • **Qwen (Thinking Mode)** – Designed for structured academic reasoning, building logical arguments, decomposing complex research problems, and framing thesis-worthy questions                                                                        |
 
-## Bahan Pengajaran
-
-| No | Pelajaran | Topik |
-|--------|---------|---------|
-| 1.| Slaid |[Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EQrmWYJf7c5EtHJiHOrx6B4BiYKmSssyZ3NEadLpitqRZQ?e=H5a20N)|
-| 2.|Garis Panduan|[Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-| ||[Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
-| ||[Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
-| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
-| 6. | Telegram |[Copilot](./materials/telegram.md)|
-| 7. | Aplikasi AI |[Qwen](./materials/qwen.md)|
-|  |  |[Gemini](https://gemini.google.com/app)|
-|  |  |[DeepSeek](./materials/deepseek.md)|
-|  |  |[Napkin.ai](./materials/napkin.md)|
-|  |  |[Grok](./materials/grok.md)|
-|  |  |[Kimi](./materials/kimi.md)|
-|8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
-|  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
-|  |  | [Latihan 3: Kenali KPM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
-|  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
-|  |  | [Latihan 5: Peramalan Jumlah Penduduk Malaysia](./materials/latihan5.md)|
-|  |  | [Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM](./materials/latihan6.md)|
-|  |  | [Latihan 7: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
-|  |  | [Latihan 8: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 9: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
-|  |  | [Latihan 10: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
-|  |  | [Latihan 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
 ## Maklumat Tambahan
 
