@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Artificial Intelligence in Education: A Pathway to Improved Teaching Excellence
+# WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI
 
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
 
@@ -53,30 +53,10 @@ By the end of the workshop, participants will be able to:
 
 ## [Workshop Schedule](materials/time.md)
 
+## [AI Tools for Research Workflow](materials/ai.md)
 
+## [Teaching materials](materials/teaching.md)
 
-## AI Tools for Research Workflow
-Artificial Intelligence (AI) can now support researchers across the entire research lifecycle — from discovering literature, generating ideas, organizing knowledge, visualizing results, to writing high-quality manuscripts. Below is an overview of five key stages with representative AI tools.
-
-| **Stage**                                                                   | **Tools & Descriptions** |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔍 **[1. Literature Discovery & Understanding](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materials/1_ldu)**         | • **Zeta Alpha** – Semantic search across academic papers with AI-powered insights <br> • **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus <br> • **SciSpace** – Research summarization, citation tracing, and question answering |
-| 🧠 **[2. Idea Generation & Research Design](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materials/2_idea)**           | • **Qwen** – Advanced Chinese-English model for logic-based academic thought <br> • **Kimi** – AI assistant for digesting and explaining scientific papers <br> • **Grok** – Conversational AI designed to simulate creative reasoning and exploratory thought processes <br> • **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization) <br> • **Ideamap.ai** – Visual ideation tool to expand and connect research concepts |
-| 🗺️ **[3. Knowledge Organization & Mind Mapping](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materials/3_knowledge)** | • **Markmap** – Interactive markdown-based mind mapping for concept clarity <br> • **NotebookLM** – Google’s research notebook with contextual document analysis                                                                                                                                                                                                                                                                                                          |
-| 📊 **[4. Data & Result Visualization](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materials/4_data)**                 | • **ChatGPT** – Assists in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting visual formats <br> • **Napkin AI** – Helpful for translating concepts into diagrams or flows <br> • **Infogram.com** – Create engaging infographics, charts, and data dashboards                                                                                                                                                 |
-| 🤖 **[5. Writing & Deep Research Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materilas/5_writing)**       | • **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing <br> • **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing <br> • **Qwen (Thinking Mode)** – Designed for structured academic reasoning, building logical arguments, decomposing complex research problems, and framing thesis-worthy questions                                                                        |
-
-
-## Teaching materials
-
-| **No** | **Category**                       | **Content / Resource** | **Focus Area**                                                                       |
-| ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| 1      | **Guidelines & Policies**          | • [Panduan AI Generatif dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> •  [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education & public sector**          |
-| 2      | **National Guidelines (Malaysia)** | • [Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI in Teaching & Learning (Higher Education)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [UTM Generative AI Guidelines for Teaching & Learning](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf) | **Policy adaptation** of Generative AI in Malaysia’s education and government sector |
-| 3      | **Trends & Insights**              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Understanding **global adoption, trends, and interest in AI**                        |
-| 4      | **Practical Installation**         | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step **setup and access** to AI tools |
-| 5      | **Integration with Communication** | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical **integration of AI into messaging platforms** |
-| 6      | **Learning Resources (Media)**     | • [Intro to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | **Awareness & critical perspectives** on AI potential and risks                      |
 
 
 ### 🙌🏻 Connect with Me
