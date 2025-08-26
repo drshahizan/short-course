@@ -5,7 +5,51 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# 📝 **Exercise: Practical 2 – Using Generative AI for Language Enhancement**
+
+**Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot, Qwen, Grok) to improve clarity, grammar, and academic tone.**
+
+## 🎯 **Objective**
+
+To apply **different AI tools** to improve draft paragraphs by enhancing **clarity, grammar, structure, and academic tone** using effective prompts.
+
+## 📋 **Step 1: Select a Draft Paragraph**
+
+Choose a paragraph (100–200 words) from your **Abstract, Introduction, or Discussion**. Prefer text that feels **too long, unclear, or less academic**.
+
+## 🤖 **Step 2: Use AI Tools with Suitable Prompts**
+
+| **AI Tool**       | **Purpose**                                 | **Sample Prompt (Copy & Use)**                                                                                               |
+| ----------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 💬 **ChatGPT**    | Improve clarity, grammar, flow              | “Please refine this paragraph to improve clarity, grammar, and sentence flow while keeping the meaning intact.”              |
+| 🌐 **Gemini**     | Enhance academic style and scholarly tone   | “Rewrite this paragraph in a formal academic style suitable for submission to a Scopus-indexed journal.”                     |
+| 👨‍💻 **Copilot** | Make writing concise and precise            | “Simplify this paragraph by reducing wordiness but keep the technical meaning accurate.”                                     |
+| 🧠 **Qwen**       | Strengthen technical precision (STEM, data) | “Rewrite this paragraph using accurate technical terms and precise academic expressions appropriate for scientific writing.” |
+| 🚀 **Grok**       | Improve structure and readability           | “Restructure this paragraph so that the main argument is clearer and easier to follow.”                                      |
+
+## 📝 **Step 3: Compare & Evaluate**
+
+1. Place your **original paragraph** next to the AI-refined versions.
+2. Highlight differences in **clarity, tone, grammar, and structure**.
+3. Decide which tool gave the **best version** and why.
+
+## 🔎 **Step 4: Reflection Table**
+
+| **Aspect**          | **Original Draft** | **Best AI Version (Tool Used)** | **Improvement Observed** |
+| ------------------- | ------------------ | ------------------------------- | ------------------------ |
+| Clarity ✨           |                    |                                 |                          |
+| Grammar ✅           |                    |                                 |                          |
+| Academic Tone 🎓    |                    |                                 |                          |
+| Technical Detail 🧠 |                    |                                 |                          |
+| Structure 🚀        |                    |                                 |                          |
+
+## 🎯 **Expected Outcome**
+
+By the end of this session, students will:
+
+* Gain hands-on experience in **prompting AI tools effectively**.
+* Learn which tool works best for **clarity, tone, conciseness, or technical accuracy**.
+* Produce a **polished, ERA/Scopus-ready paragraph** for their manuscript.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
