@@ -69,7 +69,7 @@ By the end of the workshop, participants will be able to:
 | **03:45 – 04:30 PM** | **[Practical 6: Draft Refinement Workshop (Part 2)](materials/08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                     |
 | **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](materials/09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
 
-### 🔗 AI Tools for Research Workflow
+### AI Tools for Research Workflow
 Artificial Intelligence (AI) can now support researchers across the entire research lifecycle — from discovering literature, generating ideas, organizing knowledge, visualizing results, to writing high-quality manuscripts. Below is an overview of five key stages with representative AI tools.
 
 | **Stage**                                                                   | **Tools & Descriptions** |
@@ -81,7 +81,7 @@ Artificial Intelligence (AI) can now support researchers across the entire resea
 | 🤖 **[5. Writing & Deep Research Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25ICTMBE/materilas/5_writing)**       | • **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing <br> • **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing <br> • **Qwen (Thinking Mode)** – Designed for structured academic reasoning, building logical arguments, decomposing complex research problems, and framing thesis-worthy questions                                                                        |
 
 
-## Additional info
+## Teaching materials
 
 | **No** | **Category**                       | **Content / Resource** | **Focus Area**                                                                       |
 | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -92,23 +92,6 @@ Artificial Intelligence (AI) can now support researchers across the entire resea
 | 5      | **Integration with Communication** | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical **integration of AI into messaging platforms** |
 | 6      | **Learning Resources (Media)**     | • [Intro to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | **Awareness & critical perspectives** on AI potential and risks                      |
 
-
-
-| No | Pelajaran | Topik |
-|--------|---------|---------|
-| 2.|Garis Panduan|[Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
-| ||[Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
-| ||[Penggunaan Kecerdasan Buatan Generatif dalam Pengajaran dan Pembelajaran. Universiti Teknologi Malaysia](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)|
-| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)|
-| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
-| 6. | Telegram |[Copilot](./materials/telegram.md)|
-|1.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf)|
-|2.|[AI and education Guidance for policy-makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf)|
-|3.|[AI competency framework for teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf)|
-|4.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|5.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|6.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 
 ### 🙌🏻 Connect with Me
 <p align="left">
