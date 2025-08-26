@@ -7,6 +7,23 @@
 
 # 
 
+| **Time**             | **Session**                                                                                                                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **09:00 – 09:15 AM** | Registration & Welcome Note                                                                                                                                                        |
+| **09:15 – 09:45 AM** | **[Introduction: ERA/Scopus Publishing Essentials](materials/01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                    |
+| **09:45 – 10:30 AM** | **[Practical 1: Assessing Your Draft Paper](materials/02mat.md)**  <br> Participants review their own drafts and identify key weaknesses using guided checklists.                                        |
+| **10:30 – 10:45 AM** | Morning Break                                                                                                                                                                      |
+| **10:45 – 11:30 AM** | **[Practical 2: Using Generative AI for Language Enhancement](materials/03mat.md)** and **[Prompt bank](materials/05mat.md)**  <br> Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot) to improve clarity, grammar, and academic tone. |
+| **11:30 – 12:15 PM** | **[Practical 3: Improving Structure & Coherence](materials/04mat.md)** <br> Reorganizing paragraphs, refining argument flow, and strengthening contribution using AI support.                           |
+| **12:15 – 12:45 PM** | **Sharing & Feedback**  <br> Selected participants present before-and-after improvements of their drafts.                                                                          |
+| **12:45 – 02:00 PM** | Lunch Break                                                                                                                                                                        |
+| **02:00 – 02:45 PM** | **[Practical 4: AI-Powered Literature Review & Citation Management](materials/06mat.md)**  <br> Using AI to summarize literature, integrate sources, and manage references ethically.                    |
+| **02:45 – 03:30 PM** | **[Practical 5: Draft Refinement Workshop (Part 1)](materials/07mat.md)**  <br> Participants work on their manuscripts with direct AI assistance and facilitator guidance.                               |
+| **03:30 – 03:45 PM** | Afternoon Break                                                                                                                                                                    |
+| **03:45 – 04:30 PM** | **[Practical 6: Draft Refinement Workshop (Part 2)](materials/08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                     |
+| **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](materials/09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
