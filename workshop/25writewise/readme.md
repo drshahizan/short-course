@@ -11,7 +11,7 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
 
 
-### **Synopsis**
+## **Synopsis**
 
 The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
 
@@ -22,7 +22,7 @@ Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computi
 By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
 
 
-### **Workshop Learning Outcomes**
+## **Workshop Learning Outcomes**
 
 By the end of the workshop, participants will be able to:
 
@@ -51,11 +51,11 @@ By the end of the workshop, participants will be able to:
    * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
    * Gain confidence in aligning research contributions with target journal scopes and impact.
 
-### [Workshop Schedule](materials/time.md)
+## [Workshop Schedule](materials/time.md)
 
 
 
-### AI Tools for Research Workflow
+## AI Tools for Research Workflow
 Artificial Intelligence (AI) can now support researchers across the entire research lifecycle — from discovering literature, generating ideas, organizing knowledge, visualizing results, to writing high-quality manuscripts. Below is an overview of five key stages with representative AI tools.
 
 | **Stage**                                                                   | **Tools & Descriptions** |
