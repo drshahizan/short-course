@@ -56,7 +56,7 @@ By the end of the workshop, participants will be able to:
 | **Time**             | **Session**                                                                                                                                                                        |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **09:00 – 09:15 AM** | Registration & Welcome Note                                                                                                                                                        |
-| **09:15 – 09:45 AM** | **Introduction: ERA/Scopus Publishing Essentials**  <br> Quick overview of standards, scopes, and expectations.                                                                    |
+| **09:15 – 09:45 AM** | **[Introduction: ERA/Scopus Publishing Essentials](materials/01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                    |
 | **09:45 – 10:30 AM** | **Practical 1: Assessing Your Draft Paper**  <br> Participants review their own drafts and identify key weaknesses using guided checklists.                                        |
 | **10:30 – 10:45 AM** | Morning Break                                                                                                                                                                      |
 | **10:45 – 11:30 AM** | **Practical 2: Using Generative AI for Language Enhancement**  <br> Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot) to improve clarity, grammar, and academic tone. |
