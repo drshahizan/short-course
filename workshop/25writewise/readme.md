@@ -69,6 +69,8 @@ By the end of the workshop, participants will be able to:
 | **03:45 – 04:30 PM** | **[Practical 6: Draft Refinement Workshop (Part 2)](materials/08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                     |
 | **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](materials/09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
 
+### 🔗 AI Tools for Research Workflow
+Artificial Intelligence (AI) can now support researchers across the entire research lifecycle — from discovering literature, generating ideas, organizing knowledge, visualizing results, to writing high-quality manuscripts. Below is an overview of five key stages with representative AI tools.
 
 | **Stage**                                                                   | **Tools & Descriptions** |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +81,7 @@ By the end of the workshop, participants will be able to:
 | 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**       | • **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing <br> • **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing <br> • **Qwen (Thinking Mode)** – Designed for structured academic reasoning, building logical arguments, decomposing complex research problems, and framing thesis-worthy questions                                                                        |
 
 
-## Maklumat Tambahan
+## Additional info
 
 | No | Topik |
 |--------:|---------|
