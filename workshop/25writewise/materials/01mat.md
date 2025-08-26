@@ -11,6 +11,15 @@
 
 Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexed journals** is considered a mark of quality and international recognition. To succeed, researchers must understand what these indexing systems are, how they differ, and what journals under these systems expect from authors.
 
+| **Resource**                                                      | **Link**                                                                                   |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 📘 ERA Journal List (*Excellence in Research for Australia, ARC*) | [https://www.arc.gov.au/era](https://www.arc.gov.au/era)|
+| 📘 ERA 2023 Submission Journal List|[Link](https://docs.google.com/spreadsheets/d/1LxlabFReLm7NEZw7xvlftZ9hlItGiU9G/edit?gid=1905987743#gid=1905987743)|
+| 📘 Scopus (*Elsevier*)                                            | [https://www.scopus.com](https://www.scopus.com)|
+
+
+
+
 ## 1. What is ERA?
 
 * **ERA** stands for *Excellence in Research for Australia*.
