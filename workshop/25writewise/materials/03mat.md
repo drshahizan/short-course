@@ -19,13 +19,13 @@ Choose a paragraph (100–200 words) from your **Abstract, Introduction, or Disc
 
 ## 🤖 **Step 2: Use AI Tools with Suitable Prompts**
 
-| **AI Tool**       | **Purpose**                                 | **Sample Prompt (Copy & Use)**                                                                                               |
-| ----------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 💬 **ChatGPT**    | Improve clarity, grammar, flow              | “Please refine this paragraph to improve clarity, grammar, and sentence flow while keeping the meaning intact.”              |
-| 🌐 **Gemini**     | Enhance academic style and scholarly tone   | “Rewrite this paragraph in a formal academic style suitable for submission to a Scopus-indexed journal.”                     |
-| 👨‍💻 **Copilot** | Make writing concise and precise            | “Simplify this paragraph by reducing wordiness but keep the technical meaning accurate.”                                     |
-| 🧠 **Qwen**       | Strengthen technical precision (STEM, data) | “Rewrite this paragraph using accurate technical terms and precise academic expressions appropriate for scientific writing.” |
-| 🚀 **Grok**       | Improve structure and readability           | “Restructure this paragraph so that the main argument is clearer and easier to follow.”                                      |
+| **AI Tool**                                         | **Purpose**                                 | **Sample Prompt (Copy & Use)**                                                                                               |
+| --------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 💬 [**ChatGPT**](https://chat.openai.com/)          | Improve clarity, grammar, flow              | “Please refine this paragraph to improve clarity, grammar, and sentence flow while keeping the meaning intact.”              |
+| 🌐 [**Gemini**](https://gemini.google.com/)         | Enhance academic style and scholarly tone   | “Rewrite this paragraph in a formal academic style suitable for submission to a Scopus-indexed journal.”                     |
+| 👨‍💻 [**Copilot**](https://copilot.microsoft.com/) | Make writing concise and precise            | “Simplify this paragraph by reducing wordiness but keep the technical meaning accurate.”                                     |
+| 🧠 [**Qwen**](https://qwenlm.ai/)                   | Strengthen technical precision (STEM, data) | “Rewrite this paragraph using accurate technical terms and precise academic expressions appropriate for scientific writing.” |
+| 🚀 [**Grok**](https://grok.x.ai/)                   | Improve structure and readability           | “Restructure this paragraph so that the main argument is clearer and easier to follow.”                                      |
 
 ## 📝 **Step 3: Compare & Evaluate**
 
