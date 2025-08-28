@@ -13,7 +13,7 @@
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 08:00 – 08:30 | Pendaftaran Peserta                                                                                                                   |
 | 08:30 – 09:00 | Rehat / Minum Pagi                                                                                                                    |
-| 09:00 – 11:00 | **Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)** <br>• Definisi & sejarah ringkas <br>• Jenis-jenis AI & aplikasinya             |
+| 09:00 – 11:00 | **[Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)](01mat.md)** <br>• Definisi & sejarah ringkas <br>• Jenis-jenis AI & aplikasinya             |
 | 11:00 – 12:30 | **Sesi 2 – Peranan AI Dalam Pendidikan** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
 | 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat                                                                                              |
 | 02:00 – 02:30 | Pendaftaran Peserta                                                                                                                   |
