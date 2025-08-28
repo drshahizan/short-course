@@ -66,22 +66,18 @@ Pada akhir sesi ini, peserta akan dapat:
 
 ### 3) Aplikasi Utama (Dengan Contoh Ringkas)
 
-**Pendidikan**
+| **Sektor**                   | **Aplikasi Utama** | **Contoh Ringkas** |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pendidikan**               | - Pembelajaran diperibadikan  <br> - Pembantu pengajaran  <br> - Analitik pembelajaran  <br> - Penilaian separa automatik | - Sistem mengesyorkan bahan ikut tahap pelajar. <br> - AI membantu menjana draf RPH, kuiz, dan rubrik. <br> - Memberi amaran awal risiko keciciran pelajar. <br> - Menyemak jawapan bertulis untuk konsistensi. |
+| **Kesihatan**                | - Sokongan diagnosis imej perubatan  <br> - Triage simptom automatik                                                      | - AI mengesan tumor dalam imbasan MRI. <br> - Chatbot kesihatan menapis simptom sebelum jumpa doktor. |
+| **Perniagaan / Industri**    | - Ramalan permintaan  <br> - *Robotic Process Automation (RPA)* untuk tugas berulang                                      | - AI meramal stok barangan bermusim. <br> - Sistem automasi mengurus invois syarikat. |
+| **Kewangan**                 | - Pengesanan penipuan  <br> - Pemarkahan kredit pintar                                                                    | - AI mengesan transaksi luar biasa kad kredit. <br> - Sistem menilai kelayakan pinjaman dengan data alternatif. |
+| **Pertanian**                | - Pemantauan tanaman  <br> - Ramalan hasil pertanian                                                                      | - Dron AI mengesan penyakit daun. <br> - Algoritma meramal hasil padi berdasarkan cuaca. |
+| **Pengangkutan**             | - Navigasi pintar  <br> - Bantuan pemanduan                                                                               | - Aplikasi peta mencadangkan laluan kurang sesak. <br> - Kereta dengan *driver assistance* mengelak halangan. |
+| **Kreatif & Media**          | - Penjanaan kandungan  <br> - Terjemahan automatik  <br> - Sari kata pintar                                               | - AI menjana reka bentuk poster atau muzik. <br> - Sistem menukar teks ke pelbagai bahasa. <br> - Video automatik disertakan sari kata.                                                                         |
+| **Sektor Awam / Smart City** | - Perkhidmatan warga pintar  <br> - Pengurusan trafik bandar                                                              | - Chatbot kerajaan menjawab pertanyaan rakyat. <br> - Lampu isyarat AI mengoptimumkan aliran trafik. |
 
-* **Pembelajaran diperibadikan** (pengesyoran bahan ikut tahap pelajar).
-* **Pembantu pengajaran** (penjana draf RPH, kuiz, rubrik).
-* **Analitik pembelajaran** (amaran awal risiko keciciran).
-* **Penilaian separa automatik** (maklum balas bertulis, semak konsistensi).
-
-**Kesihatan** – Sokongan diagnosis imej perubatan, triage symptom checker.
-**Perniagaan/Industri** – Ramalan permintaan, **RPA** untuk proses berulang.
-**Kewangan** – Pengesanan penipuan, pemarkahan kredit.
-**Pertanian** – Pemantauan tanaman, ramalan hasil.
-**Pengangkutan** – Navigasi pintar, bantuan pemanduan.
-**Kreatif & Media** – Penjanaan kandungan, alih bahasa, sari kata automatik.
-**Sektor Awam/Smart City** – Perkhidmatan warga pintar, pengurusan trafik.
-
-### 5) Glosari Istilah
+### 4) Glosari Istilah
 
 * **Model**: Fungsi terlatih untuk membuat ramalan/penjanaan.
 * **Dataset**: Kumpulan data latihan/ujian.
