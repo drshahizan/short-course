@@ -5,104 +5,89 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 Introduction: ERA/Scopus Publishing Essentials
+# 📝 [Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)](01mat.md)
 
-*(Quick overview of standards, scopes, and expectations)*
+### Objektif Pembelajaran
 
-Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexed journals** is considered a mark of quality and international recognition. To succeed, researchers must understand what these indexing systems are, how they differ, and what journals under these systems expect from authors.
+Pada akhir sesi ini, peserta akan dapat:
 
-| **Resource**                                                      | **Link** |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 📘 ERA Journal List (*Excellence in Research for Australia, ARC*) | [https://www.arc.gov.au/era](https://www.arc.gov.au/era) |
-| 📘 ERA 2023 Submission Journal List                               | [Google Sheets Link](https://docs.google.com/spreadsheets/d/1LxlabFReLm7NEZw7xvlftZ9hlItGiU9G/edit?gid=1905987743#gid=1905987743) |
-| 📘 Scopus (*Elsevier*)                                            | [https://www.scopus.com](https://www.scopus.com) |
+* **Mentakrifkan** apa itu **Kecerdasan Buatan (AI)** dan membezakan **AI, Pembelajaran Mesin (ML)** dan **Pembelajaran Mendalam (DL)**.
+* **Menerangkan** garis masa ringkas perkembangan AI.
+* **Mengenal pasti** jenis-jenis AI mengikut **keupayaan**, **pendekatan**, dan **fungsi**.
+* **Memberi contoh aplikasi** AI dalam sektor pendidikan dan bidang lain.
 
-## 1. What is ERA?
+### 1) Definisi & Sejarah Ringkas
 
-* **ERA** stands for *Excellence in Research for Australia*.
-* Managed by the **Australian Research Council (ARC)**, it is primarily used to **evaluate research quality in Australian universities**.
-* ERA maintains a **Journal List** where journals are classified to assess academic performance.
-* For Australian institutions, publishing in ERA-listed journals increases visibility and contributes to **institutional ranking and funding allocation**.
+**Definisi teras**
 
-👉 **Key point**: Even if you are outside Australia, ERA-listed journals carry credibility because they are selected based on **quality, peer review process, and contribution to research**.
+* **AI**: Keupayaan sistem komputer untuk melaksanakan tugasan yang lazimnya memerlukan **kecerdasan manusia** (persepsi, penaakulan, pembelajaran, membuat keputusan, penjanaan kandungan).
+* **ML (Machine Learning)**: Kaedah di bawah AI yang membolehkan model **belajar daripada data** untuk meningkatkan prestasi tanpa pengaturcaraan khusus bagi setiap tugas.
+* **DL (Deep Learning)**: Subset ML berasaskan **rangkaian neural berlapis** (contoh CNN, RNN, Transformer) untuk mempelajari perwakilan ciri kompleks pada skala besar.
 
-## 2. What is Scopus?
+**Garis masa ringkas perkembangan AI**
 
-* **Scopus** is the **world’s largest abstract and citation database**, managed by Elsevier.
-* It covers over **27,000+ active peer-reviewed journals**, along with books and conference proceedings.
-* Scopus is widely used by researchers worldwide to:
+* **1950** – Turing mengemukakan **Ujian Turing** sebagai ukuran kebijaksanaan mesin.
+* **1956** – **Persidangan Dartmouth**: AI diangkat sebagai bidang kajian formal.
+* **1960–1970-an** – Era **AI simbolik/sistem pakar** (peraturan-berdasarkan).
+* **1974–1980 & 1987–1993** – **“AI winters”** akibat keterbatasan perkakasan dan jangkaan yang tidak realistik.
+* **1990–2000-an** – Kebangkitan **ML statistik** (SVM, pohon keputusan) dan data digital.
+* **2012** – Revolusi **DL** (kejayaan CNN dalam pengenalan imej skala besar).
+* **2017** – **Transformer** mempercepat kemajuan NLP moden.
+* **2020-an** – **Model bahasa berskala besar (LLM)**, **AI generatif** (teks, imej, audio), **multimodal**, dan **agen AI** untuk tugasan kompleks.
 
-  * Find related literature.
-  * Track citations and author h-index.
-  * Evaluate journal impact (using **CiteScore, SNIP, and SJR**).
-* Being indexed in Scopus means the journal is recognized for **global standards, peer review integrity, and research impact**.
+### 2) Jenis-jenis AI & Aplikasinya
 
-👉 **Key point**: Publishing in Scopus-indexed journals enhances **international visibility**, increases chances of being cited, and strengthens academic CVs.
+**A. Mengikut keupayaan**
 
-## 3. Comparison: ERA vs Scopus
+* **Narrow/Weak AI (ANI)**: Direka untuk tugasan spesifik (contoh: pengesyoran kandungan, pengecaman wajah).
+* **General AI (AGI)**: Teoretikal; kebolehan setara manusia merentas tugasan pelbagai domain.
+* **Superintelligent AI (ASI)**: Hipotesis; melebihi keupayaan kognitif manusia.
 
-| **Aspect**              | **ERA (Excellence in Research for Australia)**                                               | **Scopus**                                                                                       |
-| ----------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Origin / Management** | Managed by the **Australian Research Council (ARC)**.                                        | Managed by **Elsevier**, a global academic publisher.                                            |
-| **Purpose**             | Evaluates and ranks journals for **research quality assessment in Australia**.               | A **global abstract and citation database** for research articles, books, and conference papers. |
-| **Coverage**            | Focuses mainly on journals relevant to **Australian academic evaluation**.                   | Covers **worldwide journals, books, and conferences** across all disciplines.                    |
-| **Journal List**        | ERA publishes an **official journal list** (ERA Journal List).                               | Journals are indexed based on **Scopus Content Selection & Advisory Board (CSAB)** criteria.     |
-| **Usefulness**          | Used to measure research outputs for **university and researcher performance in Australia**. | Used globally for **literature search, citations, impact tracking, and h-index calculation**.    |
-| **Evaluation Cycle**    | Updated periodically during ERA assessment rounds (not annually).                            | Continuous journal evaluation; new titles added quarterly.                                       |
-| **Accessibility**       | ERA list is **publicly available** on ARC website.                                           | Scopus is a **subscription-based database**, accessible via institutions.                        |
-| **Impact Measures**     | Focuses on **journal quality and ranking**.                                                  | Provides **CiteScore, SNIP, SJR, and h-index** for authors and journals.                         |
-| **Target Users**        | Researchers and universities in **Australia** for performance assessment.                    | Researchers, students, and institutions **worldwide** for research discovery and evaluation.     |
+**B. Mengikut pendekatan**
 
-## 4. Standards in ERA/Scopus Publishing
+* **AI Simbolik/Peraturan**: Penaakulan logik berasaskan **knowledge base** dan **peraturan if–then** (contoh: sistem pakar).
+* **Pembelajaran Mesin (ML)**:
 
-Both ERA and Scopus expect journals to meet **high academic and ethical standards**. For authors, this means:
+  * **Terselia (Supervised)**: Ramal label daripada contoh berlabel (contoh: klasifikasi esei).
+  * **Tidak terselia (Unsupervised)**: Cari struktur/pengelompokan tanpa label (contoh: segmentasi pelajar).
+  * **Pengukuhan (Reinforcement Learning)**: Ejen belajar melalui **ganjaran/denda** untuk mengoptimumkan tindakan (contoh: penjadualan pintar).
+* **Pembelajaran Mendalam (DL)**:
 
-* Conducting **original and rigorous research**.
-* Writing with **clarity, precision, and academic tone**.
-* Ensuring manuscripts follow **ethical guidelines** (plagiarism-free, no data fabrication).
-* Using **proper referencing** and up-to-date sources.
-* Demonstrating **novel contribution** (What’s new? Why does it matter?).
+  * **CNN** (imej/video), **RNN/LSTM** (urutan), **Transformer/LLM** (teks dan multimodal).
+* **AI Generatif**: Menjana **teks, imej, kod, audio** menggunakan **GAN**, **VAE**, atau **model difusi/LLM** (contoh: penjanaan draf pelan pengajaran/kuiz).
 
-## 5. Scope of Journals
+**C. Mengikut fungsi (arsitektur kognitif)**
 
-* Every journal has its **own aims and scope** (the research areas it covers).
-* Submitting to the wrong journal is one of the **most common reasons for desk rejection** (rejected before peer review).
-* Always:
+* **Reactive machines** (tiada memori), **Limited memory** (guna data lampau terhad), **Theory of mind** (konsep masa hadapan), **Self-aware** (hipotesis).
 
-  * Match your topic to the journal’s scope.
-  * Read the journal’s “Aims and Scope” page before submission.
-  * Review past issues to understand the type of articles accepted.
+**D. Mengikut persekitaran pelaksanaan**
 
-👉 **Tips**: Before writing, shortlist 2–3 journals where your article fits **best in scope**.
+* **Cloud AI** (skala besar, kolaboratif), **Edge/On-device AI** (latensi rendah, privasi lebih baik), **Hybrid** (gabungan).
 
-## 6. Expectations from Editors and Reviewers
+### 3) Aplikasi Utama (Dengan Contoh Ringkas)
 
-When you submit to an ERA/Scopus journal, editors and reviewers will check:
+**Pendidikan**
 
-1. **Relevance** → Does it fit the journal’s theme?
-2. **Clarity** → Is the article well-structured and easy to follow?
-3. **Novelty** → What new insights or findings does it contribute?
-4. **Methodological Rigor** → Is the study design sound and reliable?
-5. **Referencing** → Are references recent, relevant, and formatted correctly?
-6. **Impact** → Will the paper be useful and citable to other researchers?
+* **Pembelajaran diperibadikan** (pengesyoran bahan ikut tahap pelajar).
+* **Pembantu pengajaran** (penjana draf RPH, kuiz, rubrik).
+* **Analitik pembelajaran** (amaran awal risiko keciciran).
+* **Penilaian separa automatik** (maklum balas bertulis, semak konsistensi).
 
-## 7. Why This Matters for You
+**Kesihatan** – Sokongan diagnosis imej perubatan, triage symptom checker.
+**Perniagaan/Industri** – Ramalan permintaan, **RPA** untuk proses berulang.
+**Kewangan** – Pengesanan penipuan, pemarkahan kredit.
+**Pertanian** – Pemantauan tanaman, ramalan hasil.
+**Pengangkutan** – Navigasi pintar, bantuan pemanduan.
+**Kreatif & Media** – Penjanaan kandungan, alih bahasa, sari kata automatik.
+**Sektor Awam/Smart City** – Perkhidmatan warga pintar, pengurusan trafik.
 
-* Publishing in **ERA/Scopus-indexed journals** boosts your academic credibility.
-* Universities use ERA and Scopus metrics to measure **research quality, performance, and global impact**.
-* For students and early-career researchers, it opens opportunities for:
+### 5) Glosari Istilah
 
-  * Scholarships.
-  * Collaborations.
-  * Postgraduate admissions and promotions.
-
-👉 **Bottom line**: Understanding ERA and Scopus expectations will help you **write with purpose**, increase acceptance chances, and strengthen your academic journey.
-
-## Summary
-
-* **ERA** = A ranking system mainly for Australia (quality benchmarking).
-* **Scopus** = A global database used for searching, indexing, and citation tracking.
-* Together, they complement each other: publishing in Scopus-indexed journals increases visibility, while ERA ranking influences academic recognition in Australia.
+* **Model**: Fungsi terlatih untuk membuat ramalan/penjanaan.
+* **Dataset**: Kumpulan data latihan/ujian.
+* **Parameter**: Nilai dalaman model yang dipelajari.
+* **Overfitting**: Model terlalu “hafal” data latihan, lemah menggeneralisasi.
+* **Inferens**: Proses model menghasilkan output pada data baharu.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
