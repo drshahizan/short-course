@@ -14,6 +14,9 @@
 -->
 ## 🌍 Collaborative Workshops and Courses: Year 2025
 
+<a href="https://github.com/drshahizan/short-course/tree/main/workshop/25pengajaran">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pengajaran/images/25pengajaran.jpeg" alt="Dr Shahizan AI"  height="200">
+</a> 
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25writewise">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
