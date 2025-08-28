@@ -48,17 +48,19 @@ Pada akhir bengkel ini, para peserta akan dapat:
    * Menilai keberkesanan penggunaan AI dalam proses pengajaran dan pembelajaran.
    * Merumuskan cabaran serta potensi penambahbaikan untuk pelaksanaan di masa hadapan.
 
-## [Workshop Schedule](materials/time.md)
+## [Jadual Kursus](materials/time.md)
 
-This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
+Bahagian ini memaparkan **jadual lengkap kursus**, termasuk urutan sesi, aktiviti, dan waktu rehat. Ia membantu peserta mengetahui jangkaan perjalanan kursus, masa pelaksanaan aktiviti amali, serta keseimbangan antara **penerangan teori** dan **latihan praktikal**. Jadual ini memastikan terdapat **alur pembelajaran yang tersusun**, bermula daripada pengenalan asas AI, aplikasi AI dalam pendidikan, reka bentuk pengajaran berasaskan AI, sehinggalah perbincangan tentang etika, privasi, keselamatan, aktiviti bengkel, serta sesi penilaian dan refleksi.
 
-## [Teaching materials](materials/teaching.md)
+## [Bahan Pengajaran](materials/teaching.md)
 
-This section contains the **essential learning resources and references** used during the workshop. It includes official guidelines (UNESCO, national, and institutional), global AI adoption reports, practical setup instructions, and curated videos. Together, these materials provide participants with **theoretical background, best practices, and practical guides** to reinforce what they learn during the workshop and to support continued application afterward.
+Bahagian ini menyediakan **bahan rujukan utama** yang digunakan sepanjang kursus. Ia merangkumi garis panduan rasmi berkaitan penggunaan AI dalam pendidikan tinggi, laporan antarabangsa mengenai adaptasi AI, nota kuliah, slaid pembentangan, serta panduan langkah demi langkah. Keseluruhan bahan ini memberikan peserta **landasan teori, amalan terbaik, dan panduan praktikal** untuk memperkukuh pembelajaran semasa kursus serta menyokong **penggunaan AI secara berterusan dalam pengajaran dan pembelajaran**.
 
-## [AI Tools for Research Workflow](materials/ai.md)
 
-This section introduces participants to a curated set of **AI tools designed to support researchers across the entire research lifecycle**. From literature discovery and idea generation to data visualization and academic writing, each tool is presented with its **purpose, strengths, and practical use cases**. This equips participants with the digital skills to adopt AI ethically and effectively in their own research and teaching.
+## [Alatan AI untuk Pengajaran dan Pembelajaran](materials/ai.md)
+
+Bahagian ini memperkenalkan peserta kepada **set alat AI yang dipilih khusus untuk menyokong proses pengajaran dan pembelajaran**. Daripada perancangan pengajaran, pembangunan bahan PdP interaktif, sokongan pembelajaran diperibadikan, hinggalah penilaian berasaskan AI, setiap alat dihuraikan dengan **fungsi, kelebihan, serta contoh aplikasi praktikal**. Penerangan ini akan membekalkan pendidik dengan **kemahiran digital** untuk mengintegrasikan AI secara **beretika, berkesan, dan inovatif** dalam amalan pengajaran mereka.
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
