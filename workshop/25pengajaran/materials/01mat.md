@@ -64,7 +64,7 @@ Pada akhir sesi ini, peserta akan dapat:
 
 * **Cloud AI** (skala besar, kolaboratif), **Edge/On-device AI** (latensi rendah, privasi lebih baik), **Hybrid** (gabungan).
 
-### 3) Aplikasi Utama (Dengan Contoh Ringkas)
+### 3) Aplikasi Utama 
 
 | **Sektor**                   | **Aplikasi Utama** | **Contoh Ringkas** |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
