@@ -5,24 +5,33 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Workshop Schedule
+# Tentatif Kursus
 
-| **Time**             | **Session** |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **09:00 – 09:15 AM** | Registration & Welcome Note                                                                                                                                                        |
-| **09:15 – 09:45 AM** | **[Introduction: ERA/Scopus Publishing Essentials](01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                    |
-| **09:45 – 10:30 AM** | **[Practical 1: Assessing Your Draft Paper](02mat.md)**  <br> Participants review their own drafts and identify key weaknesses using guided checklists.                                        |
-| **10:30 – 10:45 AM** | Morning Break                                                                                                                                                                      |
-| **10:45 – 11:30 AM** | **[Practical 2: Using Generative AI for Language Enhancement](03mat.md)** and **[Prompt bank](05mat.md)**  <br> Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot) to improve clarity, grammar, and academic tone. |
-| **11:30 – 12:15 PM** | **[Practical 3: Improving Structure & Coherence](04mat.md)** <br> Reorganizing paragraphs, refining argument flow, and strengthening contribution using AI support.                           |
-| **12:15 – 12:45 PM** | **Sharing & Feedback**  <br> Selected participants present before-and-after improvements of their drafts.                                                                          |
-| **12:45 – 02:00 PM** | Lunch Break                                                                                                                                                                        |
-| **02:00 – 02:45 PM** | **[Practical 4: AI-Powered Literature Review & Citation Management](06mat.md)**  <br> Using AI to summarize literature, integrate sources, and manage references ethically.                    |
-| **02:45 – 03:30 PM** | **[Practical 5: Draft Refinement Workshop (Part 1)](07mat.md)**  <br> Participants work on their manuscripts with direct AI assistance and facilitator guidance.                               |
-| **03:30 – 03:45 PM** | Afternoon Break                                                                                                                                                                    |
-| **03:45 – 04:30 PM** | **[Practical 6: Draft Refinement Workshop (Part 2)](08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                     |
-| **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
+## 📌 **Hari Pertama: 2 September 2025 (Selasa)**
 
+| **Masa**      | **Program / Aktiviti**                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:00 – 08:30 | Pendaftaran Peserta                                                                                                                   |
+| 08:30 – 09:00 | Rehat / Minum Pagi                                                                                                                    |
+| 09:00 – 11:00 | **Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)** <br>• Definisi & sejarah ringkas <br>• Jenis-jenis AI & aplikasinya             |
+| 11:00 – 12:30 | **Sesi 2 – Peranan AI Dalam Pendidikan** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
+| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat                                                                                              |
+| 02:00 – 02:30 | Pendaftaran Peserta                                                                                                                   |
+| 02:30 – 04:30 | **Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI** <br>• Perancangan pengajaran dengan AI <br>• Pembezaan & pembelajaran diperibadikan |
+| 04:30         | Bersurai                                                                                                                              |
+
+## 📌 **Hari Kedua: 3 September 2025 (Rabu)**
+
+| **Masa**      | **Program / Aktiviti**                                                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:00 – 08:30 | Pendaftaran Peserta                                                                                                                     |
+| 08:30 – 09:00 | Rehat / Minum Pagi                                                                                                                      |
+| 09:00 – 11:00 | **Sesi 4 – Etika, Privasi dan Isu Keselamatan** <br>• Kesedaran terhadap bias AI <br>• Perlindungan data & tanggungjawab pendidik       |
+| 11:00 – 12:30 | **Sesi 5 – Aktiviti Amali dan Kolaboratif** <br>• Bengkel aplikasi AI <br>• Pembinaan bahan pengajaran berasaskan AI secara berkumpulan |
+| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat                                                                                                |
+| 02:00 – 02:30 | Pendaftaran Peserta                                                                                                                     |
+| 02:30 – 04:30 | **Sesi 6 – Penilaian dan Refleksi Penggunaan AI** <br>• Menilai keberkesanan penggunaan AI <br>• Refleksi cabaran & penambahbaikan      |
+| 04:30         | Bersurai                                                                                                                                |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
