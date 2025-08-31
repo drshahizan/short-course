@@ -48,7 +48,7 @@ Pada akhir bengkel ini, para peserta akan dapat:
    * Menilai keberkesanan penggunaan AI dalam proses pengajaran dan pembelajaran.
    * Merumuskan cabaran serta potensi penambahbaikan untuk pelaksanaan di masa hadapan.
 
-## [Jadual Kursus](materials/time.md)
+## [Jadual Kursus](materials/tentatif.md)
 
 Bahagian ini memaparkan **jadual lengkap kursus**, termasuk urutan sesi, aktiviti, dan waktu rehat. Ia membantu peserta mengetahui jangkaan perjalanan kursus, masa pelaksanaan aktiviti amali, serta keseimbangan antara **penerangan teori** dan **latihan praktikal**. Jadual ini memastikan terdapat **alur pembelajaran yang tersusun**, bermula daripada pengenalan asas AI, aplikasi AI dalam pendidikan, reka bentuk pengajaran berasaskan AI, sehinggalah perbincangan tentang etika, privasi, keselamatan, aktiviti bengkel, serta sesi penilaian dan refleksi.
 
