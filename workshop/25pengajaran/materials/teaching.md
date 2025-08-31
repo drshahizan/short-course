@@ -7,7 +7,7 @@
 
 # Bahan pengajaran
 
-## 📋 [Slide presentation](writewise.pdf)
+## 📋 [Slaid pembentangan](writewise.pdf)
 
 
 | **No** | **Kategori**                            | **Kandungan** | **Bidang Fokus**                                                                                |
