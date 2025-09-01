@@ -61,6 +61,9 @@ Bahagian ini menyediakan **bahan rujukan utama** yang digunakan sepanjang kursus
 
 Bahagian ini memperkenalkan peserta kepada **set alat AI yang dipilih khusus untuk menyokong proses pengajaran dan pembelajaran**. Daripada perancangan pengajaran, pembangunan bahan PdP interaktif, sokongan pembelajaran diperibadikan, hinggalah penilaian berasaskan AI, setiap alat dihuraikan dengan **fungsi, kelebihan, serta contoh aplikasi praktikal**. Penerangan ini akan membekalkan pendidik dengan **kemahiran digital** untuk mengintegrasikan AI secara **beretika, berkesan, dan inovatif** dalam amalan pengajaran mereka.
 
+## [Latihan](materials/latihan.md)
+
+Bahagian **latihan** disediakan untuk memastikan peserta dapat **menerapkan pengetahuan teori ke dalam amalan sebenar**. Latihan ini direka bentuk secara **individu** dan bersifat **praktikal** supaya setiap peserta dapat **menguasai asas penggunaan AI** melalui tugasan berperingkat, di samping **meneroka aplikasi AI** dalam konteks **pengajaran dan pembelajaran** mereka sendiri. Melalui latihan ini, peserta akan berpeluang **menghasilkan bahan PdP**, **instrumen penilaian**, serta **dasar penggunaan AI** yang boleh terus dimanfaatkan dalam bilik kuliah. Selain itu, latihan turut memberi ruang kepada peserta untuk membina **refleksi profesional** yang menjadi panduan kepada **penambahbaikan berterusan**. Secara keseluruhannya, latihan ini berperanan sebagai **jambatan antara teori dan aplikasi**, membantu peserta memperoleh **kemahiran praktikal**, **kefahaman etika**, dan **keyakinan** untuk menggunakan AI secara berkesan dalam **pendidikan tinggi**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
