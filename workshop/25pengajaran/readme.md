@@ -56,10 +56,9 @@ Bahagian ini memaparkan **jadual lengkap kursus**, termasuk urutan sesi, aktivit
 
 Bahagian ini menyediakan **bahan rujukan utama** yang digunakan sepanjang kursus. Ia merangkumi garis panduan rasmi berkaitan penggunaan AI dalam pendidikan tinggi, laporan antarabangsa mengenai adaptasi AI, nota kuliah, slaid pembentangan, serta panduan langkah demi langkah. Keseluruhan bahan ini memberikan peserta **landasan teori, amalan terbaik, dan panduan praktikal** untuk memperkukuh pembelajaran semasa kursus serta menyokong **penggunaan AI secara berterusan dalam pengajaran dan pembelajaran**.
 
+## [Alatan AI](materials/ai.md)
 
-## [Alatan AI untuk Pengajaran dan Pembelajaran](materials/ai.md)
-
-Bahagian ini memperkenalkan peserta kepada **set alat AI yang dipilih khusus untuk menyokong proses pengajaran dan pembelajaran**. Daripada perancangan pengajaran, pembangunan bahan PdP interaktif, sokongan pembelajaran diperibadikan, hinggalah penilaian berasaskan AI, setiap alat dihuraikan dengan **fungsi, kelebihan, serta contoh aplikasi praktikal**. Penerangan ini akan membekalkan pendidik dengan **kemahiran digital** untuk mengintegrasikan AI secara **beretika, berkesan, dan inovatif** dalam amalan pengajaran mereka.
+Bahagian ini memperkenalkan peserta kepada **set alat AI yang dipilih khusus untuk menyokong proses pengajaran dan pembelajaran**. Penerangan ini akan membekalkan pendidik dengan **kemahiran digital** untuk mengintegrasikan AI secara **beretika, berkesan, dan inovatif** dalam amalan pengajaran mereka.
 
 ## [Latihan](materials/latihan.md)
 
