@@ -9,29 +9,29 @@
 
 ## 📌 **Hari Pertama: 2 September 2025 (Selasa)**
 
-| **Masa**      | **Program / Aktiviti**                                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:00 – 08:30 | Pendaftaran Peserta                                                                                                                   |
-| 08:30 – 09:00 | Rehat / Minum Pagi                                                                                                                    |
+| **Masa**      | **Program / Aktiviti** |
+| ------------- | ------------- |
+| 08:00 – 08:30 | Pendaftaran Peserta |
+| 08:30 – 09:00 | Rehat / Minum Pagi |
 | 09:00 – 11:00 | **[Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)](sesi01.md)** <br>• Definisi & sejarah ringkas <br>• Jenis-jenis AI & aplikasinya             |
-| 11:00 – 12:30 | **[Sesi 2 – Peranan AI Dalam Pendidikan](02mat.md)** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
-| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat                                                                                              |
-| 02:00 – 02:30 | Pendaftaran Peserta                                                                                                                   |
+| 11:00 – 12:30 | **[Sesi 2 – Peranan AI Dalam Pendidikan](sesi02.md)** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
+| 12:30 – 02:00 | Rehat / Makan Tengah Hari |                                                                                             |
+| 02:00 – 02:30 | Pendaftaran Peserta |
 | 02:30 – 04:30 | **[Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI](03mat.md)** <br>• Perancangan pengajaran dengan AI <br>• Pembezaan & pembelajaran diperibadikan |
-| 04:30         | Bersurai                                                                                                                              |
+| 04:30         | Bersurai |
 
 ## 📌 **Hari Kedua: 3 September 2025 (Rabu)**
 
-| **Masa**      | **Program / Aktiviti**                                                                                                                  |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:00 – 08:30 | Pendaftaran Peserta                                                                                                                     |
-| 08:30 – 09:00 | Rehat / Minum Pagi                                                                                                                      |
+| **Masa**      | **Program / Aktiviti** |
+| ------------- | ------------- |
+| 08:00 – 08:30 | Pendaftaran Peserta |
+| 08:30 – 09:00 | Rehat / Minum Pagi |
 | 09:00 – 11:00 | **[Sesi 4 – Etika, Privasi dan Isu Keselamatan](04mat.md)** <br>• Kesedaran terhadap bias AI <br>• Perlindungan data & tanggungjawab pendidik       |
 | 11:00 – 12:30 | **[Sesi 5 – Aktiviti Amali dan Kolaboratif](05mat.md)** <br>• Bengkel aplikasi AI <br>• Pembinaan bahan pengajaran berasaskan AI secara berkumpulan |
-| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat                                                                                                |
-| 02:00 – 02:30 | Pendaftaran Peserta                                                                                                                     |
+| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat |
+| 02:00 – 02:30 | Pendaftaran Peserta |
 | 02:30 – 04:30 | **[Sesi 6 – Penilaian dan Refleksi Penggunaan AI](06mat.md)** <br>• Menilai keberkesanan penggunaan AI <br>• Refleksi cabaran & penambahbaikan      |
-| 04:30         | Bersurai                                                                                                                                |
+| 04:30         | Bersurai |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
