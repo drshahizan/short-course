@@ -5,45 +5,55 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 **Exercise: Practical 1 – Assessing Your Draft Paper**
 
-To help participants **critically evaluate their own draft papers** and identify weaknesses that may reduce acceptance chances in ERA/Scopus journals. This exercise builds awareness of common issues and sets the foundation for later AI-assisted improvements.
+# **Sesi 2 – Peranan AI Dalam Pendidikan di Higher Education**
 
-### **Step 1: Self-Review Checklist**
+### **1. Potensi AI dalam Pengajaran dan Pembelajaran (PdP)**
 
-Use the following **guided checklist** to assess your draft. Mark ✅ (Yes) or ❌ (No) for each point.
+Kecerdasan Buatan (AI) mempunyai potensi besar untuk mentransformasi proses pengajaran dan pembelajaran di institusi pendidikan tinggi. Antara potensi utamanya adalah:
 
-| **Checklist Area**            | **Guiding Questions** | **Mark (✅ / ❌)** |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 📚 **Content & Contribution** | – Is there a **clear research problem/question**? <br> – Does the paper present **novelty/new insights**? <br> – Are objectives aligned with results & conclusion?                                                                                                    |                  |
-| 🏗️ **Structure & Flow**      | – Is the **title precise and clear**? <br> – Does the **abstract summarize problem, method, results, significance**? <br> – Are sections (Intro → Methods → Results → Discussion → Conclusion) well-organized? <br> – Does each paragraph present **one clear idea**? |                  |
-| 🔬 **Methodology**            | – Is the **method explained clearly** and reproducible? <br> – Are the tools/datasets **justified**?                                                                                                                                                                  |                  |
-| ✍️ **Language & Style**       | – Is writing **clear, concise, and academic in tone**? <br> – Free from **grammar errors or informal words**? <br> – Are **figures, tables, and citations** properly labeled?                                                                                         |                  |
-| 📖 **References**             | – Are references **recent (last 5 years)** and relevant? <br> – Are they formatted according to **journal style** (APA, IEEE, etc.)?                                                                                                                                  |                  |
+* **Pembelajaran Berperibadi**
+  AI membolehkan pengalaman pembelajaran yang disesuaikan mengikut keperluan, tahap pencapaian, dan gaya pembelajaran pelajar. Sistem adaptif boleh memberikan latihan tambahan kepada pelajar yang lemah, dan menyediakan cabaran lebih kompleks kepada pelajar yang cemerlang.
 
-### 🔎 **Step 2: Identify Weaknesses**
+* **Tutor Maya dan Rakan Belajar Pintar**
+  Chatbot atau agen AI boleh bertindak sebagai tutor maya yang tersedia 24/7. Ia membantu pelajar menjawab soalan, memberi penerangan lanjut, serta membimbing pelajar dalam memahami konsep sukar.
 
-After filling the checklist, highlight **3–5 weaknesses** in your draft.
-Examples:
+* **Penilaian Automatik dan Maklum Balas Segera**
+  Sistem AI mampu menilai tugasan objektif dengan pantas, memberikan markah serta maklum balas segera. Ini mengurangkan beban pensyarah dan mempercepat proses pembelajaran pelajar.
 
-* ❌ Abstract is too general; contribution not stated.
-* ❌ Method section lacks justification.
-* ❌ References are outdated.
-* ❌ Weak discussion, no link to objectives.
+* **Persekitaran Pembelajaran Imersif**
+  Dengan gabungan AI, realiti maya (VR), dan realiti terimbuh (AR), PdP menjadi lebih interaktif dan menyeronokkan. Simulasi berasaskan AI membolehkan pelajar mengalami pembelajaran dunia sebenar secara maya, contohnya eksperimen makmal atau latihan klinikal.
 
-### 💬 **Step 3: Sharing & Reflection**
+* **Sokongan Inklusif**
+  AI menyediakan kemudahan seperti terjemahan automatik, teks-ke-pertuturan, serta alatan khas untuk pelajar berkeperluan khas, menjadikan pendidikan lebih inklusif dan mudah diakses.
 
-* Pair up with another participant or form small groups.
-* Share **one weakness** from your checklist.
-* Discuss **how to improve it** (this will prepare you for Practical 2 with AI tools).
+---
 
-### 🎯 **Expected Outcome**
+### **2. Kajian Kes Penggunaan AI di Institusi Pendidikan**
 
-By completing this exercise, you will:
+Beberapa institusi dalam dan luar negara telah membuktikan keberkesanan AI dalam pendidikan tinggi:
 
-* Clearly identify **gaps between your draft and ERA/Scopus standards**.
-* Build a **personalized improvement plan**.
-* Be ready to use **AI tools** to address these weaknesses in the next session.
+* **Georgia State University (USA)**
+  Menggunakan sistem analitik AI untuk memantau prestasi pelajar. AI mengesan corak risiko keciciran dan memberi amaran awal kepada penasihat akademik. Hasilnya, kadar keciciran menurun secara signifikan.
+
+* **Universiti di China & Jepun**
+  Menggunakan tutor maya berasaskan ChatGPT dan Qwen untuk pembelajaran bahasa asing. Pelajar dapat berlatih komunikasi, membaiki tatabahasa, serta meningkatkan keyakinan dalam perbualan bahasa asing.
+
+* **Universiti di Eropah**
+  Melaksanakan sistem pentadbiran pintar yang menguruskan pendaftaran kursus, jadual peperiksaan, dan pertanyaan umum pelajar. Chatbot AI juga digunakan untuk menjawab soalan berkaitan biasiswa dan kemudahan kampus.
+
+* **MIT & Stanford (USA)**
+  Menggunakan AI dalam kursus atas talian yang menyesuaikan tahap kesukaran soalan berdasarkan prestasi pelajar, sekali gus memperibadikan pengalaman pembelajaran.
+
+* **Universiti Teknologi Malaysia (Malaysia)**
+  UTM memperkenalkan penggunaan **Generative AI (Gemini, ChatGPT, NotebookLM, Copilot, Qwen, Grok)** dalam PdP dan penyelidikan. AI digunakan untuk membangunkan bahan pengajaran, menyediakan kuiz, menghasilkan rubrik, dan menyokong analitik pembelajaran. 
+
+
+### **Kesimpulan Sesi**
+
+AI dalam pendidikan tinggi mempunyai potensi besar untuk memperkayakan PdP melalui pembelajaran berperibadi, tutor maya, penilaian pintar, dan persekitaran pembelajaran imersif. Kajian kes antarabangsa dan tempatan membuktikan bahawa AI bukan sahaja meningkatkan keberkesanan PdP, tetapi juga menyokong pentadbiran dan penyelidikan. Malaysia, khususnya melalui inisiatif UTM dan KPT, telah mula menunjukkan langkah proaktif ke arah transformasi pendidikan tinggi yang lebih pintar dan inklusif.
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
