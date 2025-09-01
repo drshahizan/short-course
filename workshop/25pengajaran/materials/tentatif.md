@@ -17,7 +17,7 @@
 | 11:00 – 12:30 | **[Sesi 2 – Peranan AI Dalam Pendidikan](sesi02.md)** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
 | 12:30 – 02:00 | Rehat / Makan Tengah Hari |                                                                                             |
 | 02:00 – 02:30 | Pendaftaran Peserta |
-| 02:30 – 04:30 | **[Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI](03mat.md)** <br>• Perancangan pengajaran dengan AI <br>• Pembezaan & pembelajaran diperibadikan |
+| 02:30 – 04:30 | **[Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI](sesi03.md)** <br>• Perancangan pengajaran dengan AI <br>• Pembezaan & pembelajaran diperibadikan |
 | 04:30         | Bersurai |
 
 ## 📌 **Hari Kedua: 3 September 2025 (Rabu)**
