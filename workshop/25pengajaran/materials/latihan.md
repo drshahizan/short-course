@@ -8,12 +8,12 @@
 # Latihan
 
 ## Sesi
-- [Sesi 1](latihan/13_sesi01.md)
-- [Sesi 2](latihan/14_sesi02.md)
-- [Sesi 3](latihan/15_sesi03.md)
-- [Sesi 4](latihan/16_sesi04.md)
-- [Sesi 5](latihan/17_sesi05.md)
-- [Sesi 6](latihan/18_sesi06.md)
+- [Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)](latihan/13_sesi01.md)
+- [Sesi 2 – Peranan AI Dalam Pendidikan](latihan/14_sesi02.md)
+- [Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI](latihan/15_sesi03.md)
+- [Sesi 4 – Etika, Privasi dan Isu Keselamatan](latihan/16_sesi04.md)
+- [Sesi 5 – Aktiviti Amali dan Kolaboratif](latihan/17_sesi05.md)
+- [Sesi 6 - Penilaian dan Refleksi Penggunaan AI](latihan/18_sesi06.md)
 
 ## 1. Generatif AI untuk Pendidikan Tinggi
 
