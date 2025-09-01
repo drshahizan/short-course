@@ -11,11 +11,13 @@
 
 | **Kategori** | **Latihan** | **Penerangan Ringkas** |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|**Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal**||Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana prompt strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional.|
+|**[Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)**||Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana prompt strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional.|
 | **[Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md)** | • Latihan Tugasan Harian Pensyarah <br> • Latihan Profesional (penulisan laporan, memo, proposal)   | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
 | **[Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/03.md)** | • Penjanaan idea PdP <br> • Pembangunan modul mini <br> • Penyediaan bahan pengajaran berasaskan AI | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI.                  |
+|**[Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi](latihan/03.md)**||
 
-## 2. Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi
+
+## 2. Analisis Data
 
 | **Latihan**                                                     | **Penerangan Ringkas** |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +38,7 @@
 | **Latihan**                              | **Penerangan Ringkas** |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Penjanaan Imej: Seni Budaya Malaysia](latihan/11.md)** | Menghasilkan imej berasaskan AI yang menggambarkan budaya Malaysia (batik, wau, tarian tradisional) untuk digunakan dalam PdP dan promosi universiti. |
-| **[10 Prompt Poster Berkaitan UTM](latihan/11.md)**       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
+| **[10 Prompt Poster Berkaitan UTM](latihan/12.md)**       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
