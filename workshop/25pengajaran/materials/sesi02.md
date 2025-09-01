@@ -6,53 +6,37 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# **Sesi 2 – Peranan AI Dalam Pendidikan di Higher Education**
+# **Sesi 2 – Peranan AI dalam Pendidikan di Institusi Pengajian Tinggi
 
-### **1. Potensi AI dalam Pengajaran dan Pembelajaran (PdP)**
+## **1. Potensi AI dalam Pengajaran dan Pembelajaran (PdP)**
 
-Kecerdasan Buatan (AI) mempunyai potensi besar untuk mentransformasi proses pengajaran dan pembelajaran di institusi pendidikan tinggi. Antara potensi utamanya adalah:
+AI berpotensi besar dalam memperkasa PdP di institusi pengajian tinggi melalui pelbagai cara:
 
-* **Pembelajaran Berperibadi**
-  AI membolehkan pengalaman pembelajaran yang disesuaikan mengikut keperluan, tahap pencapaian, dan gaya pembelajaran pelajar. Sistem adaptif boleh memberikan latihan tambahan kepada pelajar yang lemah, dan menyediakan cabaran lebih kompleks kepada pelajar yang cemerlang.
+### **a. Pembelajaran yang diperibadikan**
+AI membolehkan sistem pembelajaran menyesuaikan kandungan mengikut tahap kefahaman dan gaya pembelajaran pelajar. Ini meningkatkan keberkesanan pembelajaran dan motivasi pelajar[1](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
 
-* **Tutor Maya dan Rakan Belajar Pintar**
-  Chatbot atau agen AI boleh bertindak sebagai tutor maya yang tersedia 24/7. Ia membantu pelajar menjawab soalan, memberi penerangan lanjut, serta membimbing pelajar dalam memahami konsep sukar.
+### **b. Automasi tugas rutin pensyarah**
+AI boleh mengautomasi tugasan seperti penggredan, semakan plagiarisme, dan pengurusan pentadbiran. Contohnya, penggunaan Turnitin dan Grammarly untuk semakan tugasan[2](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
 
-* **Penilaian Automatik dan Maklum Balas Segera**
-  Sistem AI mampu menilai tugasan objektif dengan pantas, memberikan markah serta maklum balas segera. Ini mengurangkan beban pensyarah dan mempercepat proses pembelajaran pelajar.
+### **c. Sokongan pembelajaran 24/7**
+Chatbot berasaskan AI seperti *Jill Watson* mampu menjawab soalan pelajar secara automatik, memberikan sokongan berterusan tanpa kehadiran fizikal pensyarah[3](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
 
-* **Persekitaran Pembelajaran Imersif**
-  Dengan gabungan AI, realiti maya (VR), dan realiti terimbuh (AR), PdP menjadi lebih interaktif dan menyeronokkan. Simulasi berasaskan AI membolehkan pelajar mengalami pembelajaran dunia sebenar secara maya, contohnya eksperimen makmal atau latihan klinikal.
+### **d. Analitik pembelajaran**
+AI boleh menganalisis data pelajar untuk mengenal pasti corak pembelajaran, meramal prestasi, dan mencadangkan intervensi awal[4](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
 
-* **Sokongan Inklusif**
-  AI menyediakan kemudahan seperti terjemahan automatik, teks-ke-pertuturan, serta alatan khas untuk pelajar berkeperluan khas, menjadikan pendidikan lebih inklusif dan mudah diakses.
+### **e. Penggunaan AI dalam kurikulum dan pembangunan kompetensi**
+UNESCO telah membangunkan rangka kerja kompetensi AI untuk pelajar dan guru, serta menyarankan integrasi AI dalam kurikulum pendidikan tinggi untuk masa depan pembelajaran yang lebih inklusif dan beretika[5](https://www.unesco.org/en/digital-education/ai-future-learning).
 
----
+## **2. Kajian Kes Penggunaan AI di Institusi Pendidikan**
 
-### **2. Kajian Kes Penggunaan AI di Institusi Pendidikan**
+### **a. Kajian Empirik di Sepanyol dan Oman**
+Kajian oleh Slimi (2023) menunjukkan AI meningkatkan keberkesanan PdP, mempercepat proses penilaian, dan membantu pelajar membina kemahiran masa depan. Kajian ini juga menekankan keperluan untuk menangani isu etika dalam penggunaan AI[6](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
 
-Beberapa institusi dalam dan luar negara telah membuktikan keberkesanan AI dalam pendidikan tinggi:
+### **b. Kajian Literatur di Indonesia**
+Kajian oleh Irsyadul Ibad et al. (2024) menggunakan pendekatan *Systematic Literature Review* untuk menilai kesan AI seperti ChatGPT terhadap kreativiti, kolaborasi, dan kemahiran akademik pelajar. Hasil kajian menunjukkan AI meningkatkan kecekapan tetapi juga menimbulkan cabaran dari segi etika dan pemikiran kritis[7](https://j-innovative.org/index.php/Innovative/article/download/16147/11425/29387).
 
-* **Georgia State University (USA)**
-  Menggunakan sistem analitik AI untuk memantau prestasi pelajar. AI mengesan corak risiko keciciran dan memberi amaran awal kepada penasihat akademik. Hasilnya, kadar keciciran menurun secara signifikan.
-
-* **Universiti di China & Jepun**
-  Menggunakan tutor maya berasaskan ChatGPT dan Qwen untuk pembelajaran bahasa asing. Pelajar dapat berlatih komunikasi, membaiki tatabahasa, serta meningkatkan keyakinan dalam perbualan bahasa asing.
-
-* **Universiti di Eropah**
-  Melaksanakan sistem pentadbiran pintar yang menguruskan pendaftaran kursus, jadual peperiksaan, dan pertanyaan umum pelajar. Chatbot AI juga digunakan untuk menjawab soalan berkaitan biasiswa dan kemudahan kampus.
-
-* **MIT & Stanford (USA)**
-  Menggunakan AI dalam kursus atas talian yang menyesuaikan tahap kesukaran soalan berdasarkan prestasi pelajar, sekali gus memperibadikan pengalaman pembelajaran.
-
-* **Universiti Teknologi Malaysia (Malaysia)**
-  UTM memperkenalkan penggunaan **Generative AI (Gemini, ChatGPT, NotebookLM, Copilot, Qwen, Grok)** dalam PdP dan penyelidikan. AI digunakan untuk membangunkan bahan pengajaran, menyediakan kuiz, menghasilkan rubrik, dan menyokong analitik pembelajaran. 
-
-
-### **Kesimpulan Sesi**
-
-AI dalam pendidikan tinggi mempunyai potensi besar untuk memperkayakan PdP melalui pembelajaran berperibadi, tutor maya, penilaian pintar, dan persekitaran pembelajaran imersif. Kajian kes antarabangsa dan tempatan membuktikan bahawa AI bukan sahaja meningkatkan keberkesanan PdP, tetapi juga menyokong pentadbiran dan penyelidikan. Malaysia, khususnya melalui inisiatif UTM dan KPT, telah mula menunjukkan langkah proaktif ke arah transformasi pendidikan tinggi yang lebih pintar dan inklusif.
-
+### **c. Inisiatif UNESCO**
+UNESCO telah menjalankan pelbagai forum dan bengkel antarabangsa untuk membangunkan kompetensi AI dalam kalangan pendidik dan pelajar. Kajian kes dari UAE dan Oman menunjukkan bagaimana AI diintegrasikan dalam kurikulum K-12 dan pendidikan tinggi secara sistematik[8](https://www.unesco.org/en/digital-education/ai-future-learning).
 
 
 ### 🙌🏻 Connect with Me
