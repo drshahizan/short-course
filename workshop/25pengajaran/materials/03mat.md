@@ -5,51 +5,52 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 **Exercise: Practical 2 – Using Generative AI for Language Enhancement**
+# **Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI**
 
-**Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot, Qwen, Grok) to improve clarity, grammar, and academic tone.**
+### **1. Perancangan Pengajaran dengan AI**
 
-## 🎯 **Objective**
+Penggunaan AI dalam perancangan pengajaran memberi kelebihan kepada pensyarah untuk merancang PdP secara lebih sistematik, dinamik, dan bersesuaian dengan keperluan pelajar. Antara peranannya adalah:
 
-To apply **different AI tools** to improve draft paragraphs by enhancing **clarity, grammar, structure, and academic tone** using effective prompts.
+* **Penjanaan Bahan Pengajaran Automatik**
+  Alat AI generatif seperti ChatGPT, Gemini, Copilot, dan NotebookLM boleh membantu pensyarah menjana draf nota kuliah, slaid pembentangan, kuiz, serta rubrik penilaian dengan cepat.
 
-## 📋 **Step 1: Select a Draft Paragraph**
+* **Sokongan dalam Penyusunan Silibus**
+  AI dapat menganalisis kandungan kurikulum sedia ada dan mencadangkan penambahbaikan berdasarkan tren global atau keperluan industri semasa. Ini memastikan silibus kekal relevan dan selari dengan keperluan pasaran kerja.
 
-Choose a paragraph (100–200 words) from your **Abstract, Introduction, or Discussion**. Prefer text that feels **too long, unclear, or less academic**.
+* **Peramalan Keperluan Pelajar**
+  Sistem analitik berasaskan AI mampu mengenal pasti cabaran yang mungkin dihadapi pelajar berdasarkan prestasi sebelumnya. Dengan itu, pensyarah boleh merancang pengajaran lebih proaktif, termasuk menyediakan sokongan tambahan lebih awal.
 
-## 🤖 **Step 2: Use AI Tools with Suitable Prompts**
+* **Reka Bentuk Aktiviti Interaktif**
+  AI membantu mereka bentuk aktiviti pengajaran berasaskan simulasi, permainan pendidikan (*serious games*), atau persekitaran maya yang meningkatkan penglibatan pelajar.
 
-| **AI Tool**                                         | **Purpose**                                 | **Sample Prompt (Copy & Use)**                                                                                               |
-| --------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 💬 [**ChatGPT**](https://chat.openai.com/)          | Improve clarity, grammar, flow              | “Please refine this paragraph to improve clarity, grammar, and sentence flow while keeping the meaning intact.”              |
-| 🌐 [**Gemini**](https://gemini.google.com/)         | Enhance academic style and scholarly tone   | “Rewrite this paragraph in a formal academic style suitable for submission to a Scopus-indexed journal.”                     |
-| 👨‍💻 [**Copilot**](https://copilot.microsoft.com/) | Make writing concise and precise            | “Simplify this paragraph by reducing wordiness but keep the technical meaning accurate.”                                     |
-| 🧠 [**Qwen**](https://qwenlm.ai/)                   | Strengthen technical precision (STEM, data) | “Rewrite this paragraph using accurate technical terms and precise academic expressions appropriate for scientific writing.” |
-| 🚀 [**Grok**](https://grok.x.ai/)                   | Improve structure and readability           | “Restructure this paragraph so that the main argument is clearer and easier to follow.”                                      |
+* **Pemantauan dan Penilaian Berterusan**
+  AI menyokong perancangan pengajaran dengan menyediakan laporan prestasi pelajar secara masa nyata, sekali gus membolehkan pensyarah menyesuaikan kaedah pengajaran sepanjang semester.
 
-## 📝 **Step 3: Compare & Evaluate**
+### **2. Pembezaan & Pembelajaran Berperibadi**
 
-1. Place your **original paragraph** next to the AI-refined versions.
-2. Highlight differences in **clarity, tone, grammar, and structure**.
-3. Decide which tool gave the **best version** and why.
+AI membuka ruang yang luas untuk melaksanakan konsep pembelajaran yang lebih fleksibel, bersesuaian dengan kepelbagaian gaya dan tahap pelajar:
 
-## 🔎 **Step 4: Reflection Table**
+* **Pembelajaran Adaptif**
+  Sistem AI boleh menyesuaikan tahap kesukaran soalan, kelajuan penyampaian, atau jenis aktiviti mengikut keperluan pelajar individu.
 
-| **Aspect**          | **Original Draft** | **Best AI Version (Tool Used)** | **Improvement Observed** |
-| ------------------- | ------------------ | ------------------------------- | ------------------------ |
-| Clarity ✨           |                    |                                 |                          |
-| Grammar ✅           |                    |                                 |                          |
-| Academic Tone 🎓    |                    |                                 |                          |
-| Technical Detail 🧠 |                    |                                 |                          |
-| Structure 🚀        |                    |                                 |                          |
+* **Pembezaan Kandungan**
+  AI membolehkan pensyarah menyediakan bahan pengajaran dalam pelbagai bentuk—teks, audio, video, atau simulasi—agar sesuai dengan gaya pembelajaran berbeza (visual, auditori, kinestetik).
 
-## 🎯 **Expected Outcome**
+* **Maklum Balas Peribadi**
+  Tutor maya berasaskan AI memberi maklum balas segera yang spesifik untuk setiap pelajar, membantu mereka memahami kesilapan dan membaikinya dengan cepat.
 
-By the end of this session, students will:
+* **Laluan Pembelajaran Tersuai**
+  Berdasarkan analisis prestasi, AI boleh mencadangkan laluan pembelajaran berbeza untuk pelajar: misalnya laluan *remedial* untuk pelajar yang ketinggalan, atau laluan lanjutan untuk pelajar yang cemerlang.
 
-* Gain hands-on experience in **prompting AI tools effectively**.
-* Learn which tool works best for **clarity, tone, conciseness, or technical accuracy**.
-* Produce a **polished, ERA/Scopus-ready paragraph** for their manuscript.
+* **Peningkatan Penglibatan Pelajar**
+  Dengan AI, pelajar boleh terlibat dalam aktiviti interaktif mengikut minat masing-masing, seperti kuiz berasaskan permainan atau projek penyelidikan mini yang disesuaikan dengan bidang minat.
+
+
+### **Kesimpulan Sesi**
+
+Reka bentuk pengajaran berasaskan AI membolehkan pensyarah merancang PdP yang lebih **terancang, relevan, dan responsif** terhadap keperluan semasa. Pada masa yang sama, pendekatan ini menggalakkan **pembezaan pembelajaran** dengan memberi peluang kepada setiap pelajar untuk belajar mengikut kemampuan, gaya, dan minat mereka. Hasilnya, proses PdP menjadi lebih inklusif, menyeronokkan, dan berkesan.
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
