@@ -11,8 +11,8 @@
 
 | **Kategori** | **Latihan** | **Penerangan Ringkas** |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional** | • Latihan Tugasan Harian Pensyarah <br> • Latihan Profesional (penulisan laporan, memo, proposal)   | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
-| **Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional** | • Penjanaan idea PdP <br> • Pembangunan modul mini <br> • Penyediaan bahan pengajaran berasaskan AI | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI.                  |
+| **[Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md)** | • Latihan Tugasan Harian Pensyarah <br> • Latihan Profesional (penulisan laporan, memo, proposal)   | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
+| **[Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional(latihan/03.md)** | • Penjanaan idea PdP <br> • Pembangunan modul mini <br> • Penyediaan bahan pengajaran berasaskan AI | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI.                  |
 
 # 2. Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi
 
