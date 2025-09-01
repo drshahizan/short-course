@@ -19,34 +19,34 @@
 
 | **Kategori** | **Penerangan Ringkas** |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)**          | Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana *prompt* strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional. |
-| **[Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md)** | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
-| **[Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/03.md)** | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI. |
-| **[Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi](latihan/04.md)** | Gunakan Generatif AI untuk menghasilkan kandungan berdasarkan fakta dan statistik terkini berkaitan Universiti Teknologi Malaysia (UTM) bagi tujuan seperti penulisan laporan rasmi, e-mel cadangan, pembentangan kerja, atau penghasilan dokumen promosi akademik.          |
+| [Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)          | Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana *prompt* strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional. |
+| [Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md) | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
+| [Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/03.md) | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI. |
+| [Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi](latihan/04.md) | Gunakan Generatif AI untuk menghasilkan kandungan berdasarkan fakta dan statistik terkini berkaitan Universiti Teknologi Malaysia (UTM) bagi tujuan seperti penulisan laporan rasmi, e-mel cadangan, pembentangan kerja, atau penghasilan dokumen promosi akademik.          |
  
 
 ## 2. Analisis Data
 
 | **Latihan**                                                     | **Penerangan Ringkas** |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Analisis Data & Visualisasi UTM untuk Produktiviti Akademik](latihan/05.md)** | Menggunakan data universiti (contoh: enrolmen, penerbitan, ranking) untuk menghasilkan carta, graf, dan visualisasi yang menyokong pembuatan keputusan. |
-| **[Peramalan Jumlah Penduduk Malaysia](latihan/06.md)**                          | Latihan amali menggunakan AI untuk menganalisis data populasi Malaysia, menghasilkan graf tren, serta membuat ramalan jangka panjang.                   |
-| **[Markmap](latihan/07.md)**                                                     | Membina peta minda interaktif berasaskan AI untuk menyusun maklumat kursus, projek penyelidikan, atau pelan strategik universiti.                       |
+| [Analisis Data & Visualisasi UTM untuk Produktiviti Akademik](latihan/05.md) | Menggunakan data universiti (contoh: enrolmen, penerbitan, ranking) untuk menghasilkan carta, graf, dan visualisasi yang menyokong pembuatan keputusan. |
+| [Peramalan Jumlah Penduduk Malaysia](latihan/06.md)                        | Latihan amali menggunakan AI untuk menganalisis data populasi Malaysia, menghasilkan graf tren, serta membuat ramalan jangka panjang.                   |
+| [Markmap](latihan/07.md)                                                     | Membina peta minda interaktif berasaskan AI untuk menyusun maklumat kursus, projek penyelidikan, atau pelan strategik universiti.                       |
 
 ## 3. Analisis & Penjanaan Kandungan AI
 
 | **Latihan**                           | **Penerangan Ringkas** |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Analisis Imej Menggunakan ChatGPT](latihan/08.md)** | Menggunakan AI untuk menganalisis gambar atau grafik (contoh: poster, carta, atau imej eksperimen) bagi tujuan PdP atau penyelidikan.                             |
-| **[Analisis Dokumen: ChatGPT](latihan/09.md)**         | Menganalisis artikel, laporan, atau dokumen akademik dengan bantuan ChatGPT untuk membuat ringkasan, mengekstrak data penting, atau mengenal pasti jurang kajian. |
-| **[Analisis Dokumen: Copilot](latihan/10.md)**         | Menggunakan Microsoft Copilot untuk menganalisis fail Word, Excel, atau PDF yang berkaitan dengan kerja akademik.                                                 |
+| [Analisis Imej Menggunakan ChatGPT](latihan/08.md) | Menggunakan AI untuk menganalisis gambar atau grafik (contoh: poster, carta, atau imej eksperimen) bagi tujuan PdP atau penyelidikan.                             |
+| [Analisis Dokumen: ChatGPT](latihan/09.md)         | Menganalisis artikel, laporan, atau dokumen akademik dengan bantuan ChatGPT untuk membuat ringkasan, mengekstrak data penting, atau mengenal pasti jurang kajian. |
+| [Analisis Dokumen: Copilot](latihan/10.md)         | Menggunakan Microsoft Copilot untuk menganalisis fail Word, Excel, atau PDF yang berkaitan dengan kerja akademik.                                                 |
 
 ## 4. Penjanaan Imej & Kreativiti
 
 | **Latihan**                              | **Penerangan Ringkas** |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Penjanaan Imej: Seni Budaya Malaysia](latihan/11.md)** | Menghasilkan imej berasaskan AI yang menggambarkan budaya Malaysia (batik, wau, tarian tradisional) untuk digunakan dalam PdP dan promosi universiti. |
-| **[10 Prompt Poster Berkaitan UTM](latihan/12.md)**       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
+| [Penjanaan Imej: Seni Budaya Malaysia](latihan/11.md) | Menghasilkan imej berasaskan AI yang menggambarkan budaya Malaysia (batik, wau, tarian tradisional) untuk digunakan dalam PdP dan promosi universiti. |
+| [10 Prompt Poster Berkaitan UTM](latihan/12.md)       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
@@ -59,6 +59,3 @@
  
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 </p>
-
-
-
