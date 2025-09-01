@@ -7,14 +7,14 @@
 
 # Latihan
 
-## 1. Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal
+### 1. Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal
 
 | **Kategori** | **Latihan** | **Penerangan Ringkas** |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md)** | • Latihan Tugasan Harian Pensyarah <br> • Latihan Profesional (penulisan laporan, memo, proposal)   | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
 | **[Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/03.md)** | • Penjanaan idea PdP <br> • Pembangunan modul mini <br> • Penyediaan bahan pengajaran berasaskan AI | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI.                  |
 
-# 2. Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi
+### 2. Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi
 
 | **Latihan**                                                     | **Penerangan Ringkas** |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@
 | **Peramalan Jumlah Penduduk Malaysia**                          | Latihan amali menggunakan AI untuk menganalisis data populasi Malaysia, menghasilkan graf tren, serta membuat ramalan jangka panjang.                   |
 | **Markmap**                                                     | Membina peta minda interaktif berasaskan AI untuk menyusun maklumat kursus, projek penyelidikan, atau pelan strategik universiti.                       |
 
-# 3. Analisis & Penjanaan Kandungan AI
+### 3. Analisis & Penjanaan Kandungan AI
 
 | **Latihan**                           | **Penerangan Ringkas** |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@
 | **Analisis Dokumen: ChatGPT**         | Menganalisis artikel, laporan, atau dokumen akademik dengan bantuan ChatGPT untuk membuat ringkasan, mengekstrak data penting, atau mengenal pasti jurang kajian. |
 | **Analisis Dokumen: Copilot**         | Menggunakan Microsoft Copilot untuk menganalisis fail Word, Excel, atau PDF yang berkaitan dengan kerja akademik.                                                 |
 
-# 4. Penjanaan Imej & Kreativiti
+## 4. Penjanaan Imej & Kreativiti
 
 | **Latihan**                              | **Penerangan Ringkas** |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
