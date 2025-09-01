@@ -7,6 +7,14 @@
 
 # Latihan
 
+## Sesi
+- [Sesi 1](latihan/13_sesi01.md)
+- [Sesi 2](latihan/14_sesi02.md)
+- [Sesi 3](latihan/15_sesi03.md)
+- [Sesi 4](latihan/16_sesi04.md)
+- [Sesi 5](latihan/17_sesi05.md)
+- [Sesi 6](latihan/18_sesi06.md)
+
 ## 1. Generatif AI untuk Pendidikan Tinggi
 
 | **Kategori** | **Penerangan Ringkas** |
