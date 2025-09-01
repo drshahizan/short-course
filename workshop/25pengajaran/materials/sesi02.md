@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# **Sesi 2 – Peranan AI dalam Pendidikan di Institusi Pengajian Tinggi
+# Sesi 2 – Peranan AI dalam Pendidikan di Institusi Pengajian Tinggi
 
 ## **1. Potensi AI dalam Pengajaran dan Pembelajaran (PdP)**
 
