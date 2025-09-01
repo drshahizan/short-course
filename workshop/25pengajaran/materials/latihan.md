@@ -14,7 +14,7 @@
 |**[Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)**||Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana prompt strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional.|
 | **[Set 1 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/02.md)** | • Latihan Tugasan Harian Pensyarah <br> • Latihan Profesional (penulisan laporan, memo, proposal)   | Melatih pensyarah menggunakan Generatif AI untuk menyokong tugasan rutin (surat, memo, laporan) dan kerja profesional (penulisan akademik, proposal). |
 | **[Set 2 - Pemerkasaan Pensyarah dengan Generatif AI: Latihan Tugasan Harian dan Profesional](latihan/03.md)** | • Penjanaan idea PdP <br> • Pembangunan modul mini <br> • Penyediaan bahan pengajaran berasaskan AI | Membolehkan pensyarah menghasilkan modul PdP, nota ringkas, kuiz, dan bahan pengajaran lain secara cepat dan teratur menggunakan AI.                  |
-|**[Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi](latihan/03.md)**||
+|**[Kenali Universiti Teknologi Malaysia & Tingkatkan Produktiviti Melalui Maklumat Institusi](latihan/04.md)**||
 
 
 ## 2. Analisis Data
