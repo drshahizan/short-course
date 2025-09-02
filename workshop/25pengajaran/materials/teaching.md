@@ -7,7 +7,7 @@
 
 # Bahan pengajaran
 
-## 📋 [Slaid pembentangan](writewise.pdf)
+## 📋 [Slaid pembentangan](https://github.com/drshahizan/short-course/blob/main/workshop/25pengajaran/images/25p_p.pdf)
 
 
 | **No** | **Kategori**                            | **Kandungan** | **Bidang Fokus**                                                                                |
