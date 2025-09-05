@@ -31,15 +31,15 @@ By the end of this workshop, participants will be able to:
 
 ## [Workshop Schedule](materials/time.md)
 
-This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
+This section presents the **detailed agenda** of the workshop, mapping out the sequence of sessions, interactive activities, and breaks. It guides participants through a **step-by-step journey** that begins with understanding grant policies and funding landscapes, continues with exploring the role of Generative AI in proposal writing, and progresses to hands-on practice in developing, refining, and strengthening proposals. The schedule ensures a **balanced integration of theory, AI tool demonstrations, and practical application** that culminates in drafting high-impact proposals.
 
-## [Teaching materials](materials/teaching.md)
+## [Teaching Materials](materials/teaching.md)
 
-This section contains the **essential learning resources and references** used during the workshop. It includes official guidelines (UNESCO, national, and institutional), global AI adoption reports, practical setup instructions, and curated videos. Together, these materials provide participants with **theoretical background, best practices, and practical guides** to reinforce what they learn during the workshop and to support continued application afterward.
+This section provides the **core resources and references** essential for mastering grant proposal writing with Generative AI. It includes funding agency guidelines, examples of successful proposals, global reports on AI in research management, as well as technical guides for setting up and using AI platforms. Supplementary resources such as curated videos and case studies help participants connect **theoretical knowledge with practical application**, ensuring they leave with both conceptual understanding and actionable skills.
 
 ## [AI Tools for Research Workflow](materials/ai.md)
 
-This section introduces participants to a curated set of **AI tools designed to support researchers across the entire research lifecycle**. From literature discovery and idea generation to data visualization and academic writing, each tool is presented with its **purpose, strengths, and practical use cases**. This equips participants with the digital skills to adopt AI ethically and effectively in their own research and teaching.
+This section introduces participants to a carefully selected set of **Generative AI tools tailored to the grant proposal process**. Tools are showcased according to their role in the research workflow, such as idea generation, structuring problem statements, enhancing clarity of objectives, improving narrative flow, and refining final drafts. Each tool is presented with its **unique features, ethical considerations, and real-world examples** to help participants adopt AI responsibly and effectively. By mastering these tools, participants gain a competitive edge in producing compelling, fundable proposals.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
