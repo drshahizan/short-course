@@ -8,7 +8,7 @@
 
 # WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25idea/images/idea.jpeg" alt="Shahizan SLR"  height="400">
 
 
 ## **Synopsis**
