@@ -21,32 +21,13 @@ The workshop will be conducted by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman**,
 
 ## **Workshop Learning Outcomes**
 
-By the end of the workshop, participants will be able to:
+By the end of this workshop, participants will be able to:
 
-1. **Understand Publishing Requirements**
-
-   * Identify the key standards and expectations of ERA and Scopus-indexed journals.
-   * Recognize common reasons for manuscript rejection and strategies to overcome them.
-
-2. **Apply Generative AI Tools in Academic Writing**
-
-   * Utilize AI-powered platforms to improve clarity, coherence, and academic style in draft articles.
-   * Enhance argumentation, literature integration, and citation management with the support of AI.
-
-3. **Improve Draft Manuscripts**
-
-   * Refine participants’ own draft papers through hands-on AI-assisted editing.
-   * Strengthen structure, flow, and overall readability to meet international publishing standards.
-
-4. **Evaluate Ethical and Responsible Use of AI**
-
-   * Discuss ethical considerations and limitations of using Generative AI in scholarly writing.
-   * Apply best practices to ensure academic integrity while integrating AI in manuscript preparation.
-
-5. **Develop Practical Publishing Strategies**
-
-   * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
-   * Gain confidence in aligning research contributions with target journal scopes and impact.
+1. **Identify the key components of a successful grant proposal** and understand the expectations of funding agencies.
+2. **Leverage Generative AI tools** to draft, refine, and enhance the clarity and persuasiveness of research proposals.
+3. **Formulate strong research objectives and impact statements** that align with national and international funding priorities.
+4. **Develop compelling and evidence-based narratives** that highlight innovation, feasibility, and significance.
+5. **Apply best practices and AI-assisted strategies** to increase the competitiveness and success rate of grant applications.
 
 ## [Workshop Schedule](materials/time.md)
 
