@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI
+# From Idea to Impact: Writing Winning Grant Proposals with Generative AI
 
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25idea/images/idea.jpeg" alt="Shahizan SLR"  height="400">
 
