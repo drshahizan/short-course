@@ -13,14 +13,11 @@
 
 ## **Synopsis**
 
-The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
+The workshop **“From Idea to Impact: Writing Winning Grant Proposals with Generative AI”** is a full-day training program designed to equip researchers, academics, and postgraduate students with the skills to craft compelling and competitive grant proposals. By leveraging the power of Generative AI, participants will learn practical strategies to transform innovative ideas into well-structured, high-impact proposals that align with funding requirements.
 
-This one-day hands-on workshop introduces participants to the practical use of **Generative AI tools** to refine their manuscripts. By leveraging AI-powered writing assistants, attendees will learn how to enhance clarity, coherence, and scholarly tone, as well as strengthen argumentation and citation management. The session will also cover ethical considerations in AI-assisted academic writing, ensuring participants can integrate these tools responsibly.
+This interactive session will cover essential techniques in proposal writing, including problem framing, articulating research significance, and demonstrating innovation. Participants will also explore how AI tools can support the drafting, refining, and strengthening of grant applications, ensuring higher chances of success in a competitive funding landscape.
 
-Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computing, Universiti Teknologi Malaysia, the workshop emphasizes **interactive learning**. Participants are encouraged to bring along their draft papers to gain personalized feedback and direct improvements during the session.
-
-By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
-
+The workshop will be conducted by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman**, Faculty of Computing, Universiti Teknologi Malaysia, who brings extensive expertise in research, data-driven innovation, and academic capacity building. Organized by the **Faculty of Management (FM) ResearchXcelerator**, this program reflects UTM’s commitment to empowering scholars with advanced tools and methodologies to drive impactful research outcomes.
 
 ## **Workshop Learning Outcomes**
 
