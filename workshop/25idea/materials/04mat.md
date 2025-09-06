@@ -7,9 +7,6 @@
 
 # Practical 3: Strengthening Significance & Impact in Grant Proposals with Generative AI
 
-## Objective
-Practical 3 of the course *"From Idea to Impact: Writing Winning Grant Proposals with Generative AI"* focuses on using Generative AI tools (e.g., ChatGPT, Gemini, Copilot, NotebookLM) to craft persuasive justifications, highlight innovation, and align grant proposals with funding agency goals. Participants will learn to leverage AI to articulate the significance and impact of their projects effectively, ensuring their proposals stand out to reviewers.
-
 ## Session Structure
 This interactive workshop combines instruction, hands-on activities, and discussions to equip participants with skills to enhance the significance and impact sections of grant proposals using AI tools.
 
