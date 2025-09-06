@@ -23,7 +23,7 @@ UTM supports a wide range of internal grant schemes to empower researchers—fro
 These grant programs typically prioritize **strategically aligned projects**, such as those contributing to innovation, high-impact societal outcomes, and UTM's institutional research goals.
 
 
-### 2. **Eligibility and Project Requirements**
+## 2. **Eligibility and Project Requirements**
 
 UTM mandates clear eligibility and project criteria across its grant schemes:
 
@@ -34,7 +34,7 @@ UTM mandates clear eligibility and project criteria across its grant schemes:
 | **Geran Penyelidik Baharu**                    | • UTM new staff (not confirmed) <br>• Not on study/sabbatical leave <br>• Must register with Research Alliance                                                                                                                     | • Duration: 24 months (no extension) <br>• RM20,000 (S\&T) or RM10,000 (SS) <br>• Attachments: similarity index ≤20%, flow chart, quotation, justification <br>• Outputs: 1 indexed publication (WoS/Scopus/ERA) <br>• Must apply for external grants                                                                                                                                                                                         |
 | **KTP-RIG 2026**                               | • UTM academic staff (permanent/contract, PhD holder, Malaysian) <br>• Program must have min. 4 academic staff (incl. project leaders) <br>• Must involve at least 2 synergy partners: 1 industry + 1 government (quadruple helix) | • 1 Program Induk + 4 Sub-Projects <br>• Each sub-project: different focus area, community target, and objectives <br>• Must secure matching funds equal to CCIN allocation (RM20,000) <br>• Duration: 1 year (max) <br>• Deliverables: ≥1 journal article, final report, star rating (≥3 stars), external collaboration (industry+government), project video & photos <br>• Outputs must benefit external community (not UTM staff/students) |
 | **Dana Networking AIMS4STAR**                  | • Open to UTM researchers collaborating with industry/academic partners <br>• Requires active networking and external collaboration                                                                                                | • Aims to foster international and industrial networking <br>• Matching grants with industry/partners encouraged <br>• Activities: joint research, publications, and consortium projects <br>• Focus on building long-term collaboration and impactful partnerships                                                                                                                                                                           |
-### 3. **Key Evaluation Criteria**
+## 3. **Key Evaluation Criteria**
 
 UTM evaluates grant proposals on several important dimensions:
 
@@ -46,27 +46,67 @@ UTM evaluates grant proposals on several important dimensions:
 | **KTP-RIG 2026**                               | • Relevance and impact of project to community/industry (Quadruple Helix) <br>• Clear problem-solving or policy/product improvement elements <br>• Integration of UTM niche areas with national strategic needs <br>• Feasibility of implementation (1 Program Induk + 4 Sub-projects) <br>• Collaboration strength (industry + government partners) <br>• Potential for commercialization and long-term sustainability <br>• Quality of deliverables (reports, publications, project video, star rating ≥3) |
 | **Dana Networking AIMS4STAR**                  | • Strength and credibility of proposed networking/collaboration (industry or international) <br>• Potential for long-term impact (joint publications, projects, or consortiums) <br>• Contribution to UTM’s visibility and reputation globally <br>• Relevance to UTM research priorities and industry needs <br>• Evidence of matching funds or co-contributions <br>• Scalability and sustainability of the networking effort |
 
+## 4. **Emerging Trends in UTM Research Funding**
 
-### 4. **Emerging Trends in UTM Research Funding**
+### A. **Focus on UTM Signature Research Areas**
 
-Recent trends shaping the UTM grant landscape include:
+UTM’s funding increasingly emphasizes alignment with **nine signature areas**, such as **Next Generation Systems and Networks, Energy Sustainability, Water Security, Smart Society, Biomedical & Healthcare Engineering, Smart Manufacturing, and Smart Transportation**. Grants like **UTMFR** and **AI Research Grants** are evaluated on how strongly they contribute to these domains.
 
-* **Strategic Emphasis on Collaborative and Matching Grants**: UTM increasingly encourages joint projects with industry, government, or external institutions, recognizing the multiplier effect of matching external support ([UTM Faculty of Science][4]).
-* **Focus on Broader Impact**: Projects that enhance societal outcomes, align with national priorities, or increase prospects for securing external funding are favored ([Research Management Centre][5]).
-* **Encouraging Early Career Researchers**: UTM continues to support junior academics through UTMER and similar grants to cultivate future research leaders.
-* **Access to International Opportunities**: UTM maintains curated listings of international funding opportunities to bolster global research engagement and visibility ([Research Management Centre][5]).
+### B. **Artificial Intelligence (AI) as a Strategic Priority**
+
+A dedicated **Geran Penyelidikan Kecerdasan Buatan** signals UTM’s commitment to becoming a regional leader in AI research. Trends include:
+
+* Integration of **responsible and explainable AI (XAI/RAI)**.
+* AI applications in **healthcare, education, IoT, and smart infrastructure**.
+* Preference for **high-impact outputs (WoS Q1/Q2 journals)** and interdisciplinary collaborations.
+
+### C. **Strengthening New Researcher Capacity**
+
+Through the **Geran Penyelidik Baharu**, UTM nurtures young academics by:
+
+* Encouraging them to publish **indexed papers early**.
+* Requiring **external grant applications** as part of capacity building.
+* Providing smaller-scale but structured funding (RM10k–RM20k) to seed careers.
+
+This shows a trend of **talent pipeline development** to ensure sustainability of UTM’s research ecosystem.
 
 
 
-### Summary Table
+### D. **Knowledge Transfer & Societal Impact**
 
-| **Aspect**               | **What It Means for Participants**                                                    |
-| ------------------------ | ------------------------------------------------------------------------------------- |
-| Grant Types              | Choose schemes aligned with your career stage and research goals                      |
-| Eligibility & Team       | Ensure correct composition and institutional affiliation                              |
-| Evaluation Criteria      | Align proposals with strategic focus, demonstrate feasibility, innovation, and impact |
-| Trends & Strategic Focus | Leverage collaborative funding and external opportunities to strengthen proposals     |
+With **KTP-RIG 2026**, UTM is pivoting towards **community- and industry-engaged research**. Key trends include:
 
+* **Quadruple Helix collaboration** (University–Industry–Government–Community).
+* Emphasis on **real-world problem solving, commercialization, and policy impact**.
+* Requirement for **matching funds** to increase financial sustainability.
+* Deliverables like **community videos, star ratings, and visible societal benefits**.
+
+This trend signals UTM’s **shift from purely academic outputs to measurable social impact**.
+
+### E. **Networking and Global Collaboration**
+
+The **Dana Networking AIMS4STAR** shows UTM’s strong push for **international visibility**. Trends include:
+
+* Expanding **global research partnerships**.
+* Building **consortiums** with international universities and industries.
+* Securing **co-funding and industry-matching grants**.
+* Prioritizing **long-term impact** beyond individual projects (e.g., joint publications, mobility, and networked innovation).
+
+### F. **Stricter Accountability and Output Requirements**
+
+Across all grants, UTM is tightening compliance:
+
+* **Turnitin similarity index ≤20%** for proposals.
+* **No extensions allowed** (strict timelines: 24–42 months).
+* **Indexed publication requirements** tied to WoS/Scopus.
+* **Mandatory external grant applications** to sustain funding cycles.
+* Performance monitoring via **RADIS and ICEsys systems**.
+
+This trend reflects a push towards **research integrity, efficiency, and global competitiveness**.
+
+
+## ✅ **Summary Insight:**
+UTM’s research funding is clearly shifting from traditional internal seed grants towards a **strategic, impact-driven, AI-empowered, and globally networked ecosystem**. Researchers are expected not only to publish but also to **train students, secure external funding, deliver community impact, and enhance UTM’s international standing**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
