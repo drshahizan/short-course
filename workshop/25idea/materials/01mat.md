@@ -108,16 +108,25 @@ Here’s the revised version in **proper English** with clear timelines and dead
 
 ## 📅 Key Dates & Deadlines for UTM Research Grants
 
-| **Grant**                                                                         | **Project Duration**             | **Key Dates / Deadlines** |
-| --------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **New Researcher Grant (Geran Penyelidik Baharu)**                                | 24 months (no extension)         | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
-| **UTM Fundamental Research Grant (UTMFR)**                                        | Maximum 30 months (no extension) | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Progress Report:** At least 75% completion by **June 2025** <br> • **Final Report:** Within 3 months after project completion |
-| **Artificial Intelligence Research Grant (Geran Penyelidikan Kecerdasan Buatan)** | Maximum 42 months (no extension) | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
-| **KTP-RIG 2026 (Knowledge Transfer Programme – Research Innovation Grant)**       | 1 year (Feb 2026 – Jan 2027)     | • **August 2025** – Opening briefing <br> • **1 Sept – 30 Oct 2025** – Application period (via ICESys) <br> • **30 Oct 2025** – **Application Deadline** <br> • **1 Nov 2025** – Proposal screening <br> • **10 Nov – 10 Dec 2025** – Presentation & proposal refinement clinics <br> • **15–30 Dec 2025** – Evaluation and decision by JKPGP <br> • **31 Dec 2025** – Announcement of results <br> • **1–31 Jan 2026** – Grant registration & activation <br> • **1 Feb 2026** – Project start date <br> • **Final Report Deadline:** Within 30 days after project completion (Jan 2027) |
-| **AIMS4STAR Networking Fund**                                                     | Flexible (based on project)      | • Open annually (records available 2021–2024) <br> • **Application Deadline:** As scheduled by CCIN (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
+| **No.** | **Activity**                                   | **Date**                                  | **Responsible Party** |
+| ------- | ---------------------------------------------- | ----------------------------------------- | --------------------- |
+| 1       | Announcement of Grant Opening                  | 29 August 2025                            | TNCPI Office          |
+| 2       | Grant Briefing                                 | 29 August 2025                            | TNCPI Office          |
+| 3       | Proposal Submission in RADIS System            | 29 August – 25 September 2025             | Project Leader        |
+| 4       | **Proposal Submission Deadline (RADIS)**       | **25 September 2025 (Thursday, 5.00 PM)** | Project Leader        |
+| 5       | Appointment of Panel & Proposal Evaluation     | 26 September – 9 October 2025             | Research Alliance     |
+| 6       | Presentation of Evaluation Results at RA Level | 10 October 2025                           | Research Alliance     |
+| 7       | Presentation at JKPD Meeting                   | 13 October 2025                           | Research Alliance     |
+| 8       | Presentation at JPU Meeting                    | 23 October 2025                           | RMC                   |
+| 9       | Announcement of Results                        | 30 October 2025                           | RMC                   |
+| 10      | Grant Verification & Activation Process        | 31 October – 6 November 2025              | Project Leader / RMC  |
+| 11      | Official Start Date of Grant                   | 1 November 2025                           | RMC                   |
 
-⚠️ **General Rules for All UTM Grants:**
+⚠️ **Notes:**
 
+* Applies to **New Researcher Grant, UTM Fundamental Research Grant (UTMFR), and AI Research Grant**.
+* Strict submission deadline: **25 September 2025 (5.00 PM)** via RADIS. Late submissions will not be considered.
+* Grant start date is **1 November 2025**.
 * Progress reports must be submitted according to schedule (every 3–6 months via **RADIS/ICESys**).
 * Final reports must be submitted **within 3 months of project completion**.
 * **No extensions** are allowed for any grant scheme.
