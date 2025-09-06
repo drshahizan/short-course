@@ -141,8 +141,8 @@
 
 > “Act as a **grant reviewer**. Score a draft research proposal on **\[your topic]** on clarity, novelty, feasibility, and significance (scale 1–5). Provide strengths, weaknesses, and recommendations.”
 
-✅ Ready for **direct classroom use** — copy, paste, and run with \[your topic].
-✅ Covers the **entire pipeline**: from scanning literature → mapping gaps → drafting problem statements.
+- ✅ Ready for **direct classroom use** — copy, paste, and run with \[your topic].
+- ✅ Covers the **entire pipeline**: from scanning literature → mapping gaps → drafting problem statements.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
