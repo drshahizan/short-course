@@ -5,26 +5,23 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 Introduction: 
-
-Here is a detailed description of the **Introduction: Understanding Grant Landscape**, with a focus on Universiti Teknologi Malaysia (UTM) research grants, emphasizing funding priorities, evaluation criteria, and emerging trends:
-
----
-
-## **Introduction: Understanding the Grant Landscape at UTM**
+# 📝 Introduction: Understanding the Grant Landscape at UTM**
 
 ### 1. **Overview of UTM Grant Types and Funding Priorities**
 
 UTM supports a wide range of internal grant schemes to empower researchers—from early-stage academics to established research leaders. Key schemes include:
 
-* **UTM Fundamental Research Grant (UTMFR)** – Supports foundational, hypothesis-driven research.
-* **UTM Encouragement Grant (UTMER)** – Supports emerging researchers to kick-start their research trajectory.
-* **UTM Collaborative Research Grant (CRG)** – Encourages joint research across faculties or with external partners.
-* **UTM Matching Grant (MG)** – Aims to amplify external collaborations by matching funds received from industry or other institutions ([Research Management Centre][1]).
+| **Grant Name**                                 | **Description** | **Focus Area / Objective** | **Target Group** |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Geran Penyelidikan UTM Fundamental (UTMFR)** | A fundamental research grant provided internally by UTM to support early-stage and foundational studies. | Basic and exploratory research that contributes to new knowledge, theory development, or scientific understanding.                      | UTM researchers from all faculties, particularly those focusing on fundamental science and technology. |
+| **Geran Penyelidikan Kecerdasan Buatan**       | A special grant scheme focusing on Artificial Intelligence (AI) research.                                | Development of AI models, applications, and innovations for sectors such as healthcare, education, engineering, and smart technologies. | Researchers in AI, machine learning, data science, and interdisciplinary fields using AI.              |
+| **Geran Penyelidik Baharu**                    | A grant designed to encourage and empower newly appointed lecturers and researchers.                     | To build research capacity, establish track record, and generate preliminary findings for larger future grants.                         | Early-career researchers (new lecturers or academic staff) at UTM. |
+| **KTP-RIG 2026**                               | Knowledge Transfer Program – Research & Innovation Grant.                                                | Bridging academia and community/industry through applied research, commercialization, and societal impact projects.                     | Academics working with industry, community partners, or NGOs to implement practical solutions.         |
+| **Dana Networking AIMS4STAR**                  | A networking and collaboration fund under the AIMS4STAR initiative.                                      | To strengthen international and interdisciplinary collaborations, joint publications, and consortium building.                          | UTM researchers seeking to network with international universities, industry, or research groups.      |
+
 
 These grant programs typically prioritize **strategically aligned projects**, such as those contributing to innovation, high-impact societal outcomes, and UTM's institutional research goals.
 
----
 
 ### 2. **Eligibility and Project Requirements**
 
