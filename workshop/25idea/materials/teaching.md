@@ -7,14 +7,12 @@
 
 # Teaching materials
 
-| **No** | **Category**                       | **Content / Resource** | **Focus Area**                                                                       |
-| ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| 1      | **Guidelines & Policies**          | • [Panduan AI Generatif dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> •  [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education & public sector**          |
-| 2      | **National Guidelines (Malaysia)** | • [Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI in Teaching & Learning (Higher Education)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [UTM Generative AI Guidelines for Teaching & Learning](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf) | **Policy adaptation** of Generative AI in Malaysia’s education and government sector |
-| 3      | **Trends & Insights**              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Understanding **global adoption, trends, and interest in AI**                        |
-| 4      | **Practical Installation**         | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step **setup and access** to AI tools |
-| 5      | **Integration with Communication** | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical **integration of AI into messaging platforms** |
-| 6      | **Learning Resources (Media)**     | • [Intro to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | **Awareness & critical perspectives** on AI potential and risks                      |
+| **No.** | **Category**               | **Content / Resource**                  | **Focus Area**                                                                      |
+| ------- | -------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
+| 1.      | Orientation & Briefing     | **UTM 2025 Grant Briefing Slides**      | Overview of funding schemes, requirements, and strategic research priorities        |
+| 2.      | Proposal Development       | **Grant Proposal Template**             | Structured guide with sections and placeholders for writing competitive grants      |
+| 3.      | Quality Assurance & Review | **Grant Proposal Checklist (UTM 2025)** | Step-by-step checklist to ensure compliance, completeness, and submission-readiness |
+
 
 
 ### 🙌🏻 Connect with Me
