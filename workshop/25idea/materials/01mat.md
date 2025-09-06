@@ -107,7 +107,7 @@ Across all grants, UTM is tightening compliance:
 This trend reflects a push towards **research integrity, efficiency, and global competitiveness**.
 
 
-## ✅ **Summary Insight:**
+## ✅ **Summary Insight**
 UTM’s research funding is clearly shifting from traditional internal seed grants towards a **strategic, impact-driven, AI-empowered, and globally networked ecosystem**. Researchers are expected not only to publish but also to **train students, secure external funding, deliver community impact, and enhance UTM’s international standing**.
 
 ### 🙌🏻 Connect with Me
