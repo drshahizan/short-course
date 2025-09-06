@@ -5,58 +5,89 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 **Exercise: Practical 3 – Improving Structure & Coherence**
+# Practical 3: Strengthening Significance & Impact in Grant Proposals with Generative AI
 
-**Focus: Reorganizing paragraphs, refining argument flow, and strengthening contribution using AI support.**
+## Objective
+Practical 3 of the course *"From Idea to Impact: Writing Winning Grant Proposals with Generative AI"* focuses on using Generative AI tools (e.g., ChatGPT, Gemini, Copilot, NotebookLM) to craft persuasive justifications, highlight innovation, and align grant proposals with funding agency goals. Participants will learn to leverage AI to articulate the significance and impact of their projects effectively, ensuring their proposals stand out to reviewers.
 
-## 🎯 **Objective**
+## Session Structure
+This interactive workshop combines instruction, hands-on activities, and discussions to equip participants with skills to enhance the significance and impact sections of grant proposals using AI tools.
 
-To help participants **restructure their draft paragraphs or sections** so that ideas flow logically, arguments are stronger, and contributions are clearer. Students will learn how to use AI tools to improve **organization, transitions, and coherence**.
+### 1. Introduction to Significance and Impact in Grant Proposals (10 minutes)
+- **Overview**: Explain the importance of the significance and impact sections in grant proposals:
+  - **Significance**: Demonstrates why the project matters, addressing the problem’s scope, urgency, and relevance to the funding agency’s priorities.
+  - **Impact**: Highlights the tangible outcomes, long-term benefits, and transformative potential of the project.
+  - **Innovation**: Showcases novel approaches, unique methodologies, or creative solutions that differentiate the proposal.
+- **Role of AI**: Discuss how Generative AI can help:
+  - Generate compelling narratives to articulate significance.
+  - Suggest innovative angles to strengthen the proposal’s uniqueness.
+  - Align content with funding agency goals by incorporating mission-specific language.
+- **Example**: Show a sample AI-generated significance section using ChatGPT with the prompt: “Write a 200-word significance section for a grant proposal on renewable energy adoption in rural areas, emphasizing its importance to environmental sustainability and community development.”
 
-## 📋 **Step 1: Select a Section**
+### 2. Hands-On Activity: Crafting Persuasive Justifications with AI (25 minutes)
+- **Activity**:
+  - Participants are given a grant scenario (e.g., a project on public health, education equity, or environmental conservation).
+  - Using AI tools (ChatGPT, Gemini, Copilot, or NotebookLM), participants draft a justification for the project’s significance with a prompt like:
+    - “Write a 150-200 word significance section for a grant proposal on [specific topic], justifying its importance by addressing the problem’s scope, its impact on [target group], and its alignment with [funding agency’s mission]. Use a persuasive tone and include one relevant statistic.”
+  - Participants compare outputs from different tools, evaluating clarity, persuasiveness, and alignment with agency goals.
+- **Guidance**:
+  - Emphasize specific prompts that include the funding agency’s priorities (e.g., “aligned with the National Science Foundation’s focus on innovation”).
+  - Encourage participants to refine AI outputs to enhance emotional appeal, factual accuracy, and conciseness.
+- **Example Prompt**:
+  - “Using Gemini, draft a 200-word justification for a grant proposal on [topic], highlighting the urgency of the issue and its relevance to [funding agency’s goals]. Include a specific example of the problem’s impact.”
 
-Choose **one section** of your draft (Introduction, Literature Review, or Discussion). Select the part where:
+### 3. Hands-On Activity: Highlighting Innovation with AI (20 minutes)
+- **Activity**:
+  - Participants use AI tools to articulate the innovative aspects of their project, using prompts like:
+    - “Write a 100-150 word section for a grant proposal on [specific topic], emphasizing the project’s innovative approach, unique methodology, or novel solution. Highlight how it differs from existing efforts.”
+  - Example output for a healthcare project:
+    - “This project introduces an innovative telemedicine platform that integrates AI-driven diagnostics with community health worker training, addressing gaps in rural healthcare access. Unlike traditional models, our approach combines real-time data analysis with culturally sensitive outreach, ensuring scalability and sustainability.”
+  - Participants test tools like Copilot for structured outputs or NotebookLM for research-backed innovation claims.
+- **Guidance**:
+  - Instruct participants to specify the type of innovation (e.g., technological, methodological, or social) in prompts.
+  - Teach them to refine AI outputs to avoid overgeneralization and ensure claims are credible and supported.
 
-* Sentences feel **disconnected or jumpy**.
-* The **main argument is buried** under details.
-* The **contribution is not clear** to the reader.
+### 4. Hands-On Activity: Aligning with Funding Agency Goals (20 minutes)
+- **Activity**:
+  - Participants research a funding agency’s mission (e.g., NIH, USAID, or Gates Foundation) and use AI to align their proposal with those goals, using prompts like:
+    - “Write a 150-word impact section for a grant proposal on [specific topic], aligning with [funding agency’s mission, e.g., ‘advancing global health equity’]. Highlight long-term benefits and transformative potential.”
+  - Example output for an education project aligned with UNESCO’s goals:
+    - “This project aligns with UNESCO’s mission to promote inclusive education by establishing digital learning hubs for 1,000 underserved students. By leveraging AI-driven personalized learning, it will improve literacy rates by 25% within two years, fostering equitable access to education and empowering communities for sustainable development.”
+- **Guidance**:
+  - Encourage participants to include agency-specific language in prompts (e.g., “sustainable development” for USAID).
+  - Highlight the need to verify AI outputs for alignment and edit for specificity and relevance.
 
-## 🤖 **Step 2: Apply AI with Suitable Prompts**
+### 5. Building a Prompt Bank for Significance and Impact (15 minutes)
+- **Overview**:
+  - A prompt bank ensures reusable, tailored prompts for crafting significance, impact, and innovation sections, saving time across proposals.
+- **Activity**:
+  - Participants create prompts such as:
+    - **Significance**: “Write a 150-200 word significance section for a grant proposal on [topic], addressing the problem’s urgency, its impact on [target group], and its alignment with [funding agency’s mission]. Use a formal, persuasive tone.”
+    - **Innovation**: “Draft a 100-150 word section for a grant proposal on [topic], highlighting the project’s innovative approach and how it advances existing solutions. Include one specific example.”
+    - **Impact**: “Write a 150-word impact section for a grant proposal on [topic], emphasizing long-term benefits and alignment with [funding agency’s goals]. Include measurable outcomes.”
+  - Participants share prompts for peer feedback and compile them into a shared bank.
+- **Example Additional Prompt**:
+  - “Using NotebookLM, draft a 200-word significance section for a grant proposal on [topic], incorporating two research-based statistics and aligning with [funding agency’s priorities].”
 
-| **Goal**                       | **Prompts (Copy & Use)** |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🏗️ **Reorganize Paragraphs**  | 1. Restructure this section so that the main argument appears first and supporting evidence follows.<br>2. Rearrange this text into a logical order: background → problem → solution → contribution.<br>3. Rewrite this passage to put the strongest points at the beginning.<br>4. Organize this content so that general ideas come first and details follow.<br>5. Reorder sentences to ensure the topic sentence introduces the key point.<br>6. Rewrite so that the problem is presented first, then the evidence, then the conclusion.<br>7. Restructure this section to highlight the research gap clearly before presenting findings.<br>8. Reorganize the sequence so arguments build naturally toward the conclusion.<br>9. Rewrite this section so that supporting evidence comes after the claim, not before.<br>10. Reorder ideas for clarity: context → issue → justification → findings. |
-| 🔗 **Improve Transitions**     | 1. Rewrite this passage to ensure smooth transitions between sentences and paragraphs.<br>2. Add appropriate linking words and phrases to make the flow more coherent.<br>3. Improve sentence-to-sentence transitions so the logic is easier to follow.<br>4. Rewrite to add connectors such as “however,” “therefore,” and “in contrast” where appropriate.<br>5. Edit this passage to improve logical linking between paragraphs.<br>6. Add transitional sentences to connect separate ideas smoothly.<br>7. Rewrite this section to reduce abrupt jumps between ideas.<br>8. Insert signposting phrases to guide the reader through the argument.<br>9. Improve flow by ensuring each sentence connects back to the central theme.<br>10. Rewrite with improved transitions so the narrative reads seamlessly.                                                                                      |
-| 🎯 **Highlight Contribution**  | 1. Restructure this paragraph to make the research contribution explicit and easy to identify.<br>2. Rewrite this section so that the novelty of the study is emphasized at the end of the argument.<br>3. Highlight the unique contribution of this work compared to prior studies.<br>4. Emphasize the new methodology, framework, or dataset introduced in this study.<br>5. Rewrite this to make the research significance more visible.<br>6. Summarize the main contribution of the study in one clear sentence.<br>7. Restructure to stress why this work matters for the academic community.<br>8. Rewrite so the research gap and how this study fills it are clear.<br>9. Highlight the practical or theoretical contribution in stronger wording.<br>10. Emphasize the originality and novelty more explicitly in this section.                                                             |
-| 📑 **Academic Flow**           | 1. Rewrite this passage into a standard academic structure: claim → evidence → explanation.<br>2. Restructure this paragraph to follow IMRaD flow (Introduction, Methods, Results, Discussion).<br>3. Rewrite to present the claim first, followed by supporting citations.<br>4. Organize this content to reflect the logic of problem → solution → implication.<br>5. Rewrite to ensure a smooth flow from background to objectives to contribution.<br>6. Edit this section to follow a deductive reasoning pattern (general → specific).<br>7. Rewrite to fit inductive reasoning (examples → pattern → conclusion).<br>8. Structure this section like a mini-essay: introduction → body → conclusion.<br>9. Rewrite so every claim is immediately supported by data or citation.<br>10. Organize sentences so each one logically supports the next in an academic manner.                         |
-| ✂️ **Conciseness & Coherence** | 1. Simplify and reorganize this section so that every sentence directly supports the main idea.<br>2. Rewrite this passage to eliminate redundancy and repetition.<br>3. Condense this section while preserving key arguments.<br>4. Rewrite to remove filler words and unnecessary detail.<br>5. Improve conciseness by expressing ideas in fewer words without losing meaning.<br>6. Merge overlapping sentences to reduce wordiness.<br>7. Rewrite this so that only essential details remain.<br>8. Shorten this section while making the argument stronger and more focused.<br>9. Simplify long sentences into shorter, coherent ones.<br>10. Rewrite to increase coherence while cutting down word count.                                                                                                                                                                                       |
+### 6. Discussion and Reflection (10 minutes)
+- **Group Discussion**:
+  - Participants share experiences with AI tools, discussing strengths (e.g., Gemini’s concise outputs, Copilot’s professional tone) and challenges (e.g., overly generic responses).
+  - Explore strategies for refining prompts and outputs to enhance persuasiveness and alignment.
+- **Ethical Considerations**:
+  - Emphasize using AI as a drafting tool, not a replacement for human insight or due diligence.
+  - Encourage fact-checking, ensuring alignment with agency priorities, and tailoring outputs to reflect the proposer’s unique voice.
 
+## Learning Outcomes
+By the end of this practical, participants will:
+1. Be proficient in using AI tools to craft persuasive significance and impact sections for grant proposals.
+2. Develop skills to highlight innovation in proposals, making them stand out to reviewers.
+3. Create a reusable prompt bank for significance, impact, and innovation sections, streamlining future proposal writing.
+4. Understand how to align AI-generated content with funding agency goals while maintaining accuracy and authenticity.
 
-## 📝 **Step 3: Compare Before & After**
-
-Paste your **original draft** and the **AI-enhanced version** side by side. Then reflect:
-
-| **Aspect**           | **Original Draft** | **AI-Enhanced Draft** | **Improvement Observed** |
-| -------------------- | ------------------ | --------------------- | ------------------------ |
-| Flow 🔄              |                    |                       | Smoother transitions     |
-| Argument Strength 🎯 |                    |                       | Clearer main point       |
-| Contribution 🌟      |                    |                       | Highlighted contribution |
-| Coherence 📑         |                    |                       | Better logical order     |
-| Conciseness ✂️       |                    |                       | Less redundancy          |
-
-## 💬 **Step 4: Reflection & Sharing**
-
-* Share with a partner: **What was the biggest improvement in your section?**
-* Discuss whether AI helped you **spot missing logic or highlight contributions** that you hadn’t noticed.
-
-## 🎯 **Expected Outcome**
-
-By the end of this exercise, participants will:
-
-* Understand how to **organize paragraphs for maximum clarity and impact**.
-* Be able to **strengthen arguments and highlight contributions** clearly.
-* Produce a **coherent and logically flowing section** aligned with ERA/Scopus expectations.
-
+## Additional Recommendations
+- **Tools Access**: Ensure participants can access at least one AI tool (e.g., free versions of ChatGPT or Gemini) during the session.
+- **Resources**: Provide sample funding agency guidelines and a starter prompt bank to support activities.
+- **Follow-Up**: Assign participants to draft a full significance or impact section using AI and submit it for feedback, ensuring alignment with a specific funding agency’s mission.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
