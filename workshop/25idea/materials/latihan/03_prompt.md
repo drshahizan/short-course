@@ -7,8 +7,6 @@
 
 # Comprehensive AI Prompt Bank: “From Idea to Research Problem”
 
-(Each subtopic has ≥10 complete prompts, with \[your topic] as placeholder)
-
 ## 1. 🔍 Literature Discovery
 
 *Goal: Use AI to scan, extract, and analyze knowledge about \[your topic].*
