@@ -72,8 +72,6 @@ Through the **Geran Penyelidik Baharu**, UTM nurtures young academics by:
 
 This shows a trend of **talent pipeline development** to ensure sustainability of UTM’s research ecosystem.
 
-
-
 ### D. **Knowledge Transfer & Societal Impact**
 
 With **KTP-RIG 2026**, UTM is pivoting towards **community- and industry-engaged research**. Key trends include:
@@ -106,6 +104,24 @@ Across all grants, UTM is tightening compliance:
 
 This trend reflects a push towards **research integrity, efficiency, and global competitiveness**.
 
+Here’s the revised version in **proper English** with clear timelines and deadlines for each UTM research grant (based on the *UTM Research Grant Briefing 2025*):
+
+## 📅 Key Dates & Deadlines for UTM Research Grants
+
+| **Grant**                                                                         | **Project Duration**             | **Key Dates / Deadlines** |
+| --------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **New Researcher Grant (Geran Penyelidik Baharu)**                                | 24 months (no extension)         | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
+| **UTM Fundamental Research Grant (UTMFR)**                                        | Maximum 30 months (no extension) | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Progress Report:** At least 75% completion by **June 2025** <br> • **Final Report:** Within 3 months after project completion |
+| **Artificial Intelligence Research Grant (Geran Penyelidikan Kecerdasan Buatan)** | Maximum 42 months (no extension) | • Opening: 2025 <br> • **Application Deadline:** As scheduled by RMC (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
+| **KTP-RIG 2026 (Knowledge Transfer Programme – Research Innovation Grant)**       | 1 year (Feb 2026 – Jan 2027)     | • **August 2025** – Opening briefing <br> • **1 Sept – 30 Oct 2025** – Application period (via ICESys) <br> • **30 Oct 2025** – **Application Deadline** <br> • **1 Nov 2025** – Proposal screening <br> • **10 Nov – 10 Dec 2025** – Presentation & proposal refinement clinics <br> • **15–30 Dec 2025** – Evaluation and decision by JKPGP <br> • **31 Dec 2025** – Announcement of results <br> • **1–31 Jan 2026** – Grant registration & activation <br> • **1 Feb 2026** – Project start date <br> • **Final Report Deadline:** Within 30 days after project completion (Jan 2027) |
+| **AIMS4STAR Networking Fund**                                                     | Flexible (based on project)      | • Open annually (records available 2021–2024) <br> • **Application Deadline:** As scheduled by CCIN (not specified in slides) <br> • **Final Report:** Within 3 months after project completion |
+
+⚠️ **General Rules for All UTM Grants:**
+
+* Progress reports must be submitted according to schedule (every 3–6 months via **RADIS/ICESys**).
+* Final reports must be submitted **within 3 months of project completion**.
+* **No extensions** are allowed for any grant scheme.
+* Failure to submit progress/final reports may result in **funding suspension** or **blacklisting of the researcher**.
 
 ## ✅ **Summary Insight**
 UTM’s research funding is clearly shifting from traditional internal seed grants towards a **strategic, impact-driven, AI-empowered, and globally networked ecosystem**. Researchers are expected not only to publish but also to **train students, secure external funding, deliver community impact, and enhance UTM’s international standing**.
