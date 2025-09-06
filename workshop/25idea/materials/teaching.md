@@ -9,7 +9,7 @@
 
 | **No.** | **Category**               | **Content / Resource**                  | **Focus Area**                                                                      |
 | ------- | -------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
-| 1.      | Orientation & Briefing     | **UTM 2025 Grant Briefing Slides**      | Overview of funding schemes, requirements, and strategic research priorities        |
+| 1.      | Orientation & Briefing     | **[UTM 2025 Grant Briefing Slides](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/Slaid%20Taklimat%20Geran%20UTM%202025.pdf)**      | Overview of funding schemes, requirements, and strategic research priorities        |
 | 2.      | Proposal Development       | **Grant Proposal Template**             | Structured guide with sections and placeholders for writing competitive grants      |
 | 3.      | Quality Assurance & Review | **Grant Proposal Checklist (UTM 2025)** | Step-by-step checklist to ensure compliance, completeness, and submission-readiness |
 
