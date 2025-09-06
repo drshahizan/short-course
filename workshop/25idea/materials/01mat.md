@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 Introduction: Understanding the Grant Landscape at UTM**
+# 📝 Introduction: Understanding the Grant Landscape at UTM
 
-### 1. **Overview of UTM Grant Types and Funding Priorities**
+## 1. Overview of UTM Grant Types and Funding Priorities
 
 UTM supports a wide range of internal grant schemes to empower researchers—from early-stage academics to established research leaders. Key schemes include:
 
@@ -27,15 +27,13 @@ These grant programs typically prioritize **strategically aligned projects**, su
 
 UTM mandates clear eligibility and project criteria across its grant schemes:
 
-* The **Project Leader** must be a permanent academic staff member at UTM or UTMSPACE. Projects may include other academics, students, or industry practitioners; typically with a team size between three to six, excluding the leader ([SPACE UTM][2], [Research Management Centre][1]).
-* Funding caps vary:
-
-  * For UTMFR and UTMER, the maximum is RM20,000 for science and technology projects, and RM5,000 for non-science fields ([SPACE UTM][2]).
-* Project duration is often one year, with the possibility of a single short extension (typically up to six months) ([SPACE UTM][2]).
-* Projects must ultimately be undertaken within Malaysia, demonstrating relevance to national interests ([SPACE UTM][2]).
-
----
-
+| **Grant Name**                                 | **Eligibility** | **Project Requirements** |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Geran Penyelidikan UTM Fundamental (UTMFR)** | • UTM staff (not blacklisted, not on study/sabbatical leave)  <br>• Contract staff must have at least one permanent Malaysian co-researcher in the same field <br>• Must have submitted all previous final reports                 | • Duration: max. 30 months (no extension) <br>• Max. RM70,000 funding <br>• At least 1 academic staff in same research area <br>• Attachments: similarity index ≤20%, flow chart, quotation, justification <br>• Outputs: 2 indexed publications (WoS/Scopus/ERA) <br>• Human capital: 1 Master (full-time, ≥6 months) or 1 PhD student <br>• Compulsory to apply for external grants                                                         |
+| **Geran Penyelidikan Kecerdasan Buatan**       | • UTM staff (not blacklisted, not on leave) <br>• Contract staff must have at least one permanent Malaysian co-researcher                                                                                                          | • Duration: max. 42 months (no extension) <br>• Max. RM130,000 funding <br>• At least 1 academic staff (same research area) <br>• Attachments: similarity index ≤20%, flow chart, quotation, justification <br>• Outputs: 2 indexed publications (WoS Q1/Q2 preferred) <br>• Human capital: 2 Masters or 1 PhD student (full-time, ≥6 months) <br>• Must apply for external grants                                                            |
+| **Geran Penyelidik Baharu**                    | • UTM new staff (not confirmed) <br>• Not on study/sabbatical leave <br>• Must register with Research Alliance                                                                                                                     | • Duration: 24 months (no extension) <br>• RM20,000 (S\&T) or RM10,000 (SS) <br>• Attachments: similarity index ≤20%, flow chart, quotation, justification <br>• Outputs: 1 indexed publication (WoS/Scopus/ERA) <br>• Must apply for external grants                                                                                                                                                                                         |
+| **KTP-RIG 2026**                               | • UTM academic staff (permanent/contract, PhD holder, Malaysian) <br>• Program must have min. 4 academic staff (incl. project leaders) <br>• Must involve at least 2 synergy partners: 1 industry + 1 government (quadruple helix) | • 1 Program Induk + 4 Sub-Projects <br>• Each sub-project: different focus area, community target, and objectives <br>• Must secure matching funds equal to CCIN allocation (RM20,000) <br>• Duration: 1 year (max) <br>• Deliverables: ≥1 journal article, final report, star rating (≥3 stars), external collaboration (industry+government), project video & photos <br>• Outputs must benefit external community (not UTM staff/students) |
+| **Dana Networking AIMS4STAR**                  | • Open to UTM researchers collaborating with industry/academic partners <br>• Requires active networking and external collaboration                                                                                                | • Aims to foster international and industrial networking <br>• Matching grants with industry/partners encouraged <br>• Activities: joint research, publications, and consortium projects <br>• Focus on building long-term collaboration and impactful partnerships                                                                                                                                                                           |
 ### 3. **Key Evaluation Criteria**
 
 UTM evaluates grant proposals on several important dimensions:
