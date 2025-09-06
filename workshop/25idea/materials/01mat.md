@@ -5,104 +5,83 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 Introduction: ERA/Scopus Publishing Essentials
+# 📝 Introduction: 
 
-*(Quick overview of standards, scopes, and expectations)*
+Here is a detailed description of the **Introduction: Understanding Grant Landscape**, with a focus on Universiti Teknologi Malaysia (UTM) research grants, emphasizing funding priorities, evaluation criteria, and emerging trends:
 
-Publishing in **ERA (Excellence in Research for Australia)** and **Scopus-indexed journals** is considered a mark of quality and international recognition. To succeed, researchers must understand what these indexing systems are, how they differ, and what journals under these systems expect from authors.
+---
 
-| **Resource**                                                      | **Link** |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 📘 ERA Journal List (*Excellence in Research for Australia, ARC*) | [https://www.arc.gov.au/era](https://www.arc.gov.au/era) |
-| 📘 ERA 2023 Submission Journal List                               | [Google Sheets Link](https://docs.google.com/spreadsheets/d/1LxlabFReLm7NEZw7xvlftZ9hlItGiU9G/edit?gid=1905987743#gid=1905987743) |
-| 📘 Scopus (*Elsevier*)                                            | [https://www.scopus.com](https://www.scopus.com) |
+## **Introduction: Understanding the Grant Landscape at UTM**
 
-## 1. What is ERA?
+### 1. **Overview of UTM Grant Types and Funding Priorities**
 
-* **ERA** stands for *Excellence in Research for Australia*.
-* Managed by the **Australian Research Council (ARC)**, it is primarily used to **evaluate research quality in Australian universities**.
-* ERA maintains a **Journal List** where journals are classified to assess academic performance.
-* For Australian institutions, publishing in ERA-listed journals increases visibility and contributes to **institutional ranking and funding allocation**.
+UTM supports a wide range of internal grant schemes to empower researchers—from early-stage academics to established research leaders. Key schemes include:
 
-👉 **Key point**: Even if you are outside Australia, ERA-listed journals carry credibility because they are selected based on **quality, peer review process, and contribution to research**.
+* **UTM Fundamental Research Grant (UTMFR)** – Supports foundational, hypothesis-driven research.
+* **UTM Encouragement Grant (UTMER)** – Supports emerging researchers to kick-start their research trajectory.
+* **UTM Collaborative Research Grant (CRG)** – Encourages joint research across faculties or with external partners.
+* **UTM Matching Grant (MG)** – Aims to amplify external collaborations by matching funds received from industry or other institutions ([Research Management Centre][1]).
 
-## 2. What is Scopus?
+These grant programs typically prioritize **strategically aligned projects**, such as those contributing to innovation, high-impact societal outcomes, and UTM's institutional research goals.
 
-* **Scopus** is the **world’s largest abstract and citation database**, managed by Elsevier.
-* It covers over **27,000+ active peer-reviewed journals**, along with books and conference proceedings.
-* Scopus is widely used by researchers worldwide to:
+---
 
-  * Find related literature.
-  * Track citations and author h-index.
-  * Evaluate journal impact (using **CiteScore, SNIP, and SJR**).
-* Being indexed in Scopus means the journal is recognized for **global standards, peer review integrity, and research impact**.
+### 2. **Eligibility and Project Requirements**
 
-👉 **Key point**: Publishing in Scopus-indexed journals enhances **international visibility**, increases chances of being cited, and strengthens academic CVs.
+UTM mandates clear eligibility and project criteria across its grant schemes:
 
-## 3. Comparison: ERA vs Scopus
+* The **Project Leader** must be a permanent academic staff member at UTM or UTMSPACE. Projects may include other academics, students, or industry practitioners; typically with a team size between three to six, excluding the leader ([SPACE UTM][2], [Research Management Centre][1]).
+* Funding caps vary:
 
-| **Aspect**              | **ERA (Excellence in Research for Australia)**                                               | **Scopus**                                                                                       |
-| ----------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Origin / Management** | Managed by the **Australian Research Council (ARC)**.                                        | Managed by **Elsevier**, a global academic publisher.                                            |
-| **Purpose**             | Evaluates and ranks journals for **research quality assessment in Australia**.               | A **global abstract and citation database** for research articles, books, and conference papers. |
-| **Coverage**            | Focuses mainly on journals relevant to **Australian academic evaluation**.                   | Covers **worldwide journals, books, and conferences** across all disciplines.                    |
-| **Journal List**        | ERA publishes an **official journal list** (ERA Journal List).                               | Journals are indexed based on **Scopus Content Selection & Advisory Board (CSAB)** criteria.     |
-| **Usefulness**          | Used to measure research outputs for **university and researcher performance in Australia**. | Used globally for **literature search, citations, impact tracking, and h-index calculation**.    |
-| **Evaluation Cycle**    | Updated periodically during ERA assessment rounds (not annually).                            | Continuous journal evaluation; new titles added quarterly.                                       |
-| **Accessibility**       | ERA list is **publicly available** on ARC website.                                           | Scopus is a **subscription-based database**, accessible via institutions.                        |
-| **Impact Measures**     | Focuses on **journal quality and ranking**.                                                  | Provides **CiteScore, SNIP, SJR, and h-index** for authors and journals.                         |
-| **Target Users**        | Researchers and universities in **Australia** for performance assessment.                    | Researchers, students, and institutions **worldwide** for research discovery and evaluation.     |
+  * For UTMFR and UTMER, the maximum is RM20,000 for science and technology projects, and RM5,000 for non-science fields ([SPACE UTM][2]).
+* Project duration is often one year, with the possibility of a single short extension (typically up to six months) ([SPACE UTM][2]).
+* Projects must ultimately be undertaken within Malaysia, demonstrating relevance to national interests ([SPACE UTM][2]).
 
-## 4. Standards in ERA/Scopus Publishing
+---
 
-Both ERA and Scopus expect journals to meet **high academic and ethical standards**. For authors, this means:
+### 3. **Key Evaluation Criteria**
 
-* Conducting **original and rigorous research**.
-* Writing with **clarity, precision, and academic tone**.
-* Ensuring manuscripts follow **ethical guidelines** (plagiarism-free, no data fabrication).
-* Using **proper referencing** and up-to-date sources.
-* Demonstrating **novel contribution** (What’s new? Why does it matter?).
+UTM evaluates grant proposals on several important dimensions:
 
-## 5. Scope of Journals
+* **Alignment with UTM’s Strategic Focus**: Proposals must address key institutional or national thematic areas as listed in UTM’s focus appendices ([SPACE UTM][2]).
+* **Scientific and Technical Merit**: Projects must be well-conceived, feasible, and methodologically sound.
+* **Research Team Capability**: The team's background, expertise, and track record are important considerations in evaluating potential success ([ResearchGate][3]).
+* **Innovation and Potential Impact**: Proposals should offer clear, measurable contributions, either through advancing knowledge, benefiting society, or attracting external funding, especially for schemes like Matching Grant ([UTM Faculty of Science][4], [Research Management Centre][5]).
+* **Ethical and Institutional Compliance**: Where applicable—such as in projects involving human or animal subjects—ethical approval from UTM REC is required ([UTM Research][6]).
 
-* Every journal has its **own aims and scope** (the research areas it covers).
-* Submitting to the wrong journal is one of the **most common reasons for desk rejection** (rejected before peer review).
-* Always:
+---
 
-  * Match your topic to the journal’s scope.
-  * Read the journal’s “Aims and Scope” page before submission.
-  * Review past issues to understand the type of articles accepted.
+### 4. **Emerging Trends in UTM Research Funding**
 
-👉 **Tips**: Before writing, shortlist 2–3 journals where your article fits **best in scope**.
+Recent trends shaping the UTM grant landscape include:
 
-## 6. Expectations from Editors and Reviewers
+* **Strategic Emphasis on Collaborative and Matching Grants**: UTM increasingly encourages joint projects with industry, government, or external institutions, recognizing the multiplier effect of matching external support ([UTM Faculty of Science][4]).
+* **Focus on Broader Impact**: Projects that enhance societal outcomes, align with national priorities, or increase prospects for securing external funding are favored ([Research Management Centre][5]).
+* **Encouraging Early Career Researchers**: UTM continues to support junior academics through UTMER and similar grants to cultivate future research leaders.
+* **Access to International Opportunities**: UTM maintains curated listings of international funding opportunities to bolster global research engagement and visibility ([Research Management Centre][5]).
 
-When you submit to an ERA/Scopus journal, editors and reviewers will check:
+---
 
-1. **Relevance** → Does it fit the journal’s theme?
-2. **Clarity** → Is the article well-structured and easy to follow?
-3. **Novelty** → What new insights or findings does it contribute?
-4. **Methodological Rigor** → Is the study design sound and reliable?
-5. **Referencing** → Are references recent, relevant, and formatted correctly?
-6. **Impact** → Will the paper be useful and citable to other researchers?
+### Summary Table
 
-## 7. Why This Matters for You
+| **Aspect**               | **What It Means for Participants**                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------- |
+| Grant Types              | Choose schemes aligned with your career stage and research goals                      |
+| Eligibility & Team       | Ensure correct composition and institutional affiliation                              |
+| Evaluation Criteria      | Align proposals with strategic focus, demonstrate feasibility, innovation, and impact |
+| Trends & Strategic Focus | Leverage collaborative funding and external opportunities to strengthen proposals     |
 
-* Publishing in **ERA/Scopus-indexed journals** boosts your academic credibility.
-* Universities use ERA and Scopus metrics to measure **research quality, performance, and global impact**.
-* For students and early-career researchers, it opens opportunities for:
+---
 
-  * Scholarships.
-  * Collaborations.
-  * Postgraduate admissions and promotions.
+Would you like me to integrate key insights from this section into a **one-slide summary**, or develop a **3–4 sentence version** suitable for an introductory presentation?
 
-👉 **Bottom line**: Understanding ERA and Scopus expectations will help you **write with purpose**, increase acceptance chances, and strengthen your academic journey.
+[1]: https://rmc.utm.my/download-research-funding/?utm_source=chatgpt.com "Download – Research Funding - rmc@utm"
+[2]: https://space.utm.my/research-and-learning-resources/research-management/research-funding/?utm_source=chatgpt.com "Research Funding"
+[3]: https://www.researchgate.net/figure/Evaluation-criteria-for-grant-proposals_fig1_372612139?utm_source=chatgpt.com "Evaluation criteria for grant proposals"
+[4]: https://science.utm.my/fresh/2024/11/06/role-of-matching-grants-in-collaborative-research/?utm_source=chatgpt.com "ROLE OF MATCHING GRANTS IN COLLABORATIVE RESEARCH"
+[5]: https://rmc.utm.my/blog/2025/03/20/grant-opportunity-lists-of-international-grant-openings-for-2025/?utm_source=chatgpt.com "Lists of International Grant Openings for 2025 - rmc@utm"
+[6]: https://research.utm.my/office/ethics/?utm_source=chatgpt.com "Ethics | Department of Deputy Vice Chancellor (Research ..."
 
-## Summary
-
-* **ERA** = A ranking system mainly for Australia (quality benchmarking).
-* **Scopus** = A global database used for searching, indexing, and citation tracking.
-* Together, they complement each other: publishing in Scopus-indexed journals increases visibility, while ERA ranking influences academic recognition in Australia.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
