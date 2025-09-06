@@ -56,7 +56,7 @@ Recent trends shaping the UTM grant landscape include:
 * **Encouraging Early Career Researchers**: UTM continues to support junior academics through UTMER and similar grants to cultivate future research leaders.
 * **Access to International Opportunities**: UTM maintains curated listings of international funding opportunities to bolster global research engagement and visibility ([Research Management Centre][5]).
 
----
+
 
 ### Summary Table
 
@@ -66,17 +66,6 @@ Recent trends shaping the UTM grant landscape include:
 | Eligibility & Team       | Ensure correct composition and institutional affiliation                              |
 | Evaluation Criteria      | Align proposals with strategic focus, demonstrate feasibility, innovation, and impact |
 | Trends & Strategic Focus | Leverage collaborative funding and external opportunities to strengthen proposals     |
-
----
-
-Would you like me to integrate key insights from this section into a **one-slide summary**, or develop a **3–4 sentence version** suitable for an introductory presentation?
-
-[1]: https://rmc.utm.my/download-research-funding/?utm_source=chatgpt.com "Download – Research Funding - rmc@utm"
-[2]: https://space.utm.my/research-and-learning-resources/research-management/research-funding/?utm_source=chatgpt.com "Research Funding"
-[3]: https://www.researchgate.net/figure/Evaluation-criteria-for-grant-proposals_fig1_372612139?utm_source=chatgpt.com "Evaluation criteria for grant proposals"
-[4]: https://science.utm.my/fresh/2024/11/06/role-of-matching-grants-in-collaborative-research/?utm_source=chatgpt.com "ROLE OF MATCHING GRANTS IN COLLABORATIVE RESEARCH"
-[5]: https://rmc.utm.my/blog/2025/03/20/grant-opportunity-lists-of-international-grant-openings-for-2025/?utm_source=chatgpt.com "Lists of International Grant Openings for 2025 - rmc@utm"
-[6]: https://research.utm.my/office/ethics/?utm_source=chatgpt.com "Ethics | Department of Deputy Vice Chancellor (Research ..."
 
 
 ### 🙌🏻 Connect with Me
