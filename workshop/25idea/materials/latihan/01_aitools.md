@@ -28,7 +28,7 @@ In short, these tools act as **research partners**, not replacements for critica
 
 | **No.** | **Tool (with Link)**                                 | **Category**                        | **Function / How It Helps**                                                                                                  |
 | ------- | ---------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1       | [Scopus AI](https://www.scopus.com)                  | Literature Discovery                | Explores existing literature, suggests trending topics, maps citation networks, and highlights knowledge gaps.               |
+| 1       | [Scopus AI](https://www-scopus-com.ezproxy.utm.my/pages/home#scopus-ai)                  | Literature Discovery                | Explores existing literature, suggests trending topics, maps citation networks, and highlights knowledge gaps.               |
 | 2       | [Connected Papers](https://www.connectedpapers.com)  | Literature Discovery                | Builds a **visual graph of related papers** to show influential works, clusters of ideas, and potential underexplored areas. |
 | 3       | [Research Rabbit](https://www.researchrabbitapp.com) | Literature Discovery                | AI-powered “Spotify for papers” — helps **discover, visualize, and track research themes** over time.                        |
 | 4       | [Elicit](https://elicit.org)                         | Literature Discovery                | Synthesizes abstracts, extracts methodologies, identifies variables, and highlights research gaps.                           |
