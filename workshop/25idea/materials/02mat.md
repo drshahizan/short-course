@@ -115,7 +115,7 @@ Generative AI reduces drafting time, but ethical use is essential. Misuse, such 
 
 ## References
 
-Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Horvitz, E. (2019). Guidelines for human-AI interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*, 1–13. [https://doi.org/10.1145/3290605.3300233](https://doi.org/10.1145/3290605.3300233)
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Horvitz, E. (2019). Guidelines for human-AI interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*, 1–13. https://doi.org/10.1145/3290605.3300233
 
 Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives*. Longman.
 
@@ -131,7 +131,7 @@ Engelbart, D. C. (1962). *Augmenting human intellect: A conceptual framework*. S
 
 Glaser, B. G., & Strauss, A. L. (1967). *The discovery of grounded theory: Strategies for qualitative research*. Aldine Publishing.
 
-Hill, T., & Westbrook, R. (1997). SWOT analysis: It’s time for a product recall. *Long Range Planning, 30*(1), 46–52. [https://doi.org/10.1016/S0024-6301(96)00095-7](https://doi.org/10.1016/S0024-6301%2896%2900095-7)
+Hill, T., & Westbrook, R. (1997). SWOT analysis: It’s time for a product recall. *Long Range Planning, 30*(1), 46–52. https://doi.org/10.1016/S0024-6301(96)00095-7
 
 Hulley, S. B., Cummings, S. R., Browner, W. S., Grady, D. G., & Newman, T. B. (2013). *Designing clinical research* (4th ed.). Lippincott Williams & Wilkins.
 
@@ -139,7 +139,7 @@ Karsh, E., & Fox, A. S. (2014). *Writing successful grant proposals*. Basic Book
 
 Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
 
-Nature. (2023). Tools such as ChatGPT threaten transparent science; here are our ground rules for their use. *Nature, 613*, 612. [https://doi.org/10.1038/d41586-023-00191-7](https://doi.org/10.1038/d41586-023-00191-7)
+Nature. (2023). Tools such as ChatGPT threaten transparent science; here are our ground rules for their use. *Nature, 613*, 612. https://doi.org/10.1038/d41586-023-00191-7
 
 Russell, L., & Morrison, D. (2020). *The grant application writer’s workbook*. Grant Writers’ Seminars and Workshops.
 
@@ -147,7 +147,7 @@ Sackett, D. L., Straus, S. E., Richardson, W. S., Rosenberg, W., & Haynes, R. B.
 
 Vaswani, A., Shazeer, N., Parmar, N., Uszoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. *Advances in Neural Information Processing Systems, 30*.
 
-W\.K. Kellogg Foundation. (2004). *Logic model development guide*. W\.K. Kellogg Foundation.
+W.K. Kellogg Foundation. (2004). *Logic model development guide*. W.K. Kellogg Foundation.
 
 Wiggins, G., & McTighe, J. (1998). *Understanding by design*. ASCD.
 
