@@ -5,89 +5,220 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 **Practical 2 Prompt Bank – Language Enhancement with AI**
+# Comprehensive AI Prompt Bank
 
-### 1. ✨ **Clarity**
+**Theme:** From Idea to Research Problem
+*(Use **\[your topic]** as a placeholder for your own subject area)*
 
-*Goal: Make sentences easy to read and ideas easier to follow.*
+## 1. 📌 Problem Statements
 
-1. “Rewrite this paragraph to make it clearer and easier to understand. Use shorter sentences, avoid unnecessary words, and maintain the original meaning.”
-2. “Simplify this text so that the main ideas stand out clearly without losing academic quality.”
-3. “Paraphrase this paragraph into plain, straightforward academic English.”
-4. “Rewrite this passage to improve readability for an international research audience.”
-5. “Break down complex sentences into shorter ones while keeping the same meaning.”
-6. “Highlight the key argument in this paragraph and make it the central focus.”
-7. “Improve readability by removing redundant words and phrases.”
-8. “Rewrite this section to make it more concise and direct.”
-9. “Clarify the central idea of this paragraph in fewer words.”
-10. “Make this explanation more accessible for readers outside the field, without oversimplifying.”
+*Goal: Generate, refine, and critique problem statements for \[your topic].*
 
-### 2. ✅ **Grammar**
+1. **Basic Draft**
 
-*Goal: Correct grammar, punctuation, and tense errors without changing the content.*
+> “Write a detailed **problem statement (150–180 words)** for **\[your topic]**. Include: (1) what is currently known (with background context), (2) what is not yet known (the gap), (3) why this gap is important (academic, industry, or community significance), and (4) potential negative consequences if this gap is not addressed.”
 
-1. “Check this paragraph for grammar, spelling, and punctuation mistakes. Correct them and return a polished version, but do not change the meaning.”
-2. “Correct all tense errors and ensure verb forms are consistent throughout this passage.”
-3. “Revise this text to eliminate grammatical mistakes and awkward phrasing.”
-4. “Proofread this paragraph for subject-verb agreement, pronoun consistency, and punctuation accuracy.”
-5. “Edit this section to correct run-on sentences and fragments.”
-6. “Correct grammar errors and improve sentence mechanics while preserving meaning.”
-7. “Polish this text for grammatical correctness and stylistic accuracy.”
-8. “Fix all grammar mistakes, including articles, prepositions, and punctuation.”
-9. “Proofread this paragraph to ensure proper academic English grammar.”
-10. “Edit this writing for grammar and mechanics so it reads fluently and professionally.”
+2. **Multiple Styles**
 
-### 3. 🎓 **Academic Tone**
+> “Generate **three alternative problem statements** for **\[your topic]**: (a) one academic style suitable for a journal paper, (b) one applied/practical style suitable for an industry project, and (c) one policy-driven style suitable for a government grant.”
 
-*Goal: Adjust writing style to match formal academic standards.*
+3. **Funnel Approach**
 
-1. “Rewrite this paragraph in formal academic English suitable for publication in a Scopus-indexed journal.”
-2. “Rephrase this text using scholarly vocabulary and professional tone.”
-3. “Edit this writing to remove casual or conversational expressions.”
-4. “Convert this passage into a more objective, formal style appropriate for academic research.”
-5. “Polish this section to align with the tone of peer-reviewed journal articles.”
-6. “Rewrite this to sound formal, precise, and aligned with academic conventions.”
-7. “Transform this informal paragraph into a professional academic statement.”
-8. “Adjust the tone to be respectful, objective, and evidence-driven.”
-9. “Rewrite this in academic style with precise vocabulary and no slang.”
-10. “Edit this passage to ensure it matches the conventions of scholarly writing.”
+> “Write a problem statement for **\[your topic]** using the **funnel method**: Start with a broad introduction of the field, narrow down to the specific sub-area, present the gap, and end with why solving the gap is important.”
 
-### 4. 🧠 **Technical Detail**
+4. **Gap-Centered Statement**
 
-*Goal: Improve precision, terminology, and subject-specific language (especially for STEM).*
+> “Identify three possible gaps in research on **\[your topic]** (methodological, theoretical, contextual). Write a problem statement that highlights these gaps and explains why they matter.”
 
-1. “Refine this paragraph to use accurate technical terms and precise scientific expressions.”
-2. “Rewrite this explanation with more domain-specific vocabulary suitable for experts.”
-3. “Improve the precision of terminology without altering the meaning.”
-4. “Strengthen the technical accuracy of this passage for an academic audience.”
-5. “Replace vague words with specific scientific terms relevant to the subject.”
-6. “Rewrite this so that methods and results are explained with technical accuracy.”
-7. “Improve clarity of technical detail while ensuring the content remains advanced.”
-8. “Make this explanation more rigorous by using appropriate subject-specific terminology.”
-9. “Edit this passage so that the technical argument is precise and error-free.”
-10. “Enhance this description by adding precise academic and scientific phrasing.”
+5. **Cause–Effect Framing**
 
-### 5. 🚀 **Structure**
+> “Frame a problem statement for **\[your topic]** using a **cause–effect approach**: Identify root causes → describe the central problem → explain consequences if unaddressed.”
 
-*Goal: Improve logical flow, coherence, and readability.*
+6. **Contradictions in Literature**
 
-1. “Restructure this paragraph to improve the logical flow of ideas.”
-2. “Organize the sentences so that the main argument appears first and supporting details follow.”
-3. “Rewrite this passage so that ideas transition smoothly from one sentence to the next.”
-4. “Restructure this section into a logical academic flow: problem → evidence → conclusion.”
-5. “Reorganize this content so that the central point is emphasized.”
-6. “Rewrite to improve coherence, ensuring each sentence leads naturally to the next.”
-7. “Restructure this explanation into a clear beginning, middle, and conclusion.”
-8. “Edit this to improve flow and eliminate abrupt jumps between ideas.”
-9. “Rearrange the order of sentences to make the narrative easier to follow.”
-10. “Rewrite to make the argument flow logically while maintaining academic tone.”
+> “Write a problem statement for **\[your topic]** that emphasizes existing **contradictions or debates** in the literature, explains both sides, and argues why further study is needed.”
 
-## 📌 How to Use
+7. **Theory Gap**
 
-* Copy **1–2 paragraphs** from your draft.
-* Select the **prompt category** based on what you want to improve (Clarity, Grammar, Academic Tone, Technical Detail, Structure).
-* Paste into an AI tool (💬 ChatGPT, 🌐 Gemini, 👨‍💻 Copilot, 🧠 Qwen, 🚀 Grok).
-* Compare results and decide which version best fits your manuscript.
+> “Draft a problem statement for **\[your topic]** that highlights a **theoretical gap** (e.g., a theory not tested, or two competing theories with inconsistent findings). Show how your study could address this.”
+
+8. **Quantitative Emphasis**
+
+> “Create a problem statement for **\[your topic]** emphasizing the lack of quantitative evidence. Include details on which variables have been understudied and why measurement is needed.”
+
+9. **Qualitative Emphasis**
+
+> “Write a problem statement for **\[your topic]** focusing on the lack of qualitative insights (e.g., perspectives, experiences, cultural contexts). Explain why understanding human perspectives is essential.”
+
+10. **Critique & Rewrite**
+
+> “Here is a draft problem statement on **\[your topic]**: \[paste text]. Critique it in terms of clarity, novelty, and alignment with research objectives. Then rewrite it into a stronger version (150–180 words).”
+
+11. **Comparative Framing**
+
+> “Write a problem statement for **\[your topic]** comparing two contexts (e.g., developed vs. developing countries, rural vs. urban). Highlight the gap that arises from these differences.”
+
+12. **Impact-Oriented**
+
+> “Develop a problem statement for **\[your topic]** that explicitly highlights its **impact on academia, policy, and practice**. Provide examples of how solving the problem will benefit each group.”
+
+## 2. 🎯 Research Objectives
+
+*Goal: Write SMART and aligned objectives for \[your topic].*
+
+1. **SMART Objectives**
+
+> “Write **3–5 SMART objectives** for a study on **\[your topic]**. Ensure each is Specific, Measurable, Achievable, Relevant, and Time-bound. Present in a numbered list.”
+
+2. **Action Verb Objectives**
+
+> “Generate 5 objectives for **\[your topic]** using strong action verbs such as: analyze, evaluate, compare, design, validate, or develop.”
+
+3. **General vs. Specific**
+
+> “Write one **general objective** (broad aim) and three **specific objectives** (detailed steps) for a study on **\[your topic]**.”
+
+4. **Bloom’s Taxonomy**
+
+> “Frame 5 objectives for **\[your topic]** based on Bloom’s Taxonomy levels: understanding, application, analysis, evaluation, and creation.”
+
+5. **Exploratory, Descriptive, Explanatory**
+
+> “Write three objectives for **\[your topic]**: one exploratory, one descriptive, and one explanatory. Clearly state the purpose of each.”
+
+6. **Output-Oriented**
+
+> “Generate 4 objectives for **\[your topic]**, each explicitly tied to a deliverable output (e.g., framework, prototype, dataset, model, or policy guideline).”
+
+7. **Alignment Check**
+
+> “Link the following elements in a table for **\[your topic]**: Research Problem → Aim → Objectives. Identify whether each objective aligns properly with the problem and aim.”
+
+8. **Academic + Practical Balance**
+
+> “Write 4 objectives for **\[your topic]** ensuring a balance between **academic contribution** (theory development) and **practical relevance** (real-world application).”
+
+9. **Rewrite Objectives**
+
+> “Here are draft objectives for **\[your topic]**: \[paste text]. Rewrite them to be shorter, more measurable, and aligned with the SMART framework.”
+
+10. **Policy-Focused**
+
+> “Frame 3 objectives for **\[your topic]** that are directly relevant to **policy-making**, highlighting expected changes in regulations or practices.”
+
+11. **Different Contexts**
+
+> “Write objectives for **\[your topic]** tailored to three scenarios: (a) a PhD dissertation, (b) a government-funded research grant, (c) an applied industry project.”
+
+12. **Timeline-Linked Objectives**
+
+> “Generate objectives for **\[your topic]** and link each objective with an estimated completion timeline (short-term, mid-term, long-term).”
+
+## 3. ❓ Research Questions
+
+*Goal: Formulate precise, aligned research questions for \[your topic].*
+
+1. **Basic Set**
+
+> “Write 5 research questions for **\[your topic]**. Label each as descriptive, relational, or causal.”
+
+2. **PICOC Framework**
+
+> “Frame 3 research questions on **\[your topic]** using the PICOC model (Population, Intervention, Comparison, Outcome, Context).”
+
+3. **SPIDER Framework**
+
+> “Formulate 3 qualitative research questions on **\[your topic]** using the SPIDER model (Sample, Phenomenon of Interest, Design, Evaluation, Research Type).”
+
+4. **Mixed-Methods**
+
+> “Write 2 research questions for **\[your topic]** suitable for mixed-methods research. Ensure one question is quantitative and the other qualitative, but both address the same problem.”
+
+5. **Theory-Driven**
+
+> “Write 3 research questions for **\[your topic]** that explicitly test or apply a specific theory. Indicate which theory should be used.”
+
+6. **Variable-Specific**
+
+> “Create 4 research questions for **\[your topic]** focusing on relationships between independent and dependent variables. State what type of data could answer them.”
+
+7. **Exploratory vs Confirmatory**
+
+> “Write 2 exploratory and 2 confirmatory research questions for **\[your topic]**. Clearly mark the difference.”
+
+8. **Quantitative Design**
+
+> “Formulate 3 research questions for **\[your topic]** suitable for a quantitative study, making sure each can be tested with statistical methods.”
+
+9. **Qualitative Design**
+
+> “Formulate 3 research questions for **\[your topic]** suitable for qualitative study (e.g., interviews, focus groups, ethnography).”
+
+10. **Comparative**
+
+> “Generate 3 research questions on **\[your topic]** comparing two contexts (e.g., countries, sectors, or demographic groups).”
+
+11. **Reviewer’s Perspective**
+
+> “Review the following draft research questions on **\[your topic]** (paste here). Suggest improvements to make them more precise, non-overlapping, and feasible.”
+
+12. **Multi-Format RQs**
+
+> “Write 4 research questions on **\[your topic]**, each phrased differently: (a) What, (b) How, (c) Why, (d) To what extent.”
+
+## 4. 🧪 Hypotheses (Advanced)
+
+*Goal: Frame testable hypotheses aligned with research questions and objectives for \[your topic].*
+
+1. **Basic Hypotheses**
+
+> “Propose 3–4 hypotheses for **\[your topic]**, each stating the expected relationship and direction (positive, negative, or no effect).”
+
+2. **Null & Alternative**
+
+> “Write a null hypothesis (H0) and alternative hypothesis (H1) for the main research question on **\[your topic]**.”
+
+3. **Theory-Linked Hypotheses**
+
+> “Formulate 3 hypotheses for **\[your topic]** grounded in an existing theory (e.g., TAM, UTAUT, or relevant framework). Explain how each hypothesis links back to the theory.”
+
+4. **Moderators and Mediators**
+
+> “Write 2 hypotheses for **\[your topic]** including moderating or mediating variables. Clearly state the expected moderating/mediating effects.”
+
+5. **Quantitative Ready**
+
+> “Develop hypotheses for **\[your topic]** that can be tested with regression or SEM. State dependent and independent variables explicitly.”
+
+6. **Exploratory Hypotheses**
+
+> “Write 3 exploratory hypotheses for **\[your topic]** where causal relationships are not yet established.”
+
+7. **Comparative Hypotheses**
+
+> “Propose hypotheses comparing groups in **\[your topic]** (e.g., country A vs. country B, male vs. female).”
+
+8. **Applied Outcomes**
+
+> “Write hypotheses for **\[your topic]** linked to applied outcomes (e.g., higher efficiency, reduced costs, improved performance).”
+
+9. **Control Variables**
+
+> “Formulate hypotheses for **\[your topic]** including control variables. Clearly explain why controls are needed.”
+
+10. **Hypothesis Critique**
+
+> “Here is a draft hypothesis for **\[your topic]**: \[paste text]. Critique it for clarity, testability, and alignment with the problem. Suggest a revised version.”
+
+11. **Falsifiability Check**
+
+> “Write hypotheses for **\[your topic]** that are explicitly falsifiable. State what evidence would disprove them.”
+
+12. **Longitudinal vs Cross-Sectional**
+
+> “Generate 2 hypotheses for **\[your topic]** suitable for a longitudinal study and 2 for a cross-sectional study.”
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
