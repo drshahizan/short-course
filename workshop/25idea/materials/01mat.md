@@ -7,7 +7,7 @@
 
 # 📝 Introduction: Understanding the Grant Landscape at UTM
 
-- [Slaid: Taklimat Pembukaan Geran UTM 2025](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/Slaid%20Taklimat%20Geran%20UTM%202025.pdf)
+📌 [Slaid: Taklimat Pembukaan Geran UTM 2025](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/Slaid%20Taklimat%20Geran%20UTM%202025.pdf)
 
 ## 1. Overview of UTM Grant Types and Funding Priorities
 
