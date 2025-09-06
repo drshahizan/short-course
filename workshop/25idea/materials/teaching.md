@@ -7,8 +7,6 @@
 
 # Teaching materials
 
-## 📋 [Slide presentation](writewise.pdf)
-
 | **No** | **Category**                       | **Content / Resource** | **Focus Area**                                                                       |
 | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | 1      | **Guidelines & Policies**          | • [Panduan AI Generatif dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> •  [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education & public sector**          |
