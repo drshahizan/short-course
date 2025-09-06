@@ -38,13 +38,14 @@ UTM mandates clear eligibility and project criteria across its grant schemes:
 
 UTM evaluates grant proposals on several important dimensions:
 
-* **Alignment with UTM’s Strategic Focus**: Proposals must address key institutional or national thematic areas as listed in UTM’s focus appendices ([SPACE UTM][2]).
-* **Scientific and Technical Merit**: Projects must be well-conceived, feasible, and methodologically sound.
-* **Research Team Capability**: The team's background, expertise, and track record are important considerations in evaluating potential success ([ResearchGate][3]).
-* **Innovation and Potential Impact**: Proposals should offer clear, measurable contributions, either through advancing knowledge, benefiting society, or attracting external funding, especially for schemes like Matching Grant ([UTM Faculty of Science][4], [Research Management Centre][5]).
-* **Ethical and Institutional Compliance**: Where applicable—such as in projects involving human or animal subjects—ethical approval from UTM REC is required ([UTM Research][6]).
+| **Grant Name**                                 | **Key Evaluation Criteria** |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Geran Penyelidikan UTM Fundamental (UTMFR)** | • Novelty and contribution to new theories/knowledge <br>• Clear alignment with UTM Signature Research Areas <br>• Research design, feasibility, and expected outcomes <br>• Publication plan (2 indexed papers, WoS/Scopus/ERA) <br>• Human capital development (Master/PhD enrollment) <br>• Plan for external grant application and sustainability |
+| **Geran Penyelidikan Kecerdasan Buatan**       | • Integration of AI elements into UTM Signature Research Areas <br>• Novelty in AI methodologies, applications, or responsible AI (e.g., multilingual, multimodal, XAI, AI in education/health/IoT) <br>• Potential high-impact outcomes and international visibility <br>• Publication in high-impact indexed journals (preferably WoS Q1/Q2) <br>• Human capital (PhD/Master students enrolled) <br>• Evidence of potential for external funding leverage                                                  |
+| **Geran Penyelidik Baharu**                    | • Feasibility of the proposed research by new staff <br>• Novelty and potential contribution to field of expertise <br>• Alignment with UTM research areas <br>• Clear plan for at least 1 indexed publication <br>• Potential for researcher’s career development and external grant applications <br>• Proper budgeting and research planning |
+| **KTP-RIG 2026**                               | • Relevance and impact of project to community/industry (Quadruple Helix) <br>• Clear problem-solving or policy/product improvement elements <br>• Integration of UTM niche areas with national strategic needs <br>• Feasibility of implementation (1 Program Induk + 4 Sub-projects) <br>• Collaboration strength (industry + government partners) <br>• Potential for commercialization and long-term sustainability <br>• Quality of deliverables (reports, publications, project video, star rating ≥3) |
+| **Dana Networking AIMS4STAR**                  | • Strength and credibility of proposed networking/collaboration (industry or international) <br>• Potential for long-term impact (joint publications, projects, or consortiums) <br>• Contribution to UTM’s visibility and reputation globally <br>• Relevance to UTM research priorities and industry needs <br>• Evidence of matching funds or co-contributions <br>• Scalability and sustainability of the networking effort |
 
----
 
 ### 4. **Emerging Trends in UTM Research Funding**
 
