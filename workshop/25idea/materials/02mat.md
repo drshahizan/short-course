@@ -7,150 +7,68 @@
 
 # Practical 1: From Idea to Research Problem
 
-This practical session is the **foundational module** of the workshop *From Idea to Impact: Writing Winning Grant Proposals with Generative AI*. It enables participants to transform a **raw research idea** into a **structured research problem**, which is the critical backbone of a successful grant proposal.
+**Laying the Foundation for a Winning UTM Proposal**
 
-By leveraging **generative AI tools** (e.g., ChatGPT, Gemini, Grok, Copilot), participants will streamline three essential processes:
+**Session Description:**
 
-1. **Identifying research gaps**
-2. **Framing research questions**
-3. **Defining objectives**
+Every groundbreaking research project begins with a single, well-defined problem. This practical, hands-on session is the crucial first step in your grant-writing journey. We will move from a broad area of interest to a sharply focused research problem that is not only academically sound but also strategically aligned with **UTM's Signature Research Areas** and the specific objectives of the 2025 grant schemes (Fundamental, AI, New Researcher).
 
-The session emphasizes **iterative refinement**, where AI serves as a collaborative assistant while **human expertise ensures rigor, originality, and contextual relevance**.
+Using structured brainstorming techniques and Generative AI as a collaborative partner, you will learn to identify genuine research gaps, formulate compelling research questions, and define clear, achievable objectives. This session ensures your proposal's foundation is rock-solid, giving it the best chance to stand out in a competitive review process.
 
-* **Duration:** 45–60 minutes
-* **Format:** Mini-lectures, interactive AI-based exercises, and group discussions
-* **Output:** A draft research problem statement (gap + RQs + objectives), ready for further refinement in subsequent sessions
+**Session Objectives:**
 
-## Theoretical Background
+By the end of this practical session, participants will be able to:
+*   Apply a structured framework to refine a broad research idea into a specific, researchable problem.
+*   Use Generative AI effectively to scan the literature landscape and identify credible research gaps.
+*   Craft precise, focused research questions and hypotheses that guide the entire project.
+*   Define Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) research objectives.
+*   Clearly articulate the alignment of their research problem with UTM's strategic research themes and the specific goals of their target grant scheme.
 
-The session draws from **research methodology** and **grant writing literature**, embedding established theories with AI-supported practices.
+---
 
-### 1. Identifying Research Gaps
+### **Detailed Session Breakdown & Activities:**
 
-**Concept Overview**
-A **research gap** refers to an unanswered question, underexplored area, or unresolved issue in existing scholarship. Funders prioritize proposals that address such **“white spaces”** in knowledge (Karsh & Fox, 2014).
+**Part 1: From Broad Interest to Focused Problem**
 
-* **Kuhn’s Paradigm Shift Theory**: Scientific progress occurs when anomalies within existing paradigms are confronted (Kuhn, 1962).
-* **Types of Gaps** (Booth, Colomb, & Williams, 2016):
+The first step is narrowing the scope from a general topic to a specific, addressable problem.
 
-  * *Theoretical*: missing conceptual frameworks
-  * *Empirical*: insufficient or outdated data
-  * *Methodological*: weaknesses in approaches/tools
-  * *Practical/Policy*: real-world problems unaddressed
+*   **Activity 1: The "Problem Tree" Exercise:**
+    *   **Task:** Participants start with a broad area of interest (e.g., "AI in healthcare," "Water purification," "Renewable energy").
+    *   **Process:** Use a mind-mapping technique to break down the broad topic into core components, challenges, and unanswered questions. The goal is to identify a specific "trunk" of a problem from the wide "branches" of the field.
+    *   **AI-Assisted Prompt:** "Act as a research consultant. Help me narrow down my broad research interest in [Broad Topic]. List 5 current major challenges or unresolved questions in this field. Then, for challenge # [X], suggest 3 more specific, researchable problems."
 
-**Methods for Gap Identification**
+**Part 2: Identifying the Gap with AI Assistance**
 
-* **Literature Review as Gap Analysis**: Synthesizing evidence to reveal limitations (Booth et al., 2016).
-* **SWOT Analysis**: Originally strategic, applied to research to map Strengths, Weaknesses, Opportunities, and Threats of an idea (Hill & Westbrook, 1997).
+A research problem is meaningless without a gap in existing knowledge.
 
-**Relevance to Grants**
-Strong proposals justify gaps with evidence, e.g., **citation trends, policy reports, or systematic reviews** (Karsh & Fox, 2014).
+*   **Activity 2: The "Literature Gap" Analysis:**
+    *   **Task:** Participants use AI to simulate a preliminary literature review to find where knowledge ends and their research can begin.
+    *   **Sample AI Prompt:** "The current literature on [Specific Problem] suggests that [Current Understanding]. However, there is a lack of studies investigating [Specific Aspect, e.g., its application in a tropical climate, its use with a new AI architecture, its socio-economic impact on rural communities]. This project aims to fill that gap by..."
+    *   **Key Consideration:** Emphasize that AI is a starting point. Researchers must verify that the identified gap is genuine by checking actual scholarly databases.
 
-**Role of Generative AI**
-AI accelerates this process by summarizing literature, detecting patterns, and classifying gaps. This aligns with Engelbart’s (1962) **cognitive augmentation framework**, though human validation remains crucial to mitigate bias.
+**Part 3: Framing Research Questions and Objectives**
 
-### 2. Framing Research Questions (RQs)
+This is the core of the proposal—what will you actually do?
 
-**Concept Overview**
-Research Questions (RQs) articulate the **precise inquiries** guiding a study. They must be **clear, focused, and directly aligned with the identified gap**.
+*   **Activity 3: Crafting the Golden Thread:**
+    *   **Task:** Ensure a logical flow from the problem to the questions to the objectives.
+    *   **Framework:**
+        1.  **Problem:** There is a problem with X... because of Y... leading to consequence Z.
+        2.  **Research Question:** Therefore, this study asks: "How can we solve/understand/improve X?"
+        3.  **Objective:** To answer this, the objective is to [Specific, actionable verb: design, develop, evaluate, compare] [Specific thing].
+    *   **AI-Assisted Prompt:** "Based on this research gap: '[Paste your identified gap]', generate 3 potential research questions. For the most promising question, draft 3 corresponding SMART objectives."
 
-**Frameworks for RQ Development**
+*   **Activity 4: Strategic Alignment with UTM & Grant Goals:**
+    *   **Task:** Refine the problem and objectives to align with UTM's strategic goals and the specific grant's requirements.
+    *   **Sample AI Prompt (for AI Grant):** "Review my research objective: '[Your Objective]'. How can I reframe it to stronger align with UTM's 'Smart Society' signature area and the Geran Penyelidikan Kecerdasan Buatan's goal of creating new theoretical discoveries in AI?"
+    *   **Sample AI Prompt (for New Researcher Grant):** "Does this research objective seem feasible for a 24-month, RM20,000 project? Suggest ways to scale it to be more achievable for a new researcher."
 
-* **PICO(T)** (Population, Intervention, Comparison, Outcome, Time) – widely used in evidence-based practice (Sackett et al., 1996).
-* **FINER Criteria** (Feasible, Interesting, Novel, Ethical, Relevant) – benchmarks of strong RQs (Hulley et al., 2013).
+**Materials Participants Should Bring:**
+*   A laptop with access to a Generative AI tool (e.g., ChatGPT-4, Copilot, Gemini).
+*   A notebook or digital document for brainstorming.
+*   **Optional but encouraged:** A preliminary idea or area of research interest they are considering for their proposal.
 
-**Types of RQs**
-
-* **Descriptive**: *What is happening?*
-* **Explanatory**: *Why/how is it happening?*
-* **Predictive**: *What will happen if…?*
-* **Evaluative**: *How effective is this intervention?*
-
-**Supporting Theories**
-
-* **Grounded Theory**: RQs can emerge iteratively from data analysis (Glaser & Strauss, 1967).
-* **Bloom’s Taxonomy**: Questions can be scaffolded from lower-order (understanding) to higher-order (creation/evaluation) thinking (Bloom, 1956; Anderson & Krathwohl, 2001).
-
-**Relevance to Grants**
-Poorly framed RQs often lead to rejection, as they undermine the proposal’s clarity and feasibility (Russell & Morrison, 2020).
-
-**Role of Generative AI**
-AI tools (e.g., ChatGPT, Gemini) generate multiple RQ variants. Based on **transformer architectures** (Vaswani et al., 2017), they assist in brainstorming but require researcher refinement for **novelty, testability, and funder alignment**.
-
-### 3. Defining Objectives
-
-**Concept Overview**
-Objectives transform RQs into **operational steps**, typically phrased as *“To \[verb] \[outcome]”*.
-
-**SMART Framework**
-Objectives must be:
-
-* **Specific**
-* **Measurable**
-* **Achievable**
-* **Relevant**
-* **Time-bound** (Doran, 1981)
-
-**Supporting Theories**
-
-* **Logic Models**: Objectives link activities to outputs and impacts (W\.K. Kellogg Foundation, 2004).
-* **Backward Design**: Start with the intended impact, then design objectives that work backward (Wiggins & McTighe, 1998).
-
-**Relevance to Grants**
-Well-written objectives demonstrate feasibility and align with **funder evaluation criteria**. Vague objectives are a common weakness in unsuccessful proposals (Browning, 2022).
-
-**Role of Generative AI**
-AI can suggest SMART objectives with quantifiable metrics. This supports **human-AI collaboration frameworks** (Amershi et al., 2019), though human oversight ensures contextual alignment.
-
-## Why This Matters
-
-* Competitive research grants face **80–90% rejection rates** (Karsh & Fox, 2014).
-* Success depends on clarity in:
-
-  1. **What gap is being addressed**
-  2. **Which RQs guide the investigation**
-  3. **How objectives operationalize those RQs**
-
-Generative AI reduces drafting time, but ethical use is essential. Misuse, such as plagiarism, undermines research integrity (Nature, 2023).
-
-## References
-
-Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ... & Horvitz, E. (2019). Guidelines for human-AI interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*, 1–13. https://doi.org/10.1145/3290605.3300233
-
-Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives*. Longman.
-
-Bloom, B. S. (1956). *Taxonomy of educational objectives: The classification of educational goals*. Longman.
-
-Booth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The craft of research* (4th ed.). University of Chicago Press.
-
-Browning, B. A. (2022). *Grant writing for dummies* (7th ed.). Wiley.
-
-Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals and objectives. *Management Review, 70*(11), 35–36.
-
-Engelbart, D. C. (1962). *Augmenting human intellect: A conceptual framework*. Stanford Research Institute.
-
-Glaser, B. G., & Strauss, A. L. (1967). *The discovery of grounded theory: Strategies for qualitative research*. Aldine Publishing.
-
-Hill, T., & Westbrook, R. (1997). SWOT analysis: It’s time for a product recall. *Long Range Planning, 30*(1), 46–52. https://doi.org/10.1016/S0024-6301(96)00095-7
-
-Hulley, S. B., Cummings, S. R., Browner, W. S., Grady, D. G., & Newman, T. B. (2013). *Designing clinical research* (4th ed.). Lippincott Williams & Wilkins.
-
-Karsh, E., & Fox, A. S. (2014). *Writing successful grant proposals*. Basic Books.
-
-Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
-
-Nature. (2023). Tools such as ChatGPT threaten transparent science; here are our ground rules for their use. *Nature, 613*, 612. https://doi.org/10.1038/d41586-023-00191-7
-
-Russell, L., & Morrison, D. (2020). *The grant application writer’s workbook*. Grant Writers’ Seminars and Workshops.
-
-Sackett, D. L., Straus, S. E., Richardson, W. S., Rosenberg, W., & Haynes, R. B. (1996). *Evidence-based medicine: How to practice and teach EBM*. Churchill Livingstone.
-
-Vaswani, A., Shazeer, N., Parmar, N., Uszoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. *Advances in Neural Information Processing Systems, 30*.
-
-W.K. Kellogg Foundation. (2004). *Logic model development guide*. W.K. Kellogg Foundation.
-
-Wiggins, G., & McTighe, J. (1998). *Understanding by design*. ASCD.
-
+**Note:** This session focuses on the critical "ideation" phase. A strong, well-defined problem is the most important element of a successful grant application. Using AI as a brainstorming partner can dramatically accelerate this process, but the final intellectual ownership of the problem must always reside with the researcher.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
