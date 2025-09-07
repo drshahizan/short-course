@@ -36,7 +36,7 @@ In **research** and **grant writing**, a **prompt** serves as a **strategic guid
 3. [**Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) – Leveraging Whimsical integration with ChatGPT to design visual representations such as flowcharts, concept maps, and mind maps for clearer research communication.
 4. **[Gantt Chart using ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
 5. [**Forecasting with Deepseek**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
-6. **Document Analysis with NotebookLM** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
+6. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
 7. [**Designing Presentation Slides with Kimi**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
 
 
