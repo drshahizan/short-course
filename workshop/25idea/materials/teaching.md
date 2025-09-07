@@ -14,6 +14,11 @@
 | 3.      | Quality Assurance & Review | **[Grant Proposal Checklist (UTM 2025)](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01b_checklist.md)** | Step-by-step checklist to ensure compliance, completeness, and submission-readiness |
 | 4.      | | **[AI Tools](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01c_aitools.md)** |  |
 
+## Prompt
+| **Kategori** | **Penerangan Ringkas** |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)          | Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana *prompt* strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional. |
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
