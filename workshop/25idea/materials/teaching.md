@@ -7,7 +7,7 @@
 
 # Teaching materials
 
-| **No.** | **Category**               | **Content / Resource**                  | **Focus Area**                                                                      |
+| **No.** | **Category**               | **Content / Resource**                  | **Focus Area** |
 | ------- | -------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------- |
 | 1.      | Orientation & Briefing     | **[UTM 2025 Grant Briefing Slides](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/Slaid%20Taklimat%20Geran%20UTM%202025.pdf)**      | Overview of funding schemes, requirements, and strategic research priorities        |
 | 2.      | Proposal Development       | **[Grant Proposal Template](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01a_template.md)**             | Structured guide with sections and placeholders for writing competitive grants      |
@@ -16,7 +16,7 @@
 
 ## Prompt
 
-In research and grant writing, a **prompt** serves as a strategic guide that stimulates critical thinking and directs researchers toward developing structured, coherent, and impactful outputs. Prompts are designed to help researchers move from abstract ideas to concrete expressions by addressing key aspects such as identifying research gaps, formulating problem statements, refining methodologies, and strengthening impact narratives. Unlike simple questions, prompts function as purposeful cues that encourage deeper reasoning, creativity, and clarity in writing. When combined with generative AI tools, prompts act as catalysts that transform fragmented thoughts into well-organized proposals aligned with academic standards and funding requirements.
+In **research** and **grant writing**, a **prompt** serves as a **strategic guide** that stimulates **critical thinking** and directs researchers toward developing **structured**, **coherent**, and **impactful outputs**. Prompts are designed to help researchers move from **abstract ideas** to **concrete expressions** by addressing key aspects such as **identifying research gaps**, **formulating problem statements**, **refining methodologies**, and **strengthening impact narratives**. Unlike simple questions, prompts function as **purposeful cues** that encourage deeper **reasoning**, **creativity**, and **clarity** in writing. When combined with **generative AI tools**, prompts act as **catalysts** that transform fragmented thoughts into **well-organized proposals** aligned with **academic standards** and **funding requirements**.
 
 | **No.** | **Topic** | **Prompt** | **Description** |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
