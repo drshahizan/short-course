@@ -5,57 +5,70 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📝 **Exercise: Practical 5 – Draft Refinement Workshop (Part 1)**
+# 📝 **Practical 5 – Draft Refinement Workshop (Part 1)**
 
-**Focus: Participants work on their manuscripts with direct AI assistance and facilitator guidance (Grammar & Language).**
+**Session Title:** Precision Engineering Your Proposal: AI-Assisted Refinement for UTM Grant Success
 
-## 🎯 **Objective**
+**Session Description:**
 
-To help participants refine their manuscript drafts by:
+This hands-on, practical session is tailored specifically for the **UTM 2025 Grant Schemes** (Geran Penyelidik Baharu, UTMFR, Geran Penyelidikan Kecerdasan Buatan). We move from broad concepts to the precise details that reviewers from Research Alliances and RMC will scrutinize.
 
-* Correcting **grammar, spelling, and punctuation**.
-* Improving **sentence structure and readability**.
-* Ensuring alignment with **academic writing standards**.
+Bring your draft proposal! We will use Generative AI as a strategic partner to critically refine the core sections that demonstrate feasibility, rigor, and compliance: **Methodology, Work Plan, and Budget Justification**. You will leave with a strengthened, targeted draft that aligns perfectly with UTM's specific requirements and significantly boosts your chances of success.
 
-## 📋 **Step 1: Select a Section**
+**Session Objectives:**
 
-Choose **one section (150–200 words)** from your draft (e.g., Abstract, Introduction, or Discussion).
+By the end of this practical session, participants will be able to:
+*   Employ targeted AI prompts to ensure their **Methodology** meets the specific publication output targets (e.g., WoS Q1/Q2 for AI Grant).
+*   Use AI to develop a **Work Plan/Timeline** that logically sequences tasks to fit the strict grant durations (24, 30, or 42 months) and includes key milestones like GRA enrollment and reporting deadlines.
+*   Craft a compelling **Budget Justification (V-Codes)** that explicitly links every cost (V21000, V27000, V35000, V40000) to a project activity and adheres to UTM's strict allocation limits (e.g., max 40% for V35000).
+*   Integrate UTM's mandatory **acknowledgement language** and ethical disclosure statements into their draft.
 
-* Prefer a section where you suspect **grammar or language errors**.
-* Copy it into your working document.
+### **Detailed Session Breakdown & Activities:**
 
-## 🤖 **Step 2: Apply AI with Suitable Prompts (Grammar Focus)**
+**Part 1: Refining the Methodology for Mandatory Outputs**
 
-| **Goal**                | **Prompts (Copy & Use)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ **Fix Grammar**       | 1. “Check this paragraph for grammar, spelling, and punctuation errors. Return a corrected version without changing the meaning.”<br>2. “Proofread this section for tense consistency and subject-verb agreement.”<br>3. “Correct grammar mistakes and improve sentence mechanics in this draft.”<br>4. “Fix any grammatical issues but keep the content and meaning unchanged.”<br>5. “Polish grammar, spelling, and sentence fluency for academic English.”<br>6. “Correct article usage, verb tenses, and plural forms in this text.”<br>7. “Proofread for common academic grammar errors and return a corrected version.”<br>8. “Check for misplaced modifiers, run-on sentences, and fragments, and correct them.”<br>9. “Edit this section for grammar consistency and remove awkward phrasing.”<br>10. “Return a clean, grammatically correct version of this draft suitable for academic submission.” |
-| ✨ **Sentence Clarity**  | 1. “Rewrite this passage to improve clarity and readability without changing the meaning.”<br>2. “Break down long sentences into shorter, more precise ones.”<br>3. “Simplify wording while keeping an academic tone.”<br>4. “Improve clarity by removing redundant words.”<br>5. “Rewrite sentences so that the main idea is clear in each one.”<br>6. “Rephrase ambiguous sentences to make the meaning more precise.”<br>7. “Polish this text so that each sentence communicates one clear idea.”<br>8. “Rewrite this passage to eliminate vague words and strengthen expression.”<br>9. “Improve readability by restructuring overly complex sentences.”<br>10. “Edit this draft to ensure logical and clear progression of ideas.”                                                                                                                                                                       |
-| 🎓 **Academic English** | 1. “Rewrite this paragraph in formal academic English suitable for a Scopus-indexed journal.”<br>2. “Adjust the tone to be more professional, objective, and precise.”<br>3. “Convert casual phrasing into formal academic writing.”<br>4. “Polish this draft to match scholarly writing conventions.”<br>5. “Revise this section for formal academic style without altering meaning.”<br>6. “Rewrite to remove contractions, colloquialisms, and informal expressions.”<br>7. “Strengthen academic tone by replacing weak words with precise terminology.”<br>8. “Rewrite this in an evidence-based, objective style appropriate for journals.”<br>9. “Adjust this writing to match the conventions of peer-reviewed research articles.”<br>10. “Transform this into formal academic English with precise, technical phrasing.”                                                                              |
+The methodology must directly support the achievement of the non-negotiable publication outputs.
 
+*   **Activity 1: The "Output-Alignment" Test:**
+    *   **Task:** Participants paste their methodology section into an AI tool with a prompt designed to check alignment with their specific grant's output criteria.
+    *   **Sample Prompt for AI Grant:** "Act as a UTM grant reviewer. This methodology aims to produce 2 WoS Q1/Q2 publications. Analyze the following section for a project on [topic]. Does it describe innovative enough processes, data collection, and analysis techniques to realistically yield such high-impact publications? Identify gaps and suggest specific methodological enhancements to strengthen the claim."
+    *   **Group Debrief:** Compare feedback across different grant types (e.g., Baharu vs. AI Grant). Discuss how to elevate methodological descriptions to meet higher output tiers.
 
-## 📝 **Step 3: Compare Versions**
+*   **Activity 2: GRA Integration Planning:**
+    *   **Task:** Use AI to explicitly outline how the Graduate Research Assistant (GRA/NYR) will be integrated into the methodological workflow, as this is a key budget and human capital output.
+    *   **Sample Prompt:** "Based on this methodology [paste text], generate a detailed description of the specific tasks and responsibilities for a Graduate Research Assistant (GRA) over a 24-month period, ensuring it directly contributes to the data collection and analysis described."
 
-After applying AI, create a side-by-side comparison:
+**Part 2: Building a Compliant Work Plan & Timeline**
 
-| **Aspect**       | **Original Draft** | **AI-Enhanced Draft** | **Improvement Observed** |
-| ---------------- | ------------------ | --------------------- | ------------------------ |
-| Grammar ✅        | Errors present     | Corrected             | Improved accuracy        |
-| Clarity ✨        | Wordy, unclear     | Concise, clear        | Easier to read           |
-| Academic Tone 🎓 | Informal language  | Formal academic style | More professional        |
+The timeline must be realistic and demonstrate clear project management within the fixed duration.
 
-## 💬 **Step 4: Facilitator Guidance**
+*   **Activity 3: Duration-Specific Sequencing:**
+    *   **Task:** Participants list their key project milestones (e.g., literature review, ethics approval, data collection, analysis, manuscript writing, conference travel).
+    *   **Sample Prompt:** "Structure these tasks [list tasks] into a quarterly timeline for a 30-month UTMFR grant. Include critical administrative milestones: 'Submit 6-month Progress Report to RADIS,' 'Enroll PhD Student by Month 3,' 'Submit Final Report by Month 28.' Present as a Markdown table."
 
-* Share your AI-enhanced draft with a facilitator or peer.
-* Discuss whether grammar corrections **preserve the meaning**.
-* Get feedback on tone and readability.
+*   **Activity 4: Integrating Compulsory Requirements:**
+    *   **Task:** Use AI to ensure the work plan includes activities related to mandatory obligations.
+    *   **Sample Prompt:** "Add milestones to this timeline for 'Prepare and submit application for external grant (e.g., FRGS)' as per the compulsory requirement for UTMFR/AI grantees. Also add a task for 'Draft acknowledgement statement for publications: 'Universiti Teknologi Malaysia, [Grant Name], cost center no.'"
 
-## 🎯 **Expected Outcome**
+**Part 3: Crafting a V-Code Perfect Budget Justification**
 
-By the end of this exercise, participants will:
+Every line item must be justified and directly tied to a project activity, using the correct V-series codes.
 
-* Produce a **grammar-checked version** of part of their manuscript.
-* Recognize the role of AI in **proofreading and polishing** drafts.
-* Gain confidence in preparing a draft suitable for ERA/Scopus standards.
+*   **Activity 5: The "V-Code" Justification:**
+    *   **Task:** Participants take a line from their budget (e.g., V35000: Equipment, RM15,000) and use AI to craft a UTM-compliant justification.
+    *   **Sample Prompt:** "Write a justification for a budget item under **V35000** for a [Item Name] costing RM15,000. Link it explicitly to a specific project aim. Use the phrase: '*This is necessary for... therefore we are requesting... in order to achieve...*'. Mention that quotations have been obtained."
+    *   **Example Output for AI Grant:** "This [Specific AI Software/GPU] is necessary for the deep learning model training described in Aim 2, therefore we are requesting RM15,000 under V35000 in order to achieve the project's objective of developing a high-accuracy prediction model. Three quotations have been obtained."
+
+*   **Activity 6: Stress-Testing for Compliance:**
+    *   **Task:** Use AI to act as a financial officer and check for common budget mistakes.
+    *   **Sample Prompt:** "Review the following budget justification for compliance with standard UTM rules: 'RM10,000 under V21000 for international conference travel.' Identify potential issues. Should this be reduced or specified further? Remember: ASEAN travel only for students, max 20% allocation for travel."
+
+**Materials Participants Should Bring:**
+*   A laptop with access to a Generative AI tool (e.g., ChatGPT-4, Copilot, Gemini).
+*   Their current grant proposal draft.
+*   **Crucially:** The specific guidelines for their target grant (Baharu, UTMFR, or AI) from the presentation, particularly the **Output Tables** and **Budget (V-Code) Tables**.
+
+**Note:** This session emphasizes using AI to achieve **compliance** and **strategic alignment** with the very specific requirements of UTM's internal grant schemes, moving beyond generic proposal advice.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
