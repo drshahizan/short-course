@@ -7,7 +7,8 @@
 
 # 📝 AI Prompt Bank
 
-## Comprehensive AI Prompt Bank: “From Idea to Research Problem”
+**Theme:** From Idea to Research Problem
+*(Use **\[your topic]** as a placeholder for your own subject area)*
 
 ## 1. 🔍 Literature Discovery
 
