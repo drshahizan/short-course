@@ -35,6 +35,7 @@ In **research** and **grant writing**, a **prompt** serves as a **strategic guid
 3. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)** – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
 4. **[Designing Presentation Slides with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md)** – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
 5. **Document Analysis with NotebookLM** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
+6. [https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md)
 
 
 ### 🙌🏻 Connect with Me
