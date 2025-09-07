@@ -31,16 +31,10 @@ In **research** and **grant writing**, a **prompt** serves as a **strategic guid
 
 ## **Hands-On Activities**
 
-Perfect 👍 I’ve added **Gantt Chart using ChatGPT** into the sequence and reordered the full list again so it reflects a logical **research workflow** from idea generation to project presentation.
-
----
-
-## **Hands-On Activities (Reordered by Workflow)**
-
 1. [**Step-by-Step Guide: Using Scopus AI to Develop “From Idea to Research Problem”**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/02scopus_ai.md) – Practical exploration of how Scopus AI can be leveraged to transform initial ideas into well-defined research problems.
 2. [**Mind Mapping with Markmap**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md) – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
 3. [**Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) – Leveraging Whimsical integration with ChatGPT to design visual representations such as flowcharts, concept maps, and mind maps for clearer research communication.
-4. **Gantt Chart using ChatGPT** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
+4. **[Gantt Chart using ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
 5. [**Forecasting with Deepseek**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
 6. **Document Analysis with NotebookLM** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
 7. [**Designing Presentation Slides with Kimi**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
