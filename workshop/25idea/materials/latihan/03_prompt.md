@@ -8,7 +8,8 @@
 # 📝 AI Prompt Bank
 
 **Theme:** From Idea to Research Problem
-*(Use **\[your topic]** as a placeholder for your own subject area)*
+
+*(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 🔍 Literature Discovery
 
