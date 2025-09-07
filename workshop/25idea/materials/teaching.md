@@ -19,6 +19,10 @@
 | --- | --- |---|
 | [Idea to Research Problem](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/03_prompt.md)| 1. Literature Discovery <br> 2. Visualization & Structuring <br> 3. Generative AI (Reasoning & Writing)||    
 | [Problem Statements to Research Objectives](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/04_prompt.md)| 1. Problem Statements <br> 2. Research Objectives <br> 3. Research Questions <br> 4. Hypotheses (Advanced)|| 
+| [Strengthening Significance & Impact in Grant Proposals](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/05_prompt.md)| 1. Significance to Knowledge & Academic Field <br> 2. Significance to Policy & Governance <br> 3. Industrial & Economic Impact <br> 4. Societal & Community Impact <br> 5. Long-Term Sustainability & Global Impact|| 
+
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
