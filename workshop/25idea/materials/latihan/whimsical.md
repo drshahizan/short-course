@@ -71,7 +71,6 @@ Label edges with phrases like “enables”, “requires”, “measured by”, 
 * “Add KPIs under each node (e.g., 2 WoS papers; 1 PhD enrolled; 1 policy brief).”
 * “Color code by stakeholder (funder, university, society)—if not possible here, I’ll edit in Whimsical.” ([help.whimsical.com][1])
 
----
 
 ## C) Create a **Mind Map** (proposal structure outline)
 
@@ -110,7 +109,6 @@ For each branch, add 3-5 subnodes with examples and prompts to guide writing.
 * If you need fine-tuning (layout/colors), click **Open in Whimsical** when prompted and edit on the canvas. ([help.whimsical.com][1])
 
 
-
 ### Ready-to-use prompt pack (copy–paste)
 
 **Grant Budget Map (mind map add-on)**
@@ -142,7 +140,6 @@ Attach metrics: Academic→ “WoS/Scopus”, “Citations”; Policy→ “Brie
 Industry→ “IP/Prototypes”, “MOUs”; Community→ “Outreach”, “Training”.
 Label edges with “measured by” / “supported by”.
 ```
-
 
 
 ### 🙌🏻 Connect with Me
