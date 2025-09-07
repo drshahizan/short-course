@@ -13,7 +13,7 @@
 | **09:15 – 09:45 AM** | **[Introduction: Understanding Grant Landscape](01mat.md)** <br> Overview of funding priorities, evaluation criteria, and trends in research grants. |
 | **09:45 – 10:30 AM** | **[Practical 1: From Idea to Research Problem](02mat.md)** <br> Identifying gaps, framing research questions, and defining objectives. |
 | **10:30 – 10:45 AM** | Morning Break |
-| **10:45 – 11:30 AM** | **[Practical 2: Using Generative AI for Proposal Drafting](03mat.md)** and **[Prompt Bank for Grant Writing](05mat.md)** <br> Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot, NotebookLM) to draft problem statements and objectives. |
+| **10:45 – 11:30 AM** | **[Practical 2: Using Generative AI for Proposal Drafting](03mat.md)**  <br> Hands-on session: applying AI tools (ChatGPT, Gemini, Copilot, NotebookLM) to draft problem statements and objectives. |
 | **11:30 – 12:15 PM** | **[Practical 3: Strengthening Significance & Impact](04mat.md)** <br> Crafting persuasive justifications, highlighting innovation, and aligning with funding agency goals. |
 | **12:15 – 12:45 PM** | **Sharing & Feedback** <br> Selected participants share initial drafts and receive facilitator comments. |
 | **12:45 – 02:00 PM** | Lunch Break |
