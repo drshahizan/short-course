@@ -15,10 +15,9 @@
 | 4.      | | **[AI Tools](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01c_aitools.md)** |  |
 
 ## Prompt
-| **Kategori** | **Penerangan Ringkas** |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Generatif AI untuk Pendidikan Tinggi: Set Prompt Strategik, Kreatif dan Teknikal](latihan/01.md)          | Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana *prompt* strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional. |
-
+| Topic | Prompt | Description| 
+| --- | --- |---|
+| From Idea to Research Problem| 1. Literature Discovery <br> 2. Visualization & Structuring <br> 3. Generative AI (Reasoning & Writing)||    
 
 ### 🙌🏻 Connect with Me
 <p align="left">
