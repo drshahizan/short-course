@@ -22,7 +22,8 @@
 | [Strengthening Significance & Impact in Grant Proposals](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/05_prompt.md)| 1. Significance to Knowledge & Academic Field <br> 2. Significance to Policy & Governance <br> 3. Industrial & Economic Impact <br> 4. Societal & Community Impact <br> 5. Long-Term Sustainability & Global Impact|| 
 | [Summarizing, Integrating, and Managing Literature Ethically](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/06_prompt.md)| 1. Summarize Literature <br> 2. Integrate Sources <br> 3. Manage References Ethically || 
 | [Refine Methodology, Work Plan, and Budget Justification](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_prompt.md)| 1. Refine Methodology <br> 2. Work Plan <br> 3. Budget Justification || 
-
+| [Refining Impact Statements, Expected Outcomes, Proposal Coherence, and Overall Polish](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/08_prompt.md)| 1. Refining Impact Statements <br> 2. Expected Outcomes <br> 3. Proposal Coherence <br> 4. Overall Polish (Grammar, Clarity, Tone, Formatting)
+ || 
 
 
 ### 🙌🏻 Connect with Me
