@@ -8,6 +8,7 @@
 # 📝 AI Prompt Bank
 
 **Theme:** Refining Impact Statements, Expected Outcomes, Proposal Coherence, and Overall Polish
+
 *(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 🌍 Refining Impact Statements
