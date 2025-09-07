@@ -33,8 +33,6 @@
 * In ChatGPT for teams or enterprise, use the **Share** option in the GPT editor to share your custom diagrammer GPT with colleagues. ([OpenAI Help Center][4])
 * You can always rediscover GPTs from the **GPT Store** later via **Explore GPTs**. ([OpenAI Help Center][5])
 
----
-
 # Ready-to-Copy Prompts
 
 > Use these with **Whimsical Diagrams** GPT. Replace bracketed text (e.g., **\[Your Topic]**).
@@ -70,8 +68,6 @@ Branches: Objective 1, Objective 2, Objective 3. For each objective, add:
 Style: high-contrast, auto-layout, avoid crossings. Provide the Whimsical link and a one-paragraph summary.
 ```
 
----
-
 # Quality Checklist (use after generation)
 
 * **Clarity:** Each node is concise (≤ 4 words) and unambiguous.
@@ -80,15 +76,12 @@ Style: high-contrast, auto-layout, avoid crossings. Provide the Whimsical link a
 * **Readability:** Balanced spacing; avoid line crossings; consistent colors/legend.
 * **Traceability:** Anyone can follow **Problem → Questions → Objectives → Methods → Outcomes** in 15 seconds.
 
----
 
 ## Pro tips
 
 * Keep one diagram **single-purpose** (don’t mix too many frameworks).
 * Ask the GPT to output a **“version A/B/C”** so you can pick the best structure.
 * In longer projects, group chats and files into a **Project** in ChatGPT to keep context together. ([OpenAI Help Center][6])
-
-If you’d like, tell me your **topic, key problems, and top three objectives**, and I’ll draft the first diagram prompt tailored to your workshop audience.
 
 [1]: https://help.openai.com/en/articles/8798889-how-can-i-use-gpts?utm_source=chatgpt.com "How can I use GPTs?"
 [2]: https://help.openai.com/en/articles/8554397-creating-a-gpt?utm_source=chatgpt.com "Creating a GPT"
