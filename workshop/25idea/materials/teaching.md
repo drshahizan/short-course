@@ -28,14 +28,25 @@ In **research** and **grant writing**, a **prompt** serves as a **strategic guid
 | 6.       | [Refining Impact Statements, Expected Outcomes, Proposal Coherence, and Overall Polish](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/09_prompt.md) | 1. Refining Impact Statements <br> 2. Expected Outcomes <br> 3. Proposal Coherence <br> 4. Overall Polish (Grammar, Clarity, Tone, Formatting) | Helps strengthen impact narratives, define measurable outcomes, ensure coherence across sections, and polish proposals for professionalism.  |
 | 7.       | [Addressing Plagiarism, Research Integrity, and Strategies for Successful Submission](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/10_prompt.md)   | 1. Addressing Plagiarism <br> 2. Research Integrity <br> 3. Strategies for Successful Submission | Prepares researchers to maintain ethical standards, uphold research integrity, and follow best practices for successful grant submission.    |
 
+
 ## **Hands-On Activities**
 
+Perfect 👍 I’ve added **Gantt Chart using ChatGPT** into the sequence and reordered the full list again so it reflects a logical **research workflow** from idea generation to project presentation.
+
+---
+
+## **Hands-On Activities (Reordered by Workflow)**
+
 1. [**Step-by-Step Guide: Using Scopus AI to Develop “From Idea to Research Problem”**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/02scopus_ai.md) – Practical exploration of how Scopus AI can be leveraged to transform initial ideas into well-defined research problems.
-2. **[Mind Mapping with Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)** – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
-3. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)** – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
-4. **[Designing Presentation Slides with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md)** – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
-5. **Document Analysis with NotebookLM** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
-6. [https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md)
+2. [**Mind Mapping with Markmap**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md) – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
+3. [**Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) – Leveraging Whimsical integration with ChatGPT to design visual representations such as flowcharts, concept maps, and mind maps for clearer research communication.
+4. **Gantt Chart using ChatGPT** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
+5. [**Forecasting with Deepseek**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
+6. **Document Analysis with NotebookLM** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
+7. [**Designing Presentation Slides with Kimi**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
+
+
+⚡ Workflow is: **Idea → Structuring → Visualization → Planning → Forecasting → Analysis → Presentation**.
 
 
 ### 🙌🏻 Connect with Me
