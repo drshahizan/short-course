@@ -8,7 +8,8 @@
 # 📚 AI Prompt Bank
 
 **Theme:** Summarizing, Integrating, and Managing Literature Ethically
-*(Insert your own subject in place of **\[your topic]**)*
+
+*(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 📌 Summarize Literature
 
