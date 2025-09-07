@@ -8,6 +8,7 @@
 # 📝 AI Prompt Bank
 
 **Theme:** Strengthening Significance & Impact in Grant Proposals
+
 *(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 🌍 Significance to Knowledge & Academic Field
