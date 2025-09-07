@@ -23,7 +23,7 @@
 | [Summarizing, Integrating, and Managing Literature Ethically](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/06_prompt.md)| 1. Summarize Literature <br> 2. Integrate Sources <br> 3. Manage References Ethically || 
 | [Refine Methodology, Work Plan, and Budget Justification](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_prompt.md)| 1. Refine Methodology <br> 2. Work Plan <br> 3. Budget Justification || 
 | [Refining Impact Statements, Expected Outcomes, Proposal Coherence, and Overall Polish](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/09_prompt.md)| 1. Refining Impact Statements <br> 2. Expected Outcomes <br> 3. Proposal Coherence <br> 4. Overall Polish (Grammar, Clarity, Tone, Formatting)|| 
-| [Refining Impact Statements, Expected Outcomes, Proposal Coherence, and Overall Polish](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/10_prompt.md)| 1. Refining Impact Statements <br> 2. Expected Outcomes <br> 3. Proposal Coherence <br> 4. Overall Polish (Grammar, Clarity, Tone, Formatting)|| 
+| [Addressing Plagiarism, Research Integrity, and Strategies for Successful Submission](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/10_prompt.md)| 1. Addressing Plagiarism <br> 2. Research Integrity <br> 3. Strategies for Successful Submission || 
 
 ### 🙌🏻 Connect with Me
 <p align="left">
