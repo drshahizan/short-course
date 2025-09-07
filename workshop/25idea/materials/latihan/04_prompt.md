@@ -7,7 +7,7 @@
 
 # 📝 AI Prompt Bank
 
-**Theme:** From Idea to Research Problem
+**Theme:** From Problem Statements to Research Objectives
 *(Use **\[your topic]** as a placeholder for your own subject area)*
 
 ## 1. 📌 Problem Statements
