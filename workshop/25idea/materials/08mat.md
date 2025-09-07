@@ -7,58 +7,79 @@
 
 # 📝 **Exercise: Practical 6 – Draft Refinement Workshop (Part 2)**
 
-**Focus:** Continuation of hands-on manuscript editing, focusing on **discussion, conclusion, and overall polish** with AI assistance and facilitator guidance.
+**Session Title:** From Outputs to Impact: Crafting a Compelling Narrative for UTM Reviewers
 
-## 🎯 **Objective**
+**Session Description:**
 
-By the end of this session, participants will be able to:
+This second refinement session moves beyond the technical details to the heart of what makes a proposal win funding: its compelling narrative and clear value proposition. Based on the UTM 2025 grant guidelines, reviewers are not just assessing methodology; they are investing in the **impact** and **strategic alignment** of your project.
 
-* Refine their **Discussion** section for stronger interpretation of results.
-* Strengthen their **Conclusion** by emphasizing contribution and implications.
-* Apply **AI-assisted polishing** to improve coherence, style, and readiness for submission.
+This hands-on session focuses on using Generative AI to refine the most influential yet often underdeveloped sections of your proposal: the **Impact Statement, Expected Outcomes,** and overall **Narrative Coherence**. We will ensure your proposal clearly articulates how it contributes to UTM's Signature Research Areas, fulfills mandatory output quotas, and delivers tangible benefits to society, industry, or knowledge itself.
 
-## 📋 **Step 1: Select Sections**
+**Session Objectives:**
 
-Choose **two sections** from your manuscript:
+By the end of this practical session, participants will be able to:
+*   Distinguish between outputs and impact, and use AI to craft powerful, convincing impact statements aligned with UTM's strategic goals.
+*   Refine expected outcomes to explicitly list mandatory deliverables (publications, human capital, external grants) as defined by their specific grant scheme.
+*   Weave a golden thread of coherence throughout the proposal, ensuring the problem statement, aims, methodology, and impact are logically and compellingly connected.
+*   Integrate specific elements required by UTM, such as the Quadruple Helix model (for KTP-RIG) and ethical AI use statements.
 
-1. **Discussion** – where you explain results and connect them to the literature.
-2. **Conclusion** – where you summarize findings, highlight contributions, and suggest implications/future work.
+---
 
-## 🤖 **Step 2: Apply AI with Suitable Prompts**
+### **Detailed Session Breakdown & Activities:**
 
-| **Goal**                     | **Prompts (Copy & Use)** |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 💡 **Strengthen Discussion** | 1. “Rewrite this discussion to better connect results with existing literature.”<br>2. “Highlight the significance of these findings for the field.”<br>3. “Rewrite this section to compare results with at least two prior studies.”<br>4. “Improve the interpretation of results and explain their implications clearly.”<br>5. “Make the discussion more critical by pointing out strengths and limitations.”<br>6. “Restructure this section to emphasize how findings support or contradict past research.”<br>7. “Rewrite this to better explain the novelty of the results.”<br>8. “Improve clarity by separating interpretation from limitations.”<br>9. “Highlight how these findings address the research gap.”<br>10. “Rewrite this section to frame results within broader academic debates.” |
-| 🏁 **Refine Conclusion**     | 1. “Rewrite this conclusion to clearly summarize key findings.”<br>2. “Highlight the main contribution of this research in one strong statement.”<br>3. “Rewrite this to include practical or theoretical implications.”<br>4. “Make this conclusion more concise and impactful.”<br>5. “Rewrite this to end with a strong, forward-looking statement.”<br>6. “Highlight how this study advances the field compared to prior work.”<br>7. “Rewrite the conclusion to emphasize originality and significance.”<br>8. “Add a clear statement of recommendations for practice or policy.”<br>9. “Rewrite this to suggest concrete directions for future research.”<br>10. “Strengthen the final sentence to leave a lasting impression on the reader.”                                                       |
-| ✨ **Overall Polish**         | 1. “Proofread this section for grammar, spelling, and punctuation errors.”<br>2. “Rewrite this text in clear, concise, and professional academic English.”<br>3. “Improve flow and coherence by restructuring sentences.”<br>4. “Polish this draft for consistency in tense, style, and terminology.”<br>5. “Remove redundancy and make this section more concise.”<br>6. “Rewrite this to improve academic tone for journal publication.”<br>7. “Check this draft for readability and simplify long sentences.”<br>8. “Polish this to ensure smooth transitions between paragraphs.”<br>9. “Rewrite this to eliminate vague expressions and strengthen precision.”<br>10. “Prepare this section for final submission with flawless academic English.”                                                    |
+**Part 1: Crafting Powerful Impact Statements**
 
-## 📝 **Step 3: Compare Before & After**
+Impact answers the "So what?" question for the reviewer. It must be specific and meaningful.
 
-Participants prepare a side-by-side table:
+*   **Activity 1: The "Impact Amplifier" Exercise:**
+    *   **Task:** Participants write a initial draft of their project's impact.
+    *   **Sample AI Prompt:** "Act as a grant reviewer focused on societal benefit. My project is about [project topic]. The direct output will be [main output]. Amplify this into a broader impact statement. How will this output change policies, improve industry practices, address a national priority, or solve a community problem? Suggest three specific impact pathways."
+    *   **Group Debrief:** Discuss how to move from generic statements ("will contribute to knowledge") to specific, credible claims ("will provide the Johor water authority with a predictive AI model for pipe failure, reducing maintenance costs by an estimated 15%").
 
-| **Aspect**       | **Original Draft**  | **AI-Enhanced Draft**       | **Improvement Observed** |
-| ---------------- | ------------------- | --------------------------- | ------------------------ |
-| Discussion 💡    | Weak connections    | Stronger links to past work | Clearer interpretation   |
-| Contribution 🌟  | Implicit            | Explicit and visible        | More impactful           |
-| Conclusion 🏁    | Wordy, vague        | Concise, strong ending      | Better research message  |
-| Overall Polish ✨ | Errors & redundancy | Clear, professional         | Ready for submission     |
+*   **Activity 2: Aligning with UTM's Signature Research Areas:**
+    *   **Task:** Use AI to explicitly link the project's impact to one or more of the 9 UTM Signature Research Areas.
+    *   **Sample Prompt:** "Map the impact of my project on [project topic] to the most relevant UTM Signature Research Area from this list: [List the 9 areas, e.g., Water Security, Smart Society]. Draft a sentence for the impact section that explicitly states this alignment."
 
-## 💬 **Step 4: Facilitator & Peer Review**
+**Part 2: Defining Precise Expected Outcomes**
 
-* Share your polished draft with a peer or facilitator.
-* Get feedback on:
+Outcomes must be measurable, achievable, and directly fulfill the grant's mandatory requirements.
 
-  * **Clarity of contribution**.
-  * **Strength of conclusion**.
-  * **Readiness for submission**.
+*   **Activity 3: The "Outcome Checklist" Alignment:**
+    *   **Task:** Participants review their stated outcomes against the strict output tables from the slides (e.g., for AI Grant: 2 WoS Q1/Q2 publications, 2 Masters/1 PhD, compulsory external grant application).
+    *   **Sample AI Prompt:** "I am applying for the Geran Penyelidikan Kecerdasan Buatan. Generate a bulleted list of 'Expected Outcomes' that explicitly includes: a) the exact number and tier of required journal publications, b) the type and number of postgraduate students to be enrolled, and c) the commitment to apply for an external grant. Use formal academic language."
+    *   **Example Output:** "*Expected Outcomes:* This project is expected to yield: (1) Two (2) publications in Web of Science (Q1 or Q2) indexed journals; (2) The enrollment of one (1) full-time PhD student in the field of AI; (3) The development of a robust proof-of-concept to support a subsequent application to the [e.g., MRICA] grant scheme."
 
-## 🎯 **Expected Outcome**
+*   **Activity 4: Outcome-Driven Justification:**
+    *   **Task:** Use AI to strengthen the rationale for the budget by linking costs directly to outcomes.
+    *   **Sample Prompt:** "The budget includes RM X for a conference trip (V21000). Justify this expense not as travel, but as a critical activity for achieving the outcome of 'disseminating findings to an international audience and building collaborative networks for future grants.'"
 
-By the end of this exercise, participants will:
+**Part 3: Weaving the Golden Thread - Ensuring Proposal Coherence**
 
-* Produce **refined Discussion and Conclusion sections** ready for inclusion in their manuscript.
-* Achieve **overall polishing** (grammar, tone, structure, conciseness).
-* Move closer to a **submission-ready draft** for ERA/Scopus journals.
+A winning proposal tells a seamless story from beginning to end.
+
+*   **Activity 5: The "Narrative Consistency" Check:**
+    *   **Task:** Participants paste their problem statement, aim, and methodology into the AI.
+    *   **Sample AI Prompt:** "Review the following three sections from a grant proposal: 1) Problem Statement: [paste], 2) Research Aim: [paste], 3) Methodology: [paste]. Identify any gaps or inconsistencies in the logical flow. Does the methodology directly address the aim? Does the aim directly solve the problem stated? Provide a concise summary of the project's narrative arc."
+
+*   **Activity 6: Creating a Cohesive Executive Summary:**
+    *   **Task:** Use AI to synthesize the entire proposal into a powerful, one-paragraph summary that hooks the reviewer from the first sentence.
+    *   **Sample Prompt:** "Based on the key points below, write a compelling executive summary for my grant proposal. Integrate these elements: The problem of [problem], the aim to [aim], using the method of [key method], to achieve [key outcome] and create impact by [impact]. Keep it under 150 words."
+
+**Part 4: Special Focus for KTP-RIG Proposals**
+
+*   **Activity 7: Framing Quadruple Helix Impact:**
+    *   **Task:** For KTP-RIG applicants, use AI to articulate impact through the lens of the Quadruple Helix model (University-Industry-Government-Community).
+    *   **Sample Prompt:** "My KTP-RIG project involves [project description]. Draft an impact statement that clearly defines the specific benefit for each of the four Quadruple Helix sectors: (1) Community: [benefit], (2) Industry: [benefit], (3) Government Agency: [benefit], (4) University (UTM): [benefit]."
+
+**Materials Participants Should Bring:**
+*   A laptop with access to a Generative AI tool.
+*   A near-complete draft of their grant proposal, specifically the:
+    *   Problem Statement & Aims
+    *   Impact Statement section
+    *   Expected Outcomes section
+*   **Crucially:** The specific **output requirements table** and **strategic focus areas** for their target grant from the UTM slides.
+
+**Note:** This session focuses on the strategic and narrative elements that transform a technically sound proposal into a compelling and fundable one, ensuring it resonates with the specific priorities of UTM's review panels.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
