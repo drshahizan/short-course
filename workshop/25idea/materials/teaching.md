@@ -31,7 +31,7 @@ In **research** and **grant writing**, a **prompt** serves as a **strategic guid
 
 ## **Hands-On Activities**
 
-1. [**Step-by-Step Guide: Using Scopus AI to Develop “From Idea to Research Problem”**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/02scopus_ai.md) – Practical exploration of how Scopus AI can be leveraged to transform initial ideas into well-defined research problems.
+1. [**Transforming Ideas into Research Problems with Scopus AI**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/02scopus_ai.md) – Practical exploration of how Scopus AI can be leveraged to transform initial ideas into well-defined research problems.
 2. [**Mind Mapping with Markmap**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md) – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
 3. [**Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) – Leveraging Whimsical integration with ChatGPT to design visual representations such as flowcharts, concept maps, and mind maps for clearer research communication.
 4. **[Gantt Chart using ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
