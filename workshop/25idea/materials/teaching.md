@@ -12,7 +12,7 @@
 | 1.      | Orientation & Briefing     | **[UTM 2025 Grant Briefing Slides](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/Slaid%20Taklimat%20Geran%20UTM%202025.pdf)**      | Overview of funding schemes, requirements, and strategic research priorities        |
 | 2.      | Proposal Development       | **[Grant Proposal Template](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01a_template.md)**             | Structured guide with sections and placeholders for writing competitive grants      |
 | 3.      | Quality Assurance & Review | **[Grant Proposal Checklist (UTM 2025)](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01b_checklist.md)** | Step-by-step checklist to ensure compliance, completeness, and submission-readiness |
-| 4.      | | **[AI Tools)](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01c_aitools.md)** |  |
+| 4.      | | **[AI Tools](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/01c_aitools.md)** |  |
 
 
 ### 🙌🏻 Connect with Me
