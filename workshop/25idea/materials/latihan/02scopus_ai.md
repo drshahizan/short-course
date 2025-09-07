@@ -8,7 +8,7 @@
  <img src="https://blogs.kent.ac.uk/isnews/files/2024/08/Scopus-AI-logo.jpg" alt="Shahizan SLR"  >
 
 
-# Step-by-Step Guide: Using Scopus AI to Develop "From Idea to Research Problem"
+# Transforming Ideas into Research Problems with Scopus AI
 
 Scopus AI, powered by generative AI from Elsevier, is an excellent tool for transforming a vague research idea into a well-defined research problem. It draws from the Scopus database (over 87 million documents from 7,000+ publishers) to provide summaries, identify gaps, suggest hypotheses, and more. Based on its features, here's how to use it step by step for this purpose. I'll simulate the process with example outputs derived from its capabilities and relevant scholarly insights gathered from reliable sources.
 
