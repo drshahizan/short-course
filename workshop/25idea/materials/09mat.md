@@ -7,63 +7,76 @@
 
 # 📝 **Session: Ethical AI Use & Roadmap to Submission**
 
-You've harnessed the power of Generative AI to brainstorm, structure, and draft compelling sections of your proposal. But the journey from a polished draft to a successfully funded project involves two critical final steps: ensuring ethical integrity and navigating the formal submission process. This session is your essential guide to crossing the finish line with confidence.
+**Navigating Integrity and Process for UTM Grant Success**
 
-We will move from the "how" of using AI to the "how to do it right," tackling the crucial issues of plagiarism, authorship, and research integrity that funders actively scrutinize. Then, we will translate your AI-enhanced draft into a winning submission, providing a practical checklist and strategic insights to avoid common pitfalls and maximize your proposal's impact.
+**Session Description:**
+
+The final stretch from a completed draft to a successful submission is critical. This session provides the essential framework to cross the finish line with confidence and integrity. We directly address the urgent questions surrounding the use of Generative AI in grant writing within the specific context of **UTM's 2025 grant rules** and **research integrity policies**.
+
+We will move from the "how" of using AI to the "**how to do it right**," tackling plagiarism, authorship, and verifiability. Then, we translate this ethical foundation into a practical, step-by-step roadmap for navigating UTM's submission portal (RADIS), adhering to strict deadlines, and ensuring your proposal is technically compliant and perfectly positioned for review.
 
 **Session Objectives:**
 
 By the end of this session, participants will be able to:
-*   Articulate the key ethical considerations when using Generative AI in grant writing.
-*   Implement strategies to avoid plagiarism and maintain academic and research integrity.
-*   Develop a transparent disclosure statement for AI use in their proposals.
-*   Apply a final, AI-assisted quality control check to their proposal.
-*   Navigate the institutional and funder-specific requirements for submission.
-*   Create a personalized pre-submission checklist to ensure no detail is overlooked.
+*   Articulate UTM's stance on AI use in research proposals and implement strategies to avoid plagiarism and uphold academic integrity.
+*   Develop a transparent and acceptable disclosure statement for AI assistance in their proposals.
+*   Navigate the **RADIS system** and adhere to the critical **25 September 2025** submission deadline.
+*   Complete a comprehensive pre-submission checklist specific to UTM's grant requirements (e.g., Turnitin report, Quotations, Justifications).
+*   Understand the post-submission review timeline and prepare for the next steps.
 
 ### **Detailed Session Breakdown:**
 
-**Part 1: Navigating the Ethical Landscape of AI in Grant Writing**
+**Part 1: Ethical AI Use in UTM Grant Proposals**
 
-This segment addresses the critical "red flags" for funders and ensures your use of AI strengthens, rather than undermines, your proposal's credibility.
+This segment addresses the ethical "red flags" and ensures your use of AI strengthens, rather than undermines, your proposal's credibility.
 
 **1. Addressing Plagiarism and Authenticity:**
-*   **AI as a Collaborator, Not an Author:** Understanding that AI-generated content is a starting point, not a final product. You are ultimately responsible for every word.
-*   **The Verifiability Crisis:** AI can "hallucinate" or invent facts, citations, and data. We will discuss rigorous fact-checking protocols to ensure all information, especially references and methodological details, is accurate and verifiable.
-*   **Originality and Intellectual Contribution:** Strategies for using AI to overcome writer's block and generate ideas while ensuring the final narrative, argument, and intellectual framework are unmistakably your own.
+*   **AI as an Assistant, Not an Author:** Emphasizing that AI-generated content is a tool for brainstorming and drafting. The **Principal Investigator (PI) is ultimately responsible for every word, claim, and citation**.
+*   **The Verifiability Crisis:** AI can "hallucinate" or invent facts, citations, and data. We will discuss rigorous protocols to:
+    *   **Fact-Check:** Every claim, especially methodological details and literature references, must be manually verified against original sources.
+    *   **Cite Faithfully:** AI cannot be trusted to generate accurate citations. All references must be sourced and formatted by the researcher.
+*   **Originality and Intellectual Contribution:** Strategies for using AI to overcome writer's block while ensuring the final narrative, theoretical framework, and intellectual argument are original and unmistakably your own.
 
-**2. Upholding Research Integrity:**
-*   **Transparency and Disclosure:** *Should you disclose your use of AI?* We will argue that **yes, a brief, professional disclosure is the safest and most ethical strategy.** We will provide templates for disclosure statements (e.g., "Generative AI tools were used for brainstorming and initial drafting of background sections. All content was rigorously verified, refined, and authored by the undersigned investigators.").
-*   **Confidentiality and Data Security:** A critical warning about never inputting sensitive, unpublished, proprietary, or confidential data into public AI platforms. Your groundbreaking idea must remain yours.
-*   **Bias Awareness:** Recognizing that AI models can perpetuate societal biases. We'll discuss how to review AI-generated text for unintended bias in language, framing, or assumptions.
+**2. Upholding Research Integrity with UTM Policy:**
+*   **Transparency and Disclosure:** *Should you disclose your use of AI?* Based on global research integrity norms and UTM's commitment to authenticity, **a brief, professional disclosure is the safest and most ethical strategy.**
+    *   **Template for Disclosure Statement:** "Generative AI tools were used for initial drafting and brainstorming of certain sections. All content was rigorously verified, refined, and authored by the undersigned investigators. The AI was not used to generate data, analysis, or literature citations."
+*   **Confidentiality and Data Security:** A critical warning: **Never input sensitive, unpublished, proprietary, or confidential data into public AI platforms.** Your groundbreaking research idea must remain secure.
+*   **The 20% Similarity Index:** Directly addressing the mandatory **Turnitin report** requirement. Using AI without proper editing can lead to high similarity scores. We'll discuss strategies to ensure your final draft is original and passes this threshold.
 
-**Part 2: The Roadmap to Successful Submission**
+**Part 2: The Roadmap to Submission on RADIS**
 
-This segment provides a practical, step-by-step guide to transforming your draft into a submitted proposal.
+This segment provides a practical, step-by-step guide based on the official UTM timeline.
 
-**1. The Pre-Submission AI Quality Control Check:**
-*   **Prompt Engineering for Review:** Using AI one last time to act as a critical reviewer. Prompts like:
-    *   "Act as a skeptical grant reviewer. Identify the three weakest arguments in this specific aims page and suggest improvements."
-    *   "Check this budget justification for clarity, completeness, and compliance with standard NIH/NSF guidelines."
-    *   "Analyze this paragraph for jargon and suggest simplifications for a multidisciplinary panel."
-*   **Compliance and Formatting:** Using AI to quickly ensure formatting guidelines (font, margins, page limits) are met and that all required sections are present and correctly ordered.
+**1. The Pre-Submission Checklist (Based on UTM Attachment Requirements):**
+*   **Mandatory Documents:** Ensure you have prepared:
+    *   **Turnitin Similarity Report (**< **20%**)
+    *   **Flow Chart** of research design
+    *   **Quotation(s)** for any equipment or services (V35000)
+    *   **Detailed Justification** for budget items (V35000, V21000, etc.)
+    *   **CVs** of researchers
+*   **The Golden Rule: Never Miss the Deadline.** The portal closes on **25 September 2025 (Khamis) at 5.00 petang.** Plan to submit at least **48 hours prior** to avoid last-minute technical issues.
 
-**2. Strategies for a Flawless Submission:**
-*   **The Golden Rule: Never Miss a Deadline:** Creating a backward timeline from the submission deadline.
-*   **The Institutional Hurdle:** Navigating your institution's Office of Sponsored Research or Grants Office. Why you must engage them *early and often* for budget approvals, institutional assurances, and electronic submission protocols (e.g., Grants.gov, Research.gov).
-*   **The Final Human Review:** The irreplaceable value of having a colleague—preferably a non-expert—read your proposal for clarity and flow.
-*   **The Pre-Submission Checklist:**
-    *   [ ] All co-PIs and key personnel have read and approved the final version.
-    *   [ ] Biosketches and Current & Pending Support documents are updated and formatted correctly.
-    *   [ ] Letters of collaboration/support are collected and included.
-    *   [ ] Budget and justification are approved by your grants office.
-    *   [ ] The proposal is uploaded to the portal *at least 48 hours before the deadline*.
-    *   [ ] All required certifications and disclosures (e.g., conflict of interest) are completed.
-    *   [ ] **Ethical AI Use Disclosure Statement** is included, if applicable.
+**2. Navigating Institutional Hurdles:**
+*   **Research Alliance Registration:** Confirm you are registered with the relevant Research Alliance (RA), as they lead the initial review process.
+*   **Grants Office Coordination:** Engage with your school/faculty's research office and the **RMC** early for budget approvals (especially for V40000 - NYR Fees) and institutional assurances.
+
+**3. The Final Quality Control Check:**
+*   **Using AI for a Final Review:** Prompts for a last-minute compliance check:
+    *   *"Review this budget justification for [V35000] to ensure it explicitly links the cost to a specific project aim and includes a reference to obtained quotations."*
+    *   *"Does this methodology section clearly support the mandatory output of [e.g., 2 WoS Q1/Q2 publications] for the AI Grant?"*
+    *   *"Check that the acknowledgement statement is included: 'Universiti Teknologi Malaysia, [Grant Name], cost center no.'"*
+*   **The Human Review:** The irreplaceable value of having a colleague review the final draft for clarity and coherence.
+
+**4. Understanding the Post-Submission Timeline:**
+*   **Review Process:** Know what happens after you click "submit":
+    *   **26 Sept - 9 Okt 2025:** Review by Research Alliances.
+    *   **23 Oktober 2025:** Review by JPU (Jawatankuasa Penyelidikan Universiti).
+    *   **30 Oktober 2025:** Announcement of results.
+*   **Post-Award Steps:** Be prepared to activate the grant between **31 Okt - 6 Nov 2025** for a **1 Nov 2025** start date.
 
 **Conclusion:**
 
-Using Generative AI ethically isn't just about avoiding trouble; it's about enhancing your credibility. By combining the power of AI with your expertise and a rigorous ethical framework, you create a proposal that is not only compelling but also unquestionably trustworthy. This final session ensures your innovative approach to writing is matched by a professional and flawless submission, dramatically increasing your chances of moving from a great idea to a funded impact.
+Using Generative AI ethically is a strategic advantage. By combining its power with your expertise and a rigorous ethical framework, you create a proposal that is not only compelling but also unquestionably trustworthy. This session ensures your innovative approach is matched by flawless execution, giving you the greatest chance of success in the competitive UTM 2025 grant landscape.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
