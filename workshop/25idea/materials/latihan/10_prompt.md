@@ -8,6 +8,7 @@
 # 📝 AI Prompt Bank
 
 **Theme:** Addressing Plagiarism, Research Integrity, and Strategies for Successful Submission
+
 *(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 🚫 Addressing Plagiarism
