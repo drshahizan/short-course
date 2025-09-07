@@ -8,7 +8,8 @@
 # 📝 AI Prompt Bank
 
 **Theme:** Refine Methodology, Work Plan, and Budget Justification
-*(Insert your research subject in place of **\[your topic]**)*
+
+*(Replace **\[your topic]** with your actual research area)*
 
 ## 1. 🔬 Refine Methodology
 
