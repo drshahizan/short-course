@@ -17,7 +17,8 @@
 ## Prompt
 | Topic | Prompt | Description| 
 | --- | --- |---|
-| From Idea to Research Problem| 1. Literature Discovery <br> 2. Visualization & Structuring <br> 3. Generative AI (Reasoning & Writing)||    
+| [Idea to Research Problem](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/03_prompt.md)| 1. Literature Discovery <br> 2. Visualization & Structuring <br> 3. Generative AI (Reasoning & Writing)||    
+| [Problem Statements to Research Objectives](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/04_prompt.md)| 1. Problem Statements <br> 2. Research Objectives <br> 3. Research Questions <br> 4. Hypotheses (Advanced)|| 
 
 ### 🙌🏻 Connect with Me
 <p align="left">
