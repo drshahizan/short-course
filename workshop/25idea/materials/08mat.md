@@ -23,8 +23,6 @@ By the end of this practical session, participants will be able to:
 *   Weave a golden thread of coherence throughout the proposal, ensuring the problem statement, aims, methodology, and impact are logically and compellingly connected.
 *   Integrate specific elements required by UTM, such as the Quadruple Helix model (for KTP-RIG) and ethical AI use statements.
 
----
-
 ### **Detailed Session Breakdown & Activities:**
 
 **Part 1: Crafting Powerful Impact Statements**
