@@ -9,60 +9,42 @@
 # Training on Artificial Intelligence for Space Support Staff
 
 
+## Synopsis
 
-## **Sinopsis Kursus**
+The **two-day training program** on Artificial Intelligence (AI) for space support staff is designed to build practical knowledge and skills in applying AI tools for administrative and operational tasks. The training emphasizes **hands-on learning**, ensuring participants can immediately integrate AI into their daily workflows.
 
-Kursus **Pengajaran dan Pembelajaran Menggunakan Teknologi Kecerdasan Buatan (AI)** ini dianjurkan oleh **Pusat Pembangunan Bakat dan Kepimpinan, UTM**, dengan fokus kepada **penerapan teknologi AI** dalam meningkatkan **keberkesanan proses pengajaran dan pembelajaran**. Kursus dua hari ini menekankan **pemahaman asas kecerdasan buatan**, **aplikasi dalam pendidikan**, serta **amalan terbaik** dalam merancang dan melaksanakan **pengajaran berasaskan AI**.
+### Day 1: Foundations and Applications
 
-Peserta akan diperkenalkan kepada **definisi**, **sejarah**, serta **jenis-jenis AI** yang digunakan dalam kehidupan seharian sebelum meneroka **peranan penting AI dalam pendidikan** melalui **kajian kes** dan perbincangan. Selain itu, kursus ini turut memberi penekanan kepada **reka bentuk pengajaran** yang memanfaatkan AI bagi menyokong **pembelajaran diperibadikan** dan **differentiated instruction**.
+The first day introduces participants to the **fundamentals of AI and Generative AI tools**, including effective prompting strategies. Through sessions on **information search, summarization, and document assistance**, staff learn to harness AI for drafting letters, emails, reports, and translations. Practical modules cover **presentation and visual design** (slides, posters, graphics) as well as **task organization and scheduling**. The day concludes with a critical discussion on **ethics, bias, privacy, and responsible AI use**.
 
-Pada hari kedua, peserta akan mendalami isu-isu berkaitan **etika**, **privasi**, dan **keselamatan** dalam penggunaan AI, termasuk kesedaran terhadap **bias algoritma** dan **perlindungan data pelajar**. Sesi **amali berbentuk bengkel** akan dijalankan bagi memberi peluang peserta **membina bahan pengajaran berasaskan AI secara kolaboratif**. Kursus diakhiri dengan sesi **penilaian** dan **refleksi** bagi menilai **keberkesanan penggunaan AI** serta membincangkan **cabaran** dan **potensi penambahbaikan**.
+### Day 2: Hands-On Practice and Optimization
 
-Melalui kursus ini, para pendidik akan memperoleh **pengetahuan** dan **kemahiran praktikal** yang relevan untuk **mengintegrasikan teknologi AI** dalam pengajaran mereka, seterusnya menyokong **transformasi pendidikan berteraskan inovasi digital**.
+The second day focuses on **applied practice**, allowing participants to draft professional communications, generate meeting minutes, and create presentations/posters with AI. Sessions also introduce **data handling techniques**, such as automating data entry and extracting survey insights. Further modules guide participants in **task coordination**, **refining AI prompts**, and leveraging **AI shortcuts and integrations with Microsoft Office tools**. The training concludes with best practices for efficient daily AI use.
 
-## **Hasil Pembelajaran Bengkel**
+### Outcome
 
-Pada akhir bengkel ini, para peserta akan dapat:
+By the end of the program, participants will:
 
-1. **Memahami Konsep Asas AI**
-   * Mengenal pasti definisi, sejarah ringkas, serta jenis-jenis utama AI.
-   * Menjelaskan aplikasi AI dalam kehidupan seharian dan konteks pendidikan.
+* Understand AI concepts and tools relevant to administrative and support roles.
+* Apply AI to improve efficiency in writing, documentation, presentations, and scheduling.
+* Use AI responsibly, with awareness of ethical and privacy considerations.
+* Gain confidence in troubleshooting and optimizing prompts for accurate results.
 
-2. **Menerapkan AI dalam Pendidikan**
-   * Mengenal pasti potensi AI dalam meningkatkan kualiti pengajaran dan pembelajaran.
-   * Menganalisis kajian kes berkaitan penggunaan AI di institusi pendidikan.
+## [Course Schedule](materials/tentatif.md)
 
-3. **Mereka Bentuk Pengajaran Berasaskan AI**
-   * Merancang strategi pengajaran dengan bantuan AI.
-   * Mengaplikasikan AI dalam *differentiated instruction* dan pembelajaran diperibadikan.
+This section presents the **complete course schedule**, including the sequence of sessions, activities, and breaks. It helps participants understand the expected flow of the program, the timing of hands-on exercises, and the balance between **theoretical explanations** and **practical training**. The schedule ensures a **structured learning pathway**, beginning with an introduction to the fundamentals of AI, followed by its applications in education, AI-driven instructional design, and concluding with discussions on ethics, privacy, security, workshop activities, as well as evaluation and reflection sessions.
 
-4. **Mengurus Isu Etika, Privasi dan Keselamatan**
-   * Membincangkan kesedaran tentang bias AI dan cabaran etika penggunaannya.
-   * Mengenal pasti kepentingan perlindungan data pelajar dan tanggungjawab pendidik.
+## [Teaching Materials](materials/teaching.md)
 
-5. **Menghasilkan Bahan Pengajaran Berasaskan AI**
-   * Membina bahan pengajaran secara amali dan kolaboratif menggunakan aplikasi AI.
-   * Meningkatkan kreativiti serta keberkesanan aktiviti PdP berasaskan AI.
+This section provides the **core reference materials** used throughout the course. It includes official guidelines on the use of AI in higher education, international reports on AI adoption, lecture notes, presentation slides, and step-by-step guides. Collectively, these resources offer participants a solid foundation of **theoretical knowledge, best practices, and practical guidance** to strengthen learning during the course and to support the **sustained use of AI in teaching and learning**.
 
-6. **Menilai dan Membuat Refleksi Penggunaan AI**
-   * Menilai keberkesanan penggunaan AI dalam proses pengajaran dan pembelajaran.
-   * Merumuskan cabaran serta potensi penambahbaikan untuk pelaksanaan di masa hadapan.
+## [AI Tools](materials/ai.md)
 
-## [Jadual Kursus](materials/tentatif.md)
+This section introduces participants to a **set of carefully selected AI tools designed to support teaching and learning processes**. The descriptions equip educators with the **digital skills** needed to integrate AI into their practice in an **ethical, effective, and innovative** manner.
 
-Bahagian ini memaparkan **jadual lengkap kursus**, termasuk urutan sesi, aktiviti, dan waktu rehat. Ia membantu peserta mengetahui jangkaan perjalanan kursus, masa pelaksanaan aktiviti amali, serta keseimbangan antara **penerangan teori** dan **latihan praktikal**. Jadual ini memastikan terdapat **alur pembelajaran yang tersusun**, bermula daripada pengenalan asas AI, aplikasi AI dalam pendidikan, reka bentuk pengajaran berasaskan AI, sehinggalah perbincangan tentang etika, privasi, keselamatan, aktiviti bengkel, serta sesi penilaian dan refleksi.
+## [Practical Exercises](materials/latihan.md)
 
-## [Bahan Pengajaran](materials/teaching.md)
-
-Bahagian ini menyediakan **bahan rujukan utama** yang digunakan sepanjang kursus. Ia merangkumi garis panduan rasmi berkaitan penggunaan AI dalam pendidikan tinggi, laporan antarabangsa mengenai adaptasi AI, nota kuliah, slaid pembentangan, serta panduan langkah demi langkah. Keseluruhan bahan ini memberikan peserta **landasan teori, amalan terbaik, dan panduan praktikal** untuk memperkukuh pembelajaran semasa kursus serta menyokong **penggunaan AI secara berterusan dalam pengajaran dan pembelajaran**.
-
-## [Alatan AI](materials/ai.md)
-
-Bahagian ini memperkenalkan peserta kepada **set alat AI yang dipilih khusus untuk menyokong proses pengajaran dan pembelajaran**. Penerangan ini akan membekalkan pendidik dengan **kemahiran digital** untuk mengintegrasikan AI secara **beretika, berkesan, dan inovatif** dalam amalan pengajaran mereka.
-
-## [Latihan](materials/latihan.md)
-
-Bahagian **latihan** disediakan untuk memastikan peserta dapat **menerapkan pengetahuan teori ke dalam amalan sebenar**. Latihan ini direka bentuk secara **individu** dan bersifat **praktikal** supaya setiap peserta dapat **menguasai asas penggunaan AI** melalui tugasan berperingkat, di samping **meneroka aplikasi AI** dalam konteks **pengajaran dan pembelajaran** mereka sendiri. Melalui latihan ini, peserta akan berpeluang **menghasilkan bahan PdP**, **instrumen penilaian**, serta **dasar penggunaan AI** yang boleh terus dimanfaatkan dalam bilik kuliah. Selain itu, latihan turut memberi ruang kepada peserta untuk membina **refleksi profesional** yang menjadi panduan kepada **penambahbaikan berterusan**. Secara keseluruhannya, latihan ini berperanan sebagai **jambatan antara teori dan aplikasi**, membantu peserta memperoleh **kemahiran praktikal**, **kefahaman etika**, dan **keyakinan** untuk menggunakan AI secara berkesan dalam **pendidikan tinggi**.
+The **practical exercises** are designed to ensure participants can **translate theoretical knowledge into real-world applications**. These exercises are **individual-based and hands-on**, allowing each participant to **master the fundamentals of AI use** through progressive tasks while **exploring AI applications** within their own teaching and learning contexts. Through these activities, participants will have opportunities to develop **instructional materials**, **assessment instruments**, and **AI usage policies** that can be directly applied in the classroom. In addition, the exercises encourage participants to build **professional reflections** that serve as a guide for **continuous improvement**. Overall, the exercises act as a **bridge between theory and practice**, enabling participants to gain **practical skills, ethical awareness, and confidence** in using AI effectively within **higher education**.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
