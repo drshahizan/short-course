@@ -5,71 +5,39 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Sesi 5 – Aktiviti Amali dan Kolaboratif**
+# Session 5: AI for Document Assistance.
 
-### **1. Bengkel Aplikasi AI**
+This session builds on the previous one, shifting the focus from short-form administrative writing to longer, more complex documents. The objective is to demonstrate how AI can be a powerful co-pilot for managing, organizing, and preparing large documents, whether for business, academia, or personal use.
 
-Bengkel ini memberi peluang kepada pensyarah untuk **meneroka, mencuba, dan membandingkan pelbagai aplikasi AI** dalam konteks pengajaran dan pembelajaran. Fokus utamanya ialah menjadikan peserta bukan sahaja pengguna, tetapi juga **pereka bentuk aktiviti PdP berasaskan AI**.
+## Formatting and Structuring Documents
 
-**Komponen utama bengkel:**
+One of the most time-consuming aspects of creating a long document is ensuring it has a logical flow and a consistent, professional format. AI can automate this process, turning raw text or unstructured notes into a well-organized and presentable document.
 
-* **Pengenalan Alat AI**
-  Peserta diperkenalkan kepada beberapa platform AI seperti **ChatGPT, Gemini, Copilot, Qwen, Grok, dan NotebookLM**.
-* **Hands-on Guided Practice**
-  Pensyarah dibimbing menggunakan AI untuk tugasan praktikal seperti:
+* **Creating a Table of Contents:** AI can automatically generate a table of contents from a document's headings and subheadings, which is a key feature in many word processing applications. Even if the document doesn't have proper headings, a user can prompt the AI to "read this document and generate a table of contents based on the main topics and subtopics discussed."
+* **Standardizing Headings and Subheadings:** A user can feed the AI a document and prompt it to "review this document and apply consistent heading and subheading styles to improve its readability and structure." This is especially useful for collaborative projects where different authors have used different formatting.
+* **Generating a Professional Layout:** With the right tools, AI can go beyond text. A user can provide content and ask the AI to "format this content into a professional business proposal, including sections for an executive summary, scope of work, and project timeline." The AI can then produce a well-structured document that follows industry best practices.
+* **Creating Bullet Points or Numbered Lists:** AI can take a block of text and automatically convert it into a more readable format. For example, a user could prompt the AI with: "Read the following paragraph about project deliverables and convert the information into a numbered list."
 
-  * Menjana soalan kuiz & jawapan model.
-  * Membina rubrik penilaian automatik.
-  * Menghasilkan nota kuliah dalam pelbagai format (teks, audio, infografik).
-* **Eksperimen dengan Use Case PdP**
-  Peserta cuba menggunakan AI untuk menyelesaikan cabaran sebenar dalam PdP, contohnya:
+## Summarization
 
-  * Menyediakan rancangan pengajaran mingguan.
-  * Mengubah nota kuliah kepada format inklusif (audio/visual).
-  * Menjana aktiviti berasaskan kes (*case study*) untuk perbincangan kelas.
-* **Refleksi**
-  Setiap peserta berkongsi pengalaman, kelebihan, dan kekangan aplikasi AI yang telah dicuba.
+This is a core capability of large language models and is invaluable for professionals, researchers, and students who need to quickly grasp the essence of a large amount of information. AI can distill the main ideas from a long document without losing the key insights.
 
-### **2. Pembinaan Bahan Pengajaran Berasaskan AI Secara Berkumpulan**
+* **Multi-Layer Summarization:** AI can provide different levels of summarization based on the user's needs.
+    * **TL;DR (Too Long; Didn't Read):** A prompt like "Summarize this research paper into a single paragraph with three sentences" provides a quick, high-level overview.
+    * **Key Takeaway Extraction:** The AI can be prompted to "read this report and identify the five most important findings or conclusions." This is perfect for an executive briefing.
+    * **Summarizing for a Specific Role:** A user can ask the AI to "summarize this technical document from the perspective of a marketing manager, highlighting the information most relevant to sales and promotion." This demonstrates the AI's ability to tailor information for a specific audience.
+* **Summarizing Multiple Documents:** A more advanced use case is feeding the AI several related documents and asking for a summary that synthesizes the information across all of them. For example, "Read these three quarterly reports and summarize the overall financial performance for the year, identifying trends in revenue and expenses."
 
-Aktiviti ini dijalankan dalam bentuk **kerja kumpulan kolaboratif** bagi menggalakkan perkongsian kepakaran antara pensyarah daripada bidang berbeza. Fokusnya ialah menghasilkan **artefak PdP yang konkrit** dengan bantuan AI.
+## Translation
 
-**Langkah-langkah aktiviti:**
+AI-powered translation has become incredibly sophisticated, moving beyond simple word-for-word conversions to understanding context, idioms, and nuances. This is a crucial feature for international businesses, academic collaboration, and cross-cultural communication.
 
-1. **Pembentukan Kumpulan**
-   Peserta dibahagikan mengikut bidang atau kursus yang hampir sama (contoh: Sains Komputer, Pendidikan, Kejuruteraan, Perniagaan).
+* **Full Document Translation:** AI tools can translate an entire document while preserving its original formatting. A user can simply upload a file and select the target language. This is far more efficient than manual, paragraph-by-paragraph translation.
+* **Context-Aware Translation:** Users can give the AI context to ensure accuracy. For example, a prompt could be: "Translate the following legal document from English to French. Please ensure all legal terminology is translated correctly and formally."
+* **Localization and Cultural Nuances:** The AI can be prompted to adapt the translation to a specific region or culture. For instance, "Translate this marketing copy from English to Spanish for a campaign in Mexico, ensuring the language is casual and appealing to a young audience." This goes beyond simple translation to true localization.
+* **Translating a Single Section:** For long documents, a user may only need to translate a specific section. They can simply copy the relevant text and prompt the AI to "translate this paragraph into German."
 
-2. **Pemilihan Topik**
-   Setiap kumpulan memilih satu topik PdP dalam kursus masing-masing. Contohnya:
-
-   * *“Inheritance dalam OOP”* (Sains Komputer).
-   * *“Teori Motivasi Maslow”* (Perniagaan).
-   * *“Hukum Newton”* (Sains Fizik).
-
-3. **Penggunaan AI untuk Pembangunan Bahan**
-   Kumpulan menggunakan alat AI untuk:
-
-   * Menjana **nota kuliah ringkas**.
-   * Membina **kuiz automatik**.
-   * Menyediakan **contoh kajian kes**.
-   * Menghasilkan **visual/infografik** untuk topik tersebut.
-
-4. **Integrasi dalam Modul PdP**
-   Bahan yang dihasilkan diatur dalam bentuk modul mini (nota, aktiviti, penilaian, refleksi).
-
-5. **Pembentangan Hasil**
-   Setiap kumpulan membentangkan modul PdP mereka dan menunjukkan bagaimana AI menyokong proses pembinaan.
-
-6. **Peer Review**
-   Kumpulan lain memberikan maklum balas dan cadangan penambahbaikan.
-
-### **Hasil Pembelajaran Sesi 5**
-
-* Pensyarah memperoleh **kemahiran praktikal** menggunakan pelbagai aplikasi AI dalam PdP.
-* Setiap kumpulan menghasilkan sekurang-kurangnya satu **modul pengajaran mini berasaskan AI** yang boleh terus digunakan atau diadaptasi.
-* Wujudnya **pertukaran idea** antara pensyarah daripada pelbagai bidang melalui kolaborasi.
-* Pensyarah lebih yakin untuk **mengintegrasikan AI dalam PdP sebenar** selepas latihan.
-
+By the end of this session, participants will have a comprehensive understanding of how to use AI for high-level document management, from structuring and formatting to summarizing and translating, making their workflow more efficient and their output more professional.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
