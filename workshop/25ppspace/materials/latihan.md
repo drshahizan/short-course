@@ -40,6 +40,18 @@
 | [Penjanaan Imej: Seni Budaya Malaysia](latihan/11.md) | Menghasilkan imej berasaskan AI yang menggambarkan budaya Malaysia (batik, wau, tarian tradisional) untuk digunakan dalam PdP dan promosi universiti. |
 | [10 Prompt Poster Berkaitan UTM](latihan/12.md)       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
 
+## **Hands-On Activities**
+
+1. [**Mind Mapping with Markmap**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md) – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
+2. [**Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) – Leveraging Whimsical integration with ChatGPT to design visual representations such as flowcharts, concept maps, and mind maps for clearer research communication.
+3. **[Gantt Chart using ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)** – Generating project timelines and milestones in the form of Gantt charts to effectively plan and manage research activities.
+4. [**Forecasting with Deepseek**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
+5. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
+6. [**Designing Presentation Slides with Kimi**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
+
+
+⚡ Workflow is: **Idea → Structuring → Visualization → Planning → Forecasting → Analysis → Presentation**.
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
