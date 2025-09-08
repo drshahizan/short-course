@@ -8,6 +8,7 @@
 
 # Training on Artificial Intelligence for Space Support Staff
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25idea/images/idea.jpeg" alt="Shahizan SLR"  height="400">
 
 ## Synopsis
 
