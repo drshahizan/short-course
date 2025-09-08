@@ -5,34 +5,21 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Latihan
+Here’s your section rewritten in **proper English** with concise and professional descriptions for each training session:
 
-## 1. Generatif AI untuk Pendidikan Tinggi
+---
 
-| **Kategori** | **Penerangan Ringkas** |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Session 2: Prompt Frameworks](latihan/01.md)          |  |
-| [Session 3: AI for Information Search & Retrieval](latihan/02.md) |  |
-| [Session 4: AI for Administrative Writing](latihan/03.md) |  |
-| [Session 5: AI for Document Assistance](latihan/04.md) |         |
-| [Session 6: AI for Quick Presentation & Visual Material Creation](latihan/05.md) |  |
-| [Session 7: AI for Organising Administrative Tasks](latihan/06.md)                        |                     |
-| [Session 8: Ethical and Responsible Use of AI](latihan/07.md) | |
+# Exercises
 
-## 3. Analisis & Penjanaan Kandungan AI
-
-| **Latihan**                           | **Penerangan Ringkas** |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Analisis Imej Menggunakan ChatGPT](latihan/08.md) | Menggunakan AI untuk menganalisis gambar atau grafik (contoh: poster, carta, atau imej eksperimen) bagi tujuan PdP atau penyelidikan.                             |
-| [Analisis Dokumen: ChatGPT](latihan/09.md)         | Menganalisis artikel, laporan, atau dokumen akademik dengan bantuan ChatGPT untuk membuat ringkasan, mengekstrak data penting, atau mengenal pasti jurang kajian. |
-| [Analisis Dokumen: Copilot](latihan/10.md)         | Menggunakan Microsoft Copilot untuk menganalisis fail Word, Excel, atau PDF yang berkaitan dengan kerja akademik.                                                 |
-
-## 4. Penjanaan Imej & Kreativiti
-
-| **Latihan**                              | **Penerangan Ringkas** |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Penjanaan Imej: Seni Budaya Malaysia](latihan/11.md) | Menghasilkan imej berasaskan AI yang menggambarkan budaya Malaysia (batik, wau, tarian tradisional) untuk digunakan dalam PdP dan promosi universiti. |
-| [10 Prompt Poster Berkaitan UTM](latihan/12.md)       | Membina set prompt AI untuk menghasilkan poster promosi rasmi UTM (biasiswa, kemasukan, penyelidikan, jaringan industri).                             |
+| **Category**                                                                     | **Brief Description**                                                                                                                                 |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Session 2: Prompt Frameworks](latihan/01.md)                                    | Practice using structured frameworks (PROMPT & R.A.C.E.) to create clear and effective AI prompts for administrative tasks.                           |
+| [Session 3: AI for Information Search & Retrieval](latihan/02.md)                | Learn to use AI for fact-checking, generating Q\&A content, summarizing online materials, and organizing information into mind maps.                  |
+| [Session 4: AI for Administrative Writing](latihan/03.md)                        | Develop skills in drafting official letters, writing professional emails, creating meeting minutes, and producing concise reports with AI assistance. |
+| [Session 5: AI for Document Assistance](latihan/04.md)                           | Explore how AI can help in formatting and structuring documents, summarizing lengthy texts, and translating between languages.                        |
+| [Session 6: AI for Quick Presentation & Visual Material Creation](latihan/05.md) | Use AI tools to create simple PowerPoint slides, design event posters, and generate basic visuals for communication.                                  |
+| [Session 7: AI for Organising Administrative Tasks](latihan/06.md)               | Apply AI to coordinate office events, plan and organize daily work schedules, and track or follow up on administrative tasks.                         |
+| [Session 8: Ethical and Responsible Use of AI](latihan/07.md)                    | Understand ethical AI usage by focusing on avoiding misinformation, addressing bias, and ensuring privacy and confidentiality.                        |
 
 ## **Hands-On Activities**
 
@@ -42,7 +29,6 @@
 4. [**Forecasting with Deepseek**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) – Applying advanced AI-driven forecasting tools to analyze data trends and generate predictive insights.
 5. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)** – Employing AI to extract, summarize, and interpret key information from research documents for deeper understanding.
 6. [**Designing Presentation Slides with Kimi**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) – Using AI-powered tools to produce clear, professional, and engaging research presentation slides.
-
 
 ⚡ Workflow is: **Idea → Structuring → Visualization → Planning → Forecasting → Analysis → Presentation**.
 
