@@ -5,33 +5,42 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Tentatif Kursus
+# Training Schedule
 
-## 📌 **Hari Pertama: 2 September 2025 (Selasa)**
+## **Day 1**
 
-| **Masa**      | **Program / Aktiviti** |
-| ------------- | ------------- |
-| 08:00 – 08:30 | Pendaftaran Peserta |
-| 08:30 – 09:00 | Rehat / Minum Pagi |
-| 09:00 – 11:00 | **[Sesi 1 – Pengenalan Kepada Kecerdasan Buatan (AI)](sesi01.md)** <br>• Definisi & sejarah ringkas <br>• Jenis-jenis AI & aplikasinya             |
-| 11:00 – 12:30 | **[Sesi 2 – Peranan AI Dalam Pendidikan](sesi02.md)** <br>• Potensi AI dalam PdP <br>• Kajian kes penggunaan AI di institusi pendidikan            |
-| 12:30 – 02:00 | Rehat / Makan Tengah Hari |                                                                                             |
-| 02:00 – 02:30 | Pendaftaran Peserta |
-| 02:30 – 04:30 | **[Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI](sesi03.md)** <br>• Perancangan pengajaran dengan AI <br>• Pembezaan & pembelajaran diperibadikan |
-| 04:30         | Bersurai |
+| **Time**             | **Activity** |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **08:30 – 09:00 AM** | Registration |
+| **09:00 – 09:30 AM** | **Session 1: Introduction to Artificial Intelligence** <br> • Overview of AI concepts <br> • The evolution of AI <br> • Capabilities of AI <br> • Hands-on examples with text generation            |
+| **09:30 – 10:00 AM** | **Session 2: Introduction to Generative AI Tools and Effective Prompting** <br> • Generative AI tools <br> • Prompt frameworks |
+| **10:00 – 10:15 AM** | Morning Break |
+| **10:15 – 11:45 AM** | **Session 3: AI for Information Search & Retrieval** <br> • Using prompts to find facts <br> • Q\&A generation <br> • Summarizing online content <br> • Organizing information into mind maps       |
+| **11:45 – 12:30 PM** | **Session 4: AI for Administrative Writing** <br> • Drafting official letters <br> • Writing professional emails <br> • Creating meeting minutes <br> • Writing short and concise reports           |
+| **12:30 – 01:00 PM** | **Session 5: AI for Document Assistance** <br> • Formatting and structuring documents <br> • Summarization <br> • Translation |
+| **01:00 – 02:00 PM** | Lunch / Prayer Break |
+| **02:00 – 03:00 PM** | **Session 6: AI for Quick Presentation & Visual Material Creation** <br> • Creating simple PowerPoint slides <br> • Designing event posters <br> • Generating basic visuals for communication       |
+| **03:00 – 04:00 PM** | **Session 7: AI for Organising Administrative Tasks** <br> • Coordinating office events or activities <br> • Planning and organizing daily work schedules <br> • Tracking and following up on tasks |
+| **04:00 – 04:15 PM** | Afternoon Break |
+| **04:15 – 05:00 PM** | **Session 8: Ethical and Responsible Use of AI** <br> • Avoiding misinformation <br> • Addressing bias <br> • Privacy and confidentiality |
+| **05:00 PM**         | Closing |
 
-## 📌 **Hari Kedua: 3 September 2025 (Rabu)**
+### **Day 2**
 
-| **Masa**      | **Program / Aktiviti** |
-| ------------- | ------------- |
-| 08:00 – 08:30 | Pendaftaran Peserta |
-| 08:30 – 09:00 | Rehat / Minum Pagi |
-| 09:00 – 11:00 | **[Sesi 4 – Etika, Privasi dan Isu Keselamatan](sesi04.md)** <br>• Kesedaran terhadap bias AI <br>• Perlindungan data & tanggungjawab pendidik       |
-| 11:00 – 12:30 | **[Sesi 5 – Aktiviti Amali dan Kolaboratif](sesi05.md)** <br>• Bengkel aplikasi AI <br>• Pembinaan bahan pengajaran berasaskan AI secara berkumpulan |
-| 12:30 – 02:00 | Rehat / Makan Tengah Hari / Solat Jumaat |
-| 02:00 – 02:30 | Pendaftaran Peserta |
-| 02:30 – 04:30 | **[Sesi 6 – Penilaian dan Refleksi Penggunaan AI](06mat.md)** <br>• Menilai keberkesanan penggunaan AI <br>• Refleksi cabaran & penambahbaikan      |
-| 04:30         | Bersurai |
+| **Time**             | **Activity**                                                                                                                                                                              |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **08:30 – 09:00 AM** | Recap of Day 1 & Overview of Day 2 |
+| **09:00 – 10:00 AM** | **Session 9: Hands-On Practice – Email, Letters & Reports** <br> • Drafting official letters with AI <br> • Writing professional email replies <br> • Creating concise reports from notes |
+| **10:00 – 10:15 AM** | Morning Break |
+| **10:15 – 11:15 AM** | **Session 10: Hands-On Practice – Meeting Minutes & Summaries** <br> • Generating structured meeting minutes <br> • Summarizing long documents into key points                            |
+| **11:15 – 12:15 PM** | **Session 11: Hands-On Practice – Presentations & Posters** <br> • Creating a simple PowerPoint presentation <br> • Designing an event poster using AI tools                              |
+| **12:15 – 01:00 PM** | **Session 12: Hands-On Practice – AI for Data Handling** <br> • Basic data entry automation <br> • Organizing data into categories <br> • Extracting insights from survey results         |
+| **01:00 – 02:00 PM** | Lunch / Prayer Break |
+| **02:00 – 03:00 PM** | **Session 13: AI for Task & Event Coordination** <br> • Planning daily work schedules <br> • Creating checklists for events <br> • Tracking progress using AI tools                       |
+| **03:30 – 04:15 PM** | **Session 14: Troubleshooting & Optimizing AI Prompts** <br> • Refining prompts for better accuracy <br> • Avoiding common mistakes |
+| **04:15 – 04:30 PM** | Afternoon Break |
+| **04:30 – 05:00 PM** | **Session 15: AI Tips & Shortcuts for Daily Work** <br> • Time-saving commands <br> • AI integrations with Microsoft Word, Excel, and PowerPoint                                          |
+| **05:00 PM**         | Closing |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
