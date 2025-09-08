@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Session 8: Ethical and Responsible Use of AI.
+# Session 8: Ethical and Responsible Use of AI
 
 This final session is crucial for providing a balanced perspective on AI. It moves beyond the practical applications to address the critical ethical considerations and societal impacts of this technology. The goal is to equip users with the knowledge and principles necessary to use AI responsibly, recognize its limitations, and mitigate potential harm.
 
