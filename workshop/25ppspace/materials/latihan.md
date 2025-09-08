@@ -11,13 +11,13 @@
 
 | **Kategori** | **Penerangan Ringkas** |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Session 2: Prompt Frameworks](latihan/01.md)          | Latihan ini memfokuskan kepada penggunaan Generatif AI dalam konteks pendidikan tinggi. Ia membantu pensyarah memahami bagaimana *prompt* strategik, kreatif, dan teknikal dapat digunakan untuk meningkatkan keberkesanan tugasan harian, PdP, serta penulisan profesional. |
+| [Session 2: Prompt Frameworks](latihan/01.md)          |  |
 | [Session 3: AI for Information Search & Retrieval](latihan/02.md) |  |
 | [Session 4: AI for Administrative Writing](latihan/03.md) |  |
 | [Session 5: AI for Document Assistance](latihan/04.md) |         |
-| [Session 6: AI for Quick Presentation & Visual Material Creation](latihan/05.md) | Menggunakan data universiti (contoh: enrolmen, penerbitan, ranking) untuk menghasilkan carta, graf, dan visualisasi yang menyokong pembuatan keputusan. |
-| [Session 7: AI for Organising Administrative Tasks](latihan/06.md)                        | Latihan amali menggunakan AI untuk menganalisis data populasi Malaysia, menghasilkan graf tren, serta membuat ramalan jangka panjang.                   |
-| [Session 8: Ethical and Responsible Use of AI](latihan/07.md)                                                     | Membina peta minda interaktif berasaskan AI untuk menyusun maklumat kursus, projek penyelidikan, atau pelan strategik universiti.                       |
+| [Session 6: AI for Quick Presentation & Visual Material Creation](latihan/05.md) |  |
+| [Session 7: AI for Organising Administrative Tasks](latihan/06.md)                        |                     |
+| [Session 8: Ethical and Responsible Use of AI](latihan/07.md) | |
 
 ## 3. Analisis & Penjanaan Kandungan AI
 
