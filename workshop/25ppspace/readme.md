@@ -31,9 +31,9 @@ By the end of the program, participants will:
 * Use AI responsibly, with awareness of ethical and privacy considerations.
 * Gain confidence in troubleshooting and optimizing prompts for accurate results.
 
-## [Course Schedule](materials/tentatif.md)
+## [Training Schedule](materials/tentatif.md)
 
-This section presents the **complete course schedule**, including the sequence of sessions, activities, and breaks. It helps participants understand the expected flow of the program, the timing of hands-on exercises, and the balance between **theoretical explanations** and **practical training**. The schedule ensures a **structured learning pathway**, beginning with an introduction to the fundamentals of AI, followed by its applications in education, AI-driven instructional design, and concluding with discussions on ethics, privacy, security, workshop activities, as well as evaluation and reflection sessions.
+The Training Schedule on Artificial Intelligence for Space Support Staff is designed to provide participants with both foundational knowledge and practical skills in applying AI to administrative and operational tasks. Spread across two days, the program combines theoretical sessions with hands-on activities, ensuring participants gain experience in areas such as information retrieval, document preparation, data handling, presentation design, and task coordination. Emphasis is also given to ethical and responsible AI use, equipping staff with the confidence to leverage AI tools effectively while maintaining professionalism, accuracy, and confidentiality in their daily work.
 
 ## [Teaching Materials](materials/teaching.md)
 
