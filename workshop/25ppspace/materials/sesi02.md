@@ -6,38 +6,73 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Sesi 2 – Peranan AI dalam Pendidikan di Institusi Pengajian Tinggi
+# Generative AI Tools
 
-## **1. Potensi AI dalam Pengajaran dan Pembelajaran (PdP)**
+This session provides an introduction to the landscape of Generative AI, showcasing some of the most popular and accessible tools available for both text and image generation. The goal is to move from theoretical concepts to practical application.
 
-AI berpotensi besar dalam memperkasa PdP di institusi pengajian tinggi melalui pelbagai cara:
+## **For Text Generation:**
 
-### **a. Pembelajaran yang diperibadikan**
-AI membolehkan sistem pembelajaran menyesuaikan kandungan mengikut tahap kefahaman dan gaya pembelajaran pelajar. Ini meningkatkan keberkesanan pembelajaran dan motivasi pelajar[1](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
+These tools are built on large language models (LLMs) and are skilled at understanding and producing human-like text. They are used for a wide range of tasks, from writing emails to generating code.
 
-### **b. Automasi tugas rutin pensyarah**
-AI boleh mengautomasi tugasan seperti penggredan, semakan plagiarisme, dan pengurusan pentadbiran. Contohnya, penggunaan Turnitin dan Grammarly untuk semakan tugasan[2](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
+* **ChatGPT (OpenAI):** One of the most well-known conversational AI models. It excels at a broad range of tasks, including answering questions, summarizing texts, writing creative content, and even debugging code. Its strength lies in its ability to maintain a coherent and engaging conversation.
+* **Gemini (Google):** Google's family of models, which are highly capable in text generation, reasoning, and summarization. Gemini is often integrated into Google's suite of products, like Google Docs and Gmail, for seamless workflow integration.
+* **Microsoft Copilot:** An AI assistant deeply integrated into the Microsoft 365 ecosystem. It can summarize meetings, draft emails in Outlook, and create presentations in PowerPoint, demonstrating AI's application in professional productivity.
 
-### **c. Sokongan pembelajaran 24/7**
-Chatbot berasaskan AI seperti *Jill Watson* mampu menjawab soalan pelajar secara automatik, memberikan sokongan berterusan tanpa kehadiran fizikal pensyarah[3](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
+## **For Image Generation:**
 
-### **d. Analitik pembelajaran**
-AI boleh menganalisis data pelajar untuk mengenal pasti corak pembelajaran, meramal prestasi, dan mencadangkan intervensi awal[4](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
+These tools use a different type of model to turn text descriptions into images, allowing users to create unique visuals from scratch.
 
-### **e. Penggunaan AI dalam kurikulum dan pembangunan kompetensi**
-UNESCO telah membangunkan rangka kerja kompetensi AI untuk pelajar dan guru, serta menyarankan integrasi AI dalam kurikulum pendidikan tinggi untuk masa depan pembelajaran yang lebih inklusif dan beretika[5](https://www.unesco.org/en/digital-education/ai-future-learning).
+* **Midjourney:** Known for its highly artistic and visually striking image generation. It's often favored by artists and designers for its unique aesthetic and ability to create imaginative and detailed scenes. It's primarily accessed through a Discord server.
+* **DALL-E 3 (OpenAI):** Integrated into ChatGPT, DALL-E 3 is known for its ability to adhere to very specific and complex text prompts. It is great for generating a variety of styles, from realistic photos to detailed illustrations.
+* **Adobe Firefly:** An AI tool suite designed for creatives and integrated into Adobe products like Photoshop. A key feature is its focus on being "commercially safe," as it is trained on licensed Adobe Stock images and public domain content, which can be an important consideration for professional work.
 
-## **2. Kajian Kes Penggunaan AI di Institusi Pendidikan**
+## Prompt Frameworks
 
-### **a. Kajian Empirik di Sepanyol dan Oman**
-Kajian oleh Slimi (2023) menunjukkan AI meningkatkan keberkesanan PdP, mempercepat proses penilaian, dan membantu pelajar membina kemahiran masa depan. Kajian ini juga menekankan keperluan untuk menangani isu etika dalam penggunaan AI[6](https://files.eric.ed.gov/fulltext/EJ1384682.pdf).
+While these tools are powerful, their quality of output is directly tied to the quality of the input—the **prompt**. A prompt framework provides a structured approach to writing effective prompts, moving beyond simple requests to more detailed and intentional instructions. This is often referred to as "prompt engineering."
 
-### **b. Kajian Literatur di Indonesia**
-Kajian oleh Irsyadul Ibad et al. (2024) menggunakan pendekatan *Systematic Literature Review* untuk menilai kesan AI seperti ChatGPT terhadap kreativiti, kolaborasi, dan kemahiran akademik pelajar. Hasil kajian menunjukkan AI meningkatkan kecekapan tetapi juga menimbulkan cabaran dari segi etika dan pemikiran kritis[7](https://j-innovative.org/index.php/Innovative/article/download/16147/11425/29387).
+A good prompt includes four key components:
 
-### **c. Inisiatif UNESCO**
-UNESCO telah menjalankan pelbagai forum dan bengkel antarabangsa untuk membangunkan kompetensi AI dalam kalangan pendidik dan pelajar. Kajian kes dari UAE dan Oman menunjukkan bagaimana AI diintegrasikan dalam kurikulum K-12 dan pendidikan tinggi secara sistematik[8](https://www.unesco.org/en/digital-education/ai-future-learning).
+1.  **Persona/Role:** Tell the AI to act as a specific persona. This guides the tone and style of the response.
+    * *Example:* "You are a professional chef." or "Act as a marketing expert for a new product."
 
+2.  **Context:** Provide all the necessary background information. This helps the AI understand the purpose and constraints of the task.
+    * *Example:* "The product is a new type of coffee maker that uses biodegradable pods."
+
+3.  **Task:** Clearly and explicitly state what you want the AI to do. Use verbs that indicate the desired action.
+    * *Example:* "Write a 200-word blog post" or "Generate five different design concepts."
+
+4.  **Format/Constraints:** Specify how you want the output structured. This can include length, tone, and specific elements to include or avoid.
+    * *Example:* "The blog post should be written in a friendly, conversational tone and include a call to action at the end." or "The concepts should be in a bulleted list and include a brief description of each."
+
+## **Common Prompt Frameworks**
+
+* **The PROMPT Framework:** A comprehensive framework for structuring prompts for complex tasks.
+    * **P**urpose: What is the goal?
+    * **R**ole: What role should the AI take on?
+    * **O**utput: What is the desired format?
+    * **M**echanics: What are the specific details and constraints?
+    * **P**arameters: What variables are there (e.g., number of items)?
+    * **T**esting: How will the output be evaluated?
+
+* **The R.A.C.E. Framework:** A simpler, but still highly effective framework.
+    * **R**ole: Define the persona.
+    * **A**ction: State the task.
+    * **C**ontext: Provide background information.
+    * **E**xecute: Provide specific instructions for the final output.
+
+## **Hands-on Examples of Effective Prompting**
+
+**For Text Generation:**
+
+* **Ineffective Prompt:** "Write a blog post about coffee."
+* **Effective Prompt:** "Act as a coffee enthusiast writing for a lifestyle blog. Write a 500-word blog post explaining the benefits of drinking cold brew coffee. Use a casual, engaging tone and include a section with tips on how to make it at home."
+
+**For Image Generation:**
+
+* **Ineffective Prompt:** "A cat sitting on a couch."
+* **Effective Prompt:** "A photorealistic image of a tabby cat wearing a tiny crown and sitting on a red velvet couch in a lavishly decorated room. The lighting should be soft and golden, with a shallow depth of field to make the cat stand out."
+
+By the end of this session, participants will be able to not only identify and use various generative AI tools but also craft effective prompts that lead to high-quality, relevant outputs.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
