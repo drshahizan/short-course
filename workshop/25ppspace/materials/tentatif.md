@@ -12,7 +12,7 @@
 | **Time**             | **Activity** |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **08:30 – 09:00 AM** | Registration |
-| **09:00 – 09:30 AM** | **Session 1: Introduction to Artificial Intelligence** <br> • Overview of AI concepts <br> • The evolution of AI <br> • Capabilities of AI <br> • Hands-on examples with text generation            |
+| **09:00 – 09:30 AM** | **[Session 1: Introduction to Artificial Intelligence](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi01.md)** <br> • Overview of AI concepts <br> • The evolution of AI <br> • Capabilities of AI <br> • Hands-on examples with text generation            |
 | **09:30 – 10:00 AM** | **Session 2: Introduction to Generative AI Tools and Effective Prompting** <br> • Generative AI tools <br> • Prompt frameworks |
 | **10:00 – 10:15 AM** | Morning Break |
 | **10:15 – 11:45 AM** | **Session 3: AI for Information Search & Retrieval** <br> • Using prompts to find facts <br> • Q\&A generation <br> • Summarizing online content <br> • Organizing information into mind maps       |
