@@ -6,38 +6,38 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Session 6: AI for Quick Presentation & Visual Material Creation
+# Session 7: AI for Organising Administrative Tasks
 
-This session explores how AI can be used to quickly generate and enhance visual content, from professional presentations to marketing materials and internal communications. The focus is on automating the design process to create polished, effective visuals with minimal effort.
+This session focuses on the practical application of AI as a personal or team-based administrative assistant. The goal is to demonstrate how AI can be used to automate and streamline a wide range of organizational tasks, from event planning to daily schedule management and project tracking.
 
-## Creating Simple PowerPoint Slides
+## Coordinating Office Events or Activities
 
-AI tools can assist in the entire process of creating a presentation, from generating an outline to designing the slides and even creating speaker notes. This is a game-changer for anyone who needs to put together a presentation quickly.
+Planning and organizing events, whether they are small team-building activities or large company-wide functions, can be complex. AI can help by handling the initial planning, communication, and logistical coordination.
 
-* **Generating an Outline:** A user can provide the core topic and key points, and the AI will generate a structured outline for the presentation. For example, a prompt could be: "Create a presentation outline about the importance of renewable energy. Include an introduction, three main sections (solar, wind, and geothermal), and a conclusion."
-* **Drafting Slide Content:** Based on the outline, the AI can be prompted to write the text for each slide, ensuring it is concise and impactful. A user can request that the content be "for an audience of non-technical investors" to tailor the tone and language.
-* **Selecting Visuals and Layouts:** Some advanced AI tools can suggest or automatically select visuals (like stock photos or icons) that match the content of each slide. They can also apply consistent design templates and layouts to ensure the entire presentation looks cohesive and professional.
-* **Writing Speaker Notes:** For presenters, AI can generate speaker notes for each slide. For instance, a user can ask: "Write speaker notes for the slide on solar power, explaining the technology in more detail and including a key statistic about its growth."
+* **Generating a Planning Checklist:** A user can provide the type of event and the AI will generate a comprehensive checklist of all necessary steps. For example, a prompt could be: "Create a detailed checklist for planning a company holiday party for 50 people. Include tasks like 'venue selection,' 'catering,' 'invitations,' and 'entertainment.'"
+* **Drafting Communication:** AI can be used to draft all the necessary communication materials. For instance, a user can ask the AI to: "Draft a fun and engaging email invitation for a team happy hour. Include the date, time, and location, and a call to action to RSVP." The AI can also draft follow-up reminders and thank-you notes.
+* **Creating a Simple Budget:** A user can prompt the AI with the event's budget and it can help allocate funds to different categories. For example, "Given a budget of $5,000 for a team offsite, propose a breakdown of costs for transportation, accommodation, meals, and activities."
+* **Generating a Schedule/Agenda:** For an event with multiple sessions, the AI can create a detailed agenda. A prompt could be: "Create a minute-by-minute schedule for a half-day workshop on design thinking. Include time for breaks and a summary of each session."
 
-## Designing Event Posters
+## Planning and Organizing Daily Work Schedules
 
-Creating a visually appealing event poster can be a complex design task. AI can simplify this process by handling the creative and technical aspects, allowing users to focus on the key information.
+Managing a busy professional schedule is critical for productivity. AI can assist in optimizing daily routines, managing appointments, and ensuring a balanced and efficient workflow.
 
-* **Generating Design Concepts:** A user can provide basic information about an event—like the name, date, and theme—and the AI can generate multiple poster design concepts. For example, a prompt could be: "Design a poster for a summer music festival. The theme is 'retro neon,' and the event is on July 20th."
-* **Creating High-Quality Imagery:** AI image generation tools can be used to create custom visuals that are specific to the event, eliminating the need to search for stock photos. A user could prompt the AI to "generate an image of a stylized, futuristic cityscape for a tech conference poster."
-* **Handling Typography and Layout:** AI can suggest and apply professional-looking font pairings and layouts that are appropriate for the event's theme, ensuring the text is readable and visually appealing.
-* **Providing Multiple Versions:** The AI can generate different versions of the poster, such as a high-resolution version for printing and a compressed version for social media, each with the correct dimensions and file type.
+* **Creating a Daily Itinerary:** Based on a user's to-do list, the AI can create a suggested daily schedule. A prompt could be: "Create a daily schedule for me tomorrow. My tasks are: 'finish the quarterly report,' 'have a 30-minute call with Sarah,' 'prepare for the client meeting,' and 'respond to all outstanding emails.' Please allocate time for a 15-minute coffee break."
+* **Time Blocking:** AI can help implement time-blocking strategies by automatically allocating specific time slots for different types of tasks. For example, a user could ask the AI to "block off the first hour of every day for 'deep work' on my most important project, and the last 30 minutes for 'email and admin tasks.'"
+* **Prioritization:** A user can provide a list of tasks, and the AI can help prioritize them based on urgency and importance. The prompt could be: "Prioritize the following tasks for me: 'draft a proposal,' 'review an expense report,' 'book a flight,' and 'update a spreadsheet.' Consider that the proposal is the most urgent."
+* **Integration with Calendar Tools:** While not a direct function of a general AI, some platforms and integrations allow AI to create calendar events, set reminders, and manage RSVPs directly from a conversational prompt.
 
-## Generating Basic Visuals for Communication
+## Tracking and Following up on Tasks
 
-Beyond presentations and posters, AI can be used to create a wide range of simple visuals for daily communication, making it easier to convey information effectively without needing advanced graphic design skills.
+Effective follow-up is essential for project management and professional accountability. AI can act as a diligent assistant, helping to keep track of tasks and ensure nothing falls through the cracks.
 
-* **Creating Infographics from Data:** A user can provide a set of data points and ask the AI to "create a simple infographic showing the quarterly sales growth of our company." The AI can automatically select the appropriate chart type (e.g., bar chart, pie chart) and present the data visually.
-* **Generating Icons and Illustrations:** AI can create custom icons or illustrations to be used in emails, reports, or blog posts. A prompt could be: "Generate a set of three simple icons to represent innovation, collaboration, and growth."
-* **Visualizing Concepts:** For abstract ideas, AI can provide a quick visual representation. For example, a user could ask the AI to "create a diagram illustrating a supply chain from raw materials to the final product."
-* **Enhancing Social Media Posts:** AI can be used to create simple, eye-catching graphics for social media. A user could ask the AI to "generate a background image for an Instagram story about a new product launch, using a clean, minimalist style."
+* **Generating a Task List:** The AI can take notes from a meeting or an email and generate a clear, actionable list of tasks. For example, "From the following meeting notes, create a list of all action items, assign them to the correct person, and suggest a deadline for each."
+* **Drafting Follow-up Reminders:** A user can ask the AI to write professional and polite follow-up emails for outstanding tasks. A prompt could be: "Draft a polite follow-up email to a client about an invoice that is 15 days overdue." The AI can even be instructed to vary the tone of the reminder based on how long a task has been pending.
+* **Creating a Project Status Report:** The AI can take a series of updates from a team and synthesize them into a concise project status report. For instance, "Based on these team updates from the past week, create a project status report for our senior manager. Highlight progress on key milestones and any potential roadblocks."
+* **Managing Dependencies:** For complex projects, a user can ask the AI to "identify any task dependencies in this project plan and suggest a new order of operations to ensure no delays."
 
-By the end of this session, participants will be able to harness the power of AI to create professional-looking presentations and visual materials, saving time and elevating the quality of their communication.
+By the end of this session, participants will be able to use AI to effectively manage a wide range of administrative and organizational tasks, freeing up their time and mental energy for more strategic work.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
