@@ -5,52 +5,45 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Sesi 3 – Reka Bentuk Pengajaran Berasaskan AI**
+# Session 3: AI for Information Search & Retrieval
 
-### **1. Perancangan Pengajaran dengan AI**
+This session moves beyond simple conversation and content creation to focus on how AI can be a powerful tool for research, learning, and knowledge management. It highlights the shift from traditional search engines to a more interactive and semantic approach to finding information.
 
-Penggunaan AI dalam perancangan pengajaran memberi kelebihan kepada pensyarah untuk merancang PdP secara lebih sistematik, dinamik, dan bersesuaian dengan keperluan pelajar. Antara peranannya adalah:
+## Using Prompts to Find Facts
 
-* **Penjanaan Bahan Pengajaran Automatik**
-  Alat AI generatif seperti ChatGPT, Gemini, Copilot, dan NotebookLM boleh membantu pensyarah menjana draf nota kuliah, slaid pembentangan, kuiz, serta rubrik penilaian dengan cepat.
+This section focuses on using AI as an advanced search engine. Unlike a traditional keyword-based search that returns a list of links, a generative AI model can synthesize information from its training data to provide a direct answer. The key is crafting prompts that ask for specific, factual information.
 
-* **Sokongan dalam Penyusunan Silibus**
-  AI dapat menganalisis kandungan kurikulum sedia ada dan mencadangkan penambahbaikan berdasarkan tren global atau keperluan industri semasa. Ini memastikan silibus kekal relevan dan selari dengan keperluan pasaran kerja.
-
-* **Peramalan Keperluan Pelajar**
-  Sistem analitik berasaskan AI mampu mengenal pasti cabaran yang mungkin dihadapi pelajar berdasarkan prestasi sebelumnya. Dengan itu, pensyarah boleh merancang pengajaran lebih proaktif, termasuk menyediakan sokongan tambahan lebih awal.
-
-* **Reka Bentuk Aktiviti Interaktif**
-  AI membantu mereka bentuk aktiviti pengajaran berasaskan simulasi, permainan pendidikan (*serious games*), atau persekitaran maya yang meningkatkan penglibatan pelajar.
-
-* **Pemantauan dan Penilaian Berterusan**
-  AI menyokong perancangan pengajaran dengan menyediakan laporan prestasi pelajar secara masa nyata, sekali gus membolehkan pensyarah menyesuaikan kaedah pengajaran sepanjang semester.
-
-### **2. Pembezaan & Pembelajaran Berperibadi**
-
-AI membuka ruang yang luas untuk melaksanakan konsep pembelajaran yang lebih fleksibel, bersesuaian dengan kepelbagaian gaya dan tahap pelajar:
-
-* **Pembelajaran Adaptif**
-  Sistem AI boleh menyesuaikan tahap kesukaran soalan, kelajuan penyampaian, atau jenis aktiviti mengikut keperluan pelajar individu.
-
-* **Pembezaan Kandungan**
-  AI membolehkan pensyarah menyediakan bahan pengajaran dalam pelbagai bentuk—teks, audio, video, atau simulasi—agar sesuai dengan gaya pembelajaran berbeza (visual, auditori, kinestetik).
-
-* **Maklum Balas Peribadi**
-  Tutor maya berasaskan AI memberi maklum balas segera yang spesifik untuk setiap pelajar, membantu mereka memahami kesilapan dan membaikinya dengan cepat.
-
-* **Laluan Pembelajaran Tersuai**
-  Berdasarkan analisis prestasi, AI boleh mencadangkan laluan pembelajaran berbeza untuk pelajar: misalnya laluan *remedial* untuk pelajar yang ketinggalan, atau laluan lanjutan untuk pelajar yang cemerlang.
-
-* **Peningkatan Penglibatan Pelajar**
-  Dengan AI, pelajar boleh terlibat dalam aktiviti interaktif mengikut minat masing-masing, seperti kuiz berasaskan permainan atau projek penyelidikan mini yang disesuaikan dengan bidang minat.
+* **Fact-checking and Cross-referencing:** Learners can be prompted to ask for a fact and then be instructed to verify the AI's response using a traditional search engine. This teaches them to be critical users of AI and to understand its limitations, as generative AI can sometimes "hallucinate" or provide inaccurate information.
+* **Requesting a Specific Data Point:** Instead of a broad search, a user can ask for a specific piece of information. For example, "What is the population of Tokyo as of the most recent census?" or "What year was the first commercial flight?" This demonstrates the AI's ability to retrieve and present specific data points.
+* **Requesting a Comparison:** The prompt can ask the AI to compare and contrast two or more subjects. For example, "Compare the features of the iPhone 15 Pro and the Samsung Galaxy S24 Ultra." The AI can quickly synthesize information to create a structured comparison, a task that would take a human much longer.
 
 
-### **Kesimpulan Sesi**
+## Q&A Generation
 
-Reka bentuk pengajaran berasaskan AI membolehkan pensyarah merancang PdP yang lebih **terancang, relevan, dan responsif** terhadap keperluan semasa. Pada masa yang sama, pendekatan ini menggalakkan **pembezaan pembelajaran** dengan memberi peluang kepada setiap pelajar untuk belajar mengikut kemampuan, gaya, dan minat mereka. Hasilnya, proses PdP menjadi lebih inklusif, menyeronokkan, dan berkesan.
+This capability is particularly useful for students, educators, and anyone who needs to quickly create quizzes or study materials. AI can take a body of text—like an article or a chapter from a book—and generate questions and answers based on the content.
+
+* **Generating Multiple-Choice Questions:** A prompt can be structured to ask the AI to "read the following article and generate five multiple-choice questions with four possible answers, including a correct one." This automates a common educational task.
+* **Creating True/False or Short-Answer Questions:** The same principle applies to other question formats. For instance, "Based on this text about the history of the internet, generate three true/false questions."
+* **Producing an FAQ Section:** A business or organization can feed the AI a document about a product or service and prompt it to "create a list of frequently asked questions and their answers from this document." This is a highly practical application for customer service and internal knowledge bases.
 
 
+## Summarizing Online Content
+
+This is one of the most powerful and time-saving functions of generative AI. Instead of reading an entire article or a long document, a user can get a concise summary of the key points.
+
+* **Key Point Extraction:** The AI can be prompted to summarize an article by "extracting the five most important takeaways." This is great for getting the gist of a news story or a research paper quickly.
+* **Summarizing for a Specific Audience:** A prompt can include a persona and tone. For example, "Summarize this complex scientific article about climate change in a way that a middle school student can understand." This shows how AI can adapt its output to different levels of comprehension.
+* **Summarizing in a Specific Format:** The user can request the summary to be in a specific format, such as bullet points, a short paragraph, or an executive summary. For instance, "Summarize this quarterly report into a single paragraph suitable for an email to a senior manager."
+
+## Organizing Information into Mind Maps
+
+This goes beyond text generation and taps into the AI's ability to structure information. By using a mind map generation tool (or an AI with mind mapping capabilities), users can turn a list of ideas or a block of text into a visual, hierarchical diagram.
+
+* **Generating a Mind Map from a Central Concept:** A user can give the AI a single topic, like "the water cycle," and the AI can generate a mind map with branches for key concepts like "evaporation," "condensation," and "precipitation."
+* **Structuring a Brainstorming Session:** If a user has a list of ideas from a brainstorming session, they can feed them into an AI and ask it to "organize these ideas into a mind map with related concepts grouped together."
+* **Creating a Study Guide:** A student can input a chapter's worth of notes and prompt the AI to "turn these notes into a mind map to serve as a study guide for a final exam." This visual organization helps with memory and understanding complex relationships between topics.
+
+By the end of this session, participants will be equipped with practical skills to leverage AI for more efficient and effective research, knowledge synthesis, and information organization.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
