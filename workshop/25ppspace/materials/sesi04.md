@@ -5,54 +5,44 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Sesi 4 – Etika, Privasi dan Isu Keselamatan**
+# Session 4: AI for Administrative Writing
 
-Integrasi AI dalam pendidikan tinggi membuka peluang besar, tetapi juga menimbulkan persoalan penting berkaitan **etika, privasi, dan keselamatan**. Pensyarah dan pelajar bukan sahaja perlu menguasai teknologi, tetapi juga memahami tanggungjawab moral serta implikasi undang-undang yang berkaitan.
+This session focuses on leveraging AI to streamline and improve common workplace communication and administrative tasks. The goal is to demonstrate how generative AI can act as a personal assistant for professional writing, saving time and ensuring clarity and professionalism in all forms of communication.
 
-### **1. Etika dalam Penggunaan AI**
+### Drafting Official Letters
 
-* **Ketelusan (Transparency)**
-  Pelajar dan pensyarah perlu tahu apabila kandungan dijana oleh AI, supaya jelas perbezaan antara kerja asli dan hasil AI.
-* **Keaslian & Integriti Akademik**
-  AI tidak boleh menggantikan usaha pelajar dalam penilaian. Plagiarisme berasaskan AI perlu ditangani dengan panduan penggunaan yang jelas.
-* **Bias & Diskriminasi**
-  Model AI dilatih dengan data tertentu yang boleh membawa bias. Jika tidak dikawal, keputusan AI mungkin tidak adil, contohnya dalam penilaian automatik atau cadangan kemasukan.
-* **Tanggungjawab Pensyarah**
-  Pensyarah harus memastikan AI digunakan sebagai alat sokongan, bukan untuk menggantikan peranan kritikal dalam pengajaran dan pembimbingan.
+AI can be a powerful tool for generating formal correspondence, ensuring the correct tone, structure, and a professional appearance. This is particularly useful for individuals who are not native English speakers or for those who need to write a letter for an unfamiliar purpose.
 
-### **2. Privasi Data Pelajar**
+* **Components of an Official Letter:** The session can begin by outlining the essential parts of a professional letter (e.g., recipient's address, date, salutation, body paragraphs, and closing). Learners can be prompted to ask the AI to "draft a formal business letter requesting a refund for a defective product."
+* **Customizing for Different Scenarios:** The AI can be instructed to draft various types of official letters, such as a letter of recommendation, a letter of resignation, or a formal complaint. For example, a prompt could be: "Draft a letter of resignation. State that I am leaving my position as a graphic designer and my last day will be in two weeks. Keep the tone professional and positive."
+* **Adapting the Tone:** The AI can be asked to adjust the tone of the letter. For instance, "Rewrite this formal letter of complaint to be more direct and assertive, while still remaining professional."
 
-* **Pengumpulan Data**
-  Sistem AI sering mengumpul data pelajar (prestasi, tingkah laku, rekod kehadiran). Universiti perlu memastikan data ini dikumpulkan dengan persetujuan jelas (*informed consent*).
-* **Penggunaan Data**
-  Data hanya boleh digunakan untuk tujuan akademik yang sah, bukan untuk tujuan komersial tanpa kebenaran.
-* **Penyimpanan & Akses Data**
-  Data pelajar mesti disimpan secara selamat, dengan akses terhad kepada individu yang diberi kuasa.
-* **Hak Pelajar**
-  Pelajar berhak mengetahui bagaimana data mereka digunakan dan berhak meminta data dipadamkan apabila tidak diperlukan lagi.
+### Writing Professional Emails
 
-### **3. Isu Keselamatan Sistem**
+Email is a cornerstone of professional communication, and AI can help users write effective, clear, and well-structured messages quickly. This addresses common challenges like finding the right words, organizing thoughts, and maintaining a consistent professional tone.
 
-* **Kebocoran Maklumat**
-  Jika AI beroperasi atas talian, terdapat risiko kebocoran data sensitif seperti rekod akademik atau maklumat peribadi.
-* **Serangan Siber**
-  Sistem AI boleh menjadi sasaran serangan seperti *data poisoning* (data dimanipulasi untuk hasil salah) atau *model theft* (model dicuri pihak luar).
-* **Ketergantungan Berlebihan**
-  Bergantung sepenuhnya kepada AI boleh melemahkan keupayaan kritikal manusia. Pensyarah dan pelajar perlu diajar untuk mengimbangi penggunaan AI dengan pemikiran kritis.
-* **Kepatuhan Undang-Undang**
-  Institusi perlu mematuhi undang-undang perlindungan data seperti Akta Perlindungan Data Peribadi (PDPA) di Malaysia atau GDPR di Eropah apabila menggunakan sistem AI global.
+* **Generating a Full Email:** A user can provide the core information, and the AI will handle the rest. For example, a prompt could be: "Write a professional email to my team about a new project deadline. The new deadline is next Friday, and the project is a report on Q3 sales."
+* **Crafting a Subject Line:** The subject line is crucial for an email's effectiveness. The AI can be prompted to "generate five professional subject lines for an email about an upcoming software update."
+* **Summarizing Long Email Threads:** A common pain point is a long email chain. The AI can be used to "summarize this email thread and identify the key decisions made and action items."
+* **Translating and Rewriting:** For international teams, the AI can be a lifesaver. A user can write an email in their native language and have the AI translate and refine it into professional English, or vice versa.
 
-### **4. Amalan Baik & Garis Panduan**
+### Creating Meeting Minutes
 
-* Menetapkan **polisi penggunaan AI** di peringkat universiti (contoh: garis panduan penggunaan Generative AI dalam PdP).
-* Menyediakan **kod etika AI** untuk pensyarah dan pelajar.
-* Melaksanakan **audit keselamatan data dan sistem AI** secara berkala.
-* Menggalakkan **pendidikan kesedaran etika AI** dalam kalangan warga akademik.
-* Mewujudkan **mekanisme aduan** jika berlaku salah guna AI.
+Meeting minutes are essential for documenting decisions and action items, but they can be time-consuming to create. AI can significantly expedite this process by helping to structure and summarize the conversation.
 
-### **Kesimpulan Sesi**
+* **Structuring the Minutes:** The AI can be prompted to create a standard meeting minutes template. For example, "Create a template for meeting minutes that includes sections for attendees, agenda, key discussions, decisions, and action items."
+* **Summarizing Discussion Points:** During or after a meeting, the user can provide a raw transcript or their notes and ask the AI to "summarize the discussion on budget allocation and highlight any disagreements or unresolved issues."
+* **Identifying Action Items:** The AI is excellent at extracting specific information from a block of text. A prompt can be: "From the following meeting transcript, create a list of all action items, who is responsible for each, and the deadline."
 
-Etika, privasi, dan keselamatan merupakan tonggak penting dalam memastikan penggunaan AI di pendidikan tinggi berlangsung secara **bertanggungjawab, adil, dan selamat**. Tanpa kawalan yang jelas, manfaat AI boleh berubah menjadi risiko besar yang menjejaskan kepercayaan terhadap institusi pendidikan. Oleh itu, pensyarah perlu mengimbangi inovasi dengan prinsip moral, menjaga data pelajar, serta memastikan sistem AI mematuhi standard keselamatan dan undang-undang yang ketat.
+### Writing Short and Concise Reports
+
+Reports, whether for a client or an internal team, need to be clear and to the point. AI can help with this by structuring the report and ensuring the language is concise and professional.
+
+* **Generating a Report Outline:** The AI can be prompted to create an outline for a report. For example, "Create an outline for a monthly marketing report. Include sections for key metrics, a summary of campaign performance, and recommendations for the next month."
+* **Drafting an Executive Summary:** This is a crucial part of any report, but it can be difficult to write. The AI can be prompted to "draft an executive summary for this 10-page report, highlighting the main findings and conclusions."
+* **Simplifying Complex Information:** A user can feed the AI technical data or jargon and ask it to "rewrite this section of the report to be easily understood by someone without a technical background." This is invaluable for communicating across different departments.
+
+By the end of this session, participants will have a practical understanding of how to use AI to handle routine but essential writing tasks, allowing them to focus on higher-level strategic work and decision-making.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
