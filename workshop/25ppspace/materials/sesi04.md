@@ -9,7 +9,7 @@
 
 This session focuses on leveraging AI to streamline and improve common workplace communication and administrative tasks. The goal is to demonstrate how generative AI can act as a personal assistant for professional writing, saving time and ensuring clarity and professionalism in all forms of communication.
 
-### Drafting Official Letters
+## Drafting Official Letters
 
 AI can be a powerful tool for generating formal correspondence, ensuring the correct tone, structure, and a professional appearance. This is particularly useful for individuals who are not native English speakers or for those who need to write a letter for an unfamiliar purpose.
 
@@ -17,7 +17,7 @@ AI can be a powerful tool for generating formal correspondence, ensuring the cor
 * **Customizing for Different Scenarios:** The AI can be instructed to draft various types of official letters, such as a letter of recommendation, a letter of resignation, or a formal complaint. For example, a prompt could be: "Draft a letter of resignation. State that I am leaving my position as a graphic designer and my last day will be in two weeks. Keep the tone professional and positive."
 * **Adapting the Tone:** The AI can be asked to adjust the tone of the letter. For instance, "Rewrite this formal letter of complaint to be more direct and assertive, while still remaining professional."
 
-### Writing Professional Emails
+## Writing Professional Emails
 
 Email is a cornerstone of professional communication, and AI can help users write effective, clear, and well-structured messages quickly. This addresses common challenges like finding the right words, organizing thoughts, and maintaining a consistent professional tone.
 
@@ -26,7 +26,7 @@ Email is a cornerstone of professional communication, and AI can help users writ
 * **Summarizing Long Email Threads:** A common pain point is a long email chain. The AI can be used to "summarize this email thread and identify the key decisions made and action items."
 * **Translating and Rewriting:** For international teams, the AI can be a lifesaver. A user can write an email in their native language and have the AI translate and refine it into professional English, or vice versa.
 
-### Creating Meeting Minutes
+## Creating Meeting Minutes
 
 Meeting minutes are essential for documenting decisions and action items, but they can be time-consuming to create. AI can significantly expedite this process by helping to structure and summarize the conversation.
 
@@ -34,7 +34,7 @@ Meeting minutes are essential for documenting decisions and action items, but th
 * **Summarizing Discussion Points:** During or after a meeting, the user can provide a raw transcript or their notes and ask the AI to "summarize the discussion on budget allocation and highlight any disagreements or unresolved issues."
 * **Identifying Action Items:** The AI is excellent at extracting specific information from a block of text. A prompt can be: "From the following meeting transcript, create a list of all action items, who is responsible for each, and the deadline."
 
-### Writing Short and Concise Reports
+## Writing Short and Concise Reports
 
 Reports, whether for a client or an internal team, need to be clear and to the point. AI can help with this by structuring the report and ensuring the language is concise and professional.
 
