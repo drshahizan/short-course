@@ -5,39 +5,38 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Session 8: Ethical and Responsible Use of AI.
 
-# Session 6: AI for Quick Presentation & Visual Material Creation
+This final session is crucial for providing a balanced perspective on AI. It moves beyond the practical applications to address the critical ethical considerations and societal impacts of this technology. The goal is to equip users with the knowledge and principles necessary to use AI responsibly, recognize its limitations, and mitigate potential harm.
 
-This session explores how AI can be used to quickly generate and enhance visual content, from professional presentations to marketing materials and internal communications. The focus is on automating the design process to create polished, effective visuals with minimal effort.
+## Avoiding Misinformation
 
-## Creating Simple PowerPoint Slides
+Large Language Models (LLMs) and other generative AI tools are powerful, but they are not infallible. They can sometimes generate inaccurate or fabricated information, a phenomenon often referred to as "hallucination." This section teaches users how to be critical consumers and producers of AI-generated content.
 
-AI tools can assist in the entire process of creating a presentation, from generating an outline to designing the slides and even creating speaker notes. This is a game-changer for anyone who needs to put together a presentation quickly.
+* **Understanding AI's Limitations:** The session will explain that AI models do not "know" facts in the same way humans do. They generate text by predicting the most likely sequence of words based on their training data. This process can sometimes produce plausible-sounding but completely false information.
+* **The Importance of Fact-Checking:** A key takeaway is that all AI-generated information, especially factual claims, must be verified using reliable, external sources. This reinforces the need for human oversight.
+* **Practical Examples:** Learners can be shown examples of AI-generated misinformation. For instance, a prompt could ask an AI to "provide three facts about the first person to walk on the moon." The AI might generate a plausible-sounding but incorrect fact, which the user can then identify and correct by cross-referencing with a reputable source like a NASA website.
+* **Responsible Prompting:** The session will also cover how to write prompts that encourage more accurate and cautious responses, such as asking the AI to "provide a source for each claim" or to "state when it is unsure of an answer."
 
-* **Generating an Outline:** A user can provide the core topic and key points, and the AI will generate a structured outline for the presentation. For example, a prompt could be: "Create a presentation outline about the importance of renewable energy. Include an introduction, three main sections (solar, wind, and geothermal), and a conclusion."
-* **Drafting Slide Content:** Based on the outline, the AI can be prompted to write the text for each slide, ensuring it is concise and impactful. A user can request that the content be "for an audience of non-technical investors" to tailor the tone and language.
-* **Selecting Visuals and Layouts:** Some advanced AI tools can suggest or automatically select visuals (like stock photos or icons) that match the content of each slide. They can also apply consistent design templates and layouts to ensure the entire presentation looks cohesive and professional.
-* **Writing Speaker Notes:** For presenters, AI can generate speaker notes for each slide. For instance, a user can ask: "Write speaker notes for the slide on solar power, explaining the technology in more detail and including a key statistic about its growth."
+## Addressing Bias
 
-## Designing Event Posters
+AI models are trained on vast datasets that reflect human history and society, which are unfortunately filled with biases (e.g., gender, racial, cultural). Without proper safeguards, these biases can be perpetuated or even amplified by AI.
 
-Creating a visually appealing event poster can be a complex design task. AI can simplify this process by handling the creative and technical aspects, allowing users to focus on the key information.
+* **Identifying Bias in AI Output:** The session will provide examples of biased AI outputs. For instance, a user could prompt an AI to "write a story about a doctor and a nurse" and observe if the AI defaults to gender stereotypes (e.g., the doctor is male, the nurse is female). Another example could involve asking for images of "CEOs" and seeing if the AI defaults to a certain race or gender.
+* **Understanding the Source of Bias:** The session will explain that the bias isn't "malicious" in the AI itself; it's a reflection of the data it was trained on. This understanding is crucial for addressing the root cause.
+* **Mitigating Bias Through Prompting:** Learners will be taught how to write prompts that explicitly counteract bias. For example, instead of a generic prompt, a user could write: "Write a story about a nurse and a doctor. Ensure that the doctor is female and the nurse is male."
+* **Ethical AI Development and Auditing:** The session will briefly touch on the ongoing efforts within the AI community to audit models for bias and develop new techniques to create fairer and more inclusive AI.
 
-* **Generating Design Concepts:** A user can provide basic information about an event—like the name, date, and theme—and the AI can generate multiple poster design concepts. For example, a prompt could be: "Design a poster for a summer music festival. The theme is 'retro neon,' and the event is on July 20th."
-* **Creating High-Quality Imagery:** AI image generation tools can be used to create custom visuals that are specific to the event, eliminating the need to search for stock photos. A user could prompt the AI to "generate an image of a stylized, futuristic cityscape for a tech conference poster."
-* **Handling Typography and Layout:** AI can suggest and apply professional-looking font pairings and layouts that are appropriate for the event's theme, ensuring the text is readable and visually appealing.
-* **Providing Multiple Versions:** The AI can generate different versions of the poster, such as a high-resolution version for printing and a compressed version for social media, each with the correct dimensions and file type.
+## Privacy and Confidentiality
 
-## Generating Basic Visuals for Communication
+When using AI tools, especially those that process user inputs, it is critical to be aware of the data privacy implications. The information users provide can be used to train future models, and there are risks associated with sharing sensitive data.
 
-Beyond presentations and posters, AI can be used to create a wide range of simple visuals for daily communication, making it easier to convey information effectively without needing advanced graphic design skills.
+* **The "Golden Rule" of AI Use:** A core principle is to **never input sensitive, personal, or confidential information** into a public AI model. This includes personal addresses, financial data, internal business reports, and proprietary intellectual property.
+* **Understanding Data Usage Policies:** The session will encourage users to read the data usage and privacy policies of the AI tools they use. This is crucial for understanding how their data is being collected, stored, and used.
+* **Confidentiality in the Workplace:** For professional use, the session will emphasize the importance of adhering to company policies regarding the use of AI. Many organizations have strict rules about what can and cannot be shared with external AI services.
+* **The Risk of Data Leaks:** The session will explain that even seemingly innocuous information, when combined with other data, can pose a risk. The goal is to foster a habit of caution and discretion when interacting with AI platforms.
 
-* **Creating Infographics from Data:** A user can provide a set of data points and ask the AI to "create a simple infographic showing the quarterly sales growth of our company." The AI can automatically select the appropriate chart type (e.g., bar chart, pie chart) and present the data visually.
-* **Generating Icons and Illustrations:** AI can create custom icons or illustrations to be used in emails, reports, or blog posts. A prompt could be: "Generate a set of three simple icons to represent innovation, collaboration, and growth."
-* **Visualizing Concepts:** For abstract ideas, AI can provide a quick visual representation. For example, a user could ask the AI to "create a diagram illustrating a supply chain from raw materials to the final product."
-* **Enhancing Social Media Posts:** AI can be used to create simple, eye-catching graphics for social media. A user could ask the AI to "generate a background image for an Instagram story about a new product launch, using a clean, minimalist style."
-
-By the end of this session, participants will be able to harness the power of AI to create professional-looking presentations and visual materials, saving time and elevating the quality of their communication.
+By the end of this session, participants will have a strong ethical foundation for using AI. They will not only be proficient in using the tools but also be responsible digital citizens who can navigate the complexities of AI with awareness and integrity. This session completes the curriculum by shifting the focus from "how to use AI" to "how to use AI ethically and responsibly."
 
 ### 🙌🏻 Connect with Me
 <p align="left">
