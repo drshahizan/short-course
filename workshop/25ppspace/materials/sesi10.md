@@ -5,38 +5,84 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Session 8: Ethical and Responsible Use of AI
+# Session 10: Hands-On Practice – Meeting Minutes & Summaries
 
-This final session is crucial for providing a balanced perspective on AI. It moves beyond the practical applications to address the critical ethical considerations and societal impacts of this technology. The goal is to equip users with the knowledge and principles necessary to use AI responsibly, recognize its limitations, and mitigate potential harm.
+Welcome to Session 10! We're diving into two of the most powerful ways AI can boost your daily productivity: creating structured meeting minutes and summarizing long documents. These skills will transform how you manage and share information.
 
-## Avoiding Misinformation
+## Generating Structured Meeting Minutes
 
-Large Language Models (LLMs) and other generative AI tools are powerful, but they are not infallible. They can sometimes generate inaccurate or fabricated information, a phenomenon often referred to as "hallucination." This section teaches users how to be critical consumers and producers of AI-generated content.
+Creating clear, accurate meeting minutes is a critical administrative task, but it can be a challenge to capture every detail while simultaneously following the discussion. AI can help you convert raw, chaotic notes or a meeting transcript into a professional, easy-to-read document that everyone can understand and act on.
 
-* **Understanding AI's Limitations:** The session will explain that AI models do not "know" facts in the same way humans do. They generate text by predicting the most likely sequence of words based on their training data. This process can sometimes produce plausible-sounding but completely false information.
-* **The Importance of Fact-Checking:** A key takeaway is that all AI-generated information, especially factual claims, must be verified using reliable, external sources. This reinforces the need for human oversight.
-* **Practical Examples:** Learners can be shown examples of AI-generated misinformation. For instance, a prompt could ask an AI to "provide three facts about the first person to walk on the moon." The AI might generate a plausible-sounding but incorrect fact, which the user can then identify and correct by cross-referencing with a reputable source like a NASA website.
-* **Responsible Prompting:** The session will also cover how to write prompts that encourage more accurate and cautious responses, such as asking the AI to "provide a source for each claim" or to "state when it is unsure of an answer."
+### The Process: Step-by-Step
 
-## Addressing Bias
+1.  **Capture Your Raw Notes:** The first step is to get the information. This can be your handwritten notes, bullet points you typed in a document, or a full transcription from a tool like Microsoft Teams or Otter.ai. Don't worry about perfection; the AI will do the heavy lifting.
+2.  **Craft a Specific Prompt:** This is the most important part. Your prompt tells the AI exactly what you need. Think of it as a detailed instruction manual. A great prompt will include:
+    * **The document's purpose:** "Generate meeting minutes."
+    * **The desired sections:** "Include sections for Attendees, Key Discussion Points, Decisions Made, and Action Items."
+    * **The format:** "Use bullet points for lists and bold headings for each section."
+    * **Any additional details:** "The meeting was held on [Date] to discuss [Topic]."
+3.  **Run the Prompt and Review:** Paste your raw notes and your detailed prompt into the AI. It will generate a first draft. Now, your job is to review it. Verify that all key decisions are correct, action items are assigned to the right people with the correct deadlines, and names are spelled properly. This human touch ensures accuracy.
 
-AI models are trained on vast datasets that reflect human history and society, which are unfortunately filled with biases (e.g., gender, racial, cultural). Without proper safeguards, these biases can be perpetuated or even amplified by AI.
+### Example Prompt & Output
 
-* **Identifying Bias in AI Output:** The session will provide examples of biased AI outputs. For instance, a user could prompt an AI to "write a story about a doctor and a nurse" and observe if the AI defaults to gender stereotypes (e.g., the doctor is male, the nurse is female). Another example could involve asking for images of "CEOs" and seeing if the AI defaults to a certain race or gender.
-* **Understanding the Source of Bias:** The session will explain that the bias isn't "malicious" in the AI itself; it's a reflection of the data it was trained on. This understanding is crucial for addressing the root cause.
-* **Mitigating Bias Through Prompting:** Learners will be taught how to write prompts that explicitly counteract bias. For example, instead of a generic prompt, a user could write: "Write a story about a nurse and a doctor. Ensure that the doctor is female and the nurse is male."
-* **Ethical AI Development and Auditing:** The session will briefly touch on the ongoing efforts within the AI community to audit models for bias and develop new techniques to create fairer and more inclusive AI.
+**Your Raw Input (Notes):**
+> "Met today. Attendees were Sarah, John, and Mei. We talked about the marketing budget for Q4. John said we should focus more on social media ads. Sarah said to hold off on TV commercials for now. Mei agreed. We decided to allocate 70% of the budget to digital marketing. Sarah will draft the new budget proposal by next Friday. John will research new ad platforms. Mei will talk to the social media team about content."
 
-## Privacy and Confidentiality
+**Your Prompt:**
+> "From the following raw notes, generate structured meeting minutes with a professional tone. Create sections for 'Attendees,' 'Key Discussion Points,' 'Decisions Made,' and 'Action Items.' For Action Items, list the person responsible and the task."
 
-When using AI tools, especially those that process user inputs, it is critical to be aware of the data privacy implications. The information users provide can be used to train future models, and there are risks associated with sharing sensitive data.
+**AI-Generated Output:**
+> ### **Meeting Minutes**
+> **Attendees:** Sarah, John, Mei
+>
+> **Key Discussion Points:**
+> * The team reviewed the marketing budget for Q4.
+> * John proposed increasing the focus on social media advertising.
+> * Sarah suggested postponing the investment in TV commercials.
+>
+> **Decisions Made:**
+> * It was decided to allocate 70% of the Q4 marketing budget to digital marketing.
+>
+> **Action Items:**
+> * **Sarah:** Draft the new budget proposal. (Due: Next Friday)
+> * **John:** Research new advertising platforms.
+> * **Mei:** Coordinate with the social media team regarding content.
 
-* **The "Golden Rule" of AI Use:** A core principle is to **never input sensitive, personal, or confidential information** into a public AI model. This includes personal addresses, financial data, internal business reports, and proprietary intellectual property.
-* **Understanding Data Usage Policies:** The session will encourage users to read the data usage and privacy policies of the AI tools they use. This is crucial for understanding how their data is being collected, stored, and used.
-* **Confidentiality in the Workplace:** For professional use, the session will emphasize the importance of adhering to company policies regarding the use of AI. Many organizations have strict rules about what can and cannot be shared with external AI services.
-* **The Risk of Data Leaks:** The session will explain that even seemingly innocuous information, when combined with other data, can pose a risk. The goal is to foster a habit of caution and discretion when interacting with AI platforms.
 
-By the end of this session, participants will have a strong ethical foundation for using AI. They will not only be proficient in using the tools but also be responsible digital citizens who can navigate the complexities of AI with awareness and integrity. This session completes the curriculum by shifting the focus from "how to use AI" to "how to use AI ethically and responsibly."
+## Summarizing Long Documents into Key Points
+
+In the professional world, you're often given lengthy reports, policies, or presentations to review. Trying to read every single page is inefficient. AI is an incredible tool for quickly distilling a document's core message.
+
+### The Process: Step-by-Step
+
+1.  **Copy and Paste the Content:** Simply copy the entire text from the document (or a significant portion) and paste it into the AI's chat box.
+2.  **Give a Clear Instruction:** This is where you specify the type of summary you need. AI can do more than just a general summary; it can find specific information or rephrase it for a different audience.
+3.  **Choose Your Format:** Tell the AI how you want the summary presented. This makes the information even more useful for you.
+
+### Advanced Techniques & Prompts
+
+* **For Executive Summaries:** "Summarize the following document into a concise executive summary. Highlight the primary findings, key challenges, and final recommendations."
+* **For Action Items:** "Read the following meeting notes and extract only the action items. List the person responsible and the deadline in a table format."
+* **For a Specific Audience:** "Simplify this technical report on network security into 3-4 bullet points that a non-technical support staff member can understand."
+* **For Data Extraction:** "From the text below, find all instances of 'project start date' and list them. If a responsible person is mentioned, include their name."
+
+**Example Before & After**
+
+**Input (a paragraph from a policy document):**
+> "The company's remote work policy, effective January 1, 2024, mandates that all employees who wish to work from home must submit a formal request to their direct supervisor at least two weeks prior to the intended start date. The supervisor will then evaluate the request based on team needs, project deadlines, and the employee's performance history. Approved requests will be reviewed quarterly. Employees are responsible for ensuring a secure and reliable internet connection and will be reimbursed up to RM150 per month for home office supplies upon submission of valid receipts."
+
+**Prompt:**
+> "Summarize this policy document into a list of key rules for employees who want to work from home."
+
+**AI-Generated Output:**
+> **Key Rules for Remote Work:**
+> * You must submit a formal request to your supervisor at least two weeks beforehand.
+> * The supervisor's approval depends on team needs, deadlines, and your performance.
+> * Approved requests will be reviewed every three months.
+> * You are responsible for a reliable internet connection.
+> * You can be reimbursed up to RM150 per month for home office supplies by submitting receipts.
+
+By using these techniques, you're not just saving time—you're transforming how you process information, allowing you to focus on strategic tasks rather than administrative ones.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
