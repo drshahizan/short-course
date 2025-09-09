@@ -7,7 +7,7 @@
 
 # Session 14: Troubleshooting & Optimizing AI Prompts
 
-Welcome to our final training session. So far, you've learned how to use AI for various tasks. Now, we'll focus on the most important skill: **prompt engineering**. This is the art of communicating effectively with AI to get better, more accurate, and more reliable results.
+So far, you've learned how to use AI for various tasks. Now, we'll focus on the most important skill: **prompt engineering**. This is the art of communicating effectively with AI to get better, more accurate, and more reliable results.
 
 ## Refining Prompts for Better Accuracy
 
