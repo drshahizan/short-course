@@ -30,16 +30,16 @@
 | **Time**             | **Activity**                                                                                                                                                                              |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **08:30 – 09:00 AM** | Recap of Day 1 & Overview of Day 2 |
-| **09:00 – 10:00 AM** | **Session 9: Hands-On Practice – Email, Letters & Reports** <br> • Drafting official letters with AI <br> • Writing professional email replies <br> • Creating concise reports from notes |
+| **09:00 – 10:00 AM** | **[Session 9: Hands-On Practice – Email, Letters & Reports](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi09.md)** <br> • Drafting official letters with AI <br> • Writing professional email replies <br> • Creating concise reports from notes |
 | **10:00 – 10:15 AM** | Morning Break |
-| **10:15 – 11:15 AM** | **Session 10: Hands-On Practice – Meeting Minutes & Summaries** <br> • Generating structured meeting minutes <br> • Summarizing long documents into key points                            |
-| **11:15 – 12:15 PM** | **Session 11: Hands-On Practice – Presentations & Posters** <br> • Creating a simple PowerPoint presentation <br> • Designing an event poster using AI tools                              |
-| **12:15 – 01:00 PM** | **Session 12: Hands-On Practice – AI for Data Handling** <br> • Basic data entry automation <br> • Organizing data into categories <br> • Extracting insights from survey results         |
+| **10:15 – 11:15 AM** | **[Session 10: Hands-On Practice – Meeting Minutes & Summaries](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi10.md)** <br> • Generating structured meeting minutes <br> • Summarizing long documents into key points                            |
+| **11:15 – 12:15 PM** | **[Session 11: Hands-On Practice – Presentations & Posters](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi11.md)** <br> • Creating a simple PowerPoint presentation <br> • Designing an event poster using AI tools                              |
+| **12:15 – 01:00 PM** | **[Session 12: Hands-On Practice – AI for Data Handling](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi12.md)** <br> • Basic data entry automation <br> • Organizing data into categories <br> • Extracting insights from survey results         |
 | **01:00 – 02:00 PM** | Lunch / Prayer Break |
-| **02:00 – 03:00 PM** | **Session 13: AI for Task & Event Coordination** <br> • Planning daily work schedules <br> • Creating checklists for events <br> • Tracking progress using AI tools                       |
-| **03:30 – 04:15 PM** | **Session 14: Troubleshooting & Optimizing AI Prompts** <br> • Refining prompts for better accuracy <br> • Avoiding common mistakes |
+| **02:00 – 03:00 PM** | **[Session 13: AI for Task & Event Coordination](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi13.md)** <br> • Planning daily work schedules <br> • Creating checklists for events <br> • Tracking progress using AI tools                       |
+| **03:30 – 04:15 PM** | **[Session 14: Troubleshooting & Optimizing AI Prompts](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi14.md)** <br> • Refining prompts for better accuracy <br> • Avoiding common mistakes |
 | **04:15 – 04:30 PM** | Afternoon Break |
-| **04:30 – 05:00 PM** | **Session 15: AI Tips & Shortcuts for Daily Work** <br> • Time-saving commands <br> • AI integrations with Microsoft Word, Excel, and PowerPoint                                          |
+| **04:30 – 05:00 PM** | **[Session 15: AI Tips & Shortcuts for Daily Work](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi15.md)** <br> • Time-saving commands <br> • AI integrations with Microsoft Word, Excel, and PowerPoint                                          |
 | **05:00 PM**         | Closing |
 
 ### 🙌🏻 Connect with Me
