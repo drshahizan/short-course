@@ -17,13 +17,13 @@
 | [Session 7: AI for Organising Administrative Tasks](latihan/06.md)               | Apply AI to coordinate office events, plan and organize daily work schedules, and track or follow up on administrative tasks.                         |
 | [Session 8: Ethical and Responsible Use of AI](latihan/07.md)                    | Understand ethical AI usage by focusing on avoiding misinformation, addressing bias, and ensuring privacy and confidentiality.                        |
 | Gemini image|First ask me to upload an image and then create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.|
-| [Session 9: ](latihan/08.md)                    |     |
-| [Session 10: ](latihan/09.md)                    |     |
-| [Session 11: ](latihan/10.md)                    |     |
-| [Session 12: ](latihan/11.md)                    |     |
-| [Session 13: ](latihan/12.md)                    |     |
-| [Session 14: ](latihan/13.md)                    |     |
-| [Session 15: ](latihan/14.md)                    |     |
+| [Session 9: Hands-On Practice – Email, Letters & Reports](latihan/08.md)                    |     |
+| [Session 10: Hands-On Practice – Meeting Minutes & Summaries ](latihan/09.md)                    |     |
+| [Session 11: Hands-On Practice – Presentations & Posters](latihan/10.md)                    |     |
+| [Session 12: Hands-On Practice – AI for Data Handling](latihan/11.md)                    |     |
+| [Session 13: AI for Task & Event Coordination](latihan/12.md)                    |     |
+| [Session 14: Troubleshooting & Optimizing AI Prompts](latihan/13.md)                    |     |
+| [Session 15: AI Tips & Shortcuts for Daily Work](latihan/14.md)                    |     |
 
 
 ## **Hands-On Activities**
