@@ -16,7 +16,7 @@
 | [Session 6: AI for Quick Presentation & Visual Material Creation](latihan/05.md) | Use AI tools to create simple PowerPoint slides, design event posters, and generate basic visuals for communication.                                  |
 | [Session 7: AI for Organising Administrative Tasks](latihan/06.md)               | Apply AI to coordinate office events, plan and organize daily work schedules, and track or follow up on administrative tasks.                         |
 | [Session 8: Ethical and Responsible Use of AI](latihan/07.md)                    | Understand ethical AI usage by focusing on avoiding misinformation, addressing bias, and ensuring privacy and confidentiality.                        |
-
+||First ask me to upload an image and then create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.|
 ## **Hands-On Activities**
 
 1. [**Mind Mapping with Markmap**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md) – Creating interactive mind maps to visualize, structure, and organize research ideas effectively.
