@@ -5,7 +5,65 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# Session 14: Troubleshooting & Optimizing AI Prompts
+
+Welcome to our final training session. So far, you've learned how to use AI for various tasks. Now, we'll focus on the most important skill: **prompt engineering**. This is the art of communicating effectively with AI to get better, more accurate, and more reliable results.
+
+## Refining Prompts for Better Accuracy
+
+A good prompt is the difference between a generic answer and a perfectly tailored one. By refining your prompts, you can transform the AI from a simple tool into a powerful, reliable assistant. Here are three key strategies to master:
+
+### 1. Be Specific, Not Vague
+The more detail you provide, the more precise the AI's response will be. Avoid broad questions that leave too much to the imagination.
+
+* **Vague Prompt:** "Write about our new hiring process."
+* **Refined Prompt:** "Draft a 500-word article for the staff newsletter explaining the new online hiring process. Include details on how to submit a job request, the automated shortlisting system, and the new interview scheduling platform."
+
+### 2. Add Context and Constraints
+Give the AI a role, set a clear purpose, and define boundaries. This helps the AI understand the tone and scope of its response.
+
+* **Role-playing:** "You are a senior administrator drafting a response to a complaint."
+* **Setting a Goal:** "The purpose of this email is to politely decline a request while offering an alternative solution."
+* **Applying Constraints:** "The response should be no longer than three paragraphs and must not mention any specific budget figures."
+
+### 3. Specify the Desired Output Format
+Tell the AI exactly how you want the information presented. This ensures the output is immediately useful and saves you from reformatting.
+
+* **Instead of just asking for a summary, specify:** "Summarize the key points in a bulleted list."
+* **Instead of asking for data, request a table:** "Extract all dates, names, and project titles from the text and present them in a three-column table."
+* **For a visual flow:** "Create a numbered list of steps for a simple process."
+
+
+## Avoiding Common Mistakes
+
+Even with good intentions, it's easy to fall into bad habits. By avoiding these common mistakes, you can significantly improve the quality of your AI interactions.
+
+### 1. Giving Incomplete Instructions
+AI is not a mind reader. If you ask it to complete a task but don't provide all the necessary information, it will either refuse the request or provide a useless, generic answer.
+
+* **Mistake:** "Write a report on our recent event."
+* **Correction:** You must provide the raw data, notes, or specific facts you want included in the report.
+
+### 2. Using Ambiguous Language
+Words can have multiple meanings. Be as clear as possible to avoid misinterpretation.
+
+* **Mistake:** "Organize the documents." (Does this mean sorting them alphabetically, by date, or into a specific folder structure?)
+* **Correction:** "Create a digital folder structure for the documents, organized by year and then by department."
+
+### 3. Expecting Human-like Intuition
+AI lacks intuition and common sense. It only understands what you tell it, not what you *meant* to tell it. It cannot infer your intent.
+
+* **Mistake:** "Help me with the student registration." (The AI doesn't know what kind of help you need, what "student registration" entails at UTMSpace, or what specific platform you are using.)
+* **Correction:** "Explain the step-by-step process for a student to register for a new course in the UTMSpace student portal."
+
+### 4. Not Iterating
+The first response from an AI is not always the final answer. Treat the first output as a draft and be ready to refine your prompt based on what you get.
+
+* **Initial Prompt:** "Summarize this report."
+* **Refinement 1:** "That's too long. Summarize it in no more than 150 words."
+* **Refinement 2:** "Make the summary shorter and focus on the financial implications mentioned in the report."
+
+Mastering these techniques will empower you to use AI with confidence and precision. The better you are at prompting, the more valuable this technology will become in your daily work.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
