@@ -8,7 +8,7 @@
 
 # Training on Artificial Intelligence for UTMSpace Support Staff
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/images/pputmspace.jpeg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/images/pputmspaceKL.jpeg" alt="Shahizan SLR"  height="400">
 
 ## Synopsis
 
