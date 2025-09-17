@@ -42,15 +42,15 @@
 
 
 ### Part 2
-7. [**Email Drafting for Student Enquiries with ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/email_drafting.md) – Practicing how to generate professional, polite, and concise email replies to students’ common queries (e.g., transcript requests, registration issues), ensuring tone, clarity, and institutional consistency.  
+7. [**Email Drafting for Student Enquiries**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/email_drafting.md) – Practicing how to generate professional, polite, and concise email replies to students’ common queries (e.g., transcript requests, registration issues), ensuring tone, clarity, and institutional consistency.  
 
-8. [**Academic Program Proposal Writing with ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/program_proposal.md) – Using AI to prepare structured academic program proposals or working papers, including objectives, schedules, budgets, and evaluation metrics, aligned with university requirements.  
+8. [**Academic Program Proposal Writing**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/program_proposal.md) – Using AI to prepare structured academic program proposals or working papers, including objectives, schedules, budgets, and evaluation metrics, aligned with university requirements.  
 
-9. [**Meeting Minutes Generation with ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/meeting_minutes.md) – Converting raw notes or discussion points into structured official meeting minutes, including decisions, action items, and assigned responsibilities, to enhance administrative efficiency.  
+9. [**Meeting Minutes Generation**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/meeting_minutes.md) – Converting raw notes or discussion points into structured official meeting minutes, including decisions, action items, and assigned responsibilities, to enhance administrative efficiency.  
 
-10. [**Quarterly Academic Report Summarization with ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/academic_report.md) – Transforming raw data (attendance, satisfaction scores, costs) into concise, insightful quarterly reports that highlight achievements, challenges, and KPIs for continuous improvement.  
+10. [**Quarterly Academic Report Summarization**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/academic_report.md) – Transforming raw data (attendance, satisfaction scores, costs) into concise, insightful quarterly reports that highlight achievements, challenges, and KPIs for continuous improvement.  
 
-11. [**Memo and Notice Drafting with ChatGPT**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/memo_notice.md) – Generating formal memos, notices, or circulars (e.g., announcements of new platforms or policy changes), and refining multiple versions (formal, brief, FAQ-style) for different communication channels.  
+11. [**Memo and Notice Drafting**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/memo_notice.md) – Generating formal memos, notices, or circulars (e.g., announcements of new platforms or policy changes), and refining multiple versions (formal, brief, FAQ-style) for different communication channels.  
 
 
 ### 🙌🏻 Connect with Me
