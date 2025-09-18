@@ -26,6 +26,7 @@
 | [Session 14: Troubleshooting & Optimizing AI Prompts](latihan/13.md)             | Learn to refine prompts for better results, avoid common mistakes, and improve accuracy in AI outputs.                                                |
 | [Session 15: AI Tips & Shortcuts for Daily Work](latihan/14.md)                  | Discover practical AI tips, time-saving commands, and useful integrations with Microsoft Word, Excel, and PowerPoint.                                 |
 |Super hero|First ask me to upload a selfie. Generate an image based on my selfie of a highly realistic superhero photo. The photo is taken outdoors and I'm flying high above a city. Capture the scene with a natural photographic look, realistic lighting, skin texture, and detail. The framing, angle, and perspective should be as realistic as possible, as if it were an actual photo.|
+|Professional image|First ask me for a selfie. Transform my selfie into a fresh but professional image suitable for a social media profile. The lighting should be natural, flattering, and multidimensional. My head is slightly tilted so it doesn't look stiff and it should look like I'm in a modern, bright office with a blurred background.|
 
 ## **Hands-On Activities**
 
