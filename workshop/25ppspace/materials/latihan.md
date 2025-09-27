@@ -26,6 +26,7 @@
 | [Session 14: Troubleshooting & Optimizing AI Prompts](latihan/13.md)             | Learn to refine prompts for better results, avoid common mistakes, and improve accuracy in AI outputs.                                                |
 | [Session 15: AI Tips & Shortcuts for Daily Work](latihan/14.md)                  | Discover practical AI tips, time-saving commands, and useful integrations with Microsoft Word, Excel, and PowerPoint.                                 |
 |Super hero|First ask me to upload a selfie. Generate an image based on my selfie of a highly realistic superhero photo. The photo is taken outdoors and I'm flying high above a city. Capture the scene with a natural photographic look, realistic lighting, skin texture, and detail. The framing, angle, and perspective should be as realistic as possible, as if it were an actual photo.|
+|Professional image|First ask me for a selfie. Transform my selfie into a fresh but professional image suitable for a social media profile. The lighting should be natural, flattering, and multidimensional. My head is slightly tilted so it doesn't look stiff and it should look like I'm in a modern, bright office with a blurred background.|
 
 ## **Hands-On Activities**
 
@@ -42,15 +43,14 @@
 
 
 ### Part 2
-7. [**Email Drafting for Student Enquiries**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/email_drafting.md) – Practicing how to generate professional, polite, and concise email replies to students’ common queries (e.g., transcript requests, registration issues), ensuring tone, clarity, and institutional consistency.  
+7. [**Email Drafting for Student Enquiries**](latihan/p2_7.md) – Practicing how to generate professional, polite, and concise email replies to students’ common queries (e.g., transcript requests, registration issues), ensuring tone, clarity, and institutional consistency.  
+8. [**Academic Program Proposal Writing**](latihan/p2_8.md) – Using AI to prepare structured academic program proposals or working papers, including objectives, schedules, budgets, and evaluation metrics, aligned with university requirements.  
 
-8. [**Academic Program Proposal Writing**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/program_proposal.md) – Using AI to prepare structured academic program proposals or working papers, including objectives, schedules, budgets, and evaluation metrics, aligned with university requirements.  
+9. [**Meeting Minutes Generation**](latihan/p2_9.md) – Converting raw notes or discussion points into structured official meeting minutes, including decisions, action items, and assigned responsibilities, to enhance administrative efficiency.  
 
-9. [**Meeting Minutes Generation**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/meeting_minutes.md) – Converting raw notes or discussion points into structured official meeting minutes, including decisions, action items, and assigned responsibilities, to enhance administrative efficiency.  
+10. [**Quarterly Academic Report Summarization**](latihan/p2_10.md) – Transforming raw data (attendance, satisfaction scores, costs) into concise, insightful quarterly reports that highlight achievements, challenges, and KPIs for continuous improvement.  
 
-10. [**Quarterly Academic Report Summarization**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/academic_report.md) – Transforming raw data (attendance, satisfaction scores, costs) into concise, insightful quarterly reports that highlight achievements, challenges, and KPIs for continuous improvement.  
-
-11. [**Memo and Notice Drafting**](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/memo_notice.md) – Generating formal memos, notices, or circulars (e.g., announcements of new platforms or policy changes), and refining multiple versions (formal, brief, FAQ-style) for different communication channels.  
+11. [**Memo and Notice Drafting**](latihan/p2_11.md) – Generating formal memos, notices, or circulars (e.g., announcements of new platforms or policy changes), and refining multiple versions (formal, brief, FAQ-style) for different communication channels.  
 
 
 ### 🙌🏻 Connect with Me
