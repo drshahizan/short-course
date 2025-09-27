@@ -8,7 +8,7 @@
 
 # AI Tools for Research
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25writewise/images/writewise.jpeg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/slr_pgss_fm.jpeg" alt="Shahizan SLR"  height="400">
 
 
 ## **Synopsis**
