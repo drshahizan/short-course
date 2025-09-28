@@ -10,46 +10,28 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/slr_pgss_fm.jpeg" alt="Shahizan SLR"  height="400">
 
+## Workshop Synopsis
 
-## **Synopsis**
+The **“AI Tools for Research”** workshop is designed to equip postgraduate students, faculty members, and researchers with practical knowledge and hands-on exposure to cutting-edge artificial intelligence (AI) tools that can enhance academic productivity and innovation.
 
-The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
+In today’s research landscape, AI applications are increasingly used to accelerate literature reviews, improve data analysis, support writing and editing, and generate impactful visualizations. This workshop introduces participants to a range of AI-powered platforms and demonstrates how they can be effectively applied at different stages of the research process—from idea generation and proposal development to data interpretation and scholarly publication.
 
-This one-day hands-on workshop introduces participants to the practical use of **Generative AI tools** to refine their manuscripts. By leveraging AI-powered writing assistants, attendees will learn how to enhance clarity, coherence, and scholarly tone, as well as strengthen argumentation and citation management. The session will also cover ethical considerations in AI-assisted academic writing, ensuring participants can integrate these tools responsibly.
+Led by **Assoc. Prof. Ts. Dr. Mohd Shahizan bin Othman** from the Faculty of Computing, Universiti Teknologi Malaysia (UTM), the session will highlight real-world use cases, best practices, and ethical considerations when adopting AI tools in academia. Participants will also gain insights into strategies for optimizing research workflows, enhancing collaboration, and ensuring academic integrity in the age of generative AI.
 
-Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computing, Universiti Teknologi Malaysia, the workshop emphasizes **interactive learning**. Participants are encouraged to bring along their draft papers to gain personalized feedback and direct improvements during the session.
+By the end of the workshop, participants will:
 
-By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
+1. Understand the capabilities and limitations of various AI tools for research.
+2. Explore practical applications of AI in literature review, writing, data analysis, and visualization.
+3. Develop strategies to integrate AI tools effectively and responsibly into their research practices.
 
+The session will be moderated by **Mohd Shahaeil Bin Nordin**, Vice President I of PGSS FM. Participants will also receive ACAD points and an official E-certificate upon completion.
 
 ## **Workshop Learning Outcomes**
 
-By the end of the workshop, participants will be able to:
-
-1. **Understand Publishing Requirements**
-
-   * Identify the key standards and expectations of ERA and Scopus-indexed journals.
-   * Recognize common reasons for manuscript rejection and strategies to overcome them.
-
-2. **Apply Generative AI Tools in Academic Writing**
-
-   * Utilize AI-powered platforms to improve clarity, coherence, and academic style in draft articles.
-   * Enhance argumentation, literature integration, and citation management with the support of AI.
-
-3. **Improve Draft Manuscripts**
-
-   * Refine participants’ own draft papers through hands-on AI-assisted editing.
-   * Strengthen structure, flow, and overall readability to meet international publishing standards.
-
-4. **Evaluate Ethical and Responsible Use of AI**
-
-   * Discuss ethical considerations and limitations of using Generative AI in scholarly writing.
-   * Apply best practices to ensure academic integrity while integrating AI in manuscript preparation.
-
-5. **Develop Practical Publishing Strategies**
-
-   * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
-   * Gain confidence in aligning research contributions with target journal scopes and impact.
+By the end of the workshop, research students will be able to:
+1. **Utilize** AI tools to streamline literature reviews, academic writing, and data management.
+2. **Apply** AI-powered techniques for data analysis and visualization to strengthen research findings.
+3. **Adopt** responsible and ethical practices in integrating AI into their research workflow.
 
 ## [Workshop Schedule](materials/time.md)
 
