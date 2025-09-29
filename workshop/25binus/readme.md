@@ -8,21 +8,13 @@
 
 # The Integration of AI Tools in Postgraduate Computer Science Studies
 
-## Workshop Synopsis
+## Synopsis
 
-The **“AI Tools for Research”** workshop is designed to equip postgraduate students, faculty members, and researchers with practical knowledge and hands-on exposure to cutting-edge artificial intelligence (AI) tools that can enhance academic productivity and innovation.
+This workshop is designed to explore the transformative role of Artificial Intelligence (AI) tools in enhancing postgraduate research and academic development within the field of Computer Science. With the rapid emergence of AI-powered platforms such as ChatGPT, Gemini, Copilot, and other specialized research assistants, postgraduate students are now able to streamline complex research tasks, from literature review to data analysis and academic writing.
 
-In today’s research landscape, AI applications are increasingly used to accelerate literature reviews, improve data analysis, support writing and editing, and generate impactful visualizations. This workshop introduces participants to a range of AI-powered platforms and demonstrates how they can be effectively applied at different stages of the research process—from idea generation and proposal development to data interpretation and scholarly publication.
+The session will provide participants with practical insights into how AI tools can be integrated into the postgraduate study journey, including research design, systematic literature reviews, coding support, experimentation, and scholarly publishing. Emphasis will be placed on ethical use, academic integrity, and aligning AI-driven methods with university and international research standards.
 
-Led by **Assoc. Prof. Ts. Dr. Mohd Shahizan bin Othman** from the Faculty of Computing, Universiti Teknologi Malaysia (UTM), the session will highlight real-world use cases, best practices, and ethical considerations when adopting AI tools in academia. Participants will also gain insights into strategies for optimizing research workflows, enhancing collaboration, and ensuring academic integrity in the age of generative AI.
-
-By the end of the workshop, participants will:
-
-1. Understand the capabilities and limitations of various AI tools for research.
-2. Explore practical applications of AI in literature review, writing, data analysis, and visualization.
-3. Develop strategies to integrate AI tools effectively and responsibly into their research practices.
-
-The session will be moderated by **Mohd Shahaeil Bin Nordin**, Vice President I of PGSS FM. Participants will also receive ACAD points and an official E-certificate upon completion.
+Through interactive demonstrations and hands-on practice, participants will learn how to maximize productivity, improve research quality, and cultivate innovative thinking by strategically embedding AI into their workflows. By the end of the workshop, postgraduate students will be equipped with practical strategies to adopt AI responsibly, thereby strengthening their research output, academic writing, and overall scholarly contributions in Computer Science.
 
 ## **Workshop Learning Outcomes**
 
