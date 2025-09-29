@@ -37,10 +37,6 @@ By the end of the workshop, research students will be able to:
 
 The **Workshop Program Structure** is designed to guide research students through a progressive learning pathway that balances theory, applied practice, reflection, and ethical considerations. It begins with an overview of publishing essentials to build foundational knowledge, followed by a series of applied research writing sessions where participants actively refine their manuscripts using AI tools for language enhancement, structural improvement, and literature management. The structure also incorporates feedback and sharing opportunities to encourage peer learning and self-reflection. The program concludes with a dedicated session on ethical AI use and a clear roadmap to ERA/Scopus submission, ensuring participants not only gain practical skills but also uphold academic integrity throughout their research journey.
 
-## [Teaching materials](materials/teaching.md)
-
-This section contains the **essential learning resources and references** used during the workshop. It includes official guidelines (UNESCO, national, and institutional), global AI adoption reports, practical setup instructions, and curated videos. Together, these materials provide participants with **theoretical background, best practices, and practical guides** to reinforce what they learn during the workshop and to support continued application afterward.
-
 ## [AI Tools for Research Workflow](materials/ai.md)
 
 This section introduces participants to a curated set of **AI tools designed to support researchers across the entire research lifecycle**. From literature discovery and idea generation to data visualization and academic writing, each tool is presented with its **purpose, strengths, and practical use cases**. This equips participants with the digital skills to adopt AI ethically and effectively in their own research and teaching.
