@@ -7,6 +7,8 @@
 
 # Workshop Program Structure
 
+## 📋 [Slide presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/25%20FM%20PGSS.pdf)
+
 | **Category**             | **Session**                                                                                                                                                                                         |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Theory & Overview        | **[Introduction: ERA/Scopus Publishing Essentials](01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                         |
