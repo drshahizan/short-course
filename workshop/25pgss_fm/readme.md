@@ -33,9 +33,9 @@ By the end of the workshop, research students will be able to:
 2. **Apply** AI-powered techniques for data analysis and visualization to strengthen research findings.
 3. **Adopt** responsible and ethical practices in integrating AI into their research workflow.
 
-## [Workshop Schedule](materials/time.md)
+## [Workshop Program Structure](materials/time.md)
 
-This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
+The **Workshop Program Structure** is designed to guide research students through a progressive learning pathway that balances theory, applied practice, reflection, and ethical considerations. It begins with an overview of publishing essentials to build foundational knowledge, followed by a series of applied research writing sessions where participants actively refine their manuscripts using AI tools for language enhancement, structural improvement, and literature management. The structure also incorporates feedback and sharing opportunities to encourage peer learning and self-reflection. The program concludes with a dedicated session on ethical AI use and a clear roadmap to ERA/Scopus submission, ensuring participants not only gain practical skills but also uphold academic integrity throughout their research journey.
 
 ## [Teaching materials](materials/teaching.md)
 
