@@ -8,8 +8,6 @@
 
 # The Integration of AI Tools in Postgraduate Computer Science Studies
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/slr_pgss_fm.jpeg" alt="Shahizan SLR"  height="400">
-
 ## Workshop Synopsis
 
 The **“AI Tools for Research”** workshop is designed to equip postgraduate students, faculty members, and researchers with practical knowledge and hands-on exposure to cutting-edge artificial intelligence (AI) tools that can enhance academic productivity and innovation.
