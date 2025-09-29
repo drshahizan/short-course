@@ -5,19 +5,18 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Workshop Schedule
+# Workshop Program Structure
 
-| **Category**          | **Session** |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Theory & Overview     | **[Introduction: ERA/Scopus Publishing Essentials](01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                         |
-| Hands-on Practice     | **[Practical 1: Assessing Your Draft Paper](02mat.md)**  <br> Participants review their own drafts and identify key weaknesses using guided checklists.                                             |
-| Hands-on Practice     | **[Practical 2: Using Generative AI for Language Enhancement](03mat.md)** and **[Prompt bank](05mat.md)**  <br> Applying AI tools (ChatGPT, Gemini, Copilot) to improve clarity, grammar, and tone. |
-| Hands-on Practice     | **[Practical 3: Improving Structure & Coherence](04mat.md)** <br> Reorganizing paragraphs, refining argument flow, and strengthening contribution using AI support.                                 |
-| Feedback & Reflection | **Sharing & Feedback**  <br> Selected participants present before-and-after improvements of their drafts.                                                                                           |
-| Hands-on Practice     | **[Practical 4: AI-Powered Literature Review & Citation Management](06mat.md)**  <br> Using AI to summarize literature, integrate sources, and manage references ethically.                         |
-| Hands-on Practice     | **[Practical 5: Draft Refinement Workshop (Part 1)](07mat.md)**  <br> Participants work on their manuscripts with direct AI assistance and facilitator guidance.                                    |
-| Hands-on Practice     | **[Practical 6: Draft Refinement Workshop (Part 2)](08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                          |
-| Ethics & Submission   | **[Session: Ethical AI Use & Roadmap to Submission](09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q&A**             |
+| **Category**             | **Session**                                                                                                                                                                                         |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Theory & Overview        | **[Introduction: ERA/Scopus Publishing Essentials](01mat.md)**  <br> Quick overview of standards, scopes, and expectations.                                                                         |
+| Applied Research Writing | **[Practical 1: Assessing Your Draft Paper](02mat.md)**  <br> Participants review their own drafts and identify key weaknesses using guided checklists.                                             |
+| Applied Research Writing | **[Practical 2: Using Generative AI for Language Enhancement](03mat.md)** and **[Prompt bank](05mat.md)**  <br> Applying AI tools (ChatGPT, Gemini, Copilot) to improve clarity, grammar, and tone. |
+| Applied Research Writing | **[Practical 3: Improving Structure & Coherence](04mat.md)** <br> Reorganizing paragraphs, refining argument flow, and strengthening contribution using AI support.                                 |
+| Applied Research Writing | **[Practical 4: AI-Powered Literature Review & Citation Management](06mat.md)**  <br> Using AI to summarize literature, integrate sources, and manage references ethically.                         |
+| Applied Research Writing | **[Practical 5: Draft Refinement Workshop (Part 1)](07mat.md)**  <br> Participants work on their manuscripts with direct AI assistance and facilitator guidance.                                    |
+| Applied Research Writing | **[Practical 6: Draft Refinement Workshop (Part 2)](08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                          |
+| Ethics & Submission      | **[Session: Ethical AI Use & Roadmap to Submission](09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals.                                    |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
