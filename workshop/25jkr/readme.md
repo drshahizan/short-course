@@ -33,7 +33,7 @@ Menjelang akhir program, para peserta akan dapat:
 
 Jadual Latihan mengenai **Kecerdasan Buatan (AI) dan Internet Pelbagai Benda (IoT) untuk Kecemerlangan Kejuruteraan** ini direka bagi memberikan peserta daripada Pusat Kecemerlangan Kejuruteraan dan Teknologi (CREaTE), JKR pemahaman konseptual serta pendedahan praktikal dalam mengaplikasikan teknologi baharu dalam bidang kejuruteraan dan pengurusan infrastruktur. Dilaksanakan selama tiga hari, program ini menggabungkan sesi perkongsian ilmu dengan perbincangan interaktif, membolehkan peserta mendalami topik seperti IoT untuk pemeliharaan warisan, pemantauan alam sekitar, dan pembangunan infrastruktur pintar, serta penggunaan Generative AI untuk produktiviti, analisis data, dan pengurusan projek. Penekanan turut diberikan kepada aplikasi dunia sebenar yang berkait rapat dengan peranan dan tanggungjawab JKR, sekali gus membekalkan keyakinan kepada peserta untuk memanfaatkan teknologi AI dan IoT secara berkesan, di samping memupuk inovasi, kecekapan, dan kelestarian dalam projek kejuruteraan negara.
 
-## [Bahan Latihan](materials/teaching.md)
+## [Bahan Pengajaran](materials/teaching.md)
 
 Bahagian ini menyediakan **rujukan utama** yang digunakan sepanjang program. Ia merangkumi nota kuliah, garis panduan rasmi berkaitan penggunaan AI & IoT dalam kejuruteraan, laporan antarabangsa mengenai penerapan teknologi pintar, serta slaid pembentangan dan panduan langkah demi langkah. Secara kolektif, bahan ini memberikan peserta asas kukuh tentang **pengetahuan teori, amalan terbaik, dan panduan praktikal** untuk mengukuhkan pembelajaran sepanjang program serta menyokong **penggunaan berterusan AI & IoT dalam projek kejuruteraan dan pengurusan infrastruktur JKR**.
 
