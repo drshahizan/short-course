@@ -25,17 +25,17 @@
 | **Time**             | **Activity** |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **08:30 – 09:00 AM** | Registration |
-| **09:00 – 09:30 AM** | **[Session 1: Introduction to Artificial Intelligence](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi01.md)** <br> • Overview of AI concepts <br> • The evolution of AI <br> • Capabilities of AI <br> • Hands-on examples with text generation            |
+| **09:00 – 09:30 AM** | **[Session 1: Introduction to Artificial Intelligence](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi01.md)** <br> • Overview of AI concepts <br> • The evolution of AI <br> • Capabilities of AI <br> • Hands-on examples with text generation            |
 | **09:30 – 10:00 AM** | **[Session 2: Introduction to Generative AI Tools and Effective Prompting](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi02.md)** <br> • Generative AI tools <br> • Prompt frameworks |
 | **10:00 – 10:15 AM** | Morning Break |
-| **10:15 – 11:45 AM** | **[Session 3: AI for Information Search & Retrieval](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi03.md)** <br> • Using prompts to find facts <br> • Q\&A generation <br> • Summarizing online content <br> • Organizing information into mind maps       |
-| **11:45 – 12:30 PM** | **[Session 4: AI for Administrative Writing](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi04.md)** <br> • Drafting official letters <br> • Writing professional emails <br> • Creating meeting minutes <br> • Writing short and concise reports           |
-| **12:30 – 01:00 PM** | **[Session 5: AI for Document Assistance](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi05.md)** <br> • Formatting and structuring documents <br> • Summarization <br> • Translation |
+| **10:15 – 11:45 AM** | **[Session 3: AI for Information Search & Retrieval](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi03.md)** <br> • Using prompts to find facts <br> • Q\&A generation <br> • Summarizing online content <br> • Organizing information into mind maps       |
+| **11:45 – 12:30 PM** | **[Session 4: AI for Administrative Writing](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi04.md)** <br> • Drafting official letters <br> • Writing professional emails <br> • Creating meeting minutes <br> • Writing short and concise reports           |
+| **12:30 – 01:00 PM** | **[Session 5: AI for Document Assistance](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi05.md)** <br> • Formatting and structuring documents <br> • Summarization <br> • Translation |
 | **01:00 – 02:00 PM** | Lunch / Prayer Break |
-| **02:00 – 03:00 PM** | **[Session 6: AI for Quick Presentation & Visual Material Creation](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi06.md)** <br> • Creating simple PowerPoint slides <br> • Designing event posters <br> • Generating basic visuals for communication       |
-| **03:00 – 04:00 PM** | **[Session 7: AI for Organising Administrative Tasks](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi07.md)** <br> • Coordinating office events or activities <br> • Planning and organizing daily work schedules <br> • Tracking and following up on tasks |
+| **02:00 – 03:00 PM** | **[Session 6: AI for Quick Presentation & Visual Material Creation](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi06.md)** <br> • Creating simple PowerPoint slides <br> • Designing event posters <br> • Generating basic visuals for communication       |
+| **03:00 – 04:00 PM** | **[Session 7: AI for Organising Administrative Tasks](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi07.md)** <br> • Coordinating office events or activities <br> • Planning and organizing daily work schedules <br> • Tracking and following up on tasks |
 | **04:00 – 04:15 PM** | Afternoon Break |
-| **04:15 – 05:00 PM** | **[Session 8: Ethical and Responsible Use of AI](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi08.md)** <br> • Avoiding misinformation <br> • Addressing bias <br> • Privacy and confidentiality |
+| **04:15 – 05:00 PM** | **[Session 8: Ethical and Responsible Use of AI](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi08.md)** <br> • Avoiding misinformation <br> • Addressing bias <br> • Privacy and confidentiality |
 | **05:00 PM**         | Closing |
 
 ### **Day 2**
