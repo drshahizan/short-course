@@ -22,6 +22,34 @@ The Teaching Materials provided in this program are carefully curated to support
 |     6. | **Learning Resources (Media)**     | • [Intro to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)                                                                                                                                                                                                                 | **Awareness & critical perspectives** on AI’s potential and risks                   |
 
 
+Baik, saya sudah tukarkan **Slot** kepada **No** supaya lebih ringkas dan rasmi.
+
+---
+
+# Jadual Latihan
+
+| **No** | **Tajuk / Pautan**                                                                                                                                       | **Aktiviti / Kandungan**                                                                                                                                               |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | [Pengenalan kepada Kecerdasan Buatan (AI)](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi01.md)                      | • Pengenalan konsep asas AI <br> • Evolusi AI <br> • Keupayaan AI <br> • Latihan praktikal dengan penjanaan teks                                                       |
+| **2**  | [Pengenalan kepada Alat Generative AI & Prompting Berkesan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi02.md) | • Alat generative AI <br> • Rangka kerja prompting                                                                                                                     |
+| **3**  | [AI untuk Carian & Pencarian Maklumat](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi03.md)                          | • Menggunakan prompt untuk mencari fakta <br> • Penjanaan soalan & jawapan <br> • Meringkaskan kandungan dalam talian <br> • Mengatur maklumat dalam bentuk peta minda |
+| **4**  | [AI untuk Penulisan Pentadbiran](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi04.md)                                | • Menyediakan surat rasmi <br> • Menulis emel profesional <br> • Menyediakan minit mesyuarat <br> • Menulis laporan ringkas dan padat                                  |
+| **5**  | [AI untuk Bantuan Dokumen](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi05.md)                                      | • Pemformatan dan penyusunan dokumen <br> • Ringkasan teks <br> • Terjemahan                                                                                           |
+| **6**  | [AI untuk Penyediaan Bahan Persembahan & Visual Ringkas](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi06.md)        | • Membina slaid PowerPoint ringkas <br> • Merekabentuk poster acara <br> • Menjana visual asas untuk komunikasi                                                        |
+| **7**  | [AI untuk Pengurusan Tugas Pentadbiran](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi07.md)                         | • Menyelaras acara atau aktiviti pejabat <br> • Merancang dan mengatur jadual kerja harian <br> • Menjejak dan membuat susulan tugasan                                 |
+| **8**  | [Etika & Penggunaan AI Secara Bertanggungjawab](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi08.md)                 | • Mengelakkan maklumat palsu <br> • Menangani isu bias <br> • Menjaga privasi dan kerahsiaan                                                                           |
+| **9**  | [Amali – Surat, Emel & Laporan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi09.md)                             | • Menyediakan surat rasmi dengan AI <br> • Menulis jawapan emel profesional <br> • Menyediakan laporan ringkas daripada nota                                           |
+| **10** | [Amali – Minit Mesyuarat & Ringkasan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi10.md)                       | • Menjana minit mesyuarat yang teratur <br> • Meringkaskan dokumen panjang kepada isi utama                                                                            |
+| **11** | [Amali – Persembahan & Poster](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi11.md)                              | • Menyediakan slaid PowerPoint ringkas <br> • Merekabentuk poster acara menggunakan AI                                                                                 |
+| **12** | [Amali – AI untuk Pengendalian Data](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi12.md)                        | • Automasi kemasukan data asas <br> • Menyusun data ke dalam kategori <br> • Mengekstrak dapatan daripada hasil soal selidik                                           |
+| **13** | [AI untuk Penyelaras Tugas & Acara](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi13.md)                         | • Merancang jadual kerja harian <br> • Menyediakan senarai semak untuk acara <br> • Menjejak kemajuan menggunakan alat AI                                              |
+| **14** | [Penyelesaian Masalah & Pengoptimuman Prompt AI](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi14.md)            | • Memperhalusi prompt untuk ketepatan lebih baik <br> • Mengelakkan kesilapan biasa                                                                                    |
+| **15** | [Tip & Pintasan AI untuk Kerja Harian](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi15.md)                      | • Arahan menjimatkan masa <br> • Integrasi AI dengan Microsoft Word, Excel dan PowerPoint                                                                              |
+
+---
+
+Adakah anda mahu saya hasilkan jadual ini dalam versi **Excel (.xlsx)** supaya mudah disusun semula mengikut keperluan (contoh: ikut kategori teori/amali)?
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
