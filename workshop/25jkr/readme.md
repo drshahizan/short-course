@@ -8,30 +8,31 @@
 
 # Inovasi Teknologi AI & IoT dalam Kejuruteraan
 
-## Synopsis
+## Sinopsis Program
 
-The **two-day training program** on Artificial Intelligence (AI) for space support staff is designed to build practical knowledge and skills in applying AI tools for administrative and operational tasks. The training emphasizes **hands-on learning**, ensuring participants can immediately integrate AI into their daily workflows.
+Program ini dianjurkan dengan objektif utama untuk memperkenalkan serta memperkukuh kefahaman peserta mengenai aplikasi **Kecerdasan Buatan (AI)** dan **Internet Pelbagai Benda (IoT)** dalam bidang kejuruteraan. Dengan penyertaan para pegawai dan jurutera daripada **Centre of Excellence for Engineering and Technology (CREaTE), JKR Malaysia**, program ini memberi fokus kepada penggunaan teknologi terkini bagi meningkatkan keberkesanan, produktiviti, dan inovasi dalam sektor kejuruteraan awam dan pengurusan infrastruktur negara. Peserta didedahkan kepada topik yang relevan dengan keperluan JKR seperti:
 
-### Day 1: Foundations and Applications
+* **Penyelidikan IoT untuk Pemeliharaan Warisan** – menekankan kepentingan teknologi dalam melestarikan infrastruktur bersejarah.
+* **Generative AI untuk Kejuruteraan & Makmal** – memperlihatkan bagaimana AI generatif boleh menyokong tugas harian serta penyelidikan teknikal.
+* **IoT dalam Pemantauan Alam Sekitar & Sumber** – memperkukuh peranan JKR dalam pemantauan pembangunan mampan.
+* **IoT untuk Komuniti & Infrastruktur Pintar** – menghubungkan teknologi dengan pembangunan bandar dan komuniti moden.
+* **AI untuk Produktiviti & Analisis Data** – mengoptimumkan keupayaan analitik kejuruteraan dengan penggunaan AI.
+* **AI untuk Kejuruteraan & Pengurusan Projek di JKR** – memberi tumpuan khusus kepada aplikasi praktikal AI dalam konteks projek-projek JKR.
 
-The first day introduces participants to the **fundamentals of AI and Generative AI tools**, including effective prompting strategies. Through sessions on **information search, summarization, and document assistance**, staff learn to harness AI for drafting letters, emails, reports, and translations. Practical modules cover **presentation and visual design** (slides, posters, graphics) as well as **task organization and scheduling**. The day concludes with a critical discussion on **ethics, bias, privacy, and responsible AI use**.
+Program ini juga menyediakan ruang interaksi melalui sesi pembentangan, perbincangan serta perkongsian pengalaman bersama pakar akademik dalam bidang AI dan IoT. Hasil daripada penglibatan ini, para peserta dijangka dapat membawa pulang ilmu, strategi, dan amalan terbaik untuk diaplikasikan dalam perkhidmatan serta projek kejuruteraan JKR.
 
-### Day 2: Hands-On Practice and Optimization
+### Hasil Pembelajaran
 
-The second day focuses on **applied practice**, allowing participants to draft professional communications, generate meeting minutes, and create presentations/posters with AI. Sessions also introduce **data handling techniques**, such as automating data entry and extracting survey insights. Further modules guide participants in **task coordination**, **refining AI prompts**, and leveraging **AI shortcuts and integrations with Microsoft Office tools**. The training concludes with best practices for efficient daily AI use.
+Menjelang akhir program, para peserta akan dapat:
 
-### Outcome
+1. **Menguasai pengetahuan asas serta aplikasi praktikal AI dan IoT** dalam bidang kejuruteraan, penyelidikan makmal, serta pengurusan infrastruktur.
+2. **Mengenal pasti dan mengaplikasikan strategi penggunaan AI dan IoT** untuk meningkatkan produktiviti, analisis data, pemantauan alam sekitar, dan pembangunan infrastruktur pintar.
+3. **Mengintegrasikan teknologi AI dalam pengurusan projek kejuruteraan JKR** bagi memperkukuh keberkesanan, inovasi, dan keberdayaan organisasi.
 
-By the end of the program, participants will:
+### [Jadual Latihan](materials/tentatif.md)
 
-* Understand AI concepts and tools relevant to administrative and support roles.
-* Apply AI to improve efficiency in writing, documentation, presentations, and scheduling.
-* Use AI responsibly, with awareness of ethical and privacy considerations.
-* Gain confidence in troubleshooting and optimizing prompts for accurate results.
+Jadual Latihan mengenai **Kecerdasan Buatan (AI) dan Internet Pelbagai Benda (IoT) untuk Kecemerlangan Kejuruteraan** ini direka bagi memberikan peserta daripada Pusat Kecemerlangan Kejuruteraan dan Teknologi (CREaTE), JKR pemahaman konseptual serta pendedahan praktikal dalam mengaplikasikan teknologi baharu dalam bidang kejuruteraan dan pengurusan infrastruktur. Dilaksanakan selama tiga hari, program ini menggabungkan sesi perkongsian ilmu dengan perbincangan interaktif, membolehkan peserta mendalami topik seperti IoT untuk pemeliharaan warisan, pemantauan alam sekitar, dan pembangunan infrastruktur pintar, serta penggunaan Generative AI untuk produktiviti, analisis data, dan pengurusan projek. Penekanan turut diberikan kepada aplikasi dunia sebenar yang berkait rapat dengan peranan dan tanggungjawab JKR, sekali gus membekalkan keyakinan kepada peserta untuk memanfaatkan teknologi AI dan IoT secara berkesan, di samping memupuk inovasi, kecekapan, dan kelestarian dalam projek kejuruteraan negara.
 
-## [Training Schedule](materials/tentatif.md)
-
-The Training Schedule on Artificial Intelligence for Space Support Staff is designed to provide participants with both foundational knowledge and practical skills in applying AI to administrative and operational tasks. Spread across two days, the program combines theoretical sessions with hands-on activities, ensuring participants gain experience in areas such as information retrieval, document preparation, data handling, presentation design, and task coordination. Emphasis is also given to ethical and responsible AI use, equipping staff with the confidence to leverage AI tools effectively while maintaining professionalism, accuracy, and confidentiality in their daily work.
 
 ## [Teaching Materials](materials/teaching.md)
 
