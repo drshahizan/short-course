@@ -7,8 +7,8 @@
 
 # Workshop Program Structure
 
-## [Memories of Phd Journey](https://drive.google.com/drive/folders/1g4wGs4y9ujc9mF6vrTuz7Lu06eLKdplk)
-## 📋 [Slide presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/25%20FM%20PGSS.pdf)
+## [1. Memories of Phd Journey](https://drive.google.com/drive/folders/1g4wGs4y9ujc9mF6vrTuz7Lu06eLKdplk)
+## [3. Slide presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm/images/25%20FM%20PGSS.pdf)
 
 | **Category**             | **Session**                                                                                                                                                                                         |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
