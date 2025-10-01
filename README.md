@@ -70,6 +70,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 1 Oct | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies](https://github.com/drshahizan/short-course/blob/main/workshop/25binus) | 
 | 29 Sept 2025 | 🇲🇾 Universiti Teknologi Malaysia | [PGSS FM: AI Tools for Research](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm) |
 | 17-18 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
 | 09-10 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
