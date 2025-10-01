@@ -8,8 +8,6 @@
 
 # Slot Program Inovasi Teknologi AI & IoT dalam Kejuruteraan
 
-**Tarikh: 1 – 3 Oktober 2025**
-
 | Hari / Tarikh                        | Masa             | Slot / Tajuk                                                           |
 | ------------------------------------ | ---------------- | ---------------------------------------------------------------------- |
 | **Hari Pertama (Rabu, 1 Okt 2025)**  | 8.30 – 10.30 mlm | **Slot 1:** Penyelidikan IoT untuk Pemeliharaan Warisan                |
