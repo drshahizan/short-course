@@ -5,6 +5,21 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+
+# Slot Program Inovasi Teknologi AI & IoT dalam Kejuruteraan
+
+**Tarikh: 1 – 3 Oktober 2025**
+
+| Hari / Tarikh                        | Masa             | Slot / Tajuk                                                           |
+| ------------------------------------ | ---------------- | ---------------------------------------------------------------------- |
+| **Hari Pertama (Rabu, 1 Okt 2025)**  | 8.30 – 10.30 mlm | **Slot 1:** Penyelidikan IoT untuk Pemeliharaan Warisan                |
+| **Hari Kedua (Khamis, 2 Okt 2025)**  | 9.00 – 10.30 pg  | **Slot 2:** Generative AI: Mudahkan Tugas Harian Kejuruteraan & Makmal |
+|                                      | 11.00 – 1.00 tgh | **Slot 3:** Aplikasi IoT dalam Pemantauan Alam Sekitar & Sumber        |
+|                                      | 2.30 – 4.30 ptg  | **Slot 4:** IoT untuk Komuniti & Infrastruktur Pintar                  |
+|                                      | 8.30 – 10.30 mlm | **Slot 5:** AI untuk Produktiviti & Analisis Data Mudah                |
+| **Hari Ketiga (Jumaat, 3 Okt 2025)** | 9.00 – 11.00 pg  | **Slot 6:** AI untuk Kejuruteraan & Pengurusan Projek di JKR           |
+
+
 # Training Schedule
 
 ## **Day 1**
