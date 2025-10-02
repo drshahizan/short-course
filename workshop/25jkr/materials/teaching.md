@@ -21,7 +21,7 @@ Bahan Pengajaran yang disediakan dalam program ini telah disusun dengan teliti u
 |  **6** | **Sumber Pembelajaran (Media)**       | • [Pengenalan AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)                                                                                                                                                                                                                       | Memberi **kesedaran dan perspektif kritikal** mengenai potensi serta risiko AI                |
 
 
-#  Teori
+##  Teori dan Praktis
 
 | **No** | **Tajuk / Pautan**                                                                                                                                       | **Aktiviti / Kandungan**                                                                                                                                               |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
