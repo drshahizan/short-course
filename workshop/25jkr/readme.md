@@ -37,9 +37,9 @@ Jadual Latihan mengenai **Kecerdasan Buatan (AI) dan Internet Pelbagai Benda (Io
 
 Bahagian ini menyediakan **rujukan utama** yang digunakan sepanjang program. Ia merangkumi nota kuliah, garis panduan rasmi berkaitan penggunaan AI & IoT dalam kejuruteraan, laporan antarabangsa mengenai penerapan teknologi pintar, serta slaid pembentangan dan panduan langkah demi langkah. Secara kolektif, bahan ini memberikan peserta asas kukuh tentang **pengetahuan teori, amalan terbaik, dan panduan praktikal** untuk mengukuhkan pembelajaran sepanjang program serta menyokong **penggunaan berterusan AI & IoT dalam projek kejuruteraan dan pengurusan infrastruktur JKR**.
 
-## [Alat AI & IoT](materials/ai.md)
+## [Alatan AI](materials/ai.md)
 
-Bahagian ini memperkenalkan peserta kepada **set alat AI dan IoT terpilih yang direka untuk menyokong tugas kejuruteraan, analisis data, serta pemantauan infrastruktur**. Penerangan yang disediakan membantu peserta menguasai **kemahiran digital** yang diperlukan untuk mengintegrasikan teknologi ini ke dalam amalan kerja dengan cara yang **beretika, berkesan, dan inovatif**.
+Bahagian ini memperkenalkan peserta kepada **set alat AI terpilih yang direka untuk menyokong tugas kejuruteraan, analisis data, serta pemantauan infrastruktur**. Penerangan yang disediakan membantu peserta menguasai **kemahiran digital** yang diperlukan untuk mengintegrasikan teknologi ini ke dalam amalan kerja dengan cara yang **beretika, berkesan, dan inovatif**.
 
 ## [Latihan Praktikal](materials/latihan.md)
 
