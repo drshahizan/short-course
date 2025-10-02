@@ -21,7 +21,7 @@ Program ini dianjurkan dengan objektif utama untuk memperkenalkan serta memperku
 
 Program ini juga menyediakan ruang interaksi melalui sesi pembentangan, perbincangan serta perkongsian pengalaman bersama pakar akademik dalam bidang AI dan IoT. Hasil daripada penglibatan ini, para peserta dijangka dapat membawa pulang ilmu, strategi, dan amalan terbaik untuk diaplikasikan dalam perkhidmatan serta projek kejuruteraan JKR.
 
-### Hasil Pembelajaran
+## Hasil Pembelajaran
 
 Menjelang akhir program, para peserta akan dapat:
 
@@ -29,7 +29,7 @@ Menjelang akhir program, para peserta akan dapat:
 2. **Mengenal pasti dan mengaplikasikan strategi penggunaan AI dan IoT** untuk meningkatkan produktiviti, analisis data, pemantauan alam sekitar, dan pembangunan infrastruktur pintar.
 3. **Mengintegrasikan teknologi AI dalam pengurusan projek kejuruteraan JKR** bagi memperkukuh keberkesanan, inovasi, dan keberdayaan organisasi.
 
-### [Jadual Latihan](materials/tentatif.md)
+## [Jadual Latihan](materials/tentatif.md)
 
 Jadual Latihan mengenai **Kecerdasan Buatan (AI) dan Internet Pelbagai Benda (IoT) untuk Kecemerlangan Kejuruteraan** ini direka bagi memberikan peserta daripada Pusat Kecemerlangan Kejuruteraan dan Teknologi (CREaTE), JKR pemahaman konseptual serta pendedahan praktikal dalam mengaplikasikan teknologi baharu dalam bidang kejuruteraan dan pengurusan infrastruktur. Dilaksanakan selama tiga hari, program ini menggabungkan sesi perkongsian ilmu dengan perbincangan interaktif, membolehkan peserta mendalami topik seperti IoT untuk pemeliharaan warisan, pemantauan alam sekitar, dan pembangunan infrastruktur pintar, serta penggunaan Generative AI untuk produktiviti, analisis data, dan pengurusan projek. Penekanan turut diberikan kepada aplikasi dunia sebenar yang berkait rapat dengan peranan dan tanggungjawab JKR, sekali gus membekalkan keyakinan kepada peserta untuk memanfaatkan teknologi AI dan IoT secara berkesan, di samping memupuk inovasi, kecekapan, dan kelestarian dalam projek kejuruteraan negara.
 
