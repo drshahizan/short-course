@@ -8,7 +8,7 @@
 
 # Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.jpeg"  height="500">
  </p>
 
 **Sinopsis Program:**
