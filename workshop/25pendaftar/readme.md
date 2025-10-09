@@ -6,19 +6,16 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
+# AI in Workplace
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.jpeg"  height="500">
  </p>
 
-**Sinopsis Program:**
+### **Synopsis: Kursus AI in Workplace**
 
-Revolusi Kecerdasan Buatan (AI) sedang merubah landskap kerja dan pengurusan maklumat dalam organisasi moden. Program ini bertujuan memberi pendedahan kepada peserta tentang bagaimana teknologi AI, khususnya penggunaan **ChatGPT** dan pelbagai aplikasi AI lain, boleh dimanfaatkan untuk meningkatkan **produktiviti kerja** seharian.
+The **Kursus AI in Workplace** aims to enhance participants’ understanding and practical skills in applying **Artificial Intelligence (AI)** within professional settings. This one-day course, categorized under *Digital Competency* in the *Strategic University Competency Framework*, is designed to empower UTM staff to integrate AI tools effectively in their daily work processes.
 
-Peserta akan diperkenalkan kepada konsep asas AI generatif serta ditunjukkan kaedah dan strategi mengaplikasikan teknologi ini dalam tugasan rutin, pembuatan keputusan, penulisan, penyelidikan, serta pengurusan data. Ceramah ini akan memberi penekanan kepada penggunaan AI secara **strategik dan bertanggungjawab**, sejajar dengan keperluan **kompetensi digital** warga universiti masa kini.
-
-Melalui pengisian yang interaktif dan praktikal, peserta akan memperoleh pemahaman yang lebih mendalam tentang potensi AI dalam menyokong pencapaian objektif kerja yang lebih cekap, cepat dan inovatif.
-
+Participants will explore key AI concepts, workplace automation strategies, and practical demonstrations of generative AI applications that improve productivity, decision-making, and communication. Through guided activities, participants will learn how to leverage tools such as ChatGPT, Gemini, and AI-assisted analytics to optimize efficiency and innovation in administrative and academic tasks.
 
 ## Bahan Pengajaran
 
