@@ -17,40 +17,25 @@ The **AI in Workplace** aims to enhance participants’ understanding and practi
 
 Participants will explore key AI concepts, workplace automation strategies, and practical demonstrations of generative AI applications that improve productivity, decision-making, and communication. Through guided activities, participants will learn how to leverage tools such as ChatGPT, Gemini, and AI-assisted analytics to optimize efficiency and innovation in administrative and academic tasks.
 
-## Bahan Pengajaran
+## **Teaching Materials**
 
-| No | Pelajaran | Topik |
-|--------|---------|---------|
-| 1.| Slaid |[ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q)
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
-| 4. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
-| 5. | Telegram |[Copilot](./materials/telegram.md)|
-| 6. | Aplikasi AI |[Qwen](./materials/qwen.md)|
-|  |  |[Gemini](https://gemini.google.com/app)|
-|  |  |[DeepSeek](./materials/deepseek.md)|
-|  |  |[Napkin.ai](./materials//napkin.md)|
-|  |  |[Grok](./materials/grok.md)|
-|  |  |[Kimi](./materials/kimi.md)|
-|7.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
-|  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
-|  |  | [Latihan 3: Kenali UTM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
-|  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
-|  |  | [Latihan 5: Peramalan Jumlah Penduduk Malaysia](./materials/latihan5.md)|
-|  |  | [Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM](./materials/latihan6.md)|
-|  |  | [Latihan 7: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
-|  |  | [Latihan 8: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 9: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
-|  |  | [Latihan 10: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
-|  |  | [Latihan 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+| No | Type                 | Topic |
+| -- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. | Slides               | [ChatGPT and AI Applications for Workplace Productivity](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q) |
+| 2. | Article              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
+| 3. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
+| 4. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
+| 5. | Telegram Integration | [Copilot](./materials/telegram.md) |
+| 6. | AI Applications      | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) |
+| 7. | Exercises            | [Exercise 1: Using Generative AI Commands](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) <br> [Exercise 2: Using Generative AI Commands](./materials/latihan2.md) <br> [Exercise 3: Discover UTM & Boost Productivity through Institutional Insights](./materials/latihan3.md) <br> [Exercise 4: Data Analysis and Visualization](./materials/latihan4.md) <br> [Exercise 5: Forecasting Malaysia’s Population](./materials/latihan5.md) <br> [Exercise 6: Data Analysis & Strategic Planning for UTM Academic Staff](./materials/latihan6.md) <br> [Exercise 7: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md) <br> [Exercise 8: Image Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md) <br> [Exercise 9: CSV File Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) <br> [Exercise 10: Document Analysis using Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md) <br> [Exercise 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
-## Maklumat Tambahan
+## **Additional Resources**
 
-| No | Topik |
-|--------:|---------|
-|1.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-|2.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|3.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+| No | Topic                                                                                                        |
+| -: | ------------------------------------------------------------------------------------------------------------ |
+| 1. | [Introduction to Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)             |
+| 2. | [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) |
+| 3. | [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)                      |
 
 
 ### 🙌🏻 Connect with Me
