@@ -31,7 +31,7 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 ### **Applied AI Exercises (Registrar’s Department Context)**
 
-| **No.** | **Activity & Link** | **Description**                                                                                  |
+| **No.** | **Activity** | **Description**                                                                                  |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
 |    1   | [Integrating Generative AI for Organizational Excellence in the Registrar’s Department](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) | Explore how Generative AI enhances efficiency and innovation within administrative workflows.    |
 |    2   | [Using Generative AI Commands](./materials/latihan2.md) | Learn effective AI prompting techniques for task automation and knowledge generation.            |
@@ -40,7 +40,7 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 ### **Document & Content Creation**
 
-| **No.** | **Activity & Link** | **Description** |
+| **No.** | **Activity** | **Description** |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
 |    5    | [Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md) | Employ AI to extract, summarize, and interpret information from research or policy documents.             |
 |    6    | [Designing Presentation Slides with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Use AI-powered design tools to produce clear, professional, and engaging slides.                          |
@@ -53,7 +53,7 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 ### **Visualization & Planning Tools**
 
-| **No.** | **Activity & Link** | **Description** |
+| **No.** | **Activity** | **Description** |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
 |    12    | [Mind Mapping with Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                        | Create interactive mind maps to visualize, structure, and organize research or strategic ideas effectively.          |
 |    13    | [Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Use Whimsical with ChatGPT to design flowcharts, concept maps, and mind maps for clearer planning and communication. |
@@ -61,20 +61,20 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 ### **Data Analysis & Forecasting**
 
-| **No.** | **Activity & Link**                                                                                                                        | **Description**                                                                                                |
+| **No.** | **Activity** | **Description** |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
 |    15    | [Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Apply AI-driven forecasting tools to analyze data trends and generate predictive insights for decision-making. |
-|    16    | [Exercise 4: Data Analysis and Visualization](./materials/latihan4.md)                                                                     | Perform data visualization and pattern recognition using AI tools to support evidence-based insights.          |
-|    17    | [Exercise 5: Forecasting Malaysia’s Population](./materials/latihan5.md)                                                                   | Use AI-assisted methods to project population growth and analyze demographic trends.                           |
+|    16    | [Data Analysis and Visualization](./materials/latihan4.md)                                                                     | Perform data visualization and pattern recognition using AI tools to support evidence-based insights.          |
+|    17    | [Forecasting Malaysia’s Population](./materials/latihan5.md)                                                                   | Use AI-assisted methods to project population growth and analyze demographic trends.                           |
 
 ### **Creative & Exploratory AI Applications**
 
-| **No.** | **Activity & Link** | **Description** |
+| **No.** | **Activity** | **Description** |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-|    18   | [Exercise 8: Image Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Explore AI’s capability to interpret and analyze visual content for research or documentation. |
-|    19   | [Exercise 9: CSV File Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)  | Analyze and summarize data from CSV files using AI-powered analytical prompts. |
-|    20   | [Exercise 10: Document Analysis using Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md) | Use Microsoft Copilot to review, interpret, and summarize complex documents. |
-|    21   | [Exercise 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)  | Combine AI tools for creative output inspired by Malaysian art and culture. |
+|    18   | [Image Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Explore AI’s capability to interpret and analyze visual content for research or documentation. |
+|    19   | [CSV File Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)  | Analyze and summarize data from CSV files using AI-powered analytical prompts. |
+|    20   | [Document Analysis using Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md) | Use Microsoft Copilot to review, interpret, and summarize complex documents. |
+|    21   | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)  | Combine AI tools for creative output inspired by Malaysian art and culture. |
 
 ## **Additional Resources**
 
