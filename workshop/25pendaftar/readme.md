@@ -21,7 +21,7 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 | No | Type                 | Topic |
 | -- | -------------------- | ----- |
-| 1. | Slides               | [AI in Workplace](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EcV1RRD5mW9LqYByUmWaoEkBfipQgzDmSsIZgYge2xSXYw?e=Tqnx1q) |
+| 1. | Slides               | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.pdf) |
 | 2. | Article              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
 | 3. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
 | 4. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
