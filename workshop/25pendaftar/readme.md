@@ -11,7 +11,7 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.jpeg"  height="500">
  </p>
 
-### **Synopsis: Kursus AI in Workplace**
+### Synopsis
 
 The **Kursus AI in Workplace** aims to enhance participants’ understanding and practical skills in applying **Artificial Intelligence (AI)** within professional settings. This one-day course, categorized under *Digital Competency* in the *Strategic University Competency Framework*, is designed to empower UTM staff to integrate AI tools effectively in their daily work processes.
 
