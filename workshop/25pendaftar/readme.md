@@ -31,11 +31,12 @@ Participants will explore key AI concepts, workplace automation strategies, and 
 
 ## **Additional Resources**
 
-| No | Topic                                                                                                        |
-| -: | ------------------------------------------------------------------------------------------------------------ |
-| 1. | [Introduction to Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)             |
-| 2. | [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) |
-| 3. | [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)                      |
+| **No** | **Category**                       | **Content** | **Focus Area**                                                                                        |
+| -----: | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+|     1. | **Guidelines & Policies**          | • [Generative AI in Education & Research (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> • [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education and the public sector**                     |
+|     2. | **National Guidelines (Malaysia)** | • [AI Adoption in the Public Sector](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI in Teaching & Learning (Higher Education)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [UTM Generative AI Guidelines for Teaching & Learning](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)                                                                                          | **Policy adoption** of Generative AI in Malaysia’s education and government sectors                   |
+|     3. | **Trends & Insights**              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Understanding **global usage, trends, and interest in AI**                                            |
+|     4. | **Multimedia Learning Resources**  | • [Introduction to Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | Engaging **video-based learning** resources to understand AI concepts, ethics, and real-world impacts |
 
 
 ### 🙌🏻 Connect with Me
