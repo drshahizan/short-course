@@ -19,7 +19,8 @@
 | No | Lesson | Topic |
 |--------|---------|---------|
 | 1. | Slide | [Machine Translation and Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot%20_UAL.pdf) |
-| 2. | Searching | [Zeta Alpha](https://search.zeta-alpha.com/) |
+| 2. | Database | [Scopus](https://www-scopus-com.ezproxy.utm.my/pages/home?display=basic#basic)|
+| 3. | Searching | [Zeta Alpha](https://search.zeta-alpha.com/) |
 
 ### Articles
 1. E. A. Kusnanti, E. Sierra, G. G. S. Putra, E. S. Cahyadi, A. Haq and D. Purwitasari, "Indonesian Lexical Ambiguity in Machine Translation: A Literature Review," 2024 International Conference on Information Technology Research and Innovation (ICITRI), Jakarta, Indonesia, 2024, pp. 59-64, doi: 10.1109/ICITRI62858.2024.10698991. [PDF](https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/Indonesian_Lexical_AmbiguitySLR.pdf)
