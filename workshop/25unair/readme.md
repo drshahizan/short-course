@@ -35,7 +35,7 @@
 ### Hands-on
 | Lab | Title | Description | Output |
 | :---: | ----- | ----------- | :-----: |
-| 1 | Introduction to Machine Translation for Indonesian Language | Translate sentences from Indonesian to English using the Google Translate API. | <a href="lab/lab1.md"><img src="../images/task.png" width="24px" height="24px"></a> |
+| 1 | Introduction to Machine Translation for Indonesian Language | Translate sentences from Indonesian to English using the Google Translate API. | <a href="lab/lab1.md"><img src="images/task.png" width="24px" height="24px"></a> |
 | 2 | Morphological Analysis of Indonesian in Machine Translation | Students analyze how machine translation handles affixed words (e.g., prefixes and suffixes) in Indonesian and evaluate translation accuracy into English. | <a href="lab/lab2.md"><img src="images/task.png" width="24px" height="24px"></a> |
 | 3 | Translation of Regional Languages in Indonesia | Students input sentences from 10 major regional languages in Indonesia, such as Javanese, Sundanese, and Minangkabau, and translate them into Indonesian. The machine translations are analyzed for system accuracy. | <a href="lab/lab3.md"><img src="images/task.png" width="24px" height="24px"></a> |
 | 4 | Translation of Complex Sentences | Students input complex Indonesian sentences with multiple clauses and translate them into other languages, evaluating the ability of machine translation to handle intricate sentence structures. | <a href="lab/lab4.md"><img src="images/task.png" width="24px" height="24px"></a> |
