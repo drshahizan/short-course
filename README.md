@@ -12,7 +12,11 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="400">
 </a> 
 -->
-## 🌍 Collaborative Workshops and Courses: Year 2025
+## 🌍 Workshops and Courses: Year 2025
+
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/25unair">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/MSOchatbot.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.jpeg" alt="Dr Shahizan AI"  height="200">
@@ -74,10 +78,13 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 27 Oct | 🇮🇩 Universitas Airlangga | [Natural Language Processing: Machine Translation and Chatbot](https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/MSOchatbot.jpeg) | 
 | 14 Oct | 🇲🇾 Universiti Teknologi Malaysia | [Al in Workspace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar) | 
 | 1-3 Oct | 🇲🇾 Jabatan Kerja Raya Malaysia             | [Inovasi Teknologi Al & IoT Dalam Kejuruteraan](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr) | 
 | 1 Oct | 🇮🇩 Bina Nusantara University             | [The Integration of AI Tools in Postgraduate Computer Science Studies](https://github.com/drshahizan/short-course/blob/main/workshop/25binus) | 
 | 29 Sept 2025 | 🇲🇾 Universiti Teknologi Malaysia | [PGSS FM: AI Tools for Research](https://github.com/drshahizan/short-course/blob/main/workshop/25pgss_fm) |
+| 25 Sept | 🇨🇳 Kunming University of Science and Technology (KUST) | [The Future is Now: How Generative AI is Transforming Research Publications](https://github.com/drshahizan/short-course) |
+| 22 Sept | 🇨🇳 Guizhou Minzu University | [The Future is Now: How Generative AI is Transforming Research Publications](https://github.com/drshahizan/short-course) |
 | 17-18 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
 | 09-10 Sept | 🇲🇾 Universiti Teknologi Malaysia | [Training on Artificial Intelligence for UTMSpace Support Staff](https://github.com/drshahizan/short-course/tree/main/workshop/25ppspace) |
 | 08 Sept | 🇲🇾 Universiti Teknologi Malaysia | [From Idea to Impact: Writing Winning Grant Proposals with Generative AI](https://github.com/drshahizan/short-course/tree/main/workshop/25idea) |
