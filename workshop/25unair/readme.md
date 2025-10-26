@@ -18,7 +18,7 @@
 
 | No | Lesson | Topic |
 |--------|---------|---------|
-| 1. | Slide | [Machine Translation and Chatbot](https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot%20_UAL.pdf) |
+| 1. | Slide | [Machine Translation and Chatbot](https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/chatbot%20_UAL25.pdf) |
 | 2. | Database | [Scopus](https://www-scopus-com.ezproxy.utm.my/pages/home?display=basic#basic)|
 | 3. | Searching | [Zeta Alpha](https://search.zeta-alpha.com/) |
 
