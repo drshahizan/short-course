@@ -63,6 +63,13 @@
 ### Definition:
 **Chatbots** are computer programs designed to simulate human conversation, either through text or voice. They use technologies like natural language processing (NLP) to understand and respond to user inputs. Chatbots can range from simple, rule-based systems to more advanced AI-driven models that learn and adapt over time[³](https://www.coursera.org/articles/what-is-a-chatbot) [⁴](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31).
 
+### Articles
+
+1. Wicaksono, B. P., & Zahra, A. (2022). Design of the use of chatbot as a virtual assistant in banking services in Indonesia. IAES International Journal of Artificial Intelligence, 11(1), 23–33. https://doi.org/10.11591/ijai.v11.i1.pp23-33. [PDF](https://ijai.iaescore.com/index.php/IJAI/article/view/20921)
+2. De Rolnmuch, M. V. H., & Romadhony, A. (2025). Design and prototype of Indonesian chatbot on health information. In 2025 International Conference on Data Science and Its Applications (ICoDSA) (pp. 1–6). IEEE. https://doi.org/10.1109/ICoDSA67155.2025.11157498. [PDF](https://ieeexplore.ieee.org/document/11157498)
+3. Zaman, Q., Safwandi, & Fajriana. (2025). Supporting application fast learning of Kitab Kuning for Santri' Ula using natural language processing methods. International Journal of Engineering, Science and Information Technology, 5(1). https://doi.org/10.52088/ijesty.v5i1.713. [PDF](https://ijesty.org/index.php/ijesty/article/view/713)
+4. Husain, Afandi, R., Sensuse, D. I., Lusa, S., Safitri, N., & one additional author. (2024). Designing a knowledge-based chatbot to elevate business licensing services in Indonesia. Jurnal RESTI, 8(5). https://doi.org/10.29207/resti.v8i5.6069. [PDF](https://jurnal.iaii.or.id/index.php/RESTI/article/view/6069)
+
 ### Hands-on
 
 | No. | Project | Description | Link |
