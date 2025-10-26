@@ -12,7 +12,7 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="400">
 </a> 
 -->
-## 🌍 Collaborative Workshops and Courses: Year 2025
+## 🌍 Workshops and Courses: Year 2025
 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25unair">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/MSOchatbot.jpeg" alt="Dr Shahizan AI"  height="200">
