@@ -7,9 +7,7 @@
 
 # Machine Translation and Chatbot
 
-<a href="https://github.com/drshahizan/special-topic-data-engineering/blob/main/materials/chatbot.md">
- <img src="https://github.com/drshahizan/special-topic-data-engineering/blob/main/images/Talk_airlangga.jpeg" alt="Image Alt Text"  height="400">
-</a>
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25unair/images/MSOchatbot.jpeg" alt="Image Alt Text"  height="400">
 
 ## Part 1: Machine Translation
 
