@@ -13,7 +13,6 @@
 | **2**  | **Integration with Communication**  | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
 Here’s a per-tool table, one row for each AI tool you listed:
 
-```markdown
 | **No** | **Tool**            | **Category**                         | **Contents**                                                                                       | **Focus**                                                                                 |
 | -----: | ------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | **1**  | Gemini              | General-purpose LLM assistant        | Multimodal chat, code help, data analysis, Docs/Sheets integration                                  | Research, data workflows, Google ecosystem integration                                    |
@@ -25,7 +24,6 @@ Here’s a per-tool table, one row for each AI tool you listed:
 | **7**  | Deepseek            | Efficient reasoning model            | Strong math/code reasoning, latency/compute efficient                                                | Analytical tasks on limited compute; structured problem solving                           |
 | **8**  | NotebookLM          | Source-grounded research workspace   | Upload sources, map concepts, ask questions with citations                                           | Study guides, literature matrices, grounded summaries with references                     |
 | **9**  | Napkin.ai           | Ideation/visual thinking tool        | Turns prompts into notes/diagrams/snippets; quick concept sketches                                  | Brainstorming, storyboarding, early concept exploration                                   |
-```
 
 
 
