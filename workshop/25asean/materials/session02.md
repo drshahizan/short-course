@@ -15,7 +15,7 @@
 | **3**  | **Multimodal Generative AI Assistant** | **Gemini** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
 | **4**  | **Conversational AI**               | **Grok** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
 | **5**  | **Open-Source Foundation Model**    | **Qwen** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
-| **6**  | **Research Reading & Summarisation Tool** | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and citation extraction. | Literature review, research summarisation, and document synthesis. |
+| **6**  | **Research Reading & Presentation Tool** | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
 | **7**  | **General-Purpose LLM Assistant**   | **ChatGPT** – Versatile AI for conversation, content generation, code, and data handling. | Teaching, research, analysis, and creative content development. |
 | **8**  | **Productivity & Office Integration** | **Microsoft Copilot** – Integrated with Word, Excel, PowerPoint, Outlook, and Teams. | Automates drafting, summarisation, and spreadsheet or presentation tasks. |
 | **9**  | **Reasoning & Analytical Model**    | **Deepseek** – Lightweight yet powerful model for structured reasoning and problem solving. | Analytical computations, logic-based queries, and efficient resource use. |
