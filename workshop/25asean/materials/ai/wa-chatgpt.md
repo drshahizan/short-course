@@ -12,8 +12,8 @@ You can now use **ChatGPT** or **Microsoft Copilot** directly on **WhatsApp**. S
 
 <table align="center">
   <tr>
-    <td align="center"><img src="../images/qrcode_WA_chatgpt.png" height="300"></td>
-    <td align="center"><img src="../images/qrcode_wa.copilot.png" height="300"></td>
+    <td align="center"><img src="../../images/qrcode_WA_chatgpt.png" height="300"></td>
+    <td align="center"><img src="../../images/qrcode_wa.copilot.png" height="300"></td>
   </tr>
    <tr>
     <th align="center">ChatGPT</th>
