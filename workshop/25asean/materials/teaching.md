@@ -20,11 +20,9 @@ The teaching materials prepared for this program are carefully curated to suppor
 | **5**  | **Integration with Communication**  | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
 | **6**  | **Learning Resources (Media)**      | • [Introduction to AI (Video)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI & Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | Providing **awareness and critical perspectives** on the potential and risks of AI |
 
----
-
 ## Theory and Practice
 
-| **No** | **Title / Link**                                                                                                                                         | **Activities / Content**                                                                                                                                              |
+| **No** | **Title / Link** | **Activities / Content** |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**  | [Introduction to Artificial Intelligence (AI)](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr/materials/sesi01.md)                 | • Introduction to basic AI concepts <br> • Evolution of AI <br> • AI capabilities <br> • Hands-on text generation practice                                             |
 | **2**  | [Introduction to Generative AI Tools & Effective Prompting](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/sesi02.md) | • Overview of generative AI tools <br> • Prompting frameworks and best practices                                                 |
