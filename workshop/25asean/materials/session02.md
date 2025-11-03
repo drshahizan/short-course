@@ -7,6 +7,11 @@
 
 # Session 2 – Introduction to Generative AI Tools
 
+| **No** | **Category**                       | **Contents** | **Focus**                                                                                     |
+| -----: | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **1**  | **Practical Setup**                 | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step guides for **AI tool installation and access** |
+| **2**  | **Integration with Communication**  | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
