@@ -80,7 +80,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 5 Nov | 🇲🇾 Universiti Teknologi Malaysia | [Department of Statistics Malaysia](https://github.com/drshahizan/short-course/blob/main/workshop/25asean) | 
+| 5 Nov | 🇲🇾 Department of Statistics Malaysia | [Unifying Data With Generative Ai Tools: A Practical Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/25asean) | 
 | 27 Oct | 🇮🇩 Universitas Airlangga | [Natural Language Processing: Machine Translation and Chatbot](https://github.com/drshahizan/short-course/blob/main/workshop/25unair) | 
 | 14 Oct | 🇲🇾 Universiti Teknologi Malaysia | [Al in Workspace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar) | 
 | 1-3 Oct | 🇲🇾 Jabatan Kerja Raya Malaysia             | [Inovasi Teknologi Al & IoT Dalam Kejuruteraan](https://github.com/drshahizan/short-course/blob/main/workshop/25jkr) | 
