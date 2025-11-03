@@ -9,18 +9,14 @@
 
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25asean/images/25Asean.jpeg" alt="Shahizan SLR"  height="400">
 
-## Sinopsis Program
+## **OBJECTIVE OF THE WORKSHOP**
 
-Program ini dianjurkan dengan objektif utama untuk memperkenalkan serta memperkukuh kefahaman peserta mengenai aplikasi **Kecerdasan Buatan (AI)** dan **Internet Pelbagai Benda (IoT)** dalam bidang kejuruteraan. Dengan penyertaan para pegawai dan jurutera daripada **Centre of Excellence for Engineering and Technology (CREaTE), JKR Malaysia**, program ini memberi fokus kepada penggunaan teknologi terkini bagi meningkatkan keberkesanan, produktiviti, dan inovasi dalam sektor kejuruteraan awam dan pengurusan infrastruktur negara. Peserta didedahkan kepada topik yang relevan dengan keperluan JKR seperti:
+1. **To analyse the fundamental concepts of Artificial Intelligence (AI) and Generative AI**, and discuss their significance in fostering data unification as a catalyst for digital transformation and economic efficiency.
 
-* **Penyelidikan IoT untuk Pemeliharaan Warisan** – menekankan kepentingan teknologi dalam melestarikan infrastruktur bersejarah.
-* **Generative AI untuk Kejuruteraan & Makmal** – memperlihatkan bagaimana AI generatif boleh menyokong tugas harian serta penyelidikan teknikal.
-* **IoT dalam Pemantauan Alam Sekitar & Sumber** – memperkukuh peranan JKR dalam pemantauan pembangunan mampan.
-* **IoT untuk Komuniti & Infrastruktur Pintar** – menghubungkan teknologi dengan pembangunan bandar dan komuniti moden.
-* **AI untuk Produktiviti & Analisis Data** – mengoptimumkan keupayaan analitik kejuruteraan dengan penggunaan AI.
-* **AI untuk Kejuruteraan & Pengurusan Projek di JKR** – memberi tumpuan khusus kepada aplikasi praktikal AI dalam konteks projek-projek JKR.
+2. **To apply various Generative AI tools** for data cleaning, analysis, and integration from multiple sources.
 
-Program ini juga menyediakan ruang interaksi melalui sesi pembentangan, perbincangan serta perkongsian pengalaman bersama pakar akademik dalam bidang AI dan IoT. Hasil daripada penglibatan ini, para peserta dijangka dapat membawa pulang ilmu, strategi, dan amalan terbaik untuk diaplikasikan dalam perkhidmatan serta projek kejuruteraan JKR.
+3. **To analyse case studies** and identify the opportunities and challenges in adopting Generative AI within organisational and higher education contexts.
+
 
 ## Hasil Pembelajaran
 
