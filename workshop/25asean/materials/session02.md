@@ -11,6 +11,23 @@
 | -----: | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **1**  | **Practical Setup**                 | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step guides for **AI tool installation and access** |
 | **2**  | **Integration with Communication**  | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
+Here’s a per-tool table, one row for each AI tool you listed:
+
+```markdown
+| **No** | **Tool**            | **Category**                         | **Contents**                                                                                       | **Focus**                                                                                 |
+| -----: | ------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **1**  | Gemini              | General-purpose LLM assistant        | Multimodal chat, code help, data analysis, Docs/Sheets integration                                  | Research, data workflows, Google ecosystem integration                                    |
+| **2**  | Grok                | Conversational assistant             | Real-time web-aware Q&A, long-context reasoning, playful tone                                       | Fast information lookup, current-events Q&A                                              |
+| **3**  | Qwen               | Open/model family (Alibaba)          | Multiple sizes (chat/code/vision), strong multilingual and tool-use                                 | Custom deployments, fine-tuning, multilingual tasks                                       |
+| **4**  | Kimi.ai             | Research/reading assistant           | Long-document chat, PDF reading, citation extraction                                                 | Literature review, summarising large PDFs                                                 |
+| **5**  | ChatGPT             | General-purpose LLM assistant        | Robust chat, code, data tables, plugins/attachments                                                 | Versatile content generation, analysis, teaching/learning                                 |
+| **6**  | Microsoft Copilot   | Productivity + M365 integration      | Works inside Word/Excel/PowerPoint/Outlook/Teams; graph-aware prompts                               | Drafting, meeting summaries, spreadsheet and slide automation                             |
+| **7**  | Deepseek            | Efficient reasoning model            | Strong math/code reasoning, latency/compute efficient                                                | Analytical tasks on limited compute; structured problem solving                           |
+| **8**  | NotebookLM          | Source-grounded research workspace   | Upload sources, map concepts, ask questions with citations                                           | Study guides, literature matrices, grounded summaries with references                     |
+| **9**  | Napkin.ai           | Ideation/visual thinking tool        | Turns prompts into notes/diagrams/snippets; quick concept sketches                                  | Brainstorming, storyboarding, early concept exploration                                   |
+```
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
