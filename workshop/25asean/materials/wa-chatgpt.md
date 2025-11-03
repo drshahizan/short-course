@@ -25,31 +25,6 @@ You can now use **ChatGPT** or **Microsoft Copilot** directly on **WhatsApp**. S
   </tr>
 </table>
 
-Here’s a **WhatsApp Practice Activity** with suitable AI prompts designed for **ChatGPT** or **Microsoft Copilot** integration on WhatsApp.
-These exercises help participants learn how to communicate effectively with AI via chat-based prompts.
-
----
-
-## 🧠 **WhatsApp AI Practice Prompts**
-
-### **Objective:**
-
-To help users explore how ChatGPT or Copilot can assist in everyday workplace and creative tasks through WhatsApp.
-
-| **No** | **Task Description**                   | **Suggested Prompt (to type in WhatsApp)**                                                                                                                        | **Expected Outcome**                                                                            |
-| -----: | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-|  **1** | Introduce yourself and test connection | `Find information about me. My name is [your full name] from [your organization].`                                                                                | AI responds by summarizing or confirming your introduction in a polite, conversational way.     |
-|  **2** | Create a personal biodata              | `Create a short biodata about myself. My name is [your full name], I work at [organization], and my expertise is in [area]. Please make it professional.`         | AI generates a concise, professional biodata.                                                   |
-|  **3** | Write a talk script                    | `You are invited to give a briefing on Artificial Intelligence to your staff. Write a 3-minute script for this session including [VIP name], [date], and [time].` | AI provides a full talk script with a greeting, introduction, body, and closing remarks.        |
-|  **4** | Design a simple event poster           | `Create a poster caption for an office bowling competition on [date], [time], at [venue]. Include a motivational tagline and emoji.`                              | AI produces a catchy, engaging poster caption and layout text for social media or WhatsApp use. |
-|  **5** | Write an appreciation message          | `Write a short thank-you message to my team for successfully completing a project on time. Make it friendly and motivating.`                                      | AI returns a warm appreciation message suitable for WhatsApp posting.                           |
-|  **6** | Compose a reminder message             | `Write a polite reminder message for tomorrow’s meeting at [time]. Keep it short and professional.`                                                               | AI gives a concise reminder template ready to send on WhatsApp.                                 |
-|  **7** | Draft a social media post              | `Write a LinkedIn post about my participation in an AI workshop today. Keep it engaging, with professional tone and 3 emojis.`                                    | AI creates a short, structured post for quick sharing.                                          |
-|  **8** | Generate a motivational quote          | `Give me a motivational quote about teamwork that I can share with my office group.`                                                                              | AI provides a short inspirational quote suitable for WhatsApp.                                  |
-|  **9** | Summarize a message                    | `Summarize this message in 2 sentences: [paste long message].`                                                                                                    | AI shortens long messages for quick WhatsApp updates.                                           |
-| **10** | Translate a message                    | `Translate this message into English/Malay: [your text].`                                                                                                         | AI translates accurately and appropriately for WhatsApp tone.                                   |
-
-
 ## 🧠 **WhatsApp AI Practice Prompts**
 
 ### **Objective:**
