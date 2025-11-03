@@ -8,6 +8,8 @@
 
 # Inovasi Teknologi AI & IoT dalam Kejuruteraan
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25asean/images/25Asean.jpeg" alt="Shahizan SLR"  height="400">
+
 ## Sinopsis Program
 
 Program ini dianjurkan dengan objektif utama untuk memperkenalkan serta memperkukuh kefahaman peserta mengenai aplikasi **Kecerdasan Buatan (AI)** dan **Internet Pelbagai Benda (IoT)** dalam bidang kejuruteraan. Dengan penyertaan para pegawai dan jurutera daripada **Centre of Excellence for Engineering and Technology (CREaTE), JKR Malaysia**, program ini memberi fokus kepada penggunaan teknologi terkini bagi meningkatkan keberkesanan, produktiviti, dan inovasi dalam sektor kejuruteraan awam dan pengurusan infrastruktur negara. Peserta didedahkan kepada topik yang relevan dengan keperluan JKR seperti:
