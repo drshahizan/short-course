@@ -17,14 +17,25 @@
 
 3. **To analyse case studies** and identify the opportunities and challenges in adopting Generative AI within organisational and higher education contexts.
 
+# TENTATIVE PROGRAMME
 
-## Hasil Pembelajaran
+| **Time**              | **Activity** |
+|------------------------|--------------|
+| **8:30 – 9:00 AM**     | **Registration** |
+| **9:00 – 9:30 AM**     | **Opening Remarks & Workshop Introduction** |
+| **9:30 – 10:30 AM**    | **Session 1: Introduction to AI & Generative AI**<br>This session introduces participants to the fundamental concepts of Artificial Intelligence (AI) and its evolution towards Generative AI. It highlights the transformative role of AI in data analytics and decision-making, discusses key opportunities and challenges, and explores its relevance to the work of DOSM and higher education institutions in advancing data innovation. |
+| **10:30 – 11:00 AM**   | **Morning Break & Refreshments** |
+| **11:00 AM – 12:30 PM**| **Session 2: Introduction to Generative AI Tools**<br>This session introduces participants to major generative AI tools, emphasizing their comparative advantages, operational functions, and relevance to modern data and research environments.<br>**Tools:**<br>• Gemini (Google)<br>• Grok (xAI)<br>• Qwen (Alibaba)<br>• Kimi.ai (Moonshot AI)<br>• ChatGPT (OpenAI)<br>• Microsoft Copilot (MS365)<br>• Napkin.ai (Idea Mapping & Visual Insights) |
+| **12:30 – 2:00 PM**    | **Lunch & Prayer Break** |
+| **2:00 – 3:30 PM**     | **Session 3: Practical – Using Generative AI for Data Unification**<br>This session provides participants with hands-on experience in applying generative AI tools to integrate and analyze datasets from various sources. The exercises focus on data importation (Excel, CSV, and text formats), cleaning, and analysis to enhance data consistency, quality, and usability for statistical and research purposes. |
+| **3:30 – 3:45 PM**     | **Afternoon Tea Break** |
+| **3:45 – 5:00 PM**     | **Session 4: Case Studies & Real Applications**<br>This session presents practical case studies demonstrating the application of generative AI in real-world data integration and analysis. Participants will explore examples such as unifying census and academic datasets, generating insights using multiple AI tools. The session also includes a group discussion focusing on potential opportunities for innovation and the challenges faced in adopting AI-driven approaches within DOSM and higher education institutions. |
+| **5:00 – 5:30 PM**     | **Closing**<br>This session concludes the workshop with a summary of key learning outcomes, participant reflections, and an open Q&A session. |
 
-Menjelang akhir program, para peserta akan dapat:
 
-1. **Menguasai pengetahuan asas serta aplikasi praktikal AI dan IoT** dalam bidang kejuruteraan, penyelidikan makmal, serta pengurusan infrastruktur.
-2. **Mengenal pasti dan mengaplikasikan strategi penggunaan AI dan IoT** untuk meningkatkan produktiviti, analisis data, pemantauan alam sekitar, dan pembangunan infrastruktur pintar.
-3. **Mengintegrasikan teknologi AI dalam pengurusan projek kejuruteraan JKR** bagi memperkukuh keberkesanan, inovasi, dan keberdayaan organisasi.
+Would you like me to convert this into a **.md file** you can download directly?
+
+
 
 ## [Jadual Latihan](materials/tentatif.md)
 
