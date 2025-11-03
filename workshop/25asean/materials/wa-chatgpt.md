@@ -6,8 +6,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Whatsapp
-Anda boleh menggunakan **ChatGPT** atau **Microsoft Copilot** di **WhatsApp**. Sila imbas kod menggunakan telefon bimbit anda. Setelah berjaya disambungkan, perkhidmatan ini akan tersedia di **WhatsApp** anda. Anda kemudian boleh menaip prompt yang diinginkan untuk mendapatkan jawapan atau bantuan secara terus.
+# WhatsApp
+
+You can now use **ChatGPT** or **Microsoft Copilot** directly on **WhatsApp**. Simply scan the QR code below using your mobile phone. Once successfully connected, the service will be available in your WhatsApp chat list. You can then type your desired prompts or questions to receive instant responses and assistance directly within WhatsApp.
 
 <table align="center">
   <tr>
