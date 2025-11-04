@@ -7,6 +7,10 @@
 
 # Session 4: Case Studies & Real Applications
 
+buatkan report guna gemini dan grok
+buat poster - mage guna copilot, selepas itu guna grok
+dashboard
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
