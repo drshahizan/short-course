@@ -13,7 +13,7 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 
 ## Exercise
 
-1. **[Mind Maps with Markmap](../latihan/07_markmap.md)**  
+1. **[Mind Maps with Markmap](/latihan/07_markmap.md)**  
    Build interactive mind maps to visualize, organize, and structure statistical ideas effectively. In DOSM's daily work, this tool can help map out survey methodologies, categorize demographic data, or outline economic indicators for quick reference during team meetings or report planning.
 
 2. **[Flowcharts, Concept Maps, & Mind Maps with Whimsical](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md)**  
