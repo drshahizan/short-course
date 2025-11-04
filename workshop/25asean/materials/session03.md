@@ -33,10 +33,7 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 
 8. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**  
    Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
-   
-9. **[Data Unification with AI](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
-Integrate data from multiple sources into a single, consistent dataset using AI-assisted tools like ChatGPT for code generation or NotebookLM for document-based data merging. For DOSM's daily tasks, this eliminates silos, enhances data quality, and provides comprehensive views, such as combining census and economic surveys for unified national statistics.
-   
+      
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
