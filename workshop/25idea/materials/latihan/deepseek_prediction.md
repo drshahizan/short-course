@@ -5,16 +5,31 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Population Forecasting for Malaysia**
+Here’s your revised version written in a **professional, training-ready style** — polished for clarity, precision, and engagement (suitable for workshop notes, teaching slides, or official documentation):
+
+---
+
+# **Forecasting with Deepseek**
+
+## **Introduction**
+
+Accurate population forecasting is a cornerstone of effective national planning. It provides valuable insights into **demographic trends**, **resource needs**, and **policy priorities** across sectors such as healthcare, education, employment, and housing. By leveraging **Deepseek**, an advanced AI-powered analytical tool, professionals and researchers can generate reliable projections, visualize growth trends, and simulate various scenarios to support **data-driven decision-making**.
+
+This exercise focuses on **Malaysia’s population dynamics**, integrating real statistical data from the **Department of Statistics Malaysia (DOSM)** with forecasting techniques. Through structured prompts, users will explore how Deepseek can automate forecasting tasks, perform statistical calculations, and translate numerical outputs into meaningful insights for policy development and strategic planning.
+
+
+## **Population Forecasting for Malaysia**
 
 ### 🎯 **Objectives**
 
-* To understand the basic concepts of **forecasting** using statistical data.
-* To explore how **Deepseek can assist in generating projections and analyzing population trends**.
-* To apply real population data for **policy-making, budget planning, and human resource management**.
+* To understand the basic concepts of **forecasting** using real statistical data.
+* To explore how **Deepseek** can assist in generating projections and analyzing population trends.
+* To apply population forecasts in **policy-making**, **budget planning**, and **human resource management**.
 
 
-### 📌 **Real Data: Population of Malaysia (Source: Department of Statistics Malaysia)**
+### 📊 **Real Data: Population of Malaysia**
+
+*(Source: Department of Statistics Malaysia)*
 
 | Year | Total Population (millions) |
 | ---- | --------------------------: |
@@ -30,6 +45,8 @@
 | 2024 |          33.90 *(estimate)* |
 | 2025 |          34.40 *(estimate)* |
 
+
+## **Deepseek Forecasting Prompts**
 
 ### 💬 **Prompt 1: Linear Forecast of Malaysia’s Population up to 2035**
 
@@ -104,13 +121,12 @@ and labor market dynamics.
 ```
 Design a conceptual interactive dashboard to monitor Malaysia’s population projections (2015–2035). 
 Specify the main charts (line, pie, bar), filters (year, age group, state), and explain its usefulness 
-for policymakers. Do in HTML
+for policymakers. Do in HTML.
 ```
 
+✅ **Summary**
 
-✅ This exercise integrates **real-world data with Deepseek’s forecasting capabilities**, helping participants not only learn statistical forecasting methods but also connect them with **policy, planning, and decision-making contexts**.
-
-
+This exercise integrates **real-world data** with **Deepseek’s forecasting capabilities**, allowing participants to experience how AI can enhance the process of **statistical forecasting**, **data visualization**, and **policy interpretation**. By simulating Malaysia’s population growth under different scenarios, learners gain not only technical forecasting skills but also a deeper understanding of how demographic trends shape **policy, planning, and national development**.
 
 
 ### 🙌🏻 Connect with Me
