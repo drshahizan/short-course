@@ -9,6 +9,9 @@
 
 **Napkin.ai** is an innovative AI-powered platform designed to transform text into engaging visuals, such as diagrams, charts, infographics, mind maps, and flowcharts. By leveraging advanced artificial intelligence, it enables users to quickly generate, edit, and export visuals from existing text, streamlining the process of idea visualization and storytelling. This tool is particularly useful for turning complex information into clear, professional graphics without requiring design skills or extensive prompting.
 
+<p align="center">
+&nbsp;<img src="https://www.geeky-gadgets.com/wp-content/uploads/2024/10/napkin-ai-text-to-visual-converter.webp" height="400">
+&nbsp;</p>
 ## ✨ Key Features of Napkin.ai
 
 🔹 **Text-to-Visual Generation**
