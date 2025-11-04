@@ -6,7 +6,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-
 # Session 4: Case Studies & Real Applications
 
 This session highlights practical exercises designed to apply generative AI tools in real-world data, research, and communication contexts. Participants will explore how AI can enhance productivity, creativity, and analytical capabilities in the Department of Statistics Malaysia (DOSM) and related professional environments.
@@ -22,15 +21,19 @@ This session highlights practical exercises designed to apply generative AI tool
 
    Employ **NotebookLM** to extract, summarize, and interpret key information from statistical documents. This is particularly useful in DOSM’s daily workflow for reviewing survey reports, condensing census data, or analyzing international trade agreements, helping officers quickly identify trends and support evidence-based decision-making.
 
-4. **[Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
+4. **[Generative AI for Statistical Analysis](latihan/statistical.md)**
+
+   This case study employs a dataset on **household income and poverty rates across Malaysian states (2024)** to demonstrate AI-driven computation of **descriptive statistics, correlation analysis, and data visualization**.
+
+5. **[Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
 
    Experiment with **Kimi.ai**’s data analysis features by exploring a real dataset on real estate prices from U.S. cities. Participants will perform descriptive analysis, visualize regional patterns, and interpret trends—skills that can later be applied to Malaysian housing, demographic, or economic datasets.
 
-5. **[Kimi.ai: Mobile Website for a Botanical Garden’s Festival Weekend](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
+6. **[Kimi.ai: Mobile Website for a Botanical Garden’s Festival Weekend](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
 
    Learn to design a simple mobile-friendly website powered by AI. This case study demonstrates how to use **Kimi.ai** to generate web content, build event schedules, and manage workshop reservations. The same approach can be adapted for DOSM’s data dissemination portals or public outreach microsites.
 
-6. **[Google Stitch: a responsive web dashboard UI for an AI-enabled monitoring system for modern infrastructure and heritage assets](https://stitch.withgoogle.com/projects/16048513708186368785)**
+7. **[Google Stitch: a responsive web dashboard UI for an AI-enabled monitoring system for modern infrastructure and heritage assets](https://stitch.withgoogle.com/projects/16048513708186368785)**
    Discover how Google Stitch can generate a responsive dashboard interface for an AI-enabled monitoring system. This case study illustrates real-time data visualization and intelligent alerts for monitoring infrastructure and heritage sites—concepts relevant to DOSM’s initiatives in urban analytics, environmental monitoring, and smart governance.
 
 ### 🙌🏻 Connect with Me
