@@ -5,6 +5,84 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# 🚀 [Qwen Chat](https://chat.qwen.ai/)
+
+<p align="center">
+ <img src="https://img.alicdn.com/imgextra/i1/O1CN01o6gcoV1PqaPMz0cx0_!!6000000001892-2-tps-1180-980.png" height="400">
+</p>
+
+Qwen Chat is a large language model developed by Alibaba Cloud. Designed to generate human-like text, it can be used for various tasks such as answering questions, writing stories, creating emails, scripting, translation, and much more. Qwen Chat is trained on vast amounts of data from the internet and can understand and respond in multiple languages, including Malay.
+
+<p align="center">
+ <img src="../../images/qwen.png" height="400">
+ </p>
+
+As an AI language model, Qwen Chat aims to provide a natural conversational experience and assist users in various situations. You can ask questions or request help on specific topics, and Qwen will provide responses based on its knowledge up to 2024.
+
+Qwen Chat is an advanced and versatile AI language model, engineered by Alibaba Cloud to assist users with diverse tasks.
+
+<p align="center">
+ <img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen2.5-max-instruct.jpg" height="500">
+</p>
+
+## 📱 Mobile App Availability
+
+Qwen Chat is now available as a dedicated mobile application designed specifically for mobile devices, offering a better user experience and additional features. Users can download the app by scanning the QR code available on the website.
+
+## 🌟 Key Features of Qwen Chat:
+
+### 1. **Multilingual Support 🌍**
+   - Qwen Chat supports over 100 languages, including Malay, English, Mandarin, and many more. This makes it an ideal communication tool for users worldwide.
+
+
+### 2. **Advanced Context Understanding 🧠**
+   - Qwen Chat can deeply understand conversation context. It can follow long conversation threads and provide relevant, accurate responses. 💬
+
+
+### 3. **Extensive Knowledge Base 📚**
+   - Trained on massive datasets from diverse sources, Qwen Chat has broad knowledge across various fields including science, technology, culture, history, and more. Its knowledge encompasses information up to 2024. 🔍
+
+
+### 4. **Creative Writing Capabilities ✍️**
+   - Qwen Chat can create creative content such as short stories, poetry, scripts, articles, emails, and professional documents. It can also assist in developing marketing content or presentation materials. 🎨
+
+
+### 5. **Versatile Functionality 🛠️**
+   - Beyond answering questions, Qwen Chat can perform various tasks including:
+     - **Translation**: Translating text between languages. 🌐
+     - **Summarization**: Providing concise summaries of lengthy texts. 📄
+     - **Analysis**: Offering brief analysis on specific topics. 📊
+     - **Programming**: Assisting with code writing or debugging in multiple programming languages. 💻
+
+
+### 6. **Interactive and Responsive 🤖**
+   - Qwen Chat is designed to be interactive and responsive. You can ask follow-up questions or request clarifications, and it will maintain the context of previous conversations. 🔄
+
+
+### 7. **Customizable Options 🛠️**
+   - Qwen Chat can be customized to meet specific user or organizational needs through methods like *fine-tuning* or *prompt engineering*. This allows the model to be optimized for particular tasks or industries. 🎯
+
+
+### 8. **Ethics and Safety Measures ⚖️**
+   - Qwen Chat is equipped with mechanisms to ensure generated outputs are ethical, safe, and free from harmful, offensive, or biased content. 🛡️
+
+
+### 9. **Trained on Massive Datasets 📊**
+   - Qwen Chat is trained using extensive datasets covering various text types from the internet, books, articles, and other sources. This enables it to understand diverse topics and language styles effectively. 📚
+
+
+### 10. **Easy Integration Capabilities 🔗**
+   - Qwen Chat can be integrated into applications, websites, or other systems via API. This allows companies and developers to leverage Qwen's capabilities in various technology solutions. 🌐
+
+
+### 11. **Continuously Updated 🔄**
+   - Qwen Chat is part of a model family that is continuously updated and improved by Alibaba Cloud. The latest versions consistently strive to enhance performance, accuracy, and model capabilities. 🚀
+
+### Conclusion:
+Qwen Chat is a powerful, flexible, and versatile AI language model with multilingual capabilities, excellent context understanding, and extensive knowledge. It is suitable for various applications, from everyday conversations to complex professional tasks. The availability of a dedicated mobile app enhances accessibility and user experience, making Qwen Chat more convenient for on-the-go assistance. 🌟
+
+
+
 # 🚀 [Qwen Chat](https://chat.qwenlm.ai/)
 Qwen Chat adalah model bahasa besar yang dikembangkan oleh Alibaba Cloud. Model ini dirancang untuk menghasilkan teks yang mirip dengan manusia dan dapat digunakan untuk berbagai tugas, seperti menjawab pertanyaan, menulis cerita, membuat email, menulis skrip, melakukan terjemahan, dan banyak lagi. Qwen Chat dilatih menggunakan sejumlah besar data dari internet dan dapat memahami serta merespons dalam beberapa bahasa, termasuk bahasa Melayu.
 
