@@ -5,60 +5,109 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Poster → Short Promo Video (Step-by-Step)
 
-## 1) Objectives
+# 🎨 Poster → 🎬 Short Promo Video (Step-by-Step Guide)
 
-* Produce a clean event poster (static image) with your actual details.
-* Turn the poster into a short vertical promo video using **Grok › Imagine** (or a similar text-to-video feature).
+This activity walks you through **designing a professional event poster** and transforming it into a **short vertical promo video**.
+You’ll combine **AI design tools** and **text-to-video generators** (like *Grok › Imagine*) to produce media suitable for social platforms and event promotions.
 
-## 2) Fill the Event Brief (3 minutes)
+## 🥅 1) Objectives
 
-Replace placeholders with your real info:
+By completing this exercise, you will:
 
-* **Event Title:** `[Your Event Title]`
-* **Tagline/Theme:** `[Short Theme]`
-* **Date:** `[e.g., 15 Dec 2025]`
-* **Time:** `[e.g., 9:00 AM – 5:00 PM]`
-* **Venue / Online Link:** `[DOSM Auditorium, Putrajaya]` or `[livestream URL]`
-* **Speakers:** `[Speaker 1], [Speaker 2], [Moderator]` (with titles)
-* **Branding:** `[logos/hashtags]`
+* Design a **clean and professional event poster** with accurate details.
+* Convert the poster into a **short vertical promo video** using **Grok › Imagine** (or another text-to-video tool).
+* Craft ready-to-post captions to accompany your promotional media.
 
-## 3) (Optional) Generate a Fresh Poster with an Image Model
+## 📝 2) Fill the Event Brief (⏱ 3 minutes)
 
-Paste this **complete prompt** into your preferred image generator (e.g., DALL·E, Midjourney, or any image model you use):
+Replace each placeholder with your actual event details:
 
-**Poster Design – Complete Prompt**
+| **Field**                | **Your Input**                                          |
+| ------------------------ | ------------------------------------------------------- |
+| **Event Title**          | `[Your Event Title]`                                    |
+| **Tagline / Theme**      | `[Short Theme or Focus]`                                |
+| **Date**                 | `[e.g., 15 Dec 2025]`                                   |
+| **Time**                 | `[e.g., 9:00 AM – 5:00 PM]`                             |
+| **Venue / Online Link**  | `[DOSM Auditorium, Putrajaya]` or `[Livestream URL]`    |
+| **Speakers / Moderator** | `[Speaker 1 – Title], [Speaker 2 – Title], [Moderator]` |
+| **Branding**             | `[Logos, Hashtags, Partner Names]`                      |
 
-> Design a clean, modern A4/1080×1350 poster for an event.
-> Title: “[YOUR EVENT TITLE]”
-> Tagline: “[YOUR SHORT THEME]”
-> Date & Time: “[DATE], [TIME RANGE]”
-> Venue/Link: “[VENUE or LIVESTREAM URL]”
-> Speakers: “[SPEAKER 1], [SPEAKER 2], [MODERATOR] — include roles/affiliations”
-> Call-to-action: “Register now: [SHORT URL] | Enquiries: [EMAIL/CONTACT]”
-> Style: Professional, high-contrast typography, ample white space, soft gradient background, rounded info cards, subtle icons.
-> Colors: Align with DOSM palette (deep blue #243665, light steel #E1E8FF, white).
-> Layout: Big title at top, hero visual in the middle, two info cards (Date/Time + Venue/Link), speakers strip, bold CTA bar at bottom.
-> Output: One vertically oriented poster suitable for print and social, with crisp text.
+> 💡 *Tip:* Be concise and use official names or abbreviations consistent with your organisation’s style guide.
 
-## 4) Export the Final Poster Image
+## 🖼️ 3) (Optional) Generate a Fresh Poster Using an Image Model
 
-* Save your edited poster as **PNG** or **JPG** (1080×1350 recommended for social; A4 for print).
-* Name it like: `Poster_[EventName]_v1.png`.
+If you wish to create an AI-generated poster from scratch, paste the following **complete prompt** into your chosen image generator
+(*DALL·E, Midjourney, Leonardo AI, etc.*):
 
-## 5) Create a Short Promo Video in **Grok › Imagine**
+### 🧩 Poster Design – Complete Prompt
 
-1. Open **Grok** and choose **Imagine** (video generation).
+> **Prompt:**
+> Design a clean, modern **A4 (1080×1350)** poster for an event.
+> **Title:** “[YOUR EVENT TITLE]”
+> **Tagline:** “[YOUR SHORT THEME]”
+> **Date & Time:** “[DATE], [TIME RANGE]”
+> **Venue / Link:** “[VENUE or LIVESTREAM URL]”
+> **Speakers:** “[SPEAKER 1], [SPEAKER 2], [M‌ODERATOR] — include roles/affiliations”
+> **Call-to-action:** “Register now: [SHORT URL] | Enquiries: [EMAIL/CONTACT]”
+> **Style:** Professional, high-contrast typography, ample white space, soft gradient background, rounded info cards, subtle icons.
+> **Colors:** Align with **DOSM palette** (deep blue #243665, light steel #E1E8FF, white).
+> **Layout:** Large title at top, hero visual in the middle, two info cards (Date/Time + Venue/Link), speaker strip, and a bold CTA bar at the bottom.
+> **Output:** One vertically-oriented poster suitable for print and social media, with crisp text.
+
+
+## 💾 4) Export the Final Poster Image
+
+* Save as **PNG** or **JPG**.
+
+  * **Social media:** 1080 × 1350 (px)
+  * **Print:** A4 (210 × 297 mm)
+* File naming convention:
+  `Poster_[EventName]_v1.png`
+
+> ⚙️ *Tip:* Keep your design layers editable (e.g., in Canva, Figma, or Photoshop) for quick future updates.
+
+
+## 🎥 5) Create a Short Promo Video in **Grok › Imagine**
+
+Follow these steps:
+
+1. **Open** Grok and select **Imagine** (text-to-video feature).
 2. **Upload** your final poster image.
+3. Choose **“Vertical / Story format (9:16)”**.
+4. Add short **motion text or transitions** (fade-in, slide-up, etc.).
+5. Include **background music** or a **voiceover prompt** (optional).
+6. Export the video in **MP4** format for social sharing.
 
-## Ready-to-Paste Captions (Examples)
+> 🎯 *Outcome:* A dynamic, shareable promo clip (10–20 seconds) highlighting your event details.
 
-* **Professional:**
-  “Join us at **[Event Title]** on **[Date]** (**[Time]**). We’ll explore **[theme]** with speakers **[Name 1]**, **[Name 2]**, and **[Moderator]**. Venue: **[Venue/Link]**.
-  **Register**: [short URL] #DOSM #Data #AI #Malaysia”
-* **Short & Social:**
-  “Happening **[Date]**: **[Event Title]**. Don’t miss **[key topic/speaker]**. Save your seat → [short URL] #DOSM #Data #AI”
+
+## 💬 6) Ready-to-Paste Captions (Examples)
+
+### ✳️ Professional
+
+> “Join us at **[Event Title]** on **[Date]** (**[Time]**).
+> We’ll explore **[Theme]** with speakers **[Name 1]**, **[Name 2]**, and **[Moderator]**.
+> Venue: **[Venue / Link]**
+> **Register Now:** [Short URL]
+> #DOSM #Data #AI #Malaysia”
+
+
+### ⚡ Short & Social
+
+> “Happening **[Date]** → **[Event Title]** 🎉
+> Don’t miss **[Key Topic / Speaker]**!
+> Save your seat 👉 [Short URL]
+> #DOSM #Data #AI #Innovation”
+
+
+✅ **Deliverables:**
+
+* Final Poster (`.png` / `.jpg`)
+* Short Promo Video (`.mp4`, < 20 seconds)
+* Caption Text (for social posts or announcement banners)
+
+
 
 
 ### 🙌🏻 Connect with Me
