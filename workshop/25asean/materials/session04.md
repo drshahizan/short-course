@@ -18,7 +18,7 @@
 4. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**  
    Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
 
-5. **[Kimi.ai: Data analysis using real estate data from U.S. cities]**(https://www.kimi.com/chat/19a4fa85-aef2-8854-8000-09bbae3e8f81)
+5. **[Kimi.ai: Data analysis using real estate data from U.S. cities](https://www.kimi.com/chat/19a4fa85-aef2-8854-8000-09bbae3e8f81)**
 
 
 ### 🙌🏻 Connect with Me
