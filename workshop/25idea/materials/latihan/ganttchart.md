@@ -8,6 +8,8 @@
 
 ## Gantt Chart using ChatGPT
 
+Gantt charts, visual project management tools that illustrate tasks along a timeline using horizontal bars to represent durations, dependencies, and progress, can be efficiently created using ChatGPT by crafting structured prompts that define the project scope, list tasks with assigned time periods, and request outputs in formats like ASCII art, Markdown tables, or Python code for Matplotlib plots. This AI-assisted approach is particularly useful for professionals at organizations like the Department of Statistics Malaysia (DOSM), enabling quick generation of timelines for statistical surveys or data analysis projects without specialized software, allowing for iterative refinements such as adding overlaps, milestones, or resource allocations to enhance planning and collaboration in daily workflows.
+
 **Step 1. Define the project scope and timeline**
 Write:
 *"Create a Gantt chart for a Research Work Schedule. The project duration is 12 months, starting in November 2025 and ending in October 2026."*
