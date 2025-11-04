@@ -6,14 +6,11 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
 # 🚀 [NotebookLM](https://notebooklm.google.com/)
-<img src="https://opencv.org/wp-content/uploads/2025/02/1920x1080-1.jpg" alt="Dr Shahizan AI tools" height="400">
 
 **NotebookLM** is Google's AI-powered research and note-taking tool designed to act as a thinking partner. It analyzes uploaded sources such as documents, PDFs, web links, or YouTube videos, transforming complex information into clear insights, summaries, and creative outputs. Powered by advanced AI models like Gemini, it helps users synthesize knowledge, generate study aids, and explore ideas without hallucinations, as all responses are grounded in the provided sources. As of November 2025, recent updates include custom personas for tailored interactions, an expanded 1 million token context window (8x larger), sixfold increase in multiturn conversation memory, enhanced information retrieval for nuanced responses, and automatic conversation history saving. This makes it ideal for turning raw data into actionable intelligence.
 
 <p align="center">
-
-https://techcrunch.com/wp-content/uploads/2025/05/notebooklm-android.png?w=680
-
+   <img src="https://techcrunch.com/wp-content/uploads/2025/05/notebooklm-android.png?w=680" height="400">
 </p>
 
 ## ✨ Key Features of NotebookLM
