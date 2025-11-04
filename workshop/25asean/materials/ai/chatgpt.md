@@ -7,8 +7,6 @@
 
 # 🚀 [ChatGPT](https://chatgpt.com/)
 
- <img src="https://gpt.kiwi/wp-content/uploads/2014/09/Scholar-GPT.png" alt="Dr Shahizan AI tools"  height="400">
-
 **ChatGPT** is an advanced AI-powered conversational tool developed by OpenAI, designed to assist users with a wide range of tasks through natural language interactions. Leveraging large language models, it generates human-like responses, summarizes information, creates content, and performs data analysis. As of November 2025, ChatGPT features the latest GPT-5 model, which introduces significant improvements in reasoning, context handling, tool coordination, and multimodal capabilities. Recent updates include an enhanced Advanced Voice mode for more fluid and natural conversations, the expansion of ChatGPT Go (a new affordable subscription tier now free for 12 months starting November 4, 2025), personalized integrations with business tools, and updates to legacy models like GPT-4o. With over 700 million users as of September 2025, it continues to evolve for better accuracy and user experience.
 
 <p align="center">
@@ -35,6 +33,7 @@
 
 <p align="center">
 
+ <img src="https://cdn.prod.website-files.com/68624244a4e6c93a7178a541/686ff3e425d3d7374c0e40b5_AD_4nXc8v4lKBWxOlBdBKdXixOWEnvmGOrTHeXuUgvx0QfmJnlKzrQTKrWPGPm2AmHLcCw2LD17nA_lXU1kWxugLzNZOYJP4q8I1PEMiBkP4zruCOykpjC9tieJ0minffG_EHvKHEfPU.png"  height="400">
 
 
  </p>
