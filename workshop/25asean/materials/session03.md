@@ -22,17 +22,16 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 3. **[Gantt Charts with ChatGPT](latihan/ganttchart.md)**  
    Generate project timelines and milestones in Gantt chart format for effective planning and management of statistical activities. This supports DOSM's routine operations, such as scheduling household surveys, tracking inflation data releases, or coordinating quarterly GDP reporting to ensure timely deliverables.
 
-4. **[Data Analysis with ChatGPT](latihan/chatgpt_chart.md)**
+4. **1. [Poster to 🎬 Short Promo Video](latihan/poster.md)**
+
+Learn how to transform a static event poster into a short vertical promotional video. This activity guides participants through crafting a visually appealing poster with event details and animating it using tools like **Grok › Imagine**. Ideal for promoting DOSM events, statistical awareness campaigns, or data-driven conferences on social media platforms.
+
+5. **[Data Analysis with ChatGPT](latihan/chatgpt_chart.md)**
    Use ChatGPT’s Data Analysis feature to explore, visualize, and interpret statistical datasets interactively. Using the official population_malaysia.csv file from data.gov.my, participants will learn how to upload, clean, and analyze demographic data to uncover population trends across Malaysian states. This activity emphasizes practical applications such as computing summary statistics, generating charts that show year-by-year population growth, and identifying the fastest-growing states.
 
 6. **[Forecasting with Deepseek](latihan/deepseek_prediction.md)**  
    Apply advanced AI-based forecasting to analyze data trends and generate predictive insights. In a DOSM context, it can be used daily for projecting economic growth rates, population trends, or labor market statistics, aiding in policy recommendations and long-term planning.
 
-7. **[Slide Design with Kimi](latihan/kimi.md)**  
-   Utilize AI tools to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data, ensuring impactful communication.
-
-8. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**  
-   Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
       
 ### 🙌🏻 Connect with Me
 <p align="left">
