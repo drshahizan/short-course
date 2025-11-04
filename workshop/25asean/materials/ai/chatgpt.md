@@ -5,87 +5,67 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [ChatGPT: ScholarGPT Mode](https://chatgpt.com/gpts)
+# 🚀 [ChatGPT](https://chatgpt.com/)
 
  <img src="https://gpt.kiwi/wp-content/uploads/2014/09/Scholar-GPT.png" alt="Dr Shahizan AI tools"  height="400">
 
-**ChatGPT (ScholarGPT mode)** is a specialized configuration of OpenAI’s ChatGPT tailored for academic writing, research support, and scholarly communication. It is designed to help students, researchers, and faculty members write, review, and refine academic content with clarity and rigor. It supports both surface-level productivity (writing assistance) and deep analytical tasks (research reasoning, synthesis, and refinement).
+**ChatGPT** is an advanced AI-powered conversational tool developed by OpenAI, designed to assist users with a wide range of tasks through natural language interactions. Leveraging large language models, it generates human-like responses, summarizes information, creates content, and performs data analysis. As of November 2025, ChatGPT features the latest GPT-5 model, which introduces significant improvements in reasoning, context handling, tool coordination, and multimodal capabilities. Recent updates include an enhanced Advanced Voice mode for more fluid and natural conversations, the expansion of ChatGPT Go (a new affordable subscription tier now free for 12 months starting November 4, 2025), personalized integrations with business tools, and updates to legacy models like GPT-4o. With over 700 million users as of September 2025, it continues to evolve for better accuracy and user experience.
 
-## 🎓 Role of ScholarGPT in Writing & Deep Research Assistance
+<p align="center">
+ <img src="https://fastgptplus.com/posts/en/chatgpt-free-vs-plus/img/cover.svg" alt="Dr Shahizan AI tools"  height="400">
+ </p>
 
-### 1. **Academic Writing Support**
-- Helps in drafting key academic components:
-  - Abstracts
-  - Introductions
-  - Literature reviews
-  - Methodology sections
-  - Research discussions and conclusions
-- Supports **APA, MLA, Chicago, and IEEE** formatting styles.
-- Example:
-  > “Write an abstract for a paper on the impact of AI on personalized education.”
+## ✨ Key Features of ChatGPT
 
-### 2. **Proofreading and Academic Tone Refinement**
-- Refines grammar, logic, and fluency while adjusting tone for academic clarity and formality.
-- Helps improve transitions, coherence, and technical phrasing.
-- Example:
-  > “Improve this paragraph to sound more suitable for a Scopus Q1 journal.”
+🔹 **Conversational AI and Voice Mode**
+   - Engage in natural, real-time conversations via text or voice, with the updated Advanced Voice feature allowing hands-free, fluid interactions that mimic human dialogue.
+   - Supports multilingual queries and real-time web searches for up-to-date information.
 
-### 3. **Critical Literature Analysis**
-- Provides synthesis across multiple studies and identifies theoretical gaps.
-- Can summarize and compare findings from different research works.
-- Example:
-  > “Summarize and compare findings from three studies on sustainable supply chains.”
+🔹 **Advanced Data Analysis**
+   - Upload datasets (e.g., CSV, Excel) and use integrated tools like pandas for data cleaning, statistical computations, and Matplotlib for generating static or interactive charts.
+   - Generate code in Python or R for statistical modeling, exploratory analysis, and visualizations without needing to write code from scratch.
 
-### 4. **Research Design Reasoning**
-- Suggests data collection strategies, theoretical models, and variable relationships.
-- Offers guidance on selecting suitable methodology (quantitative, qualitative, or mixed-methods).
-- Example:
-  > “What methodology should I use to study ethical AI adoption in SMEs?”
+🔹 **Content Generation and Customization**
+   - Create custom GPTs for specific tasks, such as report writing or idea brainstorming; integrate with tools for enhanced productivity.
+   - Recent GPT-5 enhancements provide better handling of complex queries, multi-step reasoning, and personalized responses.
 
-### 5. **Response to Reviewer Comments**
-- Assists in drafting professional and concise responses to peer reviewer feedback.
-- Can also help revise content based on reviewer suggestions.
-- Example:
-  > “Write a polite response to a reviewer asking for more theoretical justification.”
+🔹 **Integrations and Accessibility**
+   - Available on web, mobile apps, and through APIs; new enterprise features include centralized workspace settings for team collaboration.
+   - Pricing tiers: Free (limited access), Plus ($20/month for advanced models), Pro ($200/month for unlimited high-level access), and the new ChatGPT Go (free for 12 months as of November 2025).
 
-### 6. **Systematic Literature Review (SLR) Support**
-- Helps in defining inclusion/exclusion criteria, search strings, and SLR protocol.
-- Assists in synthesizing and categorizing findings into themes.
-- Example:
-  > “Help me organize a PRISMA-based review of AI use in public administration.”
+<p align="center">
 
-## ⚙️ Why Use ScholarGPT for This Stage?
 
-| Task                              | ScholarGPT Advantage                                                     |
-|-----------------------------------|--------------------------------------------------------------------------|
-| Writing Drafts                    | Generates well-structured academic content with formal tone              |
-| Language Refinement               | Improves fluency, clarity, coherence, and academic vocabulary            |
-| Deep Research Thinking            | Supports literature synthesis, gap identification, and theoretical framing|
-| Research Design                   | Suggests frameworks, hypotheses, and appropriate methodologies           |
-| Academic Publishing Assistance    | Helps prepare responses, reformatting, and manuscript refinement         |
 
-## 🚀 Strengths for Researchers
+ </p>
 
-- **Academic Language Proficiency**: Trained on scholarly data and examples for domain-appropriate tone.
-- **Rapid Drafting**: Speeds up initial writing and revision processes.
-- **Thematic Structuring**: Helps categorize arguments and findings into cohesive outlines or summaries.
-- **Adaptive Guidance**: Allows back-and-forth refinement through conversational iterations.
+## 🎯 Benefits of ChatGPT
 
-## 📌 Limitations to Consider
+🚀 **Increased Productivity**
+   - Automates routine tasks like data summarization and content creation, allowing users to focus on higher-level analysis and decision-making.
 
-- **No Access to Paywalled Sources**: Does not retrieve full-text journal articles unless provided by the user.
-- **Citation Insertion is Manual**: May suggest sources or ideas, but users must verify and insert proper citations.
-- **Content Validation Required**: AI suggestions should be cross-checked for factual and theoretical accuracy.
+⏳ **Time Savings**
+   - Provides instant insights and real-time results for queries, reducing the need for manual research or coding.
 
-## ✅ Example Prompt Ideas
+✅ **Enhanced Accuracy and Insights**
+   - Grounded in vast training data, it offers reliable suggestions for statistical methods, error checking in analyses, and creative problem-solving.
 
-```text
-1. "Draft a literature review on gamification in higher education, focused on motivation theories."
-2. "Paraphrase this methodology section to meet journal submission standards."
-3. "Suggest 3 hypotheses and a conceptual model for a study on fintech adoption in Malaysia."
-4. "Help me structure a response to a reviewer asking for more statistical explanation."
-5. "Compare grounded theory and thematic analysis for qualitative research on user behavior."
-```
+## 🌍 Usage of ChatGPT in Daily Life and Work at the Department of Statistics, Malaysia (DOSM)
+
+ChatGPT is versatile for everyday tasks and specialized professional applications, particularly in data-driven fields like statistics. At DOSM, which oversees national data collection, analysis, and dissemination through portals like MyCensus and StatsDW, ChatGPT can streamline workflows involving big data, surveys, and reporting.
+
+🎓 **Daily Usage**
+   - For personal routines, use it to brainstorm ideas, draft emails, summarize articles, or plan schedules with voice mode for hands-free assistance during commutes or chores.
+   - Generate quick explanations of concepts, translate languages, or create educational content like quizzes for self-learning.
+
+💼 **Professional Work at DOSM**
+   - **Data Analysis and Cleaning**: Upload statistical datasets from censuses or economic indicators to perform exploratory analysis, compute metrics like means, medians, or regressions, and identify patterns in population trends or GDP data. It supports univariate statistics validation and generates Python/R code for tools like StatsBDA.
+   - **Report Generation**: Draft summaries, FAQs, or visualizations for publications like the Malaysian Economic Statistics Review; automate table creation for time series data from StatsDW.
+   - **Training and Collaboration**: Create training materials or quizzes for the Malaysia Statistical Training Institute (ILSM); use custom GPTs for labor market analysis in ILMIA or geospatial queries in StatsGeoportal.
+   - **Public Dissemination**: Enhance chatbots on portals like MyAgricensus for real-time user queries; generate infographics or audio summaries for public outreach on demographic or economic data.
+
+## 🔥 Conclusion
+ChatGPT is a powerful AI companion that enhances daily efficiency and professional statistical work at DOSM, with 2025 updates like GPT-5 and free ChatGPT Go making it more accessible and capable. From quick personal queries to in-depth data analysis and reporting, it empowers users to handle complex information with ease, fostering innovation and accuracy in fields like national statistics.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
