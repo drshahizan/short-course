@@ -5,88 +5,48 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# [Gemini: Deep Research Mode](https://chatgpt.com/gpts)
+# [Google Gemini: The Versatile AI Assistant for Daily and Statistical Work](https://gemini.google.com/)
 
- <img src="https://i.ytimg.com/vi/hYY0YDn2Go8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBhttd6Nf6Lz_LBXpGiMCgZyvTFVw" alt="Dr Shahizan AI tools"  height="400">
+**Google Gemini** is an advanced and multimodal family of AI models, designed to be highly versatile, integrating seamlessly into daily productivity tools and offering deep capabilities for complex data and research tasks.
 
-**Google Gemini – Deep Research Mode** is an advanced configuration of Google’s Gemini AI platform designed specifically for academic and research use cases. With access to Google Search, Google Scholar, Google Docs, and other Workspace tools, it provides a seamless environment for conducting **in-depth research**, organizing insights, and producing **structured academic writing**.
+Unlike a single-purpose tool, Gemini functions as a flexible assistant—accessible through a conversational chat interface (Gemini app) and embedded within the Google Workspace suite (Gmail, Docs, Sheets, etc.)—making it a powerful asset for general productivity and specialized work like that conducted by the **Department of Statistics, Malaysia (DOSM)**.
 
-## 🎓 Role of Gemini (Deep Research Mode) in Writing & Research
+## 💼 Gemini for Department of Statistics, Malaysia (DOSM)
 
-### 1. **Academic Writing Assistance**
-- Helps draft research papers, proposals, reports, and presentations.
-- Assists in composing sections such as:
-  - Abstracts
-  - Introductions
-  - Literature reviews
-  - Methodology
-  - Discussion & Conclusion
-- Example:  
-  > “Write an introduction for a paper on ethical AI use in healthcare systems.”
+For a statistical agency like DOSM, Gemini offers significant potential to enhance data processing, analysis, and report generation, in line with the Malaysian government's *'AI at Work'* initiative.
 
-### 2. **Real-Time Research Insights**
-- Integrates Google Search to provide **live facts, statistics, and trending studies**.
-- Summarizes and reformulates findings into academic tone.
-- Example:  
-  > “Summarize the latest findings on generative AI in education from Google Scholar.”
+### 📊 Statistical Data Analysis and Reporting
 
-### 3. **Thematic and Structural Support**
-- Suggests **logical flow** and outline structure for theses and academic manuscripts.
-- Offers templates and bullet-style frameworks for coherent writing.
-- Example:  
-  > “Help me outline a thesis chapter on student perceptions of ChatGPT in learning.”
+| Functionality | Benefit for DOSM | Example Use Case |
+| :--- | :--- | :--- |
+| **Natural Language Querying (BigQuery/Sheets)** | Democratises data access, allowing non-coders to query large datasets. | *"Generate a SQL query to show the growth rate of GDP by state for the last three quarters."* |
+| **Code Generation & Assistance** | Speeds up data preparation and model building. | *"Write a Python script in Colab to clean this uploaded CSV file and run a time-series forecast on the unemployment rate data."* |
+| **Complex Report Structuring** | Automates the drafting of technical and analytical reports. | *"Outline a draft of the 'Key Findings' section for the latest Consumer Price Index (CPI) report, highlighting year-on-year changes."* |
+| **Forecasting & Modeling Support** | Assists in building and interpreting machine learning (ML) models. | *"Explain the key assumptions and limitations of a Random Forest model for predicting future household income distribution."* |
+| **Document Understanding (PDF/Text)** | Efficiently extracts structured data from unstructured or semi-structured documents (e.g., survey responses, administrative records, historical reports). | *"Extract all population figures and their corresponding years from these five uploaded historical census reports."* |
+| **Data Visualisation** | Converts data insights into ready-to-use charts and graphs quickly. | *"Show a line graph of the monthly inflation rate against the target rate using the data in this Google Sheet."* |
 
-### 4. **Cross-Document Analysis**
-- Processes and synthesizes information from **multiple uploaded sources**.
-- Extracts common themes, conflicting perspectives, and gaps.
-- Ideal for:
-  - Comparative literature analysis
-  - Policy reviews
-  - Evidence-based writing
+### 📝 Daily Productivity and Communication
 
-### 5. **Review, Rewrite, and Refine**
-- Refines grammar, structure, and tone for academic clarity.
-- Provides suggestions for rewriting vague or repetitive content into scholarly form.
-- Example:  
-  > “Rewrite this paragraph to improve clarity and align with journal standards.”
+| Functionality | Benefit for Daily Work | Example Use Case |
+| :--- | :--- | :--- |
+| **Email and Document Drafting (Gemini in Workspace)** | Saves time on routine correspondence and internal memos. | *"Draft an email to the Minister's Office summarizing the Q3 trade balance highlights based on the attached document, using a formal tone."* |
+| **Meeting Summarisation (Gemini in Meet/Docs)** | Automatically generates meeting notes, action items, and summaries of long discussions. | *"Summarise the key decisions and action items from the 'National Census 2030 Planning' meeting minutes."* |
+| **In-Depth Research (Deep Research Mode)** | Quickly compiles comprehensive, cited background information for policy papers or technical notes using Google Search and Scholar. | *"Research and summarise the methodology used by the UN for calculating the Multidimensional Poverty Index (MPI) and its relevance to Malaysia."* |
+| **'Gems' - Custom AI Agents** | Allows teams to create specialised AI assistants for repeatable tasks. | *"Create a 'DOSM Data Verifier Gem' that checks if a submitted draft statistic aligns with the last three published official figures."* |
 
-### 6. **Source-Linked Suggestions**
-- Suggests inline references or related studies using Google Scholar.
-- Helps identify **citation-worthy literature**, although final citation formatting must be handled manually.
+## 🚀 Key Strengths of Gemini
 
+* **Multimodality:** Processes and generates output from text, images, video, and audio, which is crucial for handling diverse datasets and source materials.
+* **Google Workspace Integration:** Works *within* Gmail, Docs, Sheets, and more, providing contextual help without needing to switch apps, streamlining the daily workflow of public officers.
+* **Real-Time Context:** Connects to Google's real-time information via Google Search and Scholar, ensuring responses are grounded in the most recent facts and published studies.
+* **Enterprise-Grade Security:** For government and enterprise users (like those under the MyGovUC initiative), Gemini Enterprise offers robust **data governance, privacy, and security controls**, ensuring that user data and prompts are not used to train models and adhere to organizational access policies.
 
-## ⚙️ Why Use Gemini (Deep Research Mode) for Writing & Research?
+## ⚠️ Important Considerations for DOSM Users
 
-| Task                             | Gemini Deep Research Mode Advantage                                     |
-|----------------------------------|-------------------------------------------------------------------------|
-| Drafting Manuscripts             | Writes in polished, structured, and academic tone                       |
-| Live Knowledge Integration       | Updates your writing with the most recent data and sources              |
-| Multi-Source Synthesis           | Extracts and merges insights from various documents                     |
-| Outline Generation               | Provides structure and sequence for complex arguments                   |
-| Grammar & Tone Enhancement       | Improves academic tone and logical flow                                 |
-
-## 🚀 Strengths for Researchers
-
-- **Connected to Google Tools**: Works within Google Docs, Sheets, and Slides for a complete academic workflow.
-- **Multimodal Processing**: Supports text, images, tables, and code—helpful for STEM disciplines.
-- **Real-Time Intelligence**: Provides fresh data, not just pretrained knowledge.
-- **Personalized Suggestions**: Learns your writing style over time and offers tailored improvements.
-
-## 📌 Limitations to Consider
-
-- **Citation Generation Is Manual**: While it can suggest sources, proper referencing must be done by the user.
-- **Content Validation Needed**: AI output must be verified against trusted sources, especially in formal writing.
-- **Access Requirement**: Some advanced features may require Google Workspace or Gemini Advanced subscription.
-
-## ✅ Example Prompt Ideas
-
-```text
-1. "Write a discussion section for my thesis on blockchain use in agriculture."
-2. "Summarize and compare the arguments in these three uploaded policy papers."
-3. "Help me rewrite this abstract to make it suitable for a Q1 journal."
-4. "Extract major findings from these PDFs and list the implications."
-5. "Suggest an outline for a systematic literature review on smart city technologies."
-```
+* **Validation is Key:** All AI-generated statistical analysis, code, or factual claims *must* be validated and verified by human experts to ensure accuracy, especially when dealing with official national statistics.
+* **Data Confidentiality:** Users must rely on the enterprise-grade security features of their deployment (e.g., Gemini for Workspace Enterprise) to ensure sensitive, unpublished statistical data remains protected and is only accessed with appropriate permissions.
+* **Prompt Engineering:** The quality of the output, particularly for complex statistical tasks, is heavily dependent on the clarity and specificity of the user's prompt. Training public officers on effective prompting techniques will be essential.
 
 ### 🙌🏻 Connect with Me
 <p align="left">

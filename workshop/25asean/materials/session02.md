@@ -13,7 +13,7 @@
 | 1 | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/ai/signin.md) | Step-by-step guides for **AI tool installation and access** |
 | 2 | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/ai/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
 | 5 | **[Qwen](ai/qwen.md)** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
-| 3 | **Gemini** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
+| 3 | **[Gemini](ai/gemini.md)** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
 | 4 | **Grok** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
 | 5 | **Qwen** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
 | 6 | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
