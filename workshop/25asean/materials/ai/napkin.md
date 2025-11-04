@@ -7,67 +7,66 @@
 
 # 🚀 [Napkin.ai](https://www.napkin.ai/)
 
-**Napkin.ai** adalah platform inovatif yang direka untuk membantu pengguna dalam proses **penggambaran idea** dan **penyelesaian masalah** menggunakan **kecerdasan buatan** (**AI**). Dengan memanfaatkan teknologi terkini, Napkin.ai membolehkan pengguna untuk **mencipta, mengatur, dan mengembangkan konsep-konsep mereka** dengan lebih efisien.  
+**Napkin.ai** is an innovative AI-powered platform designed to transform text into engaging visuals, such as diagrams, charts, infographics, mind maps, and flowcharts. By leveraging advanced artificial intelligence, it enables users to quickly generate, edit, and export visuals from existing text, streamlining the process of idea visualization and storytelling. This tool is particularly useful for turning complex information into clear, professional graphics without requiring design skills or extensive prompting.
 
-<p align="center">
- <img src="https://www.geeky-gadgets.com/wp-content/uploads/2024/10/napkin-ai-text-to-visual-converter.webp" height="400">
- </p>
+## ✨ Key Features of Napkin.ai
 
-## ✨ Ciri-ciri Utama Napkin.ai  
+🔹 **Text-to-Visual Generation**
+   - Import or paste text from documents (e.g., PPT, DOC, PDF, HTML, MD), then use the AI "Spark" feature to automatically generate relevant visuals.
+   - Supports over 60 languages, making it accessible for multilingual users.
 
-🔹 **Penggambaran Idea**  
-   - Menyediakan alat untuk **menggambarkan idea** dengan mudah.  
-   - Pengguna boleh menggunakan **pelbagai bentuk dan simbol** untuk mencipta **peta minda** yang jelas dan teratur.  
+🔹 **Editable and Customizable Visuals**
+   - Fully edit generated visuals, including swapping icons from a vast library, adding smart decorators, dynamic connectors, colors (with light/dark mode support), and fonts (casual or formal).
+   - Recent updates include 50+ new designs, 20% faster generation, 18% more accurate outputs, and improved icon matching as of 2025. Enhanced mind maps were introduced in September 2025 for better branching and organization.
 
-🤖 **Kecerdasan Buatan**  
-   - Menggunakan **AI** untuk memberikan **cadangan dan panduan** kepada pengguna dalam mengembangkan idea mereka.  
-   - Membantu dalam **mempercepatkan proses pemikiran** dan **penggubalan konsep**.  
+🔹 **Collaboration and Sharing**
+   - Teamspace allows real-time co-editing, commenting with highlighters, and member management for seamless teamwork.
+   - Share visuals via links or export as PPT, PNG, PDF, or SVG files for integration with tools like PowerPoint, Google Slides, Canva, or Notion.
 
-👥 **Kolaborasi**  
-   - Membolehkan **kerjasama antara pengguna** dengan berkongsi idea dan mendapatkan maklum balas secara langsung.  
-   - **Sangat berguna** dalam **persekitaran kerja berpasukan**.  
-
-🔗 **Integrasi**  
-   - **Mudah diintegrasikan** dengan pelbagai aplikasi lain untuk **mengimport dan mengeksport data**.  
-   - Menjadikan **proses kerja lebih lancar dan efisien**.  
+🔹 **API and Integrations**
+   - Offers an API for developers, with updates in October 2025 improving internal structures for better performance. Easily integrates with productivity apps to import/export data.
 
 
-<p align="center">
- <img src="https://freshvanroot.com/wp-content/uploads/2024/12/Turn-text-into-visuals-in-seconds-Napkin-AI.png" height="400">
- </p>
 
 
-## 🎯 Manfaat Napkin.ai  
+## 🎯 Benefits of Napkin.ai
 
-🚀 **Meningkatkan Kreativiti**  
-   - Alat yang mudah digunakan membolehkan pengguna **mencipta dan mengubah idea** dengan cepat.  
-   - **Merangsang kreativiti** dengan membolehkan eksperimen idea dalam persekitaran yang interaktif.  
+🚀 **Boosts Creativity and Efficiency**
+   - Accelerates idea development by converting notes or reports into visuals in seconds, fostering creative experimentation in an interactive environment.
+   - Saves time on manual design, allowing focus on content and analysis.
 
-⏳ **Pengurusan Masa**  
-   - Memudahkan pengguna **mengurus masa** kerana **proses penggambaran idea lebih cepat dan teratur**.  
+⏳ **Time Management**
+   - Streamlines workflows by automating visual creation, reducing hours spent on tools like Visio or Canva.
 
-✅ **Peningkatan Kualiti Idea**  
-   - **Bantuan AI** membantu menghasilkan **idea yang lebih berkualiti dan relevan**.  
-   - Membantu dalam **pengambilan keputusan yang lebih baik**.  
+✅ **Improved Quality and Decision-Making**
+   - AI suggestions enhance the relevance and professionalism of visuals, leading to better-informed decisions and higher-quality outputs.
 
-## 🌍 Penggunaan Napkin.ai dalam Pelbagai Konteks  
+## 🌍 Usage of Napkin.ai in Daily Life and Work at the Department of Statistics, Malaysia (DOSM)
 
-🎓 **Pendidikan**  
-   - Pelajar boleh menggunakan Napkin.ai untuk **menggambarkan konsep-konsep yang kompleks** dan **memudahkan pemahaman** mereka.  
+Napkin.ai excels in everyday scenarios and professional environments, particularly in data-heavy fields like statistics. Its text-to-visual capabilities make it ideal for quick visualizations without advanced software.
 
-💼 **Perniagaan**  
-   - Digunakan untuk **merancang strategi**, **mencipta peta jalan produk**, dan **mengembangkan idea baharu**.  
+🎓 **Daily Usage**
+   - For personal tasks, users can convert notes from meetings, to-do lists, or blog ideas into mind maps or infographics for social media sharing (e.g., LinkedIn or Instagram).
+   - In routine planning, it helps visualize schedules, budgets, or recipes, making abstract concepts tangible and easier to manage.
 
-🎨 **Kreativiti Peribadi**  
-   - Individu yang ingin **mengembangkan hobi atau projek peribadi** boleh memanfaatkan Napkin.ai untuk **merancang dan melaksanakan idea mereka**.  
+💼 **Professional Work at DOSM**
+   - **Data Visualization and Analysis**: Statisticians can paste statistical summaries (e.g., population trends or economic indicators) to generate charts, flowcharts, or infographics instantly. This aids in analyzing census data, GDP reports, or survey results, turning raw text into visual dashboards for internal reviews.
+   - **Report Creation**: Transform lengthy statistical reports into concise visuals for publications like the Malaysian Economic Indicators or Demographic Statistics. Export to PDF or PPT for easy inclusion in official documents, enhancing public dissemination and stakeholder presentations.
+   - **Team Collaboration on Projects**: Use Teamspace for real-time editing of visuals during collaborative projects, such as mapping data collection processes or forecasting models. This is valuable for DOSM's departments handling national surveys, where quick feedback on visual drafts improves accuracy and efficiency.
+   - **Training and Knowledge Sharing**: Create educational mind maps or diagrams to explain statistical concepts like sampling methods or regression analysis, supporting internal training sessions or public awareness campaigns.
 
-## 🔥 Kesimpulan  
+## 💰 Pricing Plans
+Napkin.ai offers flexible tiers to suit different needs:
 
-Napkin.ai adalah **alat berkuasa** untuk sesiapa sahaja yang ingin **menggambarkan dan mengembangkan idea dengan lebih berkesan**.  
+- **Free**: $0/month – 500 AI credits/week, unlimited editing/exports (with branding), ideal for light daily use.
+- **Plus**: $9/month – 10,000 credits/month, remove branding, custom styles, suitable for frequent professional tasks.
+- **Pro**: $22/month – 30,000 credits/month, unlimited styles, custom fonts, best for teams like DOSM.
+- **Enterprise**: Custom pricing – Advanced features for large organizations.
 
-Dengan **ciri-ciri inovatif** dan **manfaat yang jelas**, platform ini menjadi pilihan **ideal** untuk **pelajar, profesional, dan individu kreatif**.  
+Annual billing provides a 25% discount.
 
-🚀 Dengan **Napkin.ai**, **proses penggambaran idea menjadi lebih mudah, cepat, dan berkesan!**  
+## 🔥 Conclusion
+Napkin.ai is a powerful AI tool that simplifies turning text into impactful visuals, making it essential for daily idea organization and professional statistical work at DOSM. With its recent enhancements in speed, accuracy, and designs, it empowers users to communicate data more effectively, boosting productivity and creativity. Whether for personal planning or official reports, Napkin.ai makes visualization fast, accessible, and efficient!
 
 ### 🙌🏻 Connect with Me
 <p align="left">
