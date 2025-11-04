@@ -7,11 +7,18 @@
 
 # Session 4: Case Studies & Real Applications
 
-buatkan report guna gemini dan grok
-[Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)
 
-1. **[Mind Maps with Markmap](latihan/markmap.md)**  
-   Build interactive mind maps to visualize, organize, and structure statistical ideas effectively. In DOSM's daily work, this tool can help map out survey methodologies, categorize demographic data, or outline economic indicators for quick reference during team meetings or report planning.
+1. **[Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)**
+
+
+2. **[Slide Design with Kimi](latihan/kimi.md)**  
+   Utilize AI tools to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data, ensuring impactful communication.
+
+3. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**  
+   Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
+
+
+
 
 
 buat poster - mage guna copilot, selepas itu guna grok
