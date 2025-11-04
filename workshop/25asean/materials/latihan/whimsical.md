@@ -5,142 +5,136 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Whimsical in ChatGPT: Step-by-Step
+# Using Whimsical in ChatGPT for Diagrams at the Department of Statistics Malaysia (DOSM)
 
-## Quick setup (one-time)
+## Introduction
 
-1. Open ChatGPT → **Explore GPTs** (left sidebar) → search **“Whimsical Diagrams”** → **Start chat** → (optional) **Keep in sidebar** to pin it for later. ([help.whimsical.com][1])
-2. You can also type **@Whimsical Diagrams** in *any* chat and continue your prompt there. ([help.whimsical.com][1])
-3. It can generate **flowcharts, mind maps, and sequence diagrams** directly from your prompt. (Concept maps are best formed by asking for a labeled flowchart/mind map with “labeled relationships.”) ([help.whimsical.com][1])
-4. Notes & limits: style/colors/layout aren’t fully controllable via prompt; to edit deeply you’ll be prompted to **open in Whimsical** and adjust there. ([help.whimsical.com][1])
-5. Access: GPTs are available to all ChatGPT users (Free has tighter message limits). Plus/Team/Enterprise can also create their own GPTs. ([OpenAI Help Center][2])
+Whimsical is a collaborative diagramming tool integrated with ChatGPT through the "Whimsical Diagrams" GPT, allowing users to generate flowcharts, concept maps, and mind maps directly from text prompts. This integration enables quick visualization of complex processes, making it ideal for the Department of Statistics Malaysia (DOSM), where daily tasks involve managing intricate data workflows, such as survey design, data analysis, and report dissemination. For DOSM statisticians and analysts, Whimsical simplifies organizing statistical methodologies, mapping economic indicators, and outlining project timelines, enhancing team collaboration and clarity in presentations to stakeholders. For example, it can be used to create flowcharts for the lifecycle of national census data collection or concept maps for linking demographic trends to policy impacts, reducing time spent on manual diagramming and improving accuracy in communicating statistical insights. Integrated into routine operations—like planning monthly inflation reports or analyzing labor force surveys—Whimsical supports evidence-based decision-making by visualizing hierarchies and relationships in data. This guide emphasizes practical applications for DOSM's work, with one-time setup in ChatGPT for all users, while adhering to data confidentiality under the Statistics Act 1965. Notes: Style and layout have limited prompt control; deep edits require opening in Whimsical's web app. Access is available to free ChatGPT users (with message limits), and Plus/Team/Enterprise tiers offer expanded capabilities.
 
+## Quick Setup (One-Time)
 
-## A) Create a **Grant Flowchart** (end-to-end lifecycle)
+1. Open ChatGPT → **Explore GPTs** (left sidebar) → search **“Whimsical Diagrams”** → **Start chat** → (optional) **Keep in sidebar** to pin it for later.
+2. You can also type **@Whimsical Diagrams** in *any* chat and continue your prompt there.
+3. It can generate **flowcharts, mind maps, and sequence diagrams** directly from your prompt. (Concept maps are best formed by asking for a labeled flowchart/mind map with “labeled relationships.”)
+4. Notes & limits: Style/colors/layout aren’t fully controllable via prompt; to edit deeply you’ll be prompted to **open in Whimsical** and adjust there.
+5. Access: GPTs are available to all ChatGPT users (Free has tighter message limits). Plus/Team/Enterprise can also create their own GPTs.
 
-**What this gives you:** a decision-based process from idea → submission → review → award → reporting/outputs.
+## A) Create a Statistical Survey Flowchart (End-to-End Lifecycle)
+
+**What this gives you:** A decision-based process from planning to dissemination, tailored for DOSM's survey operations.
 
 **Say to Whimsical Diagrams:**
 
 ```
-Create a grant LIFECYCLE FLOWCHART for a university research grant.
-
+Create a STATISTICAL SURVEY LIFECYCLE FLOWCHART for national economic data collection at DOSM.
 Stages (left to right):
-1. Call Announced → 2. Eligibility & Fit Check → 3. Scoping & Literature Gap → 
-4. Problem Statement & Objectives → 5. Methodology Design → 6. Work Plan & Milestones → 
-7. Budget (show buckets: Personnel, Travel, Equipment/Services, Materials, Fees) → 
-8. Compliance (ethics/data) → 9. Drafting & Internal Review → 10. Submission (portal) → 
-11. Panel Review → decision: Accept / Revise & Resubmit / Reject → 
-12a. Award & Onboarding (kickoff, accounts, procurement) → 
-12b. Monitoring (progress reports, milestones, risks) → 
-12c. Outputs (publications, students, IP, external grants follow-on) → 13. Close-out (final report).
-
-Add decision diamonds where relevant; label connectors like “meets criteria?” or “budget approved?”.
+1. Survey Announcement → 2. Eligibility & Scope Check → 3. Questionnaire Design & Pilot Testing →
+4. Sampling Frame & Methodology → 5. Data Collection Plan → 6. Timeline & Milestones →
+7. Budget (show buckets: Personnel, Fieldwork, Equipment/Services, Materials, IT Fees) →
+8. Compliance (data privacy/ethics) → 9. Training & Field Preparation → 10. Data Collection (field/online) →
+11. Quality Review → decision: Validate / Revise / Discard →
+12a. Data Processing & Cleaning → 12b. Analysis (trends, forecasts) →
+12c. Outputs (reports, dashboards, policy briefs) → 13. Dissemination & Archiving.
+Add decision diamonds where relevant; label connectors like “meets quality standards?” or “budget approved?”.
 ```
 
 **Iterate:**
+- “Add roles swimlanes (Statistician, Field Enumerator, Data Analyst, Management, Stakeholders).”
+- “Insert quality gates after ‘Questionnaire Design’ and ‘Data Collection’.”
+- “Attach notes about required tools at ‘Data Processing’.”
 
-* “Add roles swimlanes (PI, Co-I, Department, Research Office, Funder).”
-* “Insert quality gates after ‘Methodology Design’ and ‘Budget’.”
-* “Attach notes about required attachments at ‘Submission’.”
+**Example Visualization: Economic Data Analysis Process Flowchart**  
+<p align="center">  
+<img src="https://s3.amazonaws.com/thumbnails.venngage.com/template/734a589f-5e55-491a-9c9d-c06c72339587.png" height="500" alt="Whimsical flowchart example for economic data analysis process" />  
+</p>  
 
+## B) Create a Concept Map (Indicators → Impact → KPIs)
 
-## B) Create a **Concept Map** (significance → impact → KPIs)
-
-**What this gives you:** labeled relationships between constructs (great for evaluation or theory).
+**What this gives you:** Labeled relationships between statistical constructs (great for impact assessment or data modeling).
 
 **Say to Whimsical Diagrams:**
 
 ```
-Create a CONCEPT MAP with labeled relationships for a research grant’s impact logic.
-
-Central concept: “Grant-Funded Research”.
-First layer: “Significance to Knowledge”, “Societal Benefit”, “Policy Relevance”, 
-“Industry/Economic Value”, “Capacity Building”.
+Create a CONCEPT MAP with labeled relationships for economic indicators' impact logic at DOSM.
+Central concept: “National Economic Statistics”.
+First layer: “Significance to Economy”, “Societal Impact”, “Policy Relevance”,
+“Industry Value”, “Capacity Building”.
 Second layer:
-- Under Significance to Knowledge → “Novel Theory”, “Methodological Innovation”.
-- Under Societal Benefit → “Health Outcomes”, “Education Access”, “Sustainability”.
-- Under Policy Relevance → “Evidence for Decision-Making”.
-- Under Industry/Economic Value → “Tech Transfer”, “Workforce Skills”.
-- Under Capacity Building → “Master’s/PhD Training”, “Collaboration Networks”.
+- Under Significance to Economy → “GDP Trends”, “Inflation Metrics”.
+- Under Societal Impact → “Employment Rates”, “Poverty Levels”, “Sustainability Indicators”.
+- Under Policy Relevance → “Evidence for Budget Allocation”.
+- Under Industry Value → “Trade Balances”, “Investment Flows”.
+- Under Capacity Building → “Data Analyst Training”, “Inter-Agency Networks”.
 Label edges with phrases like “enables”, “requires”, “measured by”, “leads to”.
 ```
 
 **Iterate:**
+- “Add KPIs under each node (e.g., Quarterly GDP Growth; Unemployment Rate <5%; 1 Policy Recommendation).”
+- “Color code by stakeholder (Government, Public, Industry)—if not possible here, I’ll edit in Whimsical.”
 
-* “Add KPIs under each node (e.g., 2 WoS papers; 1 PhD enrolled; 1 policy brief).”
-* “Color code by stakeholder (funder, university, society)—if not possible here, I’ll edit in Whimsical.” ([help.whimsical.com][1])
+## C) Create a Mind Map (Report Structure Outline)
 
-
-## C) Create a **Mind Map** (proposal structure outline)
-
-**What this gives you:** a one-glance outline to draft the proposal faster.
+**What this gives you:** A one-glance outline to draft statistical reports faster.
 
 **Say to Whimsical Diagrams:**
 
 ```
-Create a MIND MAP titled “Winning Research Grant Proposal”.
-
+Create a MIND MAP titled “Comprehensive Statistical Report Structure” for DOSM.
 First ring:
 - Background & Rationale
-- Objectives & Research Questions
-- Literature Review (gaps)
-- Methodology (design, data, analysis)
-- Work Plan & Milestones
-- Budget (Personnel, Travel, Equipment/Services, Materials, Fees)
-- Risk & Ethics (mitigation)
-- Impact & Dissemination (publications, policy, industry, community)
+- Objectives & Key Questions
+- Data Sources Review (gaps)
+- Methodology (sampling, collection, analysis)
+- Timeline & Milestones
+- Budget (Personnel, Fieldwork, Equipment/Services, Materials, IT Fees)
+- Risks & Data Quality (mitigation)
+- Findings & Insights (trends, forecasts, visualizations)
 - Team & Roles
-- Sustainability & Follow-on Funding
-
-For each branch, add 3-5 subnodes with examples and prompts to guide writing.
+- Dissemination & Future Recommendations
+For each branch, add 3-5 subnodes with examples and prompts to guide compilation.
 ```
 
 **Iterate:**
+- “Expand ‘Budget’ with sample justifications and allocations by category.”
+- “Add ‘Data Checklist’ branch (Sources, Metadata, Validation Logs).”
 
-* “Expand ‘Budget’ with sample justifications and caps by category.”
-* “Add ‘Attachments checklist’ branch (CVs, ethics approval, letters).”
+## Power Tips (Inside ChatGPT)
 
+- **Pin** Whimsical Diagrams to your sidebar for quick reuse.
+- In any chat, type **@Whimsical Diagrams** + your prompt to inject a diagram on the spot.
+- If you need fine-tuning (layout/colors), click **Open in Whimsical** when prompted and edit on the canvas.
 
-### Power tips (inside ChatGPT)
+## Ready-to-Use Prompt Pack (Copy–Paste)
 
-* **Pin** Whimsical Diagrams to your sidebar for quick reuse. ([help.whimsical.com][1])
-* In any chat, type **@Whimsical Diagrams** + your prompt to inject a diagram on the spot. ([help.whimsical.com][1])
-* If you need fine-tuning (layout/colors), click **Open in Whimsical** when prompted and edit on the canvas. ([help.whimsical.com][1])
-
-
-### Ready-to-use prompt pack (copy–paste)
-
-**Grant Budget Map (mind map add-on)**
+**Survey Budget Map (Mind Map Add-On)**
 
 ```
 Mind map branch “Budget”: expand into
-- Personnel: PI/RA rates, justification by tasks
-- Travel: conferences (limits), fieldwork
-- Equipment/Services: rentals, software, lab services
+- Personnel: Statistician/Enumerator rates, justification by tasks
+- Fieldwork: Travel for data collection, surveys
+- Equipment/Services: Devices, software, analysis tools
 - Materials & Supplies
-- Fees: student fees, publication
-Add a sibling branch “Value for Money” → “unit costs”, “leveraged resources”, “co-funding”.
+- IT Fees: Data storage, processing
+Add a sibling branch “Cost Efficiency” → “unit costs”, “leveraged resources”, “inter-agency funding”.
 ```
 
-**Review Decision Tree (flowchart add-on)**
+**Quality Review Decision Tree (Flowchart Add-On)**
 
 ```
-Add a decision subtree after "Panel Review": 
-If “Minor Revision” → “Revise & Resubmit (2 weeks)” → back to “Submission”.
-If “Major Revision” → “Methodology Rework” & “Budget Rebalance” → internal QC → “Resubmission”.
-If “Reject” → “Root Cause Analysis” → “Pipeline for Next Call”.
+Add a decision subtree after "Quality Review":
+If “Minor Issues” → “Revise & Revalidate (1 week)” → back to “Data Processing”.
+If “Major Issues” → “Methodology Adjustment” & “Resampling” → internal QC → “Recollection”.
+If “Discard” → “Root Cause Analysis” → “Plan for Next Survey Cycle”.
 ```
 
-**Impact Evidence Map (concept map add-on)**
+**Insights Evidence Map (Concept Map Add-On)**
 
 ```
-From “Impact & Dissemination”, create nodes “Academic”, “Policy”, “Industry”, “Community”.
-Attach metrics: Academic→ “WoS/Scopus”, “Citations”; Policy→ “Briefs”, “Adoptions”; 
-Industry→ “IP/Prototypes”, “MOUs”; Community→ “Outreach”, “Training”.
+From “Findings & Insights”, create nodes “Economic”, “Social”, “Environmental”, “Policy”.
+Attach metrics: Economic→ “GDP/CPI”, “Forecast Accuracy”; Social→ “Demographics”, “Equity Indices”;
+Environmental→ “Sustainability Scores”, “Resource Usage”; Policy→ “Recommendations Adopted”, “Impact Assessments”.
 Label edges with “measured by” / “supported by”.
 ```
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
