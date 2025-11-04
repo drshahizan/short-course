@@ -31,7 +31,7 @@
 | **3:45 – 5:00 pm** | **[Session 4: Case Studies & Real Applications](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/session04.md)**<br>This session presents practical case studies demonstrating the application of generative AI in real-world data integration and analysis. Participants will explore examples such as unifying census and academic datasets, generating insights using multiple AI tools.<br><br>The session also includes a group discussion focusing on potential opportunities for innovation and the challenges faced in adopting AI-driven approaches within DOSM and higher education institutions. |
 | **5:00 – 5:30 pm** | **Closing**<br>This session concludes the workshop with a summary of key learning outcomes, participant reflections, and an open Q&A session. |
 
-## [Alatan AI](materials/ai.md)
+## [AI Tools for Researchers](materials/ai.md)
 
 Bahagian ini memperkenalkan peserta kepada **set alat AI terpilih yang direka untuk menyokong tugas kejuruteraan, analisis data, serta pemantauan infrastruktur**. Penerangan yang disediakan membantu peserta menguasai **kemahiran digital** yang diperlukan untuk mengintegrasikan teknologi ini ke dalam amalan kerja dengan cara yang **beretika, berkesan, dan inovatif**.
 
