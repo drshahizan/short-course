@@ -19,7 +19,7 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 2. **[Flowcharts, Concept Maps, & Mind Maps with Whimsical](latihan/whimsical.md)**  
    Use Whimsical integration in ChatGPT to design visual representations like flowcharts, concept maps, and mind maps for clearer communication of statistical processes. For DOSM tasks, it's ideal for illustrating data collection workflows, mapping population census concepts, or diagramming inter-departmental collaborations on national accounts.
 
-3. **[Gantt Charts with ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)**  
+3. **[Gantt Charts with ChatGPT](latihan/ganttchart.md)**  
    Generate project timelines and milestones in Gantt chart format for effective planning and management of statistical activities. This supports DOSM's routine operations, such as scheduling household surveys, tracking inflation data releases, or coordinating quarterly GDP reporting to ensure timely deliverables.
 
 4. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)**  
