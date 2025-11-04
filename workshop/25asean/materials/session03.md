@@ -22,16 +22,19 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 3. **[Gantt Charts with ChatGPT](latihan/ganttchart.md)**  
    Generate project timelines and milestones in Gantt chart format for effective planning and management of statistical activities. This supports DOSM's routine operations, such as scheduling household surveys, tracking inflation data releases, or coordinating quarterly GDP reporting to ensure timely deliverables.
 
-4. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)**  
+4. **[Data Analysis with ChatGPT](latihan/chatgpt_chart.md)**
+  Use ChatGPT’s Data Analysis feature to explore, visualize, and interpret statistical datasets interactively. Using the official population_malaysia.csv file from data.gov.my, participants will learn how to upload, clean, and analyze demographic data to uncover population trends across Malaysian states. This activity emphasizes practical applications such as computing summary statistics, generating charts that show year-by-year population growth, and identifying the fastest-growing states.
+
+6. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)**  
    Apply advanced AI-based forecasting to analyze data trends and generate predictive insights. In a DOSM context, it can be used daily for projecting economic growth rates, population trends, or labor market statistics, aiding in policy recommendations and long-term planning.
 
-5. **[Slide Design with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md)**  
+7. **[Slide Design with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md)**  
    Utilize AI tools to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data, ensuring impactful communication.
 
-6. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
+8. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
    Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
    
-8. **[Data Unification with AI](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
+9. **[Data Unification with AI](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
 Integrate data from multiple sources into a single, consistent dataset using AI-assisted tools like ChatGPT for code generation or NotebookLM for document-based data merging. For DOSM's daily tasks, this eliminates silos, enhances data quality, and provides comprehensive views, such as combining census and economic surveys for unified national statistics.
    
 ### 🙌🏻 Connect with Me
