@@ -8,6 +8,8 @@
 # Session 4: Case Studies & Real Applications
 
 buatkan report guna gemini dan grok
+()[https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/latihan/gemini_report.md]
+
 buat poster - mage guna copilot, selepas itu guna grok
 dashboard
 
