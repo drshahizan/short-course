@@ -7,6 +7,31 @@
 
 # Session 3: Practical – Using Generative AI for Data Unification
 
+# AI Tools for Daily and Work-Related Tasks at the Department of Statistics Malaysia (DOSM)
+
+## Introduction
+
+The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting, analyzing, and disseminating official statistics on various aspects of Malaysia's economy, population, society, and environment. In the fast-paced world of data management and analysis, integrating AI-powered tools can significantly enhance daily operations, improve efficiency, and support evidence-based decision-making. This guide focuses on six practical AI applications tailored for DOSM's workflow, such as data visualization, project planning, predictive analysis, presentation design, and document processing. These tools are designed for everyday use by statisticians, analysts, and administrators to streamline tasks like survey design, trend forecasting, report generation, and collaborative planning. By leveraging these resources, DOSM staff can visualize complex datasets, manage timelines for statistical releases, forecast economic indicators, create professional presentations for stakeholders, and extract insights from voluminous reports—ultimately fostering innovation and accuracy in national statistics. This compilation is based on open-source materials and can be adapted for secure, internal use while adhering to data privacy guidelines under the Statistics Act 1965.
+
+## Recommended AI Tools for DOSM Applications
+
+1. **[Mind Maps with Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)**  
+   Build interactive mind maps to visualize, organize, and structure statistical ideas effectively. In DOSM's daily work, this tool can help map out survey methodologies, categorize demographic data, or outline economic indicators for quick reference during team meetings or report planning.
+
+2. **[Flowcharts, Concept Maps, & Mind Maps with Whimsical](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md)**  
+   Use Whimsical integration in ChatGPT to design visual representations like flowcharts, concept maps, and mind maps for clearer communication of statistical processes. For DOSM tasks, it's ideal for illustrating data collection workflows, mapping population census concepts, or diagramming inter-departmental collaborations on national accounts.
+
+3. **[Gantt Charts with ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)**  
+   Generate project timelines and milestones in Gantt chart format for effective planning and management of statistical activities. This supports DOSM's routine operations, such as scheduling household surveys, tracking inflation data releases, or coordinating quarterly GDP reporting to ensure timely deliverables.
+
+4. **[Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md)**  
+   Apply advanced AI-based forecasting to analyze data trends and generate predictive insights. In a DOSM context, it can be used daily for projecting economic growth rates, population trends, or labor market statistics, aiding in policy recommendations and long-term planning.
+
+5. **[Slide Design with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md)**  
+   Utilize AI tools to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data, ensuring impactful communication.
+
+6. **[Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)**  
+   Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
