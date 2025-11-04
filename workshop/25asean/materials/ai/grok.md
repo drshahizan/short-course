@@ -5,118 +5,98 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
-# [Grok](https://grok.com/): Chatbot AI oleh xAI yang Dibangunkan oleh Elon Musk
+# [Grok](https://grok.com/): AI Chatbot by xAI Developed by Elon Musk
 
 <img src="https://opencv.org/wp-content/uploads/2025/02/1920x1080-1.jpg" alt="Dr Shahizan AI tools" height="400">
 
-**Grok** ialah chatbot berkuasa AI yang dibangunkan oleh xAI, sebuah syarikat yang diasaskan oleh Elon Musk pada tahun 2023. Berbeza daripada chatbot konvensional, Grok direka bentuk untuk memberikan respons yang bersifat informatif, lucu, dan kadangkala bersifat berani atau provokatif. Ia menggabungkan maklumat masa nyata daripada platform X (dahulunya Twitter) dan berfungsi sebagai pembantu AI yang mencari kebenaran dengan keupayaan penaakulan dan kreativiti yang tinggi.
+**Grok** is a powerful AI chatbot developed by xAI, a company founded by Elon Musk in 2023. Unlike conventional chatbots, Grok is designed to provide informative, humorous, and sometimes bold or provocative responses. It integrates real-time information from the X platform (formerly Twitter) and serves as a truth-seeking AI assistant with advanced reasoning and creativity capabilities. As of 2025, Grok 4 represents the latest advancement, touted as the most intelligent model with native tool use and real-time search integration. It is powered by xAI's Colossus 2 supercluster, featuring 200,000 Nvidia GPUs.
 
-## 🧠 Ciri-Ciri Utama
+## 🧠 Key Features
+### 1. Real-Time Information Access
+* Grok has access to live data streams, primarily from the X platform, enabling it to provide answers on current issues, trending topics, and news in real time.
+### 2. Unique Personality
+* Inspired by *The Hitchhiker’s Guide to the Galaxy*, Grok is designed with a bold, sarcastic, and humorous tone.
+* It can handle unusual or controversial questions that other models might avoid.
+### 3. Multimodal AI Capabilities
+* Newer versions of Grok can understand and respond in text and image formats.
+* It can analyze visual inputs and generate outputs combining both forms.
+### 4. Advanced Problem-Solving
+* Grok offers advanced reasoning and can provide step-by-step explanations for complex questions.
+* It supports programming-related tasks such as writing, debugging, and explaining code.
+### 5. Long Context Understanding
+* The latest models support a long context window (up to 128,000 tokens), allowing effective processing of large documents or extended conversations.
 
-### 1. Akses Maklumat Masa Nyata
+## 💡 Role of Grok in Daily Usage and Work at the Department of Statistics, Malaysia (DOSM)
+The Department of Statistics Malaysia (DOSM) is responsible for collecting, analyzing, and disseminating official statistics on economic, social, and demographic indicators to support national planning and policy-making. Grok can enhance daily operations and statistical work by leveraging AI for data handling, trend analysis, and idea generation, aligning with Malaysia's push for AI integration in public sectors.
 
-* Grok mempunyai akses kepada aliran data langsung, terutamanya dari platform X, membolehkannya memberikan jawapan berkaitan isu semasa, topik trending dan berita secara masa nyata.
+### 1. **Generating Ideas for Statistical Surveys Based on Trends**
+* Connected to the X platform, Grok provides access to real-time global conversations.
+* Staff can ask Grok to identify current issues in specific sectors or communities.
+* Example:
+  > “What are the current trending topics in Malaysia's economy discussed online today?”
 
-### 2. Personaliti Unik
+### 2. **Synthesizing Data Across Domains**
+* Grok can combine concepts from various fields to suggest new statistical frameworks or indicators.
+* It bridges gaps between domains (e.g., environmental statistics + AI-driven forecasting).
+* Example:
+  > “Suggest statistical indicators that integrate environmental data with generative AI applications.”
 
-* Diilhamkan daripada *The Hitchhiker’s Guide to the Galaxy*, Grok direka bentuk dengan nada yang berani, sarkastik dan lucu.
-* Ia mampu menangani soalan yang luar biasa atau kontroversi yang biasanya dielakkan oleh model-model lain.
+### 3. **Refining Statistical Problems**
+* Grok helps sharpen vague or broad data queries into focused statistical questions.
+* It can suggest ways to frame data gaps, define variables, or scope surveys.
+### 4. **Suggestions for Statistical Methods**
+* Users can query Grok on suitable data collection or analysis methods.
+* It recommends qualitative, quantitative, or mixed approaches based on project needs.
+* Example:
+  > “What is the best survey design to explore attitudes toward AI adoption in Malaysian public sectors?”
 
-### 3. Keupayaan AI Pelbagai Mod
+### 5. **Formulating Survey Questions & Hypotheses**
+* Grok assists in generating research questions and hypotheses based on keywords or statistical fields.
+* It suggests independent/dependent variables, controls, or relationships to test.
+* Example:
+  > “Provide three hypotheses for a study on digital well-being and social media usage among Malaysian youth.”
 
-* Versi baharu Grok boleh memahami dan memberikan respons dalam bentuk teks dan imej.
-* Ia mampu menganalisis input visual dan menjana output yang menggabungkan kedua-dua bentuk.
-
-### 4. Penyelesaian Masalah Lanjutan
-
-* Grok mempunyai keupayaan penaakulan lanjutan dan boleh memberikan penjelasan langkah demi langkah untuk soalan yang kompleks.
-* Ia menyokong tugasan berkaitan pengaturcaraan seperti menulis, menyahpepijat dan menerangkan kod.
-
-### 5. Pemahaman Konteks Panjang
-
-* Model terkini menyokong tetingkap konteks yang panjang (sehingga 128,000 token), membolehkannya memproses dokumen besar atau perbualan panjang dengan berkesan.
-
-## 💡 Peranan Grok dalam Reka Bentuk Kajian & Penjanaan Idea
-
-### 1. **Menjana Idea Penyelidikan Berdasarkan Trend**
-
-* Grok dihubungkan ke platform X, memberikan akses kepada perbualan global secara langsung.
-* Penyelidik boleh meminta Grok mengenal pasti isu-isu terkini dalam bidang atau komuniti tertentu.
-* Contoh:
-
-  > “Apakah topik semasa dalam AI dan etika yang sedang dibincangkan dalam talian hari ini?”
-
-### 2. **Sintesis Idea Merentas Bidang**
-
-* Grok boleh menggabungkan konsep dari pelbagai bidang untuk mencadangkan topik penyelidikan atau kerangka baharu.
-* Ia boleh merapatkan jurang antara bidang yang berbeza (contohnya, neurosains + blockchain).
-* Contoh:
-
-  > “Beri saya topik penyelidikan yang menggabungkan sains alam sekitar dan AI generatif.”
-
-### 3. **Penajaman Masalah Penyelidikan**
-
-* Grok membantu memperincikan pernyataan masalah yang kabur atau terlalu umum kepada soalan penyelidikan yang lebih fokus.
-* Ia boleh mencadangkan cara untuk merangka jurang kajian, menentukan pembolehubah atau skop kajian.
-
-### 4. **Cadangan Kaedah Penyelidikan**
-
-* Penyelidik boleh bertanya kepada Grok tentang kaedah atau teknik pengumpulan data yang sesuai.
-* Ia boleh mencadangkan pendekatan kualitatif, kuantitatif, atau campuran berdasarkan keperluan kajian.
-* Contoh:
-
-  > “Apakah reka bentuk kajian terbaik untuk meneroka sikap pensyarah terhadap penggunaan AI dalam pendidikan tinggi?”
-
-### 5. **Pembentukan Soalan & Hipotesis Penyelidikan**
-
-* Grok membantu menjana soalan penyelidikan dan hipotesis berdasarkan kata kunci atau bidang kajian.
-* Ia mencadangkan pembolehubah bebas/bersandar, keadaan kawalan, atau hubungan untuk diuji.
-* Contoh:
-
-  > “Beri tiga hipotesis yang sesuai untuk kajian tentang kesejahteraan digital dan penggunaan media sosial dalam kalangan remaja.”
-
-## ⚙️ Mengapa Gunakan Grok dalam Langkah Ini?
-
-| Langkah                       | Faedah yang Diperoleh daripada Grok                                  |
+## ⚙️ Why Use Grok in Daily and DOSM-Related Work?
+| Step | Benefits from Grok |
 | ----------------------------- | -------------------------------------------------------------------- |
-| Mengenal Pasti Idea Baharu    | Menyaring data masa nyata daripada X untuk mencerminkan trend semasa |
-| Sumbang Saran Merentas Bidang | Menggalakkan pemikiran kreatif merentas bidang akademik              |
-| Penajaman Soalan Penyelidikan | Membantu memperincikan idea kepada soalan kajian yang jelas          |
-| Pemilihan Metodologi          | Mencadangkan reka bentuk dan alatan yang sesuai berdasarkan projek   |
-| Sokongan Penulisan            | Mencadangkan struktur logik untuk cadangan atau rangka penyelidikan  |
+| Identifying New Data Trends | Filters real-time data from X to reflect current statistical trends |
+| Cross-Domain Brainstorming | Encourages creative thinking across statistical and academic fields |
+| Refining Statistical Questions | Helps specify ideas into clear data queries |
+| Selecting Methodologies | Suggests designs and tools suited to statistical projects |
+| Writing Support | Proposes logical structures for reports or statistical frameworks |
 
-## 🚀 Kekuatan untuk Penyelidik
+## 🚀 Strengths for Statistical Professionals
+* **Real-Time Awareness**: Draws from current global conversations – ideal for timely statistical topics.
+* **Interactive and Approachable**: Enables iterative idea refinement in natural conversations.
+* **Personality-Driven Creativity**: Its unfiltered tone can spark unique out-of-the-box ideas for data innovation.
+* **Alignment with National Initiatives**: Supports Malaysia's AI adoption in statistics, as highlighted in conferences like MyStats 2024 on "Data and Artificial Intelligence: Empowering the Future."
 
-* **Kesedaran Masa Nyata**: Berdasarkan perbualan global semasa – sesuai untuk topik penyelidikan yang terkini.
-* **Interaktif dan Mudah Didekati**: Membolehkan penapisan idea secara berulang dalam aliran semula jadi.
-* **Kreativiti Berdasarkan Personaliti**: Nada yang tidak ditapis kadangkala mencetuskan idea luar kotak yang unik.
+## 📌 Limitations to Consider
+* **Academic Rigor**: Grok is not specifically optimized for scholarly sources; cross-verification is needed.
+* **Citation Support**: Unlike specialized tools, Grok does not provide direct links to peer-reviewed journals.
+* **Ethical Filtering**: Generating certain topics may require further ethical review, especially for sensitive data issues.
 
-## 📌 Had yang Perlu Dipertimbangkan
-
-* **Ketelitian Akademik**: Grok tidak dioptimumkan khusus untuk sumber ilmiah; semakan silang diperlukan.
-* **Sokongan Sitasi**: Berbeza dengan Scopus AI atau SciSpace, Grok tidak menyediakan pautan terus kepada jurnal berwasit.
-* **Penapisan Etika**: Penjanaan topik tertentu mungkin memerlukan penilaian etika lanjut, khususnya untuk isu sensitif.
-
-## ✅ Contoh Prompt
-
+## ✅ Example Prompts
 ```text
-1. "Cadangkan lima tajuk penyelidikan berkaitan maklumat palsu dan AI di Asia Tenggara."
-2. "Bagaimana blockchain boleh digunakan dalam sistem penilaian universiti? Beri sudut penyelidikan."
-3. "Beri reka bentuk penyelidikan kaedah campuran untuk mengkaji keletihan dalam kalangan pekerja jarak jauh."
-4. "Bantu saya rangka latar belakang cadangan penyelidikan tentang platform pendidikan terdesentralisasi."
+1. "Suggest five survey titles related to misinformation and AI in Southeast Asia."
+2. "How can blockchain be applied in university assessment systems? Provide statistical angles."
+3. "Provide a mixed-methods research design to study fatigue among remote workers in Malaysia."
+4. "Help me outline the background for a statistical proposal on decentralized education platforms."
 ```
 
-## 📱 Akses dan Ketersediaan
+## 📱 Access and Availability
+* **Platforms**: Available on grok.com, x.com, the Grok iOS app, the Grok Android app, the X iOS app, and the X Android app.
+* **Subscription Plans**:
+  * Grok 3 is free with limited usage quotas.
+  * Grok 3 has voice mode available on Grok iOS and Android apps.
+  * Grok 4 is available for SuperGrok and Premium+ subscribers.
+  * SuperGrok offers higher Grok 3 usage quotas.
+  * For pricing details on SuperGrok, visit https://x.ai/grok.
+  * For x.com premium subscriptions, visit https://help.x.com/en/using-x/x-premium.
+* **API Service**: For queries related to xAI's API, visit https://x.ai/api.
 
-* **Platform**: Tersedia melalui platform X dan dalam ekosistem xAI.
-* **Pelan Langganan**:
-
-  * Pelan percuma dengan had penggunaan harian.
-  * Pelan premium dengan keupayaan tambahan seperti akses kepada Grok-3, penjanaan imej, dan mod personaliti.
-
-## 🧭 Rumusan
-
-Grok bukan sekadar chatbot AI biasa—ia menggabungkan pengetahuan, personaliti, dan kesedaran masa nyata untuk memberikan respons yang berguna dan menghiburkan. Dengan kemas kini berterusan dan penyepaduan dalam visi Elon Musk untuk AI dan media sosial, Grok sedang membina kedudukannya sebagai pesaing utama dalam dunia AI generatif.
+## 🧭 Summary
+Grok is more than a standard AI chatbot—it combines knowledge, personality, and real-time awareness to deliver useful and entertaining responses. With ongoing updates and integration into Elon Musk's vision for AI and social media, Grok is establishing itself as a key player in generative AI, particularly valuable for daily tasks and statistical work at institutions like DOSM.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
