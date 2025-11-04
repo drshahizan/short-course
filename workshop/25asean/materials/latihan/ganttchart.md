@@ -5,67 +5,47 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 8) Kertas Kerja Program Akademik: “Seminar Generative AI untuk Pentadbiran Akademik”
 
-**Objektif latihan**
+## Gantt Chart using ChatGPT
 
-* Menjana rangka kertas kerja (latar belakang, objektif, khalayak sasaran, jadual, kos).
-* Mempraktikkan penukaran output AI kepada format rasmi agensi.
+**Step 1. Define the project scope and timeline**
+Write:
+*"Create a Gantt chart for a Research Work Schedule. The project duration is 12 months, starting in November 2025 and ending in October 2026."*
 
-**Bahan input (contoh)**
+**Step 2. List the number of tasks**
+Write:
+*"There are 6 main tasks involved in this research project."*
 
-* Tajuk: **Seminar Generative AI untuk Pentadbiran Akademik**
-* Penganjur: **UTMSPACE, Fakulti Komputeran**
-* Tarikh cadangan: **24–25 Okt 2025**
-* Sasaran peserta: **60 staf akademik & pentadbiran**
-* Hasil pembelajaran: Respon e-mel pantas, minit automatik, draf memo.
-* Anggaran kos: Dewan, jamuan, penceramah, bahan.
+**Step 3. Provide the task names**
+Example:
 
-### Langkah 1 — Jana rangka dokumen
+* Literature Review
+* Research Design
+* Data Collection
+* Data Analysis
+* Writing Draft Report
+* Final Report & Submission
 
-**Prompt:**
+**Step 4. Assign time periods for each task**
+Write:
+*"Distribute the tasks across the 12-month period, with some tasks overlapping logically. For example, Literature Review may start in November 2025 and end in January 2026, while Research Design runs from January to February 2026, and so on."*
 
-```
-Sediakan draf kertas kerja rasmi program bertajuk "Seminar Generative AI untuk Pentadbiran Akademik" (2 hari).
-Bahagian diperlukan: 1) Latar Belakang & Isu, 2) Objektif Spesifik, 3) Sasaran Peserta, 4) Hasil Pembelajaran (Measurable), 5) Struktur Program (jadual harian ringkas), 6) Keperluan Sumber (tempat, fasiliti, perisian), 7) Peranan Jawatankuasa, 8) Anggaran Kos (jadual), 9) Penilaian Keberhasilan (instrumen & indikator), 10) Penutup.
-Gunakan Bahasa Melayu rasmi dan format bersubtajuk yang kemas.
-```
+**Step 5. Ask for a Gantt chart visualization**
+Write:
+*"Generate a Gantt chart showing tasks on the vertical axis and months (Nov 2025 – Oct 2026) on the horizontal axis. Use bars to represent task durations."*
 
-### Langkah 2 — Tambah jadual terperinci & kos
+**Step 6. Request output format**
+Write:
+\*"Provide the Gantt chart in two formats:
 
-**Prompt (susulan):**
+1. A visual chart (image/plot).
+2. The underlying Python code using matplotlib to generate the chart, so I can edit it later."\*
 
-```
-Tambah jadual terperinci:
-A) Jadual Program 2 hari (slot masa, tajuk sesi, penceramah, hasil).
-B) Jadual Anggaran Kos (Item, Kuantiti, Kadar/Unit, Jumlah; jumlah besar di akhir).
-Pastikan angka kos munasabah dalam RM. Sertakan ringkasan justifikasi kos ≤80 patah perkataan.
-```
+✅ When combined, your **full prompt** will look like this:
 
-### Langkah 3 — Selaraskan dengan format dalaman
+**Final Prompt Example:**
+*"Create a Gantt chart for a Research Work Schedule. The duration is 12 months, starting in November 2025 and ending in October 2026. There are 6 main tasks: Literature Review, Research Design, Data Collection, Data Analysis, Writing Draft Report, and Final Report & Submission. Assign each task a logical duration with possible overlaps. Generate the Gantt chart with tasks on the vertical axis and months on the horizontal axis. Provide the output as both an image and the Python code using matplotlib."*
 
-**Prompt (susulan):**
-
-```
-Refine mengikut gaya kertas kerja universiti: tambah "Rujukan Polisi/Strategik" (contoh: pemodenan pentadbiran), “Risiko & Mitigasi”, dan "Timeline Persiapan" (Gantt ringkas dalam senarai poin).
-Hadkan 2–3 halaman apabila ditampal ke Word.
-```
-
-### Semakan kualiti
-
-* [ ] Objektif SMART (nyata ukuran & tarikh).
-* [ ] Jadual masuk akal (aliran topik).
-* [ ] Kos berpatutan + justifikasi ringkas.
-* [ ] Ada risiko & mitigasi.
-* [ ] Boleh terus “copy-edit” ke template rasmi.
-
-### Contoh (petikan ringkas dari Anggaran Kos)
-
-* Sewa dewan: **RM1,500/hari x 2 = RM3,000**
-* Jamuan peserta: **RM25/pax x 60 x 2 = RM3,000**
-* Honorarium penceramah: **RM1,000 x 2 = RM2,000**
-* Bahan & cenderahati: **RM20/pax x 60 = RM1,200**
-  **Jumlah Anggaran:** **RM9,200**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
