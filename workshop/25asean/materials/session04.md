@@ -32,6 +32,8 @@ Experiment with **Kimi.ai**’s data analysis features by exploring a real datas
 
 Learn to design a simple mobile-friendly website powered by AI. This case study demonstrates how to use **Kimi.ai** to generate web content, build event schedules, and manage workshop reservations. The same approach can be adapted for DOSM’s data dissemination portals or public outreach microsites.
 
+### **5. [Google Stitch: a responsive web dashboard UI for an AI-enabled monitoring system for modern infrastructure and heritage assets](https://stitch.withgoogle.com/projects/16048513708186368785)
+Discover how Google Stitch can generate a responsive dashboard interface for an AI-enabled monitoring system. This case study illustrates real-time data visualization and intelligent alerts for monitoring infrastructure and heritage sites—concepts relevant to DOSM’s initiatives in urban analytics, environmental monitoring, and smart governance.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
