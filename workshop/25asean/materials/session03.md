@@ -7,8 +7,6 @@
 
 # Session 3: Practical – Using Generative AI for Data Unification
 
-# AI Tools for Daily and Work-Related Tasks at the Department of Statistics Malaysia (DOSM)
-
 ## Introduction
 
 The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting, analyzing, and disseminating official statistics on various aspects of Malaysia's economy, population, society, and environment. In the fast-paced world of data management and analysis, integrating AI-powered tools can significantly enhance daily operations, improve efficiency, and support evidence-based decision-making. This guide focuses on six practical AI applications tailored for DOSM's workflow, such as data visualization, project planning, predictive analysis, presentation design, and document processing. These tools are designed for everyday use by statisticians, analysts, and administrators to streamline tasks like survey design, trend forecasting, report generation, and collaborative planning. By leveraging these resources, DOSM staff can visualize complex datasets, manage timelines for statistical releases, forecast economic indicators, create professional presentations for stakeholders, and extract insights from voluminous reports—ultimately fostering innovation and accuracy in national statistics. This compilation is based on open-source materials and can be adapted for secure, internal use while adhering to data privacy guidelines under the Statistics Act 1965.
