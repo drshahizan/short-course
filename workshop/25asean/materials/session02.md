@@ -8,19 +8,19 @@
 # Session 2 – Introduction to Generative AI Tools
 
 
-| **No** | **Category**                       | **Contents** | **Focus** |
-| -----: | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **1**  | **Practical Setup**                 | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step guides for **AI tool installation and access** |
-| **2**  | **Integration with Communication**  | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/ai/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
-| **3**  | **Multimodal Generative AI Assistant** | **Gemini** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
-| **4**  | **Conversational AI**               | **Grok** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
-| **5**  | **Open-Source Foundation Model**    | **Qwen** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
-| **6**  | **Research Reading & Presentation Tool** | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
-| **7**  | **General-Purpose LLM Assistant**   | **ChatGPT** – Versatile AI for conversation, content generation, code, and data handling. | Teaching, research, analysis, and creative content development. |
-| **8**  | **Productivity & Office Integration** | **Microsoft Copilot** – Integrated with Word, Excel, PowerPoint, Outlook, and Teams. | Automates drafting, summarisation, and spreadsheet or presentation tasks. |
-| **9**  | **Reasoning & Analytical Model**    | **Deepseek** – Lightweight yet powerful model for structured reasoning and problem solving. | Analytical computations, logic-based queries, and efficient resource use. |
-| **10** | **Research Workspace (Grounded AI)** | **NotebookLM** – AI that uses uploaded sources for contextual Q&A and summarised insights. | Grounded research, note synthesis, and academic referencing. |
-| **11** | **Creative Ideation & Visualisation Tool** | **Napkin.ai** – Converts text prompts into structured ideas, diagrams, and mind maps. | Brainstorming, visual thinking, and early-stage conceptualisation. |
+| No | **AI Tools** | **Focus** |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1 | [ChatGPT, Copilot, Gemini](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/signin.md) | Step-by-step guides for **AI tool installation and access** |
+| 2 | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/ai/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
+| 3 | **Gemini** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
+| 4 | **Grok** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
+| 5 | **Qwen** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
+| 6 | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
+| 7 | **ChatGPT** – Versatile AI for conversation, content generation, code, and data handling. | Teaching, research, analysis, and creative content development. |
+| 8 | **Microsoft Copilot** – Embedded across Word, Excel, PowerPoint, Outlook, Teams, and Loop via [m365.cloud.microsoft](https://m365.cloud.microsoft/). Offers enterprise-grade AI integration for business data through Microsoft Graph. | Enables **document drafting, meeting summarisation, Excel data insights, PowerPoint slide generation, and secure integration with SharePoint, Dynamics 365, and OneDrive**. |
+| 9 | **Deepseek** – Lightweight yet powerful model for structured reasoning and problem solving. | Analytical computations, logic-based queries, and efficient resource use. |
+| 10 | **NotebookLM** – AI that uses uploaded sources for contextual Q&A and summarised insights. | Grounded research, note synthesis, and academic referencing. |
+| 11 | **Napkin.ai** – Converts text prompts into structured ideas, diagrams, and mind maps. | Brainstorming, visual thinking, and early-stage conceptualisation. |
 
 
 ### 🙌🏻 Connect with Me
