@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# 🎨 Poster → 🎬 Short Promo Video (Step-by-Step Guide)
+# 🎨 Poster to 🎬 Short Promo Video 
 
 This activity walks you through **designing a professional event poster** and transforming it into a **short vertical promo video**.
 You’ll combine **AI design tools** and **text-to-video generators** (like *Grok › Imagine*) to produce media suitable for social platforms and event promotions.
