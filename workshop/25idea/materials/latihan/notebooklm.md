@@ -5,71 +5,75 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Document Analysis with NotebookLM
+# NotebookLM Guide
 
-1.  **Create a New Notebook**: Start by signing into your Google account and going to NotebookLM. Create a new notebook with a clear name related to your topic. Upload your source documents, such as PDFs, Google Docs, or URLs. You can add up to 50 sources per notebook. NotebookLM will automatically generate an initial summary and suggested questions for each document..
+NotebookLM is Google's AI-powered research and analysis tool, designed to help users interact with and synthesize information from multiple documents. It is particularly valuable for daily work at the Department of Statistics Malaysia (DOSM), such as analyzing survey reports, economic data, population censuses, or policy briefs. By uploading statistical sources, it generates summaries, extracts key insights, and facilitates comparisons—streamlining tasks like data validation, trend identification, and report preparation. As of November 2025, NotebookLM features significant upgrades, including a 1 million token context window for handling larger datasets, enhanced chat memory for prolonged interactions, customizable response styles, and new tools like Magic View for infographic generation and Fast Research for quick overviews. It remains free for all Google account users, with seamless integration to Google Drive for accessing DOSM-shared files.
 
-2.  **Upload Your Sources**: Add all your research documents to the notebook. NotebookLM supports a wide variety of formats, including:
-    * **PDFs**: The most common format for academic papers and reports.
-    * **Google Docs & Slides**: Convenient for your personal notes and drafts.
-    * **Text Files & Copied Text**: For quick excerpts or plain-text data.
-    * **Web URLs**: NotebookLM can fetch and analyze the content of a web page.
-    * **YouTube Videos**: It can transcribe and analyze the content of a video.
-    * **Audio Files**: It can transcribe and analyze audio recordings.
+### 1. Creating a New Notebook
+- Sign in to your Google account and visit [https://notebooklm.google.com](https://notebooklm.google.com).
+- Create a new notebook with a descriptive name, e.g., "DOSM 2025 Economic Indicators Analysis."
+- Upload up to 50 sources, such as statistical reports or datasets. NotebookLM automatically generates an initial summary and suggested questions for each uploaded document, aiding quick daily reviews.
 
-    There's a limit of up to 50 sources per notebook. NotebookLM will automatically generate a summary and suggested questions for each document you upload.
+### 2. Uploading Sources
+- Add relevant DOSM materials in supported formats:
+  - **PDFs**: Ideal for official reports, census documents, or survey results.
+  - **Google Docs & Slides**: For internal notes, draft analyses, or presentation outlines.
+  - **Text Files & Copied Text**: For raw data excerpts, CSV summaries, or quick statistical notes.
+  - **Web URLs**: To fetch and analyze online content, like government websites or international stats pages.
+  - **YouTube Videos**: For transcribing and analyzing webinars on statistical methodologies.
+  - **Audio Files**: For processing recordings of meetings or data discussions.
+- NotebookLM processes uploads instantly, providing summaries and query suggestions—perfect for daily data ingestion in DOSM workflows.
 
-3.  **Interact with Your Documents**: This is where the core analysis happens. You can interact with the AI assistant in the chat panel to ask questions and get insights based on the documents you've uploaded. The most powerful way to use this is with specific, targeted prompts.
+### 3. Interacting with Documents
+- Use the chat panel to query your sources for targeted insights, leveraging the expanded 1 million token context for complex statistical analyses.
+  - **Summarization**: Condense single or multiple documents.
+    - *Prompt examples*: "Summarize the key findings from the 2024 Household Income Survey PDF." or "Synthesize trends from the three economic reports on GDP growth."
+  - **Information Extraction**: Pull specific data points or metrics.
+    - *Prompt examples*: "Extract all unemployment statistics from these labor force reports." or "List the top five demographic shifts from the population census data."
+  - **Cross-Document Comparison**: Identify patterns, discrepancies, or correlations.
+    - *Prompt examples*: "Compare inflation methodologies across the CPI reports." or "What common trends emerge in trade data from all uploaded sources?"
 
-    * **Summarization**: Ask for a summary of a single document or synthesize information from multiple sources.
-        * _Prompt examples_: "What are the key arguments in this paper?", "Summarize the main findings from the three documents on marine biodiversity."
+### 4. Generating Content and Organizing Notes
+- Save AI responses as **Notes** for easy reference in daily tasks.
+- Create structured outputs using new features like customizable tones or Learning Guide Style.
+  - **Save Insights**: Pin useful responses, such as data extractions, to the notes panel.
+  - **Structured Documents**: Generate guides or briefs.
+    - *Prompt example*: "Create a briefing document on sustainable development indicators from these reports." or "Generate a FAQ on statistical sampling techniques."
+  - **Audio Overviews**: Produce podcast-style discussions for auditory review of complex stats.
+  - **Infographics with Magic View**: Use the updated banner tool to visualize data trends quickly.
 
-    * **Information Extraction**: Get a list of specific data points, facts, or definitions.
-        * _Prompt examples_: "Extract all the statistics about renewable energy from these reports.", "What are the five most significant takeaways from this article?"
+### 5. Using AI Chat for Initial Queries
+- Start with broad questions in the chat panel for high-level overviews, enhanced by longer memory for iterative DOSM analyses.
+  - *Examples*: "What are the key themes in these inflation and employment datasets?" or "Summarize the main arguments in the latest trade balance report."
 
-    * **Cross-Document Comparison**: Ask the AI to compare and contrast different sources to find connections, conflicts, or trends.
-        * _Prompt examples_: "Compare the methodologies used in Document A and Document B.", "What are the common themes discussed across all the uploaded papers?"
+### 6. Combining Sources and Summarizing in Tables
+- For comparative analysis, craft prompts requesting table formats to organize statistical data efficiently.
+  - **Specific Prompt**: Define structure clearly.
+    - *Example*: "Create a table comparing the three uploaded GDP reports. Columns: 'Report 1', 'Report 2', 'Report 3'. Rows: 'Growth Rate', 'Sector Contributions', 'Forecasts'."
+  - **Review and Refine**: Check accuracy and refine, e.g., "Add a row for 'Data Sources' in the table."
 
-4.  **Generate New Content and Organize Your Notes**: As you receive useful responses, you can save them as **Notes** in your notebook. You can also use NotebookLM to generate structured content based on your analysis.
-    * **Save Important Insights**: If an AI response is particularly useful, click the "Save to Note" button to add it to your notes panel for future reference.
-    * **Create Structured Documents**: Use prompts to generate things like study guides, FAQs, or briefing documents.
-        * _Prompt example_: "Create a study guide based on the concepts in these lecture notes.", "Generate an FAQ for the key terms in this technical manual."
+### 7. Saving Key Insights to Notes
+- Use the "Save to Note" button for valuable outputs, building a curated library of statistical findings. Add manual notes to incorporate DOSM-specific interpretations, supporting ongoing projects like annual reports.
 
-    * **Audio Overviews**: An innovative feature that can turn your sources into an AI-generated, podcast-like discussion. This is a great way to consume and understand the material if you're an auditory learner. 
+## Example Prompts for Statistical Analysis at DOSM 📊
+Tailored for DOSM's focus on data-driven insights, assuming uploaded sources on topics like **economic indicators in post-pandemic Malaysia**.
 
-5.  **Use the AI Chat for Initial Queries**: Use the chat panel on the right to interact with your sources. You can ask broad questions about the documents to get a high-level understanding. For example: "What are the key themes across these three documents?" or "Summarize the main arguments of the first article." 
+### Prompt 1: Summarize and Compare Key Metrics
+"Create a table summarizing the three uploaded reports on economic indicators. Columns: 'Source 1: [Report Title]', 'Source 2: [Report Title]', 'Source 3: [Report Title]'. Rows: 'Key GDP Metrics', 'Inflation Impacts', 'Employment Challenges'."
 
-6.  **Combine Articles and Summarize in a Table**: To create a summary table from multiple articles, use a structured prompt that explicitly asks for a table format. Define the columns and rows you want to see. This is the most effective way to compare and contrast information.
+* **Benefit**: Highlights agreements and variances in data, aiding daily economic monitoring.
 
-    * **Craft a Specific Prompt**: A good prompt should define the exact structure you want. For example:
-        "Create a table that compares the three uploaded articles. The columns should be 'Article 1', 'Article 2', and 'Article 3'. The rows should be 'Main Argument', 'Methodology', and 'Key Findings'."
-    * **Review and Refine**: Once the table is generated, review the content for accuracy. If you notice any missing or incorrect information, you can ask for a correction directly in the chat. For instance: "In the table, please add a row for 'Limitations' for each of the three articles."
+### Prompt 2: Synthesize and Identify Data Gaps
+"Based on all documents, what are the primary effects of digital transformation on labor statistics? Summarize with citations, then identify undiscussed areas suggesting potential gaps for future DOSM surveys."
 
-7.  **Save Key Insights to Notes**: As you get useful responses from the AI, like the summary table, use the "Save to Note" button to pin them to your notebook. This creates a curated collection of your most valuable findings, which you can easily refer to and organize later. You can also manually add your own notes to build on the AI's output.
-
-A management studies-focused prompt for NotebookLM would be highly effective for a literature review. It would help you to compare and synthesize the findings from different papers on a single topic.
-
-## Example Prompts for Management Studies Research 📖
-
-Here are three tailored prompts you can use with NotebookLM for a literature review on modern management practices. For these examples, let's assume you have uploaded three articles discussing different aspects of **leadership in the digital age**. 
-
-### Prompt 1: Summarize and Compare Key Concepts
-
-"Create a table that summarizes the three uploaded articles. The columns should be 'Source 1: [Article Title]', 'Source 2: [Article Title]', and 'Source 3: [Article Title]'. The rows should be 'Key Leadership Skills for the Digital Age', 'Impact on Organizational Culture', and 'Challenges Mentioned'."
-
-* **Benefit**: This prompt forces the AI to extract specific, comparable data points, making it easy for you to see where the articles agree and disagree on important topics like necessary skills or common obstacles.
-
-### Prompt 2: Synthesize and Identify a Research Gap
-
-"Based on all the uploaded documents, what are the primary effects of a leader's digital literacy on employee performance? After summarizing this, identify any areas that are not discussed across the three articles, suggesting a potential research gap for a new study. Provide citations from each source to support your summary."
-
-* **Benefit**: This is a more advanced prompt. It not only asks for a summary of a specific topic but also pushes the AI to perform a meta-analysis—looking for what is missing. This is a crucial step in preparing for a research paper.
+* **Benefit**: Performs meta-analysis to spot research needs, useful for planning statistical inquiries.
 
 ### Prompt 3: Create a Structured Outline for a Report
+"Generate a detailed outline for a DOSM briefing on 'Trends in Population Demographics.' Sections: 'Introduction,' 'Key Themes' (list and define metrics), 'Contrasting Data Sources' (highlight viewpoints), 'Conclusion and Recommendations' (based on findings)."
 
-"Using all the documents, generate a detailed outline for a briefing on 'The Evolving Role of Management in a Hybrid Work Environment.' The outline should include sections for 'Introduction,' 'Key Themes' (which should list and define key concepts), 'Contrasting Perspectives' (highlighting different viewpoints from the documents), and 'Conclusion and Recommendations' (based on the findings)."
+* **Benefit**: Accelerates report drafting, ensuring comprehensive coverage grounded in sources.
 
-* **Benefit**: This prompt helps you quickly generate a structured document, saving you the time of building a detailed outline from scratch. It ensures your report will be comprehensive and grounded in your sources.
+This process optimizes DOSM's daily and project-based work, turning document analysis into actionable insights in minutes. For the latest features, check NotebookLM updates via Google. Efficient analyzing
 
 ### 🙌🏻 Connect with Me
 <p align="left">
