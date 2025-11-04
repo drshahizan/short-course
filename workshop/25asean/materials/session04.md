@@ -5,32 +5,13 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+
+
 # Session 4: Case Studies & Real Applications
-
-1. **[Poster to 🎬 Short Promo Video](latihan/poster.md)**
-
-2. **[Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)**
-
-
-3. **[Slide Design with Kimi](latihan/kimi.md)**  
-   Utilize AI tools to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data, ensuring impactful communication.
-
-4. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**  
-   Employ AI to extract, summarize, and interpret key information from statistical documents for deeper understanding. This is particularly useful in DOSM's daily routine for reviewing survey reports, condensing census data, or analyzing international trade agreements to support accurate data interpretation and decision-making.
-
-5. **[Kimi.ai: Data analysis using real estate data from U.S. cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
-6. **[Kimi.ai: mobile website for a botanical garden's Garden Festival weekend with schedules and workshop reservations](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
-
-
-Here’s your revised and formatted version with added descriptions for each activity:
-
----
-
-# **Session 4: Case Studies & Real Applications**
 
 This session highlights practical exercises designed to apply generative AI tools in real-world data, research, and communication contexts. Participants will explore how AI can enhance productivity, creativity, and analytical capabilities in the Department of Statistics Malaysia (DOSM) and related professional environments.
 
----
+
 
 ### **1. [Poster to 🎬 Short Promo Video](latihan/poster.md)**
 
