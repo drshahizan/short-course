@@ -11,7 +11,7 @@ Markmap is an open-source tool that transforms Markdown documents into interacti
 ## How to Use Markmap for DOSM Tasks
 
 ### 1. Generate a Mind Map Prompt
-Use AI tools like Copilot, Gemini, or ChatGPT to create a structured Markdown mind map. Enter the following prompt, replacing "[Your Topic]" with a DOSM-relevant subject, such as "Malaysia's Economic Indicators."
+Use AI tools like ChatGPT to create a structured Markdown mind map. Enter the following prompt, replacing "[Your Topic]" with a DOSM-relevant subject, such as "Malaysia's Economic Indicators."
 
 ```
 A mind map with a structured list that is centered on [Your Topic]. Create a Markdown version of the mind map.
