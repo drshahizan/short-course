@@ -14,14 +14,13 @@
 | 2 | • [WhatsApp (ChatGPT, Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/ai/wa-chatgpt.md) <br> • [Telegram (Copilot)](https://github.com/drshahizan/short-course/blob/main/workshop/25Utmspace/materials/telegram.md) | Practical integration of **AI into messaging platforms** |
 | 5 | **[Qwen](ai/qwen.md)** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
 | 3 | **[Gemini](ai/gemini.md)** – Google’s AI platform offering multimodal capabilities for chat, code, and data analysis. | Research, data workflows, and Google ecosystem integration. |
-| 4 | **Grok** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
-| 5 | **Qwen** – Alibaba’s large language model family supporting multilingual, coding, and vision tasks. | Custom fine-tuning, multilingual analytics, and enterprise integration. |
-| 6 | **Kimi.ai** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
-| 7 | **ChatGPT** – Versatile AI for conversation, content generation, code, and data handling. | Teaching, research, analysis, and creative content development. |
-| 8 | **Microsoft Copilot** – Embedded across Word, Excel, PowerPoint, Outlook, Teams, and Loop via [m365.cloud.microsoft](https://m365.cloud.microsoft/). Offers enterprise-grade AI integration for business data through Microsoft Graph. | Enables **document drafting, meeting summarisation, Excel data insights, PowerPoint slide generation, and secure integration with SharePoint, Dynamics 365, and OneDrive**. |
-| 9 | **Deepseek** – Lightweight yet powerful model for structured reasoning and problem solving. | Analytical computations, logic-based queries, and efficient resource use. |
-| 10 | **NotebookLM** – AI that uses uploaded sources for contextual Q&A and summarised insights. | Grounded research, note synthesis, and academic referencing. |
-| 11 | **Napkin.ai** – Converts text prompts into structured ideas, diagrams, and mind maps. | Brainstorming, visual thinking, and early-stage conceptualisation. |
+| 4 | **[Grok](ai/grok.md)** – Real-time, web-aware conversational AI with contextual reasoning. | Fast information retrieval and analysis of current events. |
+| 6 | **[Kimi.ai](ai/kimi.md)** – Specialises in long-document comprehension, PDF chat, and slide presentation generation with citation support. | Literature review, summarising large PDFs, and **AI-assisted slide creation** for presentations. |
+| 7 | **[ChatGPT](ai/chatgpt.md)** – Versatile AI for conversation, content generation, code, and data handling. | Teaching, research, analysis, and creative content development. |
+| 8 | **[Microsoft Copilot]](ai/copilot.md)** – Embedded across Word, Excel, PowerPoint, Outlook, Teams, and Loop via [m365.cloud.microsoft](https://m365.cloud.microsoft/). Offers enterprise-grade AI integration for business data through Microsoft Graph. | Enables **document drafting, meeting summarisation, Excel data insights, PowerPoint slide generation, and secure integration with SharePoint, Dynamics 365, and OneDrive**. |
+| 9 | **[Deepseek](ai/deepseek.md)** – Lightweight yet powerful model for structured reasoning and problem solving. | Analytical computations, logic-based queries, and efficient resource use. |
+| 10 | **[NotebookLM](ai/notebooklm.md)** – AI that uses uploaded sources for contextual Q&A and summarised insights. | Grounded research, note synthesis, and academic referencing. |
+| 11 | **[Napkin.ai](ai/napkin.md)** – Converts text prompts into structured ideas, diagrams, and mind maps. | Brainstorming, visual thinking, and early-stage conceptualisation. |
 
 
 ### 🙌🏻 Connect with Me
