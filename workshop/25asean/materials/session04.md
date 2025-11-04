@@ -23,7 +23,7 @@ This session highlights practical exercises designed to apply generative AI tool
 
 4. **[Generative AI for Statistical Analysis](latihan/statistical.md)**
 
-   This case study employs a dataset on **household income and poverty rates across Malaysian states (2024)** to demonstrate AI-driven computation of **descriptive statistics, correlation analysis, and data visualization**.
+   This case study employs a dataset on household income and poverty rates across Malaysian states (2024) to demonstrate AI-driven computation of descriptive statistics, correlation analysis, and data visualization.
 
 5. **[Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
 
