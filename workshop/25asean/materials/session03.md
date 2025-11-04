@@ -22,7 +22,7 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 3. **[Gantt Charts with ChatGPT](latihan/ganttchart.md)**  
    Generate project timelines and milestones in Gantt chart format for effective planning and management of statistical activities. This supports DOSM's routine operations, such as scheduling household surveys, tracking inflation data releases, or coordinating quarterly GDP reporting to ensure timely deliverables.
 
-4. **1. [Poster to 🎬 Short Promo Video](latihan/poster.md)**
+4. **[Poster to 🎬 Short Promo Video](latihan/poster.md)**
 
    Learn how to transform a static event poster into a short vertical promotional video. This activity guides participants through crafting a visually appealing poster with event details and animating it using tools like Grok › Imagine. Ideal for promoting DOSM events, statistical awareness campaigns, or data-driven conferences on social media platforms.
 
