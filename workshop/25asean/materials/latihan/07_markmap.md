@@ -69,7 +69,6 @@ Here's a sample Markdown output generated for DOSM's use in analyzing economic d
   - Fiscal Stimulus Measures
   - Sustainable Development Goals Alignment
 
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.
 ```
 
 ### 2. Visualize with Markmap
