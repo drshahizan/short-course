@@ -7,56 +7,56 @@
 
 #  Kimi Slides 
 
-Kimi Slides is the AI-native slide generator inside the Kimi chatbot: you feed it a prompt, document, or URL, it instantly drafts a concise outline, then auto-builds a fully-designed, image-rich PowerPoint in under two minutes; you can swap themes, edit text or graphics inline, add speaker notes, and export as an editable .pptx or PNG set—turning raw ideas into presentation-ready decks with almost zero manual formatting.
+Kimi Slides is the AI-native slide generator inside the Kimi chatbot: you feed it a prompt, document, or URL, it instantly drafts a concise outline, then auto-builds a fully-designed, image-rich PowerPoint in under two minutes; you can swap themes, edit text or graphics inline, add speaker notes, and export as an editable .pptx or PNG set—turning raw ideas into presentation-ready decks with almost zero manual formatting. As of November 2025, Kimi Slides remains free for all users, with enhanced features available through Kimi+ (Moonshot AI's premium chatbot version, offering larger context, faster processing, and priority model access).
 
-### 1. Get into Kimi Slides  
-- Open [https://www.kimi.com](https://www.kimi.com) → log in.  
-- In the left sidebar click **“Kimi+”** → choose **“Kimi Slides”**.  
-  *(If you don’t see it, update to the latest Kimi version or join the free Kimi+ trial.)*
+### 1. Accessing Kimi Slides
+- Visit [https://www.kimi.com](https://www.kimi.com) and log in or sign up for a free account.
+- In the left sidebar, under **Kimi+**, select **Kimi Slides**.
+  *Note: If not visible, ensure you're using the latest Kimi version or activate the free Kimi+ trial for full access.*
 
-### 2. Pick how you’ll feed the AI  
-You have three entry points:  
-a) **Blank prompt** – type a sentence like *“Create a 10-slide pitch for a plant-based milk start-up.”*  
-b) **Upload file(s)** – PDF, DOCX, TXT, or even a YouTube transcript.  
-c) **Paste a URL** – Kimi will crawl the page and extract key points.  
+### 2. Input Options for DOSM-Related Content
+Tailor your input to statistical workflows:
+- **Text Prompt**: Enter a description, e.g., "Create a 10-slide presentation on Malaysia's 2024 GDP growth trends, including key charts and economic indicators."
+- **Upload Files**: Support for PDF, DOCX, or TXT files—ideal for DOSM reports, census data, or survey summaries.
+- **Web Content**: Kimi automatically searches and extracts from relevant sites (displayed in a side panel) when using prompts; for specific sources, include URLs in your prompt.
 
-### 3. Review & tweak the auto-outline  
-- Kimi returns an **editable outline** in seconds.  
-- Add, delete, or re-order sections with the **“+”** and trash icons.  
-- Click **“Retry”** if the angle feels off—keep iterating until the storyline is tight.
+### 3. Reviewing and Editing the Outline
+- Kimi generates an editable outline in seconds, breaking down content into logical sections (e.g., introduction to data sources, key findings, visualizations, and recommendations).
+- For DOSM work, add/delete/reorder sections using the **+** and trash icons to emphasize statistical highlights, such as trends in inflation rates or demographic shifts.
+- Use the **Retry** button to refine if the outline misses critical data points—iterate for accuracy in daily reporting.
 
-### 4. Choose a visual theme  
-- Hit **“Generate Slides”** → a template gallery pops up.  
-- Hover to preview, then click once to lock it in.  
-  *Tip: pick a theme that already matches your brand colours—you can fine-tune later.*
+### 4. Selecting a Visual Theme
+- Click **Generate Slides** to open the template gallery.
+- Preview and choose a professional theme suited to DOSM presentations (e.g., clean, data-focused designs with neutral colors matching official branding).
+  *Tip: Select themes that support charts and graphs for better visualization of statistics like employment rates or trade balances.*
 
-### 5. Let the agent build the deck  
-- In ~30-120 seconds Kimi auto-creates:  
-  – Title & section dividers  
-  – One idea per slide with concise bullets  
-  – Contextual images/icons (royalty-free)  
-  – Consistent fonts, spacing, and colour palette  
-- Watch the progress bar; you can cancel or pause anytime.
+### 5. Generating the Presentation
+- The AI builds the deck in 30-120 seconds, including:
+  - Title slides and section dividers.
+  - Concise bullets per slide, focusing on one key statistical insight.
+  - Royalty-free images, icons, or placeholders for charts (based on your data).
+  - Uniform fonts, spacing, and color schemes.
+- Monitor the progress bar; pause or cancel as needed for quick daily iterations.
 
-### 6. Quick polish inside Kimi  
-Bottom toolbar lets you:  
-- Swap template (**“Change Template”**) without losing text.  
-- Edit any text box or image inline.  
-- Add speaker-notes (click the note icon).  
-- Duplicate, delete, or insert new slides.  
+### 6. Editing Within Kimi
+Use the bottom toolbar for refinements tailored to DOSM tasks:
+- **Change Template**: Switch styles without losing content—useful for adapting to different audiences, like internal vs. public reports.
+- Edit text, images, or layouts inline (e.g., update figures from latest DOSM datasets).
+- Add speaker notes via the note icon for presentation guidance on statistical interpretations.
+- Duplicate, delete, or insert slides to expand on data analyses.
 
-### 7. Export & final-edit  
-- **Download** → choose `.pptx` (fully editable in PowerPoint) or `.png` batch for social posts.  
-- Open in PowerPoint / Keynote / Google Slides:  
-  – Add your logo, tweak animations, record narration, etc.  
-- Present straight from Kimi if you need a web-based slideshow.
+### 7. Exporting and Finalizing
+- Download as **.pptx** (editable in PowerPoint) for further customization, such as adding DOSM logos, animations, or embedded charts.
+- Alternatively, export as **PNG** images for quick sharing in emails or reports.
+- Present directly from Kimi's web interface for informal daily meetings, or open in PowerPoint/Google Slides for advanced features like narration.
 
-### 8. Iterate & re-use  
-- Save successful prompts in a note; they become your “slide recipes”.  
-- Re-upload updated data next month and regenerate in one click—Kimi keeps your template choice.
+### 8. Best Practices for Daily and Work Use at DOSM
+- **Save Prompts**: Store effective ones (e.g., "Summarize monthly CPI data with trends") as templates for recurring tasks like economic updates.
+- **Regenerate with Updates**: Re-upload revised DOSM files (e.g., quarterly reports) to refresh slides in one click, retaining your theme.
+- **Focus on Data Accuracy**: Always verify AI-simplified stats against original sources; manually add complex charts if not auto-extracted.
+- **Time Efficiency**: Ideal for <5-minute workflows—transform raw statistical ideas into polished decks for meetings, workshops, or stakeholder briefings.
 
-That’s it: **8 steps from idea to client-ready deck**, typically <5 min of actual work. Happy presenting!
-
+This streamlined process enables DOSM staff to handle daily statistical communications efficiently, from idea to ready presentation in under 5 minutes of active work. For the latest features, check Kimi updates regularly. Happy presenting
 
 ### 🙌🏻 Connect with Me
 <p align="left">
