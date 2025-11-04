@@ -5,89 +5,78 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Brainstorming and Idea Generation: Microsoft Copilot💡🧠
 
+# [Microsoft Copilot Chat](https://copilot.microsoft.com/)
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/25AIwriting">
  <img src="https://store-images.s-microsoft.com/image/apps.36459.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.c0fbfed4-09cf-4672-be75-064859803961" alt="Dr Shahizan AI tools"  height="400">
 </a>
 
 
+
 ## 1. Introduction
 
-[Microsoft Copilot](https://copilot.microsoft.com/chats/) is an AI-powered productivity tool integrated into Microsoft 365 applications, designed to enhance creativity, productivity, and collaboration. By leveraging large language models (LLMs) and Microsoft Graph, Copilot provides real-time assistance across various Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, and Teams. This integration allows users to generate content, analyze data, and automate tasks efficiently. 
+[Microsoft Copilot](https://copilot.microsoft.com/) is an AI-powered productivity assistant integrated into Microsoft 365 applications. It enhances creativity, productivity, and collaboration by leveraging large language models (LLMs) and Microsoft Graph. Copilot provides real-time assistance across apps such as Word, Excel, PowerPoint, Outlook, and Teams, making it a valuable tool for daily operations and analytical tasks within the Department of Statistics Malaysia.
+
 ### Key Features:
 
-- **Content Generation:** Assists in drafting documents, emails, and presentations based on user prompts, providing a starting point for further refinement. 
-
-- **Data Analysis:** Helps analyze data in Excel by formatting data, creating graphs, generating pivot tables, identifying trends, and summarizing information. 
-
-- **Meeting Summaries:** Summarizes discussions, lists key actions deliberated in meetings, and answers questions covered during the meeting in Microsoft Teams. 
-
+- **Content Generation:** Drafts documents, emails, and presentations based on user prompts, helping staff quickly produce reports and communication materials.
+- **Data Analysis:** Assists in analyzing statistical data in Excel, including formatting, graph creation, pivot tables, trend identification, and summarization.
+- **Meeting Summaries:** Summarizes discussions and key actions from meetings in Microsoft Teams, ensuring accurate documentation and follow-up.
 
 ## 2. How to Use Microsoft Copilot: A Step-by-Step Guide
 
 *Case Study: Developing a Smart Village Model*
 
-### **Step 1: Access Microsoft Copilot**
+### Step 1: Access Microsoft Copilot
 
-- **Within Microsoft Word:**
-  - Open a new or existing document.
-  - Click on the **Copilot** icon located in the toolbar to activate the assistant.
+- **In Microsoft Word:**
+  - Open a document.
+  - Click the **Copilot** icon in the toolbar to activate the assistant.
 
-### **Step 2: Define the Objective**
+### Step 2: Define the Objective
 
-- In the Copilot chat interface, input the objective:
-  > *"Develop a comprehensive Smart Village Model integrating AI and IoT technologies."*
+- Input the objective in the chat:
+  > "Develop a comprehensive Smart Village Model integrating AI and IoT technologies."
 
-### **Step 3: Generate Initial Content**
+### Step 3: Generate Initial Content
 
-- Copilot will draft an initial outline or content based on the provided objective. This may include sections such as:
-  - **Introduction:** Overview of the Smart Village concept.
-  - **Technological Infrastructure:** Implementation of AI and IoT for smart utilities.
-  - **Community Services:** Enhancing healthcare, education, and governance through technology.
-  - **Sustainability Measures:** Strategies for environmental conservation and resource management.
+- Copilot will draft an outline including:
+  - **Introduction:** Overview of Smart Village concept.
+  - **Technological Infrastructure:** AI and IoT implementation.
+  - **Community Services:** Enhancing healthcare, education, and governance.
+  - **Sustainability Measures:** Environmental conservation strategies.
 
-### **Step 4: Refine and Expand Content**
+### Step 4: Refine and Expand Content
 
-- Review the generated content and provide specific prompts to elaborate on particular sections. For example:
-  > *"Expand on AI applications in smart healthcare within the village."*
+- Provide specific prompts to elaborate sections:
+  > "Expand on AI applications in smart healthcare within the village."
 
-- Copilot will provide detailed information, which can be incorporated into the document.
+### Step 5: Collaborate and Iterate
 
-### **Step 5: Collaborate and Iterate**
+- Share the document via **Microsoft Teams** or **OneDrive**.
+- Collaborate in real-time with team members.
 
-- Share the document with team members via **Microsoft Teams** or **OneDrive**.
-- Collaborate in real-time, allowing team members to add comments, suggest edits, and contribute additional content.
+### Step 6: Finalize the Document
 
-### **Step 6: Finalize the Document**
-
-- Use Copilot to proofread the document, check for consistency, and format it according to desired styles.
-- Generate a summary or executive overview if required.
-
+- Use Copilot to proofread, format, and summarize the document.
 
 ## 3. Learning Resources
 
-To maximize the benefits of Microsoft Copilot, explore the following resources:
+### Official Tutorials:
 
-### **Official Tutorials:**
+- [Learn to Use Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/)
+- [Microsoft 365 Copilot Overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview)
 
-- **[Learn to Use Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/):** A comprehensive guide covering various scenarios where Copilot can enhance productivity and creativity. 
+### Video Tutorials:
 
-- **[Microsoft 365 Copilot Overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview):** Detailed documentation on Copilot's integration with Microsoft 365 apps and services. 
-
-### **Video Tutorials:**
-
-- **[Introducing Microsoft 365 Copilot Chat](https://youtu.be/rc-fc7pT9nw?si=RpXP5hOlyMhqbBK4):** Discover how Microsoft 365 Copilot Chat enables your entire workforce from sales to field service solutions. Microsoft 365 Copilot Chat can transform business processes with free secure AI chat, agents, and enterprise data protection.
-
-- **[Microsoft Copilot Tutorial](https://youtu.be/d-CuF6dlqLg?si=tyXwYwjgXm8eerV4):** In this step-by-step tutorial, learn how to use Microsoft Copilot.. 
-
+- [Introducing Microsoft 365 Copilot Chat](https://youtu.be/rc-fc7pT9nw?si=RpXP5hOlyMhqbBK4)
+- [Microsoft Copilot Tutorial](https://youtu.be/d-CuF6dlqLg?si=tyXwYwjgXm8eerV4)
 
 ## 4. Additional Resources
 
-- **[AI Productivity Tools for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/copilot):** Explore how Copilot reinvents productivity with secure AI assistance in Microsoft 365 apps, documents, and conversations. 
+- [AI Productivity Tools for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/copilot)
 
-By integrating Microsoft Copilot into your workflow, you can enhance creativity, streamline processes, and foster collaboration, leading to more efficient and innovative outcomes.
-
+By integrating Microsoft Copilot into daily workflows, the Department of Statistics Malaysia can improve efficiency, enhance collaboration, and produce high-quality outputs in less time.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
