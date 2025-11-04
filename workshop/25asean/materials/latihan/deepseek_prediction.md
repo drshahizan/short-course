@@ -5,7 +5,15 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Population Forecasting for Malaysia**
+# **Forecasting with Deepseek**
+
+## **Introduction**
+
+Accurate population forecasting is a cornerstone of effective national planning. It provides valuable insights into **demographic trends**, **resource needs**, and **policy priorities** across sectors such as healthcare, education, employment, and housing. By leveraging **Deepseek**, an advanced AI-powered analytical tool, professionals and researchers can generate reliable projections, visualize growth trends, and simulate various scenarios to support **data-driven decision-making**.
+
+This exercise focuses on **Malaysia’s population dynamics**, integrating real statistical data from the **Department of Statistics Malaysia (DOSM)** with forecasting techniques. Through structured prompts, users will explore how Deepseek can automate forecasting tasks, perform statistical calculations, and translate numerical outputs into meaningful insights for policy development and strategic planning.
+
+## **Population Forecasting for Malaysia**
 
 ### 🎯 **Objectives**
 
