@@ -5,18 +5,15 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-
 # 🚀 Kimi.ai – Daily AI Companion for DOSM Officers  
 *Last updated: 4 Nov 2025*
 
 > Free, Bahasa-friendly & built for real-world data work.
 
-
 ## 1. What is Kimi.ai?
 Kimi.ai is a large-language-model (LLM) service developed by Moonshot AI.  
 It is 100 % free, quota-free and optimised for **Malay + English** mixed input.  
 Kimi reads **Excel, CSV, PDF, URL** and **images** in a single chat, then answers, codes or visualises on demand.
-
 
 ## 2. Daily Use-Cases for DOSM Staff
 
@@ -58,8 +55,6 @@ Tulis dua perenggan BM untuk siaran media:
 - Naratif: “deflasi teknikal jangka pendek”
 ```
 
----
-
 ## 4. Getting Started in 60 Seconds
 1. Go to [https://kimi.ai](https://kimi.ai) ➜ sign-in with Google.  
 2. Upload your first file (max 50 MB, 100 pages).  
@@ -69,13 +64,11 @@ Tulis dua perenggan BM untuk siaran media:
    ```
 4. Iterate: ask for chart code, Malay summary, or Excel formula in the same thread—Kimi **remembers context**.
 
-
 ## 5. Limits & Good Practice
 * **Cut-off**: knowledge until **April 2025**; for newer policy, attach PDF or paste URL.  
 * **Human-in-loop**: always cross-check numbers before publication.  
 * **PII**: never upload un-redacted micro-data with NRIC / names.  
 * **Token budget**: single prompt ≤ 2000 words; file + prompt ≤ 128 k tokens (∼300 pages).
-
 
 ## 6. Support & Feedback
 * **DOSM AI Help-desk (ext. 8400)** – escalation path for sensitive data.  
