@@ -33,7 +33,7 @@
 
 ## [AI Tools for Researchers](materials/ai.md)
 
-Bahagian ini memperkenalkan peserta kepada **set alat AI terpilih yang direka untuk menyokong tugas kejuruteraan, analisis data, serta pemantauan infrastruktur**. Penerangan yang disediakan membantu peserta menguasai **kemahiran digital** yang diperlukan untuk mengintegrasikan teknologi ini ke dalam amalan kerja dengan cara yang **beretika, berkesan, dan inovatif**.
+Artificial Intelligence (AI) is rapidly transforming the way research is conducted, analysed, and disseminated across disciplines. By automating complex tasks and augmenting human cognition, AI empowers researchers to work more efficiently and creatively throughout the entire research lifecycle — from discovering relevant literature and generating new ideas, to managing knowledge, visualising data, and producing high-quality academic writing. The effective integration of AI tools enables scholars to accelerate discovery, enhance accuracy, and foster deeper insights, making AI an indispensable companion in the modern research ecosystem.
 
 ## [Latihan Praktikal](materials/latihan.md)
 
