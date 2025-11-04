@@ -6,17 +6,28 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-## Gantt Chart using ChatGPT
+# Creating a Gantt Chart with ChatGPT
 
-**Step 1. Define the project scope and timeline**
-Write:
-*"Create a Gantt chart for a Research Work Schedule. The project duration is 12 months, starting in November 2025 and ending in October 2026."*
+A **Gantt chart** is a visual project management tool that displays project tasks along a timeline, using horizontal bars to represent duration, dependencies, and progress. With **ChatGPT**, users can efficiently generate Gantt charts by providing structured prompts that define the project scope, task list, and time allocations. The generated outputs can be presented in various formats such as **ASCII art**, **Markdown tables**, or **Python code** (using Matplotlib).
 
-**Step 2. List the number of tasks**
-Write:
-*"There are 6 main tasks involved in this research project."*
+This AI-assisted approach is particularly beneficial for professionals in organizations such as the **Department of Statistics Malaysia (DOSM)**, as it enables rapid creation of project timelines—such as for statistical surveys or data analysis activities—without requiring specialized software. Moreover, the workflow allows for **iterative refinements**, including the addition of overlaps, milestones, and resource allocations, thus enhancing planning efficiency and collaboration in daily operations.
 
-**Step 3. Provide the task names**
+## Step-by-Step Guide
+
+### **Step 1. Define the Project Scope and Timeline**
+
+Prompt:
+
+> *“Create a Gantt chart for a Research Work Schedule. The project duration is 12 months, starting in November 2025 and ending in October 2026.”*
+
+### **Step 2. Specify the Number of Tasks**
+
+Prompt:
+
+> *“There are 6 main tasks involved in this research project.”*
+
+### **Step 3. List the Task Names**
+
 Example:
 
 * Literature Review
@@ -26,25 +37,31 @@ Example:
 * Writing Draft Report
 * Final Report & Submission
 
-**Step 4. Assign time periods for each task**
-Write:
-*"Distribute the tasks across the 12-month period, with some tasks overlapping logically. For example, Literature Review may start in November 2025 and end in January 2026, while Research Design runs from January to February 2026, and so on."*
+### **Step 4. Assign Time Periods for Each Task**
 
-**Step 5. Ask for a Gantt chart visualization**
-Write:
-*"Generate a Gantt chart showing tasks on the vertical axis and months (Nov 2025 – Oct 2026) on the horizontal axis. Use bars to represent task durations."*
+Prompt:
 
-**Step 6. Request output format**
-Write:
-\*"Provide the Gantt chart in two formats:
+> *“Distribute the tasks across the 12-month period, with some tasks overlapping logically. For example, Literature Review may start in November 2025 and end in January 2026, while Research Design runs from January to February 2026, and so on.”*
 
-1. A visual chart (image/plot).
-2. The underlying Python code using matplotlib to generate the chart, so I can edit it later."\*
+### **Step 5. Request a Gantt Chart Visualization**
 
-✅ When combined, your **full prompt** will look like this:
+Prompt:
 
-**Final Prompt Example:**
-*"Create a Gantt chart for a Research Work Schedule. The duration is 12 months, starting in November 2025 and ending in October 2026. There are 6 main tasks: Literature Review, Research Design, Data Collection, Data Analysis, Writing Draft Report, and Final Report & Submission. Assign each task a logical duration with possible overlaps. Generate the Gantt chart with tasks on the vertical axis and months on the horizontal axis. Provide the output as both an image and the Python code using matplotlib."*
+> *“Generate a Gantt chart showing tasks on the vertical axis and months (Nov 2025 – Oct 2026) on the horizontal axis. Use bars to represent task durations.”*
+
+### **Step 6. Specify the Output Format**
+
+Prompt:
+
+> *“Provide the Gantt chart in two formats:
+>
+> 1. A visual chart (image or plot).
+> 2. The underlying Python code using Matplotlib, so I can modify it later.”*
+
+
+## ✅ Final Prompt Example
+
+> *“Create a Gantt chart for a Research Work Schedule. The duration is 12 months, starting in November 2025 and ending in October 2026. There are 6 main tasks: Literature Review, Research Design, Data Collection, Data Analysis, Writing Draft Report, and Final Report & Submission. Assign each task a logical duration with possible overlaps. Generate the Gantt chart with tasks on the vertical axis and months on the horizontal axis. Provide the output as both an image and the Python code using Matplotlib.”*
 
 
 ### 🙌🏻 Connect with Me
