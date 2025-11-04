@@ -21,6 +21,43 @@
 5. **[Kimi.ai: Data analysis using real estate data from U.S. cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
 6. **[Kimi.ai: mobile website for a botanical garden's Garden Festival weekend with schedules and workshop reservations](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
 
+
+Here’s your revised and formatted version with added descriptions for each activity:
+
+---
+
+# **Session 4: Case Studies & Real Applications**
+
+This session highlights practical exercises designed to apply generative AI tools in real-world data, research, and communication contexts. Participants will explore how AI can enhance productivity, creativity, and analytical capabilities in the Department of Statistics Malaysia (DOSM) and related professional environments.
+
+---
+
+### **1. [Poster to 🎬 Short Promo Video](latihan/poster.md)**
+
+Learn how to transform a static event poster into a short vertical promotional video. This activity guides participants through crafting a visually appealing poster with event details and animating it using tools like **Grok › Imagine**. Ideal for promoting DOSM events, statistical awareness campaigns, or data-driven conferences on social media platforms.
+
+
+### **2. [Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)**
+
+Conduct a deep-research case study using **Google Gemini** to produce a forward-looking article on DOSM’s strategic direction towards 2035. Participants will explore AI-driven writing workflows, including idea generation, data sourcing, and structuring a visionary report aligned with Malaysia’s digital transformation goals.
+
+### **3. [Slide Design with Kimi](latihan/kimi.md)**
+
+Utilize **Kimi.ai** to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data—ensuring effective communication of key insights.
+
+### **4. [Document Analysis with NotebookLM](latihan/notebooklm.md)**
+
+Employ **NotebookLM** to extract, summarize, and interpret key information from statistical documents. This is particularly useful in DOSM’s daily workflow for reviewing survey reports, condensing census data, or analyzing international trade agreements, helping officers quickly identify trends and support evidence-based decision-making.
+
+### **5. [Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
+
+Experiment with **Kimi.ai**’s data analysis features by exploring a real dataset on real estate prices from U.S. cities. Participants will perform descriptive analysis, visualize regional patterns, and interpret trends—skills that can later be applied to Malaysian housing, demographic, or economic datasets.
+
+### **6. [Kimi.ai: Mobile Website for a Botanical Garden’s Festival Weekend](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
+
+Learn to design a simple mobile-friendly website powered by AI. This case study demonstrates how to use **Kimi.ai** to generate web content, build event schedules, and manage workshop reservations. The same approach can be adapted for DOSM’s data dissemination portals or public outreach microsites.
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
