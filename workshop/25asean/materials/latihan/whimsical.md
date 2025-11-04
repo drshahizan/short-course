@@ -69,7 +69,7 @@ Label edges with phrases like “enables”, “requires”, “measured by”, 
 
 **Example Visualization: National Economic Statistics**  
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/7ab74b26-f9d8-4f41-aaf3-3218ebc2447d" height="400" alt="MSO" />  
+<img src="https://github.com/user-attachments/assets/7ab74b26-f9d8-4f41-aaf3-3218ebc2447d" height="350" alt="MSO" />  
 </p>  
 
 ## C) Create a Mind Map (Report Structure Outline)
