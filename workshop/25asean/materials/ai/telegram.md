@@ -5,16 +5,70 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Telegram
-Sila imbas **kod QR** atau klik pada imej untuk mengakses **Microsoft Copilot** di **Telegram**. 🚀
+# Telegram Integration with Microsoft Copilot
+
+Microsoft Copilot is an AI-powered assistant designed to enhance your daily productivity and communication. Integrated directly into Telegram, it serves as your everyday AI companion, helping with tasks like summarizing conversations, generating ideas, translating languages, and more—all within your chats. Powered by advanced AI models like GPT from OpenAI, Copilot makes interactions seamless and efficient, whether in one-on-one conversations or group settings. This integration brings smart suggestions, creative tools, and organizational features to Telegram, making it ideal for personal use, work collaboration, or family planning.
+
+Please scan the **QR code** or click on the image below to add **Microsoft Copilot** to your Telegram contacts and start exploring its capabilities. 🚀
 
 <p align="center">
  <a href="https://t.me/CopilotOfficialBot">
- <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/workshop/25ctld/images/telegram-copilot.avif"  height="400">
+ <img src="https://raw.githubusercontent.com/drshahizan/short-course/refs/heads/main/workshop/25ctld/images/telegram-copilot.avif" height="400">
 </a>
 </p>
 
-### 🔗 Link: https://t.me/CopilotOfficialBot
+### 🔗 Direct Link: https://t.me/CopilotOfficialBot
+
+## ✨ Key Features
+Microsoft Copilot on Telegram offers a range of intelligent tools to streamline your messaging experience:
+
+🔹 **Chat Summarization**  
+   - Quickly catch up on long conversations by generating concise summaries of key points, decisions, and action items.
+
+🔹 **Reply Drafting and Composition**  
+   - Draft natural, context-aware replies or compose new messages with AI assistance, ensuring they are clear and on-point.
+
+🔹 **Search and Recommendations**  
+   - Find nearby restaurants, events, directions, or other information directly within the chat without switching apps.
+
+🔹 **Planning and Organization**  
+   - Convert group plans into to-do lists, shareable links, or live itineraries, identifying important details like dates, locations, and tasks.
+
+🔹 **Translation and Multilingual Support**  
+   - Translate foreign language text in real-time, making it easier to communicate across languages.
+
+🔹 **Image Generation and Creativity**  
+   - Generate images based on descriptions, compose fun messages, or spark creative ideas for personal or professional use.
+
+🔹 **Group Chat Enhancements**  
+   - In group chats, Copilot can join as a participant to summarize discussions, suggest local spots, or create visual aids on the fly.
+
+## 🎯 Benefits
+Using Microsoft Copilot on Telegram provides numerous advantages for individuals and teams:
+
+🚀 **Boosted Productivity**  
+   - Reduce messaging overload by automating summaries and suggestions, allowing you to focus on what matters most.
+
+⏳ **Efficient Collaboration**  
+   - Ideal for remote workers, teams, families, and friends, it helps organize plans, make decisions faster, and keep everyone aligned.
+
+✅ **Privacy and Security**  
+   - Conversations remain private; Copilot does not access your contacts or account details. You can easily delete your chat history at any time.
+
+🌍 **Accessibility**  
+   - Available in multiple regions, with features tailored for everyday use, from casual chats to professional coordination.
+
+## 🌟 How to Get Started
+1. **Add the Bot**: Scan the QR code above or visit the direct link (https://t.me/CopilotOfficialBot) to add Copilot to your Telegram.
+2. **Verify if Needed**: In some cases, you may need to share your phone number for verification to unlock full features.
+3. **Start Chatting**: Send a message to Copilot like you would to a friend. Ask questions, request summaries, or invite it to a group chat.
+4. **Manage History**: To clear your conversation history, simply send "help" to the bot and select the option to delete chat history.
+5. **Explore Advanced Use**: For group chats, add Copilot and mention it (@CopilotOfficialBot) to trigger responses.
+
+Note: Features may vary by region, and some limitations apply, such as a potential message cap in certain areas (e.g., up to 30 messages per month in beta phases). Always check the official Microsoft Copilot page for the latest updates: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/get-copilot/.
+
+## 🔥 Conclusion
+Microsoft Copilot on Telegram transforms your messaging app into a powerful AI hub, making everyday tasks quicker and more enjoyable. Whether you're planning a trip, collaborating on a project, or just needing quick answers, this bot empowers you with intelligent assistance right where you need it. Start today and experience the future of AI-enhanced communication!
 
 ### 🙌🏻 Connect with Me
 <p align="left">
