@@ -67,8 +67,10 @@ Second layer:
 Label edges with phrases like “enables”, “requires”, “measured by”, “leads to”.
 ```
 
-<img width="1488" height="688" alt="image" src="https://github.com/user-attachments/assets/7ab74b26-f9d8-4f41-aaf3-3218ebc2447d" />
-
+**Example Visualization: National Economic Statistics**  
+<p align="center">  
+<img src="https://github.com/user-attachments/assets/7ab74b26-f9d8-4f41-aaf3-3218ebc2447d" height="400" alt="MSO" />  
+</p>  
 
 ## C) Create a Mind Map (Report Structure Outline)
 
