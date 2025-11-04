@@ -33,8 +33,7 @@
    - Standalone apps for Android and iOS, plus web access; NotebookLM Plus (premium) offers higher limits and advanced features for enterprises.
 
 <p align="center">
-https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/getting-overview-of-penpot-skills-from-notebooklm.png?q=49&fit=contain&w=750&h=422&dpr=2
-
+   <img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/getting-overview-of-penpot-skills-from-notebooklm.png?q=49&fit=contain&w=750&h=422&dpr=2" height="400">
 </p>
 
 ## 🎯 Benefits of NotebookLM
