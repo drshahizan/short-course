@@ -11,28 +11,26 @@
 
 This session highlights practical exercises designed to apply generative AI tools in real-world data, research, and communication contexts. Participants will explore how AI can enhance productivity, creativity, and analytical capabilities in the Department of Statistics Malaysia (DOSM) and related professional environments.
 
+1. **[Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)**
+   Conduct a deep-research case study using **Google Gemini** to produce a forward-looking article on DOSM’s strategic direction towards 2035. Participants will explore AI-driven writing workflows, including idea generation, data sourcing, and structuring a visionary report aligned with Malaysia’s digital transformation goals.
 
-### **1. [Producing an Article on the Strategic Direction of the Department of Statistics Malaysia Towards 2035](latihan/gemini_report.md)**
-
-Conduct a deep-research case study using **Google Gemini** to produce a forward-looking article on DOSM’s strategic direction towards 2035. Participants will explore AI-driven writing workflows, including idea generation, data sourcing, and structuring a visionary report aligned with Malaysia’s digital transformation goals.
-
-### **2. [Slide Design with Kimi](latihan/kimi.md)**
+2. **[Slide Design with Kimi](latihan/kimi.md)**
 
 Utilize **Kimi.ai** to create clear, professional, and engaging presentation slides for statistical findings. For work at DOSM, this facilitates designing slides for monthly bulletins, stakeholder briefings on trade statistics, or visual summaries of environmental data—ensuring effective communication of key insights.
 
-### **3. [Document Analysis with NotebookLM](latihan/notebooklm.md)**
+3. **[Document Analysis with NotebookLM](latihan/notebooklm.md)**
 
 Employ **NotebookLM** to extract, summarize, and interpret key information from statistical documents. This is particularly useful in DOSM’s daily workflow for reviewing survey reports, condensing census data, or analyzing international trade agreements, helping officers quickly identify trends and support evidence-based decision-making.
 
-### **4. [Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
+4. **[Kimi.ai: Data Analysis Using Real Estate Data from U.S. Cities](https://www.kimi.com/share/19a4fc3b-fca2-826d-8000-000046f85b02)**
 
 Experiment with **Kimi.ai**’s data analysis features by exploring a real dataset on real estate prices from U.S. cities. Participants will perform descriptive analysis, visualize regional patterns, and interpret trends—skills that can later be applied to Malaysian housing, demographic, or economic datasets.
 
-### **5. [Kimi.ai: Mobile Website for a Botanical Garden’s Festival Weekend](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
+5. **[Kimi.ai: Mobile Website for a Botanical Garden’s Festival Weekend](https://www.kimi.com/share/19a4fcba-6e12-8a32-8000-00005fe9c551)**
 
 Learn to design a simple mobile-friendly website powered by AI. This case study demonstrates how to use **Kimi.ai** to generate web content, build event schedules, and manage workshop reservations. The same approach can be adapted for DOSM’s data dissemination portals or public outreach microsites.
 
-### 6. [Google Stitch: a responsive web dashboard UI for an AI-enabled monitoring system for modern infrastructure and heritage assets](https://stitch.withgoogle.com/projects/16048513708186368785)
+6. **[Google Stitch: a responsive web dashboard UI for an AI-enabled monitoring system for modern infrastructure and heritage assets](https://stitch.withgoogle.com/projects/16048513708186368785)**
 Discover how Google Stitch can generate a responsive dashboard interface for an AI-enabled monitoring system. This case study illustrates real-time data visualization and intelligent alerts for monitoring infrastructure and heritage sites—concepts relevant to DOSM’s initiatives in urban analytics, environmental monitoring, and smart governance.
 
 ### 🙌🏻 Connect with Me
