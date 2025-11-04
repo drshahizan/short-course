@@ -48,10 +48,6 @@ For a statistical agency like DOSM, Gemini offers significant potential to enhan
 * **Data Confidentiality:** Users must rely on the enterprise-grade security features of their deployment (e.g., Gemini for Workspace Enterprise) to ensure sensitive, unpublished statistical data remains protected and is only accessed with appropriate permissions.
 * **Prompt Engineering:** The quality of the output, particularly for complex statistical tasks, is heavily dependent on the clarity and specificity of the user's prompt. Training public officers on effective prompting techniques will be essential.
 
-***
-
-Would you like a more detailed breakdown of how Gemini can assist with a specific task at the Department of Statistics, Malaysia, such as automating the drafting of a monthly statistical bulletin?
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
