@@ -8,7 +8,11 @@
 # Session 4: Case Studies & Real Applications
 
 buatkan report guna gemini dan grok
-()[https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/latihan/gemini_report.md]
+(aaa)[latihan/gemini_report.md]
+
+1. **[Mind Maps with Markmap](latihan/markmap.md)**  
+   Build interactive mind maps to visualize, organize, and structure statistical ideas effectively. In DOSM's daily work, this tool can help map out survey methodologies, categorize demographic data, or outline economic indicators for quick reference during team meetings or report planning.
+
 
 buat poster - mage guna copilot, selepas itu guna grok
 dashboard
