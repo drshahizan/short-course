@@ -6,91 +6,94 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Markmap
-Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. Here's how you can use Markmap:
+Markmap is an open-source tool that transforms Markdown documents into interactive mind maps, enabling users to visualize, organize, and navigate complex information efficiently. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. At the Department of Statistics Malaysia (DOSM), where daily tasks involve handling vast datasets on demographics, economics, and social indicators, Markmap serves as a valuable asset for streamlining workflows. It aids statisticians and analysts in mapping out survey methodologies, categorizing data trends, and structuring reports for clearer communication during team briefings or stakeholder presentations. For instance, it can help outline the hierarchy of national census data or visualize economic forecasting models, reducing cognitive overload and enhancing decision-making. By integrating Markmap into routine operations—such as planning quarterly GDP releases or analyzing labor market statistics—DOSM staff can foster collaboration, identify data linkages quickly, and improve overall productivity. With its support for styling, code blocks, images, and links, Markmap adapts seamlessly to professional statistical environments, promoting innovative data exploration without requiring advanced technical skills.
 
-## 1. Prompt to create a mind map
-Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
+## How to Use Markmap for DOSM Tasks
 
-  ```
-a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
+### 1. Generate a Mind Map Prompt
+Use AI tools like Copilot, Gemini, or ChatGPT to create a structured Markdown mind map. Enter the following prompt, replacing "[Your Topic]" with a DOSM-relevant subject, such as "Malaysia's Economic Indicators."
+
+```
+A mind map with a structured list that is centered on [Your Topic]. Create a Markdown version of the mind map.
 Start with the primary concept that embodies the primary theme found in the data. Create primary branches based on
 the identified categories or important subjects. Create thorough sub-branches that focus on certain data points,
 patterns, or insights for every major branch. Make sure the linkages and hierarchies within the data are adequately
-visualised in the mind map.
-  ```
+visualized in the mind map.
+```
 
-### Example: Amanat Naib Canselor
-
-  ```
-# Amanat Naib Canselor
-## Primary Concept
-- **Strategic Goals**
-  - Enhancing academic excellence
-  - Promoting research and innovation
-  - Fostering community engagement
-
-## Major Branches
-### Academic Excellence
-- **Curriculum Enhancement**
-  - Integration of new learning methodologies
-  - Focus on interdisciplinary studies
-- **Faculty Development**
-  - Continuous professional development programs
-  - Recruitment of distinguished scholars
-
-### Research and Innovation
-- **Research Funding**
-  - Increase in grants and scholarships
-  - Partnerships with industry for applied research
-- **Innovation Ecosystem**
-  - Support for technology transfer
-  - Establishment of innovation hubs
-
-### Community Engagement
-- **Service Learning**
-  - Programs connecting students with community service
-  - Partnerships with local organizations
-- **Public Outreach**
-  - Hosting public lectures and forums
-  - Engaging with media to disseminate knowledge
-
-### Infrastructure and Facilities
-- **Campus Upgrades**
-  - Development of green spaces
-  - Modernization of learning spaces
-- **Technology Advancement**
-  - Upgrading digital infrastructure
-  - Implementing smart campus initiatives
-
-### Global Outreach
-- **International Collaboration**
-  - Strategic partnerships with global institutions
-  - Joint research and exchange programs
-- **Cultural Exchange**
-  - Hosting international cultural events
-  - Support services for international students
-
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
+#### Example: Malaysia's Key Economic Indicators
+Here's a sample Markdown output generated for DOSM's use in analyzing economic data:
 
 ```
-## 2. [MarkMap](https://markmap.js.org/repl)
-Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
+# Malaysia's Key Economic Indicators
+## Primary Concept
+- **National Economic Overview**
+  - GDP Growth Trends
+  - Inflation and Employment Rates
+  - Trade Balance Insights
+## Major Branches
+### GDP Components
+- **Sector Breakdown**
+  - Agriculture: Contribution and Growth Rates
+  - Manufacturing: Export-Driven Sectors
+  - Services: Tourism and Finance Impacts
+- **Quarterly Trends**
+  - Q1-Q4 Comparisons
+  - Year-on-Year Changes
+### Inflation Metrics
+- **Consumer Price Index (CPI)**
+  - Food and Beverage Categories
+  - Housing and Utilities Influences
+- **Producer Price Index (PPI)**
+  - Raw Material Costs
+  - Manufacturing Input Variations
+### Employment Statistics
+- **Labor Force Participation**
+  - By Age Group and Gender
+  - Urban vs. Rural Disparities
+- **Unemployment Rates**
+  - Youth Unemployment Focus
+  - Sector-Specific Job Losses
+### Trade and Exports
+- **Export Commodities**
+  - Electronics and Palm Oil Dominance
+  - Regional Trade Partners (ASEAN, China)
+- **Import Dependencies**
+  - Machinery and Fuel Imports
+  - Balance of Payments Analysis
+### Forecasting and Policy
+- **Economic Projections**
+  - Short-Term GDP Forecasts
+  - Impact of Global Events (e.g., Supply Chain Disruptions)
+- **Policy Recommendations**
+  - Fiscal Stimulus Measures
+  - Sustainable Development Goals Alignment
 
-**Example**: Amanat Naib Canselor
+This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.
+```
 
-<p align="center">
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/amanatNC.png" height="500" />
-</p>
+### 2. Visualize with Markmap
+Paste the generated Markdown code into the [Markmap Online Editor](https://markmap.js.org/repl). The tool will automatically render an interactive mind map based on the structure.
 
-## 3. Interact with Your Mind Map
-You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
+**Example Visualization: Malaysia's Key Economic Indicators**  
+<p align="center">  
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/malaysia_economic_indicators.png" height="500" alt="Markmap visualization of Malaysia's Key Economic Indicators" />  
+</p>  
 
-Remember, Markmap supports various markdown features such as:
-- **Styling**: Apply bold, italic, strikethrough, and highlights to text.
-- **Code Blocks**: Include code snippets or formulas.
-- **Images and Links**: Embed images and create hyperlinks.
+*(Note: Replace the image source with an actual generated screenshot from Markmap for your specific mind map in a real DOSM workflow.)*
 
-For a detailed guide and advanced features, you can refer to the [Markmap documentation](https://mindmapexpert.com/review/how-to-create-a-mind-map-using-markmap-js/) or visit the [Markmap GitHub repository](https://github.com/dundalek/markmap). Enjoy creating and navigating your mind maps
+### 3. Interact with Your Mind Map
+Once generated, explore the mind map interactively:  
+- Expand or collapse branches to focus on specific data categories, such as drilling down into employment statistics.  
+- Zoom in/out and pan for detailed views during presentations or analysis sessions.  
+- Export as SVG or PNG for inclusion in DOSM reports or dashboards.  
+
+Markmap supports advanced Markdown features for DOSM applications:  
+- **Styling**: Use bold (**bold**), italic (*italic*), or highlights to emphasize key statistics like GDP figures.  
+- **Code Blocks**: Embed Python snippets for data processing, e.g., simple pandas code for trend analysis.  
+- **Images and Links**: Insert charts (e.g., via URLs) or hyperlinks to DOSM's official data portals.  
+
+For more details, refer to the [Markmap Documentation](https://markmap.js.org/docs) or the [Markmap GitHub Repository](https://github.com/markmap/markmap). This tool integrates well into DOSM's daily routines, enhancing data organization and collaborative statistical work.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
