@@ -26,27 +26,26 @@ Whimsical is a collaborative diagramming tool integrated with ChatGPT through th
 **Say to Whimsical Diagrams:**
 
 ```
-Create a STATISTICAL SURVEY LIFECYCLE FLOWCHART for national economic data collection at DOSM.
-Stages (left to right):
-1. Survey Announcement → 2. Eligibility & Scope Check → 3. Questionnaire Design & Pilot Testing →
-4. Sampling Frame & Methodology → 5. Data Collection Plan → 6. Timeline & Milestones →
-7. Budget (show buckets: Personnel, Fieldwork, Equipment/Services, Materials, IT Fees) →
-8. Compliance (data privacy/ethics) → 9. Training & Field Preparation → 10. Data Collection (field/online) →
-11. Quality Review → decision: Validate / Revise / Discard →
-12a. Data Processing & Cleaning → 12b. Analysis (trends, forecasts) →
-12c. Outputs (reports, dashboards, policy briefs) → 13. Dissemination & Archiving.
-Add decision diamonds where relevant; label connectors like “meets quality standards?” or “budget approved?”.
+Create a **flowchart** of the **Statistical Survey Lifecycle for National Economic Data Collection at DOSM** with the following streamlined stages:
+
+1. Survey Announcement
+2. Scope & Design
+3. Sampling & Planning
+4. Budget Approval (include decision: Approved? Yes/No)
+5. Training & Preparation
+6. Data Collection
+7. Data Review (include decision: Accept/Revise)
+8. Analysis & Reporting
+9. Dissemination
+
+Include **decision diamonds** only for:
+
+* Budget Approval → “Approved?”
+* Data Review → “Accept?”
+
+Label decision connectors: “Yes” or “No”.
+
 ```
-
-**Iterate:**
-- “Add roles swimlanes (Statistician, Field Enumerator, Data Analyst, Management, Stakeholders).”
-- “Insert quality gates after ‘Questionnaire Design’ and ‘Data Collection’.”
-- “Attach notes about required tools at ‘Data Processing’.”
-
-**Example Visualization: Economic Data Analysis Process Flowchart**  
-<p align="center">  
-<img src="https://s3.amazonaws.com/thumbnails.venngage.com/template/734a589f-5e55-491a-9c9d-c06c72339587.png" height="500" alt="Whimsical flowchart example for economic data analysis process" />  
-</p>  
 
 ## B) Create a Concept Map (Indicators → Impact → KPIs)
 
@@ -68,9 +67,8 @@ Second layer:
 Label edges with phrases like “enables”, “requires”, “measured by”, “leads to”.
 ```
 
-**Iterate:**
-- “Add KPIs under each node (e.g., Quarterly GDP Growth; Unemployment Rate <5%; 1 Policy Recommendation).”
-- “Color code by stakeholder (Government, Public, Industry)—if not possible here, I’ll edit in Whimsical.”
+<img width="1488" height="688" alt="image" src="https://github.com/user-attachments/assets/7ab74b26-f9d8-4f41-aaf3-3218ebc2447d" />
+
 
 ## C) Create a Mind Map (Report Structure Outline)
 
