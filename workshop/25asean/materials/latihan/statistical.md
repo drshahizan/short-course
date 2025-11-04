@@ -9,8 +9,6 @@
 
 This module demonstrates how **Generative AI tools** such as **ChatGPT** or **Copilot** can assist in performing basic statistical analysis, from understanding data structure to interpreting results. The case study uses a simple dataset on household income and poverty rate across Malaysian states to show how AI can generate insights and visualization automatically.
 
-
-
 ## 🎯 Learning Objectives
 
 By the end of this module, participants will be able to:
@@ -20,8 +18,6 @@ By the end of this module, participants will be able to:
 3. Analyze correlation between two continuous variables using AI-generated methods.
 4. Generate and interpret a scatter plot with a regression line.
 5. Write an executive summary and policy insight based on statistical findings.
-
-
 
 ## 📊 Dataset Example
 
@@ -36,8 +32,6 @@ By the end of this module, participants will be able to:
 
 This simplified data is used to illustrate AI-powered statistical analysis.
 
-
-
 ## 💡 AI Prompt Exercises
 
 Participants will use the following prompts step-by-step to explore how AI can analyze data automatically. Each prompt is followed by the expected result or interpretation.
@@ -48,15 +42,11 @@ Participants will use the following prompts step-by-step to explore how AI can a
 
 > Analyze the dataset. Identify each column’s data type (categorical or numerical) and describe what kind of statistical variable each one represents (e.g., dependent, independent, or descriptive variable).
 
-
-
 ### 📈 Prompt 2: Descriptive Statistics
 
 **Prompt:**
 
 > Using this dataset, calculate the mean, median, minimum, maximum, and standard deviation for both `Median_Income_2024` and `Poverty_Rate`.
-
-
 
 ### 🔗 Prompt 3: Correlation Analysis
 
@@ -64,15 +54,11 @@ Participants will use the following prompts step-by-step to explore how AI can a
 
 > Compute the Pearson correlation coefficient between `Median_Income_2024` and `Poverty_Rate`. Explain in one short paragraph what this result means.
 
-
-
 ### 📉 Prompt 4: Visualization
 
 **Prompt:**
 
 > Create a scatter plot that shows the relationship between `Median_Income_2024` and `Poverty_Rate`, add a regression line, and label each state.
-
-
 
 ### 🗒️ Prompt 5: Executive Summary
 
@@ -80,15 +66,11 @@ Participants will use the following prompts step-by-step to explore how AI can a
 
 > Write a 3–4 sentence summary explaining the relationship between income and poverty across Malaysian states.
 
-
-
 ### ✅ Example Results Summary
 
 Descriptive statistics results show that states with higher median income have lower poverty rates.
 The **Pearson correlation coefficient is approximately -0.97**, indicating a strong negative relationship between income and poverty.
 The scatter plot visually confirms this trend, and the AI-generated executive summary provides a concise interpretation suitable for policy discussions.
-
-
 
 ### 🗣️ Executive Summary 
 
@@ -101,28 +83,36 @@ This trend indicates that income growth remains a crucial factor in reducing pov
 
 Although Generative AI performs the calculations automatically, it uses the same fundamental statistical formulas. Understanding these equations helps participants validate AI outputs and maintain analytical integrity.
 
-**Mean (Average):**
-[
-\bar{X} = \frac{\Sigma X_i}{n}
-]
+### **Mean (Average)**
 
-**Standard Deviation:**
-[
-s = \sqrt{\frac{\Sigma (X_i - \bar{X})^2}{n - 1}}
-]
+$$
+\bar{X} = \frac{\sum_{i=1}^{n} X_i}{n}
+$$
 
-**Pearson Correlation Coefficient:**
-[
-r = \frac{\Sigma[(X_i - \bar{X})(Y_i - \bar{Y})]}{\sqrt{\Sigma(X_i - \bar{X})^2 \cdot \Sigma(Y_i - \bar{Y})^2}}
-]
+### **Standard Deviation**
 
-**Simple Linear Regression:**
-[
-Y = a + bX, \text{ where } b = r \frac{\sigma_y}{\sigma_x}
-]
+$$
+s = \sqrt{\frac{\sum_{i=1}^{n} (X_i - \bar{X})^2}{n - 1}}
+$$
 
+### **Pearson Correlation Coefficient**
 
+$$
+r = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}
+{\sqrt{\sum_{i=1}^{n} (X_i - \bar{X})^2 \cdot \sum_{i=1}^{n} (Y_i - \bar{Y})^2}}
+$$
 
+### **Simple Linear Regression Equation**
+
+$$
+Y = a + bX
+$$
+
+where
+
+$$
+b = r \times \frac{\sigma_Y}{\sigma_X}
+$$
 
 
 ## 🧰 Google Colab Practice Section
@@ -144,7 +134,6 @@ df = pd.DataFrame(data)
 df.info()
 df.head()
 ```
-
 
 ### Prompt 2 – Descriptive Statistics
 
