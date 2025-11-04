@@ -77,10 +77,8 @@ Paste the generated Markdown code into the [Markmap Online Editor](https://markm
 
 **Example Visualization: Malaysia's Key Economic Indicators**  
 <p align="center">  
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/malaysia_economic_indicators.png" height="500" alt="Markmap visualization of Malaysia's Key Economic Indicators" />  
+<img src="https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/latihan/dosm_markmap.png" height="500" alt="Markmap visualization of Malaysia's Key Economic Indicators" />  
 </p>  
-
-*(Note: Replace the image source with an actual generated screenshot from Markmap for your specific mind map in a real DOSM workflow.)*
 
 ### 3. Interact with Your Mind Map
 Once generated, explore the mind map interactively:  
