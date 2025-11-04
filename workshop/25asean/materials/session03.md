@@ -24,7 +24,7 @@ The Department of Statistics Malaysia (DOSM) plays a crucial role in collecting,
 
 4. **1. [Poster to 🎬 Short Promo Video](latihan/poster.md)**
 
-Learn how to transform a static event poster into a short vertical promotional video. This activity guides participants through crafting a visually appealing poster with event details and animating it using tools like **Grok › Imagine**. Ideal for promoting DOSM events, statistical awareness campaigns, or data-driven conferences on social media platforms.
+   Learn how to transform a static event poster into a short vertical promotional video. This activity guides participants through crafting a visually appealing poster with event details and animating it using tools like Grok › Imagine. Ideal for promoting DOSM events, statistical awareness campaigns, or data-driven conferences on social media platforms.
 
 5. **[Data Analysis with ChatGPT](latihan/chatgpt_chart.md)**
    Use ChatGPT’s Data Analysis feature to explore, visualize, and interpret statistical datasets interactively. Using the official population_malaysia.csv file from data.gov.my, participants will learn how to upload, clean, and analyze demographic data to uncover population trends across Malaysian states. This activity emphasizes practical applications such as computing summary statistics, generating charts that show year-by-year population growth, and identifying the fastest-growing states.
