@@ -37,6 +37,7 @@ This session highlights practical exercises designed to apply generative AI tool
    Discover how Google Stitch can generate a responsive dashboard interface for an AI-enabled monitoring system. This case study illustrates real-time data visualization and intelligent alerts for monitoring infrastructure and heritage sites—concepts relevant to DOSM’s initiatives in urban analytics, environmental monitoring, and smart governance. [📌 **Result**](https://drmurtadha.github.io/ai-monitoring-ui/)
 
 8. **[AI Tools for Researchers](materials/ai.md)**
+
    Artificial Intelligence (AI) is rapidly transforming the way research is conducted, analysed, and disseminated across disciplines. By automating complex tasks and augmenting human cognition, AI empowers researchers to work more efficiently and creatively throughout the entire research lifecycle — from discovering relevant literature and generating new ideas, to managing knowledge, visualising data, and producing high-quality academic writing. The effective integration of AI tools enables scholars to accelerate discovery, enhance accuracy, and foster deeper insights, making AI an indispensable companion in the modern research ecosystem.
 
 ### 🙌🏻 Connect with Me
