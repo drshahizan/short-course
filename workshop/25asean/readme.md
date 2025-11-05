@@ -31,13 +31,6 @@
 | **3:45 – 5:00 pm** | **[Session 4: Case Studies & Real Applications](https://github.com/drshahizan/short-course/blob/main/workshop/25asean/materials/session04.md)**<br>This session presents practical case studies demonstrating the application of generative AI in real-world data integration and analysis. Participants will explore examples such as unifying census and academic datasets, generating insights using multiple AI tools.<br><br>The session also includes a group discussion focusing on potential opportunities for innovation and the challenges faced in adopting AI-driven approaches within DOSM and higher education institutions. |
 | **5:00 – 5:30 pm** | **Closing**<br>This session concludes the workshop with a summary of key learning outcomes, participant reflections, and an open Q&A session. |
 
-## [AI Tools for Researchers](materials/ai.md)
-
-Artificial Intelligence (AI) is rapidly transforming the way research is conducted, analysed, and disseminated across disciplines. By automating complex tasks and augmenting human cognition, AI empowers researchers to work more efficiently and creatively throughout the entire research lifecycle — from discovering relevant literature and generating new ideas, to managing knowledge, visualising data, and producing high-quality academic writing. The effective integration of AI tools enables scholars to accelerate discovery, enhance accuracy, and foster deeper insights, making AI an indispensable companion in the modern research ecosystem.
-
-## [Latihan Praktikal](materials/latihan.md)
-
-**Latihan praktikal** direka untuk memastikan peserta dapat **menerjemahkan pengetahuan teori kepada aplikasi dunia sebenar**. Aktiviti ini berbentuk **hands-on dan berasaskan individu**, membolehkan peserta menguasai asas penggunaan AI melalui tugasan berperingkat, sambil **meneroka aplikasi teknologi ini dalam konteks projek kejuruteraan dan infrastruktur pintar**. Melalui latihan ini, peserta berpeluang membangunkan **instrumen analisis data, strategi pemantauan infrastruktur, serta garis panduan penggunaan AI & IoT** yang boleh terus diaplikasikan dalam tugasan JKR. Selain itu, latihan ini juga mendorong peserta membina **refleksi profesional** sebagai panduan untuk **penambahbaikan berterusan**. Secara keseluruhan, latihan ini bertindak sebagai **jambatan antara teori dan amalan**, membolehkan peserta memperoleh **kemahiran praktikal, kesedaran etika, dan keyakinan** dalam menggunakan teknologi AI secara berkesan dalam projek kejuruteraan moden.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
