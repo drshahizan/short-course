@@ -13,120 +13,42 @@ Bengkel Penulisan Jurnal Berbantukan AI anjuran **Green Research Group, UTM Joho
 
 Program ini memberi penekanan kepada pendekatan *hands-on* bagi membantu peserta memahami strategi penulisan artikel jurnal berimpak tinggi, teknik penyusunan manuskrip yang efektif, serta penggunaan alatan AI bagi mempercepatkan proses penjanaan idea, analisis literatur, semakan bahasa, pengurusan rujukan dan penambahbaikan manuskrip. Sepanjang bengkel, peserta akan melalui empat sesi latihan praktikal yang merangkumi penerokaan alatan AI, latihan penulisan berstruktur, semakan automatik menggunakan AI, serta teknik penyediaan artikel untuk dihantar ke jurnal bereputasi.
 
-Selain pembelajaran intensif, bengkel ini turut menyediakan ruang interaksi santai seperti sesi riadah, BBQ, dan sesi perbincangan terbuka bagi menggalakkan perkongsian pengalaman serta memperkukuh jaringan penyelidikan. Dengan gabungan latihan praktikal dan bimbingan pakar, bengkel ini dijangka membantu para peserta menghasilkan manuskrip yang lebih berkualiti, meningkatkan keyakinan dalam proses penulisan, dan mempercepatkan penerbitan di jurnal berindeks.
+## **Apakah yang Akan Dipelajari oleh Peserta**
 
-Baik, berikut ialah versi **revised**, **dalam Bahasa Melayu profesional**, dan **mengandungi pautan seperti dalam teks asal**. Semua pautan dikekalkan dalam format Markdown dan boleh diklik.
+### 🔍 **[1. Penemuan Literatur & Pemahaman Kajian](./materials/1_ldu)**
 
-# **Apa yang Akan Dipelajari oleh Peserta**
+* **Zeta Alpha** – Melaksanakan carian semantik merentasi artikel akademik untuk mendapatkan gambaran menyeluruh dan hubungan konsep berdasarkan AI.
+* **Scopus AI** – Meneroka literatur berindeks Scopus melalui analitik pintar, penjelasan konteks, dan cadangan kajian berkaitan.
+* **SciSpace** – Menyediakan ringkasan artikel, penjejakan rujukan, serta menjawab soalan berkaitan kandungan kajian secara langsung.
 
-### 🔍 **1. Penerokaan Literatur & Pemahaman Kajian**
+### 🧠 **[2. Penjanaan Idea & Reka Bentuk Kajian](./materials/2_idea)**
 
-**[Folder Bahan](./materials/1_ldu)**
+* **Qwen** – Model dwibahasa yang membantu penyelidik menghasilkan idea akademik yang logik, tersusun dan kritikal.
+* **Kimi** – Menyokong proses memahami dan menghuraikan artikel saintifik dengan cara yang lebih mudah dan sistematik.
+* **Grok** – AI perbualan yang mensimulasikan penaakulan kreatif untuk membantu penyelidik meneroka pendekatan, hipotesis, dan sudut baharu.
+* **Napkin AI** – Mengubah idea awal kepada struktur visual seperti rajah dan peta konsep secara automatik.
+* **Ideamap.ai** – Alat pemetaan idea untuk mengembangkan, menghubungkan serta memvisualkan konsep penyelidikan secara intuitif.
 
-* **Zeta Alpha** – Carian semantik merentasi artikel akademik dengan analitik berkuasa AI
-  [https://www.zeta-alpha.com/](https://www.zeta-alpha.com/)
-* **Scopus AI** – Eksplorasi literatur terindeks Scopus dengan analisis dipacu AI
-  [https://www.scopus.com/ai](https://www.scopus.com/ai)
-* **SciSpace** – Ringkasan artikel, penjejakan sitasi dan fungsi soal jawab untuk memahami kajian
-  [https://typeset.io/](https://typeset.io/)
+### 🗺️ **[3. Pengurusan Ilmu & Pembinaan Peta Minda](./materials/3_knowledge)**
 
-### 🧠 **2. Penjanaan Idea & Reka Bentuk Penyelidikan**
+* **Markmap** – Membina peta minda interaktif berasaskan Markdown bagi membantu penyelidik mengatur konsep secara lebih sistematik.
+* **NotebookLM** – Buku nota penyelidikan Google yang menganalisis dokumen berdasarkan konteks dan hubungan antara bahan rujukan.
 
-**[Folder Bahan](./materials/2_idea)**
+### 📊 **[4. Visualisasi Data & Dapatan Kajian](./materials/4_data)**
 
-* **Qwen** – Model dwibahasa Cina–Inggeris untuk penaakulan akademik yang mendalam
-  [https://qwenlm.ai/](https://qwenlm.ai/)
-* **Kimi** – Pembantu AI untuk menghuraikan kandungan ilmiah yang kompleks
-  [https://kimi.moonshot.cn/](https://kimi.moonshot.cn/)
-* **Grok** – AI perbualan yang mensimulasikan penaakulan kreatif dan penerokaan idea
-  [https://x.ai/](https://x.ai/)
-* **Napkin AI** – Menukar idea kasar kepada visualisasi terstruktur (Text-to-Visualization)
-  [https://napkin.ai/](https://napkin.ai/)
-* **Ideamap.ai** – Pemetaan idea secara visual untuk menghubungkan konsep penyelidikan
-  [https://ideamap.ai/](https://ideamap.ai/)
+* **ChatGPT** – Membantu merangka naratif data, mencadangkan visual yang sesuai, serta mentafsir keputusan statistik dengan jelas.
+* **Napkin AI** – Menjana rajah, aliran proses, dan visual konsep untuk memudahkan pemahaman dapatan.
+* **Infogram.com** – Platform untuk menghasilkan infografik, carta, dan papan pemuka interaktif bagi pembentangan hasil penyelidikan.
 
-### 🗺️ **3. Pengurusan Pengetahuan & Pemetaan Minda**
+### 🤖 **[5. Penulisan Akademik & Bantuan Penyelidikan Lanjutan](./materials/5_writing)**
 
-**[Folder Bahan](./materials/3_knowledge)**
+* **Gemini (Google)** – Menyokong penyelidik dalam sintesis kajian mendalam dan penulisan akademik berasaskan sumber yang sahih.
+* **ChatGPT (ScholarGPT)** – Menyediakan templat prompt lanjutan untuk ringkasan, parafrasa, dan penulisan akademik bertaraf profesional.
+* **Qwen (Thinking Mode)** – Mod penaakulan terstruktur yang sangat berkesan untuk membina hujah logik, memecahkan masalah penyelidikan kompleks, dan merangka soalan kajian yang berkualiti.
 
-* **Markmap** – Pemetaan minda interaktif berasaskan Markdown
-  [https://markmap.js.org/](https://markmap.js.org/)
-* **NotebookLM** – Notebook penyelidikan Google dengan analisis dokumen berasaskan konteks
-  [https://notebooklm.google/](https://notebooklm.google/)
+## 📈 **Hasil Pembelajaran**
 
-### 📊 **4. Visualisasi Data & Dapatan Kajian**
-
-**[Folder Bahan](./materials/4_data)**
-
-* **ChatGPT** – Membantu merangka naratif data, menerangkan keputusan statistik dan mencadangkan visual yang sesuai
-  [https://chat.openai.com/](https://chat.openai.com/)
-* **Napkin AI** – Menghasilkan diagram, carta alir dan visual konsep
-  [https://napkin.ai/](https://napkin.ai/)
-* **Infogram** – Platform untuk membina infografik, carta dan dashboard interaktif
-  [https://infogram.com/](https://infogram.com/)
-
-### 🤖 **5. Penulisan Akademik & Bantuan Penyelidikan Lanjutan**
-
-**[Folder Bahan](./materials/5_writing)**
-
-* **Gemini (Google)** – AI berkeupayaan tinggi untuk sintesis literatur dan penulisan berasaskan sumber
-  [https://gemini.google.com/](https://gemini.google.com/)
-* **ChatGPT (ScholarGPT)** – Template lanjutan untuk ringkasan, parafrasa dan penulisan akademik profesional
-  [https://chat.openai.com/](https://chat.openai.com/)
-* **Qwen (Thinking Mode)** – Mod penaakulan terstruktur untuk membina hujah, memecahkan persoalan kompleks dan merangka soalan penyelidikan berkualiti
-  [https://qwenlm.ai/](https://qwenlm.ai/)
-
----
-
-## **Siapa Yang Wajar Hadir**
-
-Pelajar pascasiswazah, penyelidik awal kerjaya, dan ahli akademik yang ingin meningkatkan keberkesanan proses penyelidikan melalui penggunaan teknologi AI.
-
----
-
-## **Hasil Pembelajaran**
-
-Peserta akan memperoleh panduan praktikal dan contoh aplikasi sebenar mengenai penggunaan alat AI dalam keseluruhan kitaran penyelidikan—daripada penerokaan literatur, pembentukan idea, analisis, visualisasi data sehinggalah kepada penulisan dan persediaan manuskrip untuk penerbitan. 🚀
-
----
-
-Jika anda mahu, saya boleh sediakan **versi infografik**, **versi ringkas untuk slaid**, atau **versi untuk dimasukkan dalam buku program**.
-
-
-## **What Participants Will Learn:**  
-
-### 🔍 **[1. Literature Discovery & Understanding](./materials/1_ldu)**
-* **Zeta Alpha** – Semantic search across academic papers with AI-powered insights
-* **Scopus AI** – AI-enhanced exploration of peer-reviewed literature from Scopus
-* **SciSpace** – Research summarization, citation tracing, and question answering
-
-### 🧠 **[2. Idea Generation & Research Design](./materials/2_idea)**
-* **Qwen** – Advanced Chinese-English model for logic-based academic thought
-* **Kimi** – AI assistant for digesting and explaining scientific papers
-* **Grok** - is a conversational AI designed to simulate creative reasoning and exploratory thought processes.
-* **Napkin AI** – Converts rough ideas into structured, visual representations (Text-to-Visualization)
-* **Ideamap.ai** – Visual ideation tool to expand and connect research concepts
-
-### 🗺️ **[3. Knowledge Organization & Mind Mapping](./materials/3_knowledge)**
-* **Markmap** – Interactive markdown-based mind mapping for concept clarity
-* **NotebookLM** – Google’s research notebook with contextual document analysis
-
-### 📊 **[4. Data & Result Visualization](./materials/4_data)**
-* **ChatGPT** – ChatGPT can assist in designing data narratives by generating chart descriptions, interpreting statistical results, and suggesting appropriate visual formats. 
-* **Napkin AI** – Also helpful for translating concepts into diagrams or flows
-* **Infogram.com** – Create engaging infographics, charts, and data dashboards
-
-### 🤖 **[5. Writing & Deep Research Assistance](./materials/5_writing)**
-* **Gemini (Google)** – Powerful AI for deep research synthesis and source-aware writing
-* **ChatGPT (ScholarGPT)** – Advanced prompt templates for summarizing, paraphrasing, and academic tone writing
-* **Qwen (Thinking mode)** - Developed by Alibaba, Qwen’s Thinking Mode is designed for structured academic reasoning. It excels at building logical arguments, decomposing complex research problems, and framing thesis-worthy questions. 
-
-## 👩‍💻 Who Should Attend
-Postgraduate students, early-career researchers, and academic professionals seeking to enhance their research efficiency using AI-driven tools.
-
-## 📈 Outcome
-Participants will leave equipped with practical knowledge and examples on how to apply AI tools across various stages of the research process—from ideation to publication. 🚀
-
+Peserta akan memperoleh kefahaman praktikal dan contoh sebenar tentang cara mengaplikasikan pelbagai alat AI bagi menyokong keseluruhan proses penyelidikan—bermula daripada penjanaan idea, analisis, penulisan, sehinggalah ke penerbitan. 🚀
 
 ### 🙌🏻 Connect with Me
 <p align="left">
