@@ -5,13 +5,93 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 8th International Conference on Technology Management, Business, and Entrepreneurship
+# Bengkel Penulisan Jurnal Berbantukan AI
 
-## **Workshop: AI Tools in Research: Empowering Academic Exploration with Next-Gen Intelligence**  
+## Sinopsis 
 
-In today's fast-paced academic world, **AI tools** have revolutionized the way researchers **discover, analyze, write, and publish** their work. This workshop, **"AI Tools in Research,"** provides hands-on experience with cutting-edge AI-powered solutions that enhance efficiency and productivity in scholarly research.  
+Bengkel Penulisan Jurnal Berbantukan AI anjuran **Green Research Group, UTM Johor Bahru** merupakan sebuah program intensif selama dua hari yang bertujuan meningkatkan kemahiran penulisan akademik dalam kalangan pascasiswazah melalui penggunaan teknologi Kecerdasan Buatan (AI). Bengkel ini akan berlangsung pada **25–26 November 2025** bertempat di **Solesor Kg Beach Resort, Port Dickson**, dan dikendalikan sepenuhnya oleh **PM Ts Dr Mohd Shahizan Othman** sebagai penceramah jemputan.
 
-Participants will explore **AI-driven literature review tools**, data analysis tools, AI-powered visualization techniques, emerging AI technologies, and journal selection platforms. By the end of this session, attendees will be equipped with practical skills to streamline their research workflow, improve research quality, and optimize publication strategies.  
+Program ini memberi penekanan kepada pendekatan *hands-on* bagi membantu peserta memahami strategi penulisan artikel jurnal berimpak tinggi, teknik penyusunan manuskrip yang efektif, serta penggunaan alatan AI bagi mempercepatkan proses penjanaan idea, analisis literatur, semakan bahasa, pengurusan rujukan dan penambahbaikan manuskrip. Sepanjang bengkel, peserta akan melalui empat sesi latihan praktikal yang merangkumi penerokaan alatan AI, latihan penulisan berstruktur, semakan automatik menggunakan AI, serta teknik penyediaan artikel untuk dihantar ke jurnal bereputasi.
+
+Selain pembelajaran intensif, bengkel ini turut menyediakan ruang interaksi santai seperti sesi riadah, BBQ, dan sesi perbincangan terbuka bagi menggalakkan perkongsian pengalaman serta memperkukuh jaringan penyelidikan. Dengan gabungan latihan praktikal dan bimbingan pakar, bengkel ini dijangka membantu para peserta menghasilkan manuskrip yang lebih berkualiti, meningkatkan keyakinan dalam proses penulisan, dan mempercepatkan penerbitan di jurnal berindeks.
+
+Baik, berikut ialah versi **revised**, **dalam Bahasa Melayu profesional**, dan **mengandungi pautan seperti dalam teks asal**. Semua pautan dikekalkan dalam format Markdown dan boleh diklik.
+
+# **Apa yang Akan Dipelajari oleh Peserta**
+
+### 🔍 **1. Penerokaan Literatur & Pemahaman Kajian**
+
+**[Folder Bahan](./materials/1_ldu)**
+
+* **Zeta Alpha** – Carian semantik merentasi artikel akademik dengan analitik berkuasa AI
+  [https://www.zeta-alpha.com/](https://www.zeta-alpha.com/)
+* **Scopus AI** – Eksplorasi literatur terindeks Scopus dengan analisis dipacu AI
+  [https://www.scopus.com/ai](https://www.scopus.com/ai)
+* **SciSpace** – Ringkasan artikel, penjejakan sitasi dan fungsi soal jawab untuk memahami kajian
+  [https://typeset.io/](https://typeset.io/)
+
+### 🧠 **2. Penjanaan Idea & Reka Bentuk Penyelidikan**
+
+**[Folder Bahan](./materials/2_idea)**
+
+* **Qwen** – Model dwibahasa Cina–Inggeris untuk penaakulan akademik yang mendalam
+  [https://qwenlm.ai/](https://qwenlm.ai/)
+* **Kimi** – Pembantu AI untuk menghuraikan kandungan ilmiah yang kompleks
+  [https://kimi.moonshot.cn/](https://kimi.moonshot.cn/)
+* **Grok** – AI perbualan yang mensimulasikan penaakulan kreatif dan penerokaan idea
+  [https://x.ai/](https://x.ai/)
+* **Napkin AI** – Menukar idea kasar kepada visualisasi terstruktur (Text-to-Visualization)
+  [https://napkin.ai/](https://napkin.ai/)
+* **Ideamap.ai** – Pemetaan idea secara visual untuk menghubungkan konsep penyelidikan
+  [https://ideamap.ai/](https://ideamap.ai/)
+
+### 🗺️ **3. Pengurusan Pengetahuan & Pemetaan Minda**
+
+**[Folder Bahan](./materials/3_knowledge)**
+
+* **Markmap** – Pemetaan minda interaktif berasaskan Markdown
+  [https://markmap.js.org/](https://markmap.js.org/)
+* **NotebookLM** – Notebook penyelidikan Google dengan analisis dokumen berasaskan konteks
+  [https://notebooklm.google/](https://notebooklm.google/)
+
+### 📊 **4. Visualisasi Data & Dapatan Kajian**
+
+**[Folder Bahan](./materials/4_data)**
+
+* **ChatGPT** – Membantu merangka naratif data, menerangkan keputusan statistik dan mencadangkan visual yang sesuai
+  [https://chat.openai.com/](https://chat.openai.com/)
+* **Napkin AI** – Menghasilkan diagram, carta alir dan visual konsep
+  [https://napkin.ai/](https://napkin.ai/)
+* **Infogram** – Platform untuk membina infografik, carta dan dashboard interaktif
+  [https://infogram.com/](https://infogram.com/)
+
+### 🤖 **5. Penulisan Akademik & Bantuan Penyelidikan Lanjutan**
+
+**[Folder Bahan](./materials/5_writing)**
+
+* **Gemini (Google)** – AI berkeupayaan tinggi untuk sintesis literatur dan penulisan berasaskan sumber
+  [https://gemini.google.com/](https://gemini.google.com/)
+* **ChatGPT (ScholarGPT)** – Template lanjutan untuk ringkasan, parafrasa dan penulisan akademik profesional
+  [https://chat.openai.com/](https://chat.openai.com/)
+* **Qwen (Thinking Mode)** – Mod penaakulan terstruktur untuk membina hujah, memecahkan persoalan kompleks dan merangka soalan penyelidikan berkualiti
+  [https://qwenlm.ai/](https://qwenlm.ai/)
+
+---
+
+## **Siapa Yang Wajar Hadir**
+
+Pelajar pascasiswazah, penyelidik awal kerjaya, dan ahli akademik yang ingin meningkatkan keberkesanan proses penyelidikan melalui penggunaan teknologi AI.
+
+---
+
+## **Hasil Pembelajaran**
+
+Peserta akan memperoleh panduan praktikal dan contoh aplikasi sebenar mengenai penggunaan alat AI dalam keseluruhan kitaran penyelidikan—daripada penerokaan literatur, pembentukan idea, analisis, visualisasi data sehinggalah kepada penulisan dan persediaan manuskrip untuk penerbitan. 🚀
+
+---
+
+Jika anda mahu, saya boleh sediakan **versi infografik**, **versi ringkas untuk slaid**, atau **versi untuk dimasukkan dalam buku program**.
+
 
 ## **What Participants Will Learn:**  
 
