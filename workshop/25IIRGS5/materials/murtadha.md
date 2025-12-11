@@ -5,15 +5,34 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
-# 📝 Ten Common Mistakes in Thesis Writing
+# Postgraduate Vision 2026
 
-Writing a thesis can be one of the most challenging yet rewarding milestones in an academic journey. However, many students unknowingly make recurring mistakes that affect the clarity, coherence, and overall quality of their research work. This workshop, titled **"Ten Common Mistakes in Thesis Writing"**, is designed to help postgraduate students and early-career researchers identify and avoid these pitfalls.
 
-Facilitated by **Assoc. Prof. Dr. Shahida Sulaiman**, this session will provide practical insights into common issues such as poor problem statements, weak literature reviews, inconsistent formatting, improper citation, and lack of critical analysis. Participants will gain actionable strategies to strengthen their writing, structure their arguments effectively, and meet academic standards required for successful thesis submission.
+**Speaker: Assoc. Prof. Dr. Mohd Murtadha Mohamad**
 
-Whether you're at the beginning of your thesis journey or preparing for final submission, this workshop will enhance your writing skills and guide you toward producing a more polished and impactful thesis.
+This presentation introduces **Postgraduate Vision 2026**, a strategic roadmap designed to strengthen postgraduate education at UTM in response to **rapid technological advancements**, **growing stakeholder expectations**, and **global competition**. It explains how the landscape of **digital informatics**, **artificial intelligence**, **data analytics**, and **Industry 4.0** creates new opportunities for impactful research while also revealing challenges such as **siloed research**, **limited cross-faculty collaboration**, and the need to balance **academic rigour** with **real-world relevance**.
 
-## [📘 Slide Presentation](ss.pdf)
+Postgraduate Vision 2026 focuses on three pillars: **engagement**, **research**, and **collaboration**. Engagement efforts aim to build a supportive academic environment through **colloquia**, **mentoring circles**, and active community-building. Research initiatives promote **interdisciplinary clusters** that bring together diverse expertise to address complex problems. Collaboration initiatives expand networks with **industry partners** and **international programmes**, offering postgraduate students broader exposure and opportunities to participate in high-impact projects.
+
+The presentation also highlights the importance of building pathways toward meaningful impact. These include fostering **innovation**, strengthening **training** in proposal, thesis, and grant writing, and enhancing industry-linked research that generates real societal value. Vision 2026 ultimately aims to help postgraduate students develop **versatile skills**, elevate **publication quality**, and enhance their global competitiveness in both academic and professional spheres.
+
+Overall, the session encourages students to envision a future shaped by interdisciplinary collaboration, strong research culture, and diverse opportunities that support excellence and long-term success.
+
+# **Key Points**
+
+* **Technological change** in informatics demands a strategic postgraduate direction.
+* **Stakeholder expectations** and **global competition** drive the need for impactful research.
+* **Opportunities** include AI, data analytics, and interdisciplinary innovation.
+* **Challenges** arise from siloed research, limited exposure, and balancing rigour with application.
+* **Engagement initiatives** strengthen community through colloquia and mentoring.
+* **Research initiatives** encourage interdisciplinary collaboration via research clusters.
+* **Collaboration initiatives** broaden industry and international partnerships.
+* **Innovation pathways** support creative problem-solving and societal contribution.
+* **Training programmes** prepare students for proposal, thesis, and grant success.
+* **Vision 2026** helps students build versatile skills and produce higher-quality publications.
+
+
+## [📘 Slide Presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/POSTGRADUATE%20VISION%202026.pdf)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
