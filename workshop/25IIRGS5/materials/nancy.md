@@ -5,20 +5,22 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📚 Publish Without Pay – Leveraging Springer Nature’s Free APC Opportunity
+Below is a **professionally written synopsis** of the slide deck *“My PhD Journey: Lessons, Milestones & Motivation”* presented by **Zhu Linnan (Nancy)**.
+This synopsis is based on the full slide content you provided. 
 
-In today’s academic landscape, **publishing in high-impact journals** often comes with high Article Processing Charges (APCs), limiting opportunities for researchers, especially those without dedicated funding. This workshop titled **"Publish Without Pay: Leveraging Springer Nature’s Free APC Opportunity"** aims to equip participants with practical knowledge on how to **publish open access articles in reputable journals without incurring publication fees**.
+# [My PhD Journey — Lessons, Milestones & Motivation]()
 
-Delivered by **Assoc. Prof. Dr. Mohd Shahizan Othman**, the session will walk participants through the process of identifying eligible journals, understanding Springer Nature’s **institutional APC waivers and discounts**, and successfully navigating the submission and approval workflow. Participants will also explore real-life examples and strategies to maximize visibility and impact of their research through open-access publishing.
+This presentation by **Ms Zhu Linnan (Nancy)** offers an insightful, honest, and practical reflection on her PhD journey at Universiti Teknologi Malaysia. It highlights the realities of postgraduate research through three interconnected themes: **key lessons learned**, **major milestones achieved**, and **strategies for staying motivated** throughout the doctoral process.
 
-This workshop is ideal for **early-career researchers**, **postgraduate students**, and **faculty members** who wish to **publish more strategically and cost-effectively** while increasing their research reach and accessibility.
+The talk begins by acknowledging the uncertainties and shifting expectations that often characterise PhD research. Nancy emphasises the importance of **managing expectations**, particularly when dealing with supervisors, evolving research timelines, and changes in direction. She stresses that mistakes—such as early misunderstandings, writing challenges, or experimental failures—are not setbacks but valuable learning opportunities that shape academic growth.
 
-## Materials
-1. [Open Access (OA) agreement with Springer Nature](elegible.md)
-2. [Publishing open access in a hybrid journal (eligible journals)](https://resource-cms.springernature.com/springer-cms/rest/v1/content/27742874/data/v4)
-3. [How to Find Eligible Springer Journals by Subject Area](jf.md)
-4. [How to Review the Suggested Journals](review.md)
-5. [FAQs regarding the Open Access (OA) agreement between Malaysia and Springer Nature](faq.md)
+A significant portion of the presentation focuses on developing strong academic habits, including consistent reading, structured writing, and maintaining research logs. Nancy also highlights the importance of **seeking help boldly**, valuing peer support, discussion groups, and guidance from supervisors and the academic community.
+
+The second section outlines the **major milestones** of her PhD journey. These include crafting a clear and focused proposal, navigating the overwhelming volume of literature, executing rigorous data collection, and adopting effective writing and revision strategies. The journey culminates in the intense pre-viva period, where stress management, mock sessions, and constructive feedback play vital roles in preparing for submission and examination.
+
+In the final section, Nancy shares the motivation strategies that sustained her progress. She underscores the value of a **purpose-driven mindset**, consistently reminding oneself of the reasons behind pursuing a PhD. She emphasises the power of maintaining small, steady progress, developing emotional resilience to manage self-doubt, and building a dependable support network of family, friends, lab mates, and supervisors.
+
+The presentation ends with a powerful message: **“Perseverance Over Perfection.”** This encapsulates the core philosophy of her experience — that reaching the finish line of a PhD requires determination, adaptability, and steady progress more than flawless execution.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
