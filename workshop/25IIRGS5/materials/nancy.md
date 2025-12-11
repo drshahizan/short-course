@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# [My PhD Journey — Lessons, Milestones & Motivation]()
+# [My PhD Journey: Lessons, Milestones & Motivation](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/My%20PhD%20Journey-Lessons%2C%20Milestones%20%26%20Motivation-Nancy.pdf)
 
 This presentation by **Ms Zhu Linnan (Nancy)** offers an insightful, honest, and practical reflection on her PhD journey at Universiti Teknologi Malaysia. It highlights the realities of postgraduate research through three interconnected themes: **key lessons learned**, **major milestones achieved**, and **strategies for staying motivated** throughout the doctoral process.
 
