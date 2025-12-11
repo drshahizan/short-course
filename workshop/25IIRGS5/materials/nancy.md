@@ -22,6 +22,24 @@ In the final section, Nancy shares the motivation strategies that sustained her 
 
 The presentation ends with a powerful message: **“Perseverance Over Perfection.”** This encapsulates the core philosophy of her experience — that reaching the finish line of a PhD requires determination, adaptability, and steady progress more than flawless execution.
 
+Here are the **10 key points with bolded keywords**, without using “–”:
+
+
+
+## Key Points
+
+* **Managing expectations** is essential because research direction, timelines and supervision may change.
+* **Mistakes and failed attempts** are part of the learning process and help build academic maturity.
+* **Consistent academic habits** such as regular reading, writing and note-taking support long-term progress.
+* **Seeking help** from peers, mentors and supervisors strengthens understanding, confidence and resilience.
+* A **focused proposal** requires a clear topic, a well-defined problem statement and a strong research purpose.
+* **Handling literature** effectively involves structured reading, mapping tools and organised categorisation.
+* **Data collection quality** depends on proper sampling, validity, reliability and suitable analysis methods.
+* **Writing and revision** become more manageable when large chapters are divided into smaller tasks.
+* **Motivation** is sustained by remembering personal purpose, maintaining consistency and managing emotions.
+* A **strong support system** of family, friends, lab mates and supervisors plays an important role in completing the PhD journey.
+
+
 ## [📘 Slide Presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/My%20PhD%20Journey-Lessons%2C%20Milestones%20%26%20Motivation-Nancy.pdf)
 
 ### 🙌🏻 Connect with Me
