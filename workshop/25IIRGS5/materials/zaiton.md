@@ -14,7 +14,7 @@ In this insightful session, **Prof. Dr. Siti Zaiton Mohd Hashim** presents a pra
 Designed to reduce anxiety and strengthen candidates’ readiness, this session offers actionable strategies for preparation, including developing a clear mental map of the thesis, articulating contributions succinctly, and delivering structured, coherent responses. It also warns against common pitfalls that could undermine performance. With its motivating tone and research-backed advice, this talk is essential for any postgraduate student aiming to enter the viva room with confidence, clarity, and academic maturity.
 
 
-# **Key Points**
+## **Key Points**
 
 * **Understand the True Purpose of the Viva**
   Learn why the viva is not an interrogation but a scholarly dialogue.
