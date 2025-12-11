@@ -29,7 +29,7 @@ The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi 
 * Discusses how to prepare effectively for a successful oral examination
 * Emphasises cultivating strong ethical and impactful research practices
 
-### **3. Assoc. Prof. Dr. Mohd. Murtadha Mohamad**
+### **[3. Assoc. Prof. Dr. Mohd. Murtadha Mohamad](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/murtadha.md)**
 
 **Topic:** *“Postgraduate Vision 2026: Research, Growth & Collaboration”*
 
