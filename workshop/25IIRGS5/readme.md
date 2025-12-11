@@ -5,24 +5,62 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🎓 IIRG Colloquium – Series 3
+# **Intelligent Informatics Research Group (IIRG)**
 
-The **Intelligent Informatics Research Group (IIRG)**, Faculty of Computing, Universiti Teknologi Malaysia, is excited to present the third session of its colloquium series. Scheduled for **Tuesday, 27 May 2025**, this academic gathering is designed to inspire and empower researchers, postgraduate students, and faculty members 💡👩‍🎓👨‍🏫.
+## **IIRG Colloquium Session 5**
 
-🗣️ **Featured Speakers & Topics:**
+The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi Malaysia (UTM)** is pleased to present an inspiring and intellectually enriching colloquium session designed for postgraduate students and academic staff. This session aims to foster research engagement, strengthen academic networking, and provide valuable insights from experienced researchers.
 
-1️⃣ **[Assoc. Prof. Dr. Mohd Shahizan Othman](./materials/mso.md)** – *"Publish Without Pay"* 💸🚫
-Discover how to leverage **Springer Nature’s free APC** opportunity for open-access publication.
+## **🎙 Featured Speakers**
 
-2️⃣ **[Assoc. Prof. Dr. Shahida Sulaiman](./materials/ss.md)** – *"Ten Common Mistakes in Thesis Writing"* ✍️📚
-Learn how to avoid common pitfalls and polish your academic writing.
+### **1. Ms. Nancy Zhu**
 
-3️⃣ **[Dr. Ahmad Najmi Amerhaider Nuar](./materials/najmi.md)** – *"Nexscholar: A Research Network Platform"* 🌐🔗
-Explore a platform that connects scholars, fosters collaboration, and elevates research visibility.
+**Topic:** *“My PhD Journey: Lessons, Milestones & Motivation”*
 
-🎯 This event promises to be an enriching experience that promotes knowledge-sharing, academic excellence, and collaborative research. All are welcome to participate in this engaging afternoon of learning and networking.
+* Offers practical strategies for navigating the PhD journey
+* Provides motivational insights for maintaining a resilient, purpose-driven research mindset
+* Includes an interactive Q&A session
 
-Let’s build impactful research together through purpose, passion, and partnership. 🤝💬🌍
+### **2. Prof. Dr. Siti Zaiton Mohd Hashim**
+
+**Topic:** *“What Examiners Expect in a Viva Voce”*
+
+* Shares essential knowledge about viva voce expectations
+* Discusses how to prepare effectively for a successful oral examination
+* Emphasises cultivating strong ethical and impactful research practices
+
+### **3. Assoc. Prof. Dr. Mohd. Murtadha Mohamad**
+
+**Topic:** *“Postgraduate Vision 2026: Research, Growth & Collaboration”*
+
+* Highlights strategic initiatives to uplift postgraduate education
+* Explores pathways for interdisciplinary collaboration
+* Addresses how to shape a productive and future-ready academic career
+
+## **🧑‍💼 Moderator**
+
+**Assoc. Prof. Ts. Dr. Mohd Shahizan Othman**
+
+## **📅 Event Details**
+
+| **Date**         | **Time** | **Day** |
+| ---------------- | -------- | ------- |
+| 12 December 2025 | 9:00 AM  | Friday  |
+
+**Venue:** Hyflex Learning Room, Level 1, Block N28a, Universiti Teknologi Malaysia
+
+## **🌟 Why You Should Attend**
+
+* Gain exclusive insights from experienced academic leaders
+* Strengthen your research skills and strategies
+* Network with fellow postgraduate students and researchers
+* Discover new ideas, collaborations, and academic opportunities
+
+### **💬 Closing Note**
+
+Don’t miss this opportunity to **connect, learn, and be inspired**.
+Let’s build a thriving, collaborative, and future-ready research community — together.
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
