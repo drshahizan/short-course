@@ -23,7 +23,7 @@ In the final section, Nancy shares the motivation strategies that sustained her 
 The presentation ends with a powerful message: **“Perseverance Over Perfection.”** This encapsulates the core philosophy of her experience — that reaching the finish line of a PhD requires determination, adaptability, and steady progress more than flawless execution.
 
 
-## Key Points
+## **Key Points**
 
 * **Managing expectations** is essential because research direction, timelines and supervision may change.
 * **Mistakes and failed attempts** are part of the learning process and help build academic maturity.
