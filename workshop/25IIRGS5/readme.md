@@ -23,7 +23,7 @@ The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi 
 
 ### **[2. Prof. Dr. Siti Zaiton Mohd Hashim](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/zaiton.md)**
 
-**Topic:** *“What Examiners Expect in a Viva Voce”*
+**Topic:** *“Succeeding in Your Viva — What Examiners Expect & How to Show Your Best Work”*
 
 * Shares essential knowledge about viva voce expectations
 * Discusses how to prepare effectively for a successful oral examination
