@@ -7,6 +7,8 @@
 
 # 🚀 [What Examiners Expect in a Viva Voce](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/DuringViva.pdf)
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/iirg%20zaiton.jpeg" alt="Shahizan SLR"  height="300">
+ 
 In this insightful session, **Prof. Dr. Siti Zaiton Mohd Hashim** presents a practical and empowering guide to succeeding in a PhD viva, demystifying what examiners truly expect and how candidates can confidently demonstrate mastery of their research. The presentation reframes the viva as a scholarly conversation—one that assesses originality, rigour, and contribution—while highlighting the qualities examiners value most, such as clarity, critical thinking, methodological consistency, and honest awareness of limitations.
 
 Designed to reduce anxiety and strengthen candidates’ readiness, this session offers actionable strategies for preparation, including developing a clear mental map of the thesis, articulating contributions succinctly, and delivering structured, coherent responses. It also warns against common pitfalls that could undermine performance. With its motivating tone and research-backed advice, this talk is essential for any postgraduate student aiming to enter the viva room with confidence, clarity, and academic maturity.
