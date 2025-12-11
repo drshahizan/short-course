@@ -8,8 +8,6 @@
 
 # My PhD Journey: Lessons, Milestones & Motivation
 
-## [📘 Slide Presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/My%20PhD%20Journey-Lessons%2C%20Milestones%20%26%20Motivation-Nancy.pdf.pdf)
-
 This presentation by **Ms Zhu Linnan (Nancy)** offers an insightful, honest, and practical reflection on her PhD journey at Universiti Teknologi Malaysia. It highlights the realities of postgraduate research through three interconnected themes: **key lessons learned**, **major milestones achieved**, and **strategies for staying motivated** throughout the doctoral process.
 
 The talk begins by acknowledging the uncertainties and shifting expectations that often characterise PhD research. Nancy emphasises the importance of **managing expectations**, particularly when dealing with supervisors, evolving research timelines, and changes in direction. She stresses that mistakes—such as early misunderstandings, writing challenges, or experimental failures—are not setbacks but valuable learning opportunities that shape academic growth.
@@ -21,6 +19,8 @@ The second section outlines the **major milestones** of her PhD journey. These i
 In the final section, Nancy shares the motivation strategies that sustained her progress. She underscores the value of a **purpose-driven mindset**, consistently reminding oneself of the reasons behind pursuing a PhD. She emphasises the power of maintaining small, steady progress, developing emotional resilience to manage self-doubt, and building a dependable support network of family, friends, lab mates, and supervisors.
 
 The presentation ends with a powerful message: **“Perseverance Over Perfection.”** This encapsulates the core philosophy of her experience — that reaching the finish line of a PhD requires determination, adaptability, and steady progress more than flawless execution.
+
+## [📘 Slide Presentation](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/My%20PhD%20Journey-Lessons%2C%20Milestones%20%26%20Motivation-Nancy.pdf)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
