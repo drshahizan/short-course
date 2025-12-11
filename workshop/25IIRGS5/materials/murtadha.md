@@ -19,7 +19,7 @@ The presentation also highlights the importance of building pathways toward mean
 
 Overall, the session encourages students to envision a future shaped by interdisciplinary collaboration, strong research culture, and diverse opportunities that support excellence and long-term success.
 
-# **Key Points**
+## **Key Points**
 
 * **Technological change** in informatics demands a strategic postgraduate direction.
 * **Stakeholder expectations** and **global competition** drive the need for impactful research.
