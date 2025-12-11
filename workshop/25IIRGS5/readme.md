@@ -13,9 +13,9 @@ The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi 
 
 ## **🎙 Featured Speakers**
 
-### **1. Ms. Nancy Zhu**
+### **[1. Ms. Nancy Zhu](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/nancy.md)**
 
-**Topic:** *“[My PhD Journey: Lessons, Milestones & Motivation]()”*
+**Topic:** *“My PhD Journey: Lessons, Milestones & Motivation”*
 
 * Offers practical strategies for navigating the PhD journey
 * Provides motivational insights for maintaining a resilient, purpose-driven research mindset
