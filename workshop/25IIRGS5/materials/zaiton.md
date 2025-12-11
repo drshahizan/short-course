@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🚀 Succeeding in Your Viva — What Examiners Expect & How to Show Your Best Work
+# 🚀 [What Examiners Expect in a Viva Voce](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/DuringViva.pdf)
 
 In this insightful session, **Prof. Dr. Siti Zaiton Mohd Hashim** presents a practical and empowering guide to succeeding in a PhD viva, demystifying what examiners truly expect and how candidates can confidently demonstrate mastery of their research. The presentation reframes the viva as a scholarly conversation—one that assesses originality, rigour, and contribution—while highlighting the qualities examiners value most, such as clarity, critical thinking, methodological consistency, and honest awareness of limitations.
 
