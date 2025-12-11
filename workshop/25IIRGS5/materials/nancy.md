@@ -8,6 +8,8 @@
 
 # My PhD Journey: Lessons, Milestones & Motivation
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/iirg%20nancy.jpeg" alt="Shahizan SLR"  height="300">
+
 This presentation by **Ms Zhu Linnan (Nancy)** offers an insightful, honest, and practical reflection on her PhD journey at Universiti Teknologi Malaysia. It highlights the realities of postgraduate research through three interconnected themes: **key lessons learned**, **major milestones achieved**, and **strategies for staying motivated** throughout the doctoral process.
 
 The talk begins by acknowledging the uncertainties and shifting expectations that often characterise PhD research. Nancy emphasises the importance of **managing expectations**, particularly when dealing with supervisors, evolving research timelines, and changes in direction. She stresses that mistakes—such as early misunderstandings, writing challenges, or experimental failures—are not setbacks but valuable learning opportunities that shape academic growth.
