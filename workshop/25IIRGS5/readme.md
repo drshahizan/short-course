@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# **Intelligent Informatics Research Group (IIRG)**
+# **IIRG Colloquium Session 5**
 
-## **IIRG Colloquium Session 5**
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/IIRG_colloqium5.jpeg" alt="Shahizan SLR"  height="400">
 
 The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi Malaysia (UTM)** is pleased to present an inspiring and intellectually enriching colloquium session designed for postgraduate students and academic staff. This session aims to foster research engagement, strengthen academic networking, and provide valuable insights from experienced researchers.
 
