@@ -21,7 +21,7 @@ The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi 
 * Provides motivational insights for maintaining a resilient, purpose-driven research mindset
 * Includes an interactive Q&A session
 
-### **2. Prof. Dr. Siti Zaiton Mohd Hashim**
+### **[2. Prof. Dr. Siti Zaiton Mohd Hashim](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/zaiton.md)**
 
 **Topic:** *“What Examiners Expect in a Viva Voce”*
 
