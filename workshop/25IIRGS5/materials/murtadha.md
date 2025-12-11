@@ -7,6 +7,7 @@
  
 # Postgraduate Vision 2026
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/iirg%20murtadha.jpeg" alt="Shahizan SLR"  height="400">
 
 **Speaker: Assoc. Prof. Dr. Mohd Murtadha Mohamad**
 
