@@ -8,7 +8,7 @@
 
 # 🎓 **Colloquium IIRG Highlight**
 
-**📅 Date Time:** 2025-12-12 09:10:17
+**📅 Date Time:** 12-12-2025 09:10:17
 
 **📍 Location:** Hyflex room, Block N28a, Faculty of Computing
 
