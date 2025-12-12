@@ -56,7 +56,7 @@ The **Intelligent Informatics Research Group (IIRG)** at **Universiti Teknologi 
 * Network with fellow postgraduate students and researchers
 * Discover new ideas, collaborations, and academic opportunities
 
-## [Highlights and Key Discussions from Colloquium IIRG](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/nancy.md)
+## [Highlights and Key Discussions from Colloquium IIRG](https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/materials/summary.md)
 The discussion in “Highlights and Key Discussions from Colloquium IIRG” focuses on the main ideas shared by speakers and postgraduate students during the session. It explains the challenges faced in a PhD or Master’s journey, the importance of staying motivated, and the need to build good study habits and strong support from supervisors and peers. The discussion also covers key parts of the research process such as developing a clear problem statement, reviewing literature, collecting data and using AI tools carefully. Important advice for viva preparation is included, along with tips for publishing in good journals and making use of university and international opportunities. Overall, the session provides practical guidance to help postgraduate students progress with confidence and complete their research successfully.
 
 ### 🙌🏻 Connect with Me
