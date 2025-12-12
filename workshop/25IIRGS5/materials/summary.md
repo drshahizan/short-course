@@ -9,8 +9,10 @@
 # 🎓 **Colloquium IIRG Highlight**
 
 **📅 Date Time:** 2025-12-12 09:10:17
+
 **📍 Location:** Hyflex room
-**🎤 Speaker:** Ms Nancy Zhu, Professor Dr. Siti Zaiton Hashim, Assoc Prof Dr. Murtadha Muhammad, and others
+
+**🎤 Speaker:** Ms Nancy Zhu, Professor Dr. Siti Zaiton Hashim, and Assoc Prof Dr. Murtadha Muhammad
 
 
 ## 📝 **Summary**
