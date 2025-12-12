@@ -10,7 +10,7 @@
 
 **📅 Date Time:** 2025-12-12 09:10:17
 
-**📍 Location:** Hyflex room
+**📍 Location:** Hyflex room, Block N28a, Faculty of Computing
 
 **🎤 Speaker:** Ms Nancy Zhu, Professor Dr. Siti Zaiton Hashim, and Assoc Prof Dr. Murtadha Muhammad
 
