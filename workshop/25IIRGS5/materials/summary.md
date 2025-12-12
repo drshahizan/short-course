@@ -10,6 +10,7 @@
 Date Time: 2025-12-12 09:10:17
 Location: Hyflex room
 Speaker: Ms Nancy Zhu, Professor Dr. Siti Zaiton Hashim, Assoc Prof Dr. Murtadha Muhammad, and others
+
 ## 📝 Summary
 This document consolidates insights from a series of lectures and colloquia for postgraduate students, featuring a PhD student (Nancy), retired  Professor Dr. Siti Zaiton Hashim, and other faculty members. The sessions provide comprehensive guidance on navigating the PhD and Master's journey, from managing personal and academic challenges to successfully completing the viva voce (oral examination) and publishing research.
 Key themes include the emotional and motivational difficulties of postgraduate studies, with speakers emphasizing the need for self-motivation, resilience, and a strong support system. Practical advice is offered on developing good academic habits, such as keeping a research journal, engaging in group study, and maintaining a persistent relationship with supervisors. The lectures provide a deep dive into the research process, covering the importance of a clear problem statement, conducting a literature review, data collection, and cautious use of AI writing tools.
@@ -80,7 +81,7 @@ The discussions also address the "Postgraduate Edition 2026" vision, which aims 
 - [ ] 5. Before submitting an article for publication, consult with your supervisor regarding journal selection and potential funding opportunities for Article Processing Charges (APC).
 - [ ] 6. Get to know and engage with the Postgraduate Student Society (PGSS) committee to participate in or propose skill-building and networking activities.
 - [ ] 7. Be mindful of over-relying on AI tools for writing and ensure the originality of your work to avoid issues with plagiarism detectors.
-- [ ] 
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
