@@ -22,7 +22,6 @@
 | Majlis Perbandaran | Tahap 2–3            | Tahap 4      | Tahap 5      |
 | Majlis Daerah      | Tahap 2              | Tahap 3      | Tahap 4      |
 
----
 
 # 2️⃣ Roadmap Transformasi Digital PBT 2026–2040
 
@@ -43,7 +42,6 @@
 
 * Semua PBT mencapai **Tahap 3 (Integrasi Digital)**
 
----
 
 ## Fasa 2: Automasi & Bandar Pintar (2031–2035)
 
@@ -61,7 +59,6 @@
 
 * Bandaraya & Perbandaran mencapai **Tahap 4 (Smart PBT)**
 
----
 
 ## Fasa 3: Tadbir Urus Pintar & AI (2036–2040)
 
@@ -79,7 +76,6 @@
 
 * Bandaraya & MP terpilih mencapai **Tahap 5 (Intelligent PBT)**
 
----
 
 # 3️⃣ Cadangan Seni Bina Digital Nasional PBT
 
@@ -91,7 +87,6 @@
 * Aplikasi Mudah Alih PBT
 * Kiosk digital komuniti
 
----
 
 ### 🟩 Lapisan 2: Aplikasi Teras PBT
 
@@ -101,7 +96,6 @@
 * OSC & Perancangan Guna Tanah
 * Aduan & Interaksi Awam
 
----
 
 ### 🟨 Lapisan 3: Integrasi & Data
 
@@ -109,7 +103,6 @@
 * Data Lake / Data Warehouse PBT
 * GIS Nasional PBT
 
----
 
 ### 🟥 Lapisan 4: Analitik & Kepintaran
 
@@ -117,7 +110,6 @@
 * AI & analitik ramalan
 * Real-time monitoring (IoT)
 
----
 
 ### ⚫ Lapisan 5: Tadbir Urus & Keselamatan
 
@@ -125,7 +117,6 @@
 * Keselamatan siber
 * Privasi & pematuhan undang-undang
 
----
 
 # 4️⃣ Indikator & KPI Digital Blueprint PBT
 
@@ -138,7 +129,6 @@
 | Masa kelulusan lesen (purata) | -30%         | -50%         |
 | Masa respon aduan             | <48 jam      | <12 jam      |
 
----
 
 ## B. KPI Kepintaran & Data
 
@@ -148,7 +138,6 @@
 | PBT guna AI operasi         | ≥ 30%  | ≥ 80% |
 | Integrasi sistem PBT        | Separa | Penuh |
 
----
 
 ## C. KPI Inklusiviti & Tadbir Urus
 
@@ -157,8 +146,6 @@
 | Indeks kepuasan rakyat digital | ≥ 85%   |
 | PBT ada Data Officer           | 100%    |
 | Pematuhan keselamatan siber    | 100%    |
-
----
 
 # Kesimpulan Strategik Blueprint
 
