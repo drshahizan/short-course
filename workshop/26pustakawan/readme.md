@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# AI in Workplace
+# Future-Ready Librarians: AI Tools for Next-Gen Libraries
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg"  height="500">
  </p>
