@@ -8,7 +8,45 @@
 
 #  🗓️ Tentative Programme
 
+Berikut ialah **tentatif program** dalam **format Markdown**, disediakan **hanya berdasarkan data yang diberikan**:
 
+---
+
+## 🗓️ Tentative Programme
+
+### *Future-Ready Librarians: AI Tools for Next-Gen Libraries*
+
+---
+
+## **Day 1: 20 January 2026 (Tuesday)**
+
+| Time       | Activity                            | Content                                                                                                      |
+| ---------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 8:30 a.m.  | Participant Registration            | —                                                                                                            |
+| 9:00 a.m.  | Course Introduction                 | Facilitator: PM Ts Dr Mohd Shahizan Othman                                                                   |
+| 9:15 a.m.  | Generative AI                       | Introduction, concepts, and ethics of AI usage                                                               |
+| 10:00 a.m. | Morning Break                       | —                                                                                                            |
+| 10:30 a.m. | AI for Slide Preparation            | • AI slide generators<br>• Standardisation of graphics and corporate templates<br>• Slide content automation |
+| 12:30 p.m. | Lunch Break                         | —                                                                                                            |
+| 2:00 p.m.  | AI for Article and Bulletin Writing | —                                                                                                            |
+| 3:30 p.m.  | AI for Meeting Minutes Preparation  | —                                                                                                            |
+| 4:30 p.m.  | Afternoon Break & Dismissal         | —                                                                                                            |
+
+---
+
+## **Day 2: 21 January 2026 (Wednesday)**
+
+| Time       | Activity                                    | Content                                                                                              |
+| ---------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 8:30 a.m.  | Participant Registration                    | —                                                                                                    |
+| 9:00 a.m.  | AI for Data and Reporting                   | • Introduction to AI tools<br>• Automated data analysis                                              |
+| 10:00 a.m. | Morning Break                               | —                                                                                                    |
+| 10:30 a.m. | AI for Data and Reporting (Continuation)    | • Data visualisation (graphs & dashboards)<br>• Impactful report generation from existing statistics |
+| 12:30 p.m. | Lunch Break                                 | —                                                                                                    |
+| 2:00 p.m.  | AI for Video Development                    | • AI video generator<br>• AI voice-over<br>• Subtitle generation                                     |
+| 3:15 p.m.  | AI for Social Media Content and Copywriting | —                                                                                                    |
+| 4:15 p.m.  | Souvenir Presentation & Closing             | —                                                                                                    |
+| 4:30 p.m.  | Afternoon Break                             | —                                                                                                    |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
