@@ -13,9 +13,13 @@
 
 ## Synopsis
 
-The **AI in Workplace** aims to enhance participants’ understanding and practical skills in applying **Artificial Intelligence (AI)** within professional settings. This one-day course, categorized under *Digital Competency* in the *Strategic University Competency Framework*, is designed to empower UTM staff to integrate AI tools effectively in their daily work processes.
+**Programme Synopsis**
 
-Participants will explore key AI concepts, workplace automation strategies, and practical demonstrations of generative AI applications that improve productivity, decision-making, and communication. Through guided activities, participants will learn how to leverage tools such as ChatGPT, Gemini, and AI-assisted analytics to optimize efficiency and innovation in administrative and academic tasks.
+*Future-Ready Librarians: AI Tools for Next-Gen Libraries* is a two-day professional development programme designed specifically for librarians to enhance their readiness in the digital and AI-driven library environment. This programme introduces practical Artificial Intelligence (AI) tools that can support librarians in their daily professional tasks, including content creation, reporting, communication, and data management .
+
+Throughout the programme, participants will gain a clear understanding of generative AI concepts, ethical AI usage, and hands-on exposure to AI tools relevant to library operations. The sessions focus on real librarian tasks such as preparing presentation slides using AI, writing articles and library bulletins, generating meeting minutes, analysing data, creating reports and dashboards, producing videos, and developing effective social media and promotional content .
+
+By the end of the programme, librarians are expected to be more confident in using AI to improve work efficiency, ensure consistency in information delivery, enhance service quality, and support the transformation of libraries into future-ready knowledge hubs. The programme emphasises practical application, simplicity, and relevance to librarians’ professional roles in modern academic libraries .
 
 ## **Teaching Materials**
 
