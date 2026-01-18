@@ -8,6 +8,10 @@
 
 #  🗓️ Tentative Programme: Future-Ready Librarians: AI Tools for Next-Gen Libraries
 
+<p align="center">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg"  height="500">
+ </p>
+
 ## **Day 1: 20 January 2026 (Tuesday)**
 
 | Time       | Activity                            | Content                                                                                                      |
