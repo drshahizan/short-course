@@ -21,7 +21,7 @@ Throughout the programme, participants will gain a clear understanding of genera
 
 By the end of the programme, librarians are expected to be more confident in using AI to improve work efficiency, ensure consistency in information delivery, enhance service quality, and support the transformation of libraries into future-ready knowledge hubs. The programme emphasises practical application, simplicity, and relevance to librarians’ professional roles in modern academic libraries .
 
-## 🗓️ [Tentative Programme]()
+## 🗓️ [Tentative Programme](./materials/tentative.md)
 
 ## **Teaching Materials**
 
