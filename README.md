@@ -12,7 +12,15 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25ctld5/images/2505chatgpt.png" alt="Dr Shahizan AI"  height="400">
 </a> 
 -->
-## 🌍 Workshops and Courses: Year 2025
+## 🌍 Workshops and Courses: Year 2026
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/26_ai_bendahari.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+
+## Workshops and Courses: Year 2025
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS5">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/IIRG_colloqium5.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
