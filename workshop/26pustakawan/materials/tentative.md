@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-#  🗓️ Tentative Programme
+#  🗓️ Tentative Programme: Future-Ready Librarians: AI Tools for Next-Gen Libraries
 
 ## **Day 1: 20 January 2026 (Tuesday)**
 
