@@ -8,16 +8,6 @@
 
 #  🗓️ Tentative Programme
 
-Berikut ialah **tentatif program** dalam **format Markdown**, disediakan **hanya berdasarkan data yang diberikan**:
-
----
-
-## 🗓️ Tentative Programme
-
-### *Future-Ready Librarians: AI Tools for Next-Gen Libraries*
-
----
-
 ## **Day 1: 20 January 2026 (Tuesday)**
 
 | Time       | Activity                            | Content                                                                                                      |
@@ -31,8 +21,6 @@ Berikut ialah **tentatif program** dalam **format Markdown**, disediakan **hanya
 | 2:00 p.m.  | AI for Article and Bulletin Writing | —                                                                                                            |
 | 3:30 p.m.  | AI for Meeting Minutes Preparation  | —                                                                                                            |
 | 4:30 p.m.  | Afternoon Break & Dismissal         | —                                                                                                            |
-
----
 
 ## **Day 2: 21 January 2026 (Wednesday)**
 
