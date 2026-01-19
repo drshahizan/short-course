@@ -27,7 +27,7 @@ By the end of the programme, librarians are expected to be more confident in usi
 
 | No | Type                 | Topic |
 | -- | -------------------- | ----- |
-| 1. | Slides               | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.pdf) |
+| 1. | Slides               | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/Future-Ready%20Librarians.pdf) |
 | 2. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
 | 3. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
 | 4. | Telegram Integration | [Copilot](./materials/telegram.md) |
