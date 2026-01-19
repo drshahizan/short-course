@@ -31,7 +31,7 @@ By the end of the programme, librarians are expected to be more confident in usi
 | 2. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
 | 3. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
 | 4. | Telegram Integration | [Copilot](./materials/telegram.md) |
-| 5. | AI Applications      | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br>[Notebooklm](https://notebooklm.google/) |
+| 5. | AI Applications      | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br>[NotebookLM](https://notebooklm.google/) |
 
 ## **Hands-On Activities**
 
