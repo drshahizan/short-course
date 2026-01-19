@@ -35,7 +35,7 @@ By the end of the programme, librarians are expected to be more confident in usi
 
 ## **Hands-On Activities**
 
-### **Applied AI Exercises (Registrar’s Department Context)**
+### **Applied AI Exercises**
 
 | **No.** | **Activity** | **Description**                                                                                  |
 | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
