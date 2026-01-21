@@ -13,9 +13,11 @@
 
 ## Synopsis
 
-The **AI in Workplace** aims to enhance participants’ understanding and practical skills in applying **Artificial Intelligence (AI)** within professional settings. This one-day course, categorized under *Digital Competency* in the *Strategic University Competency Framework*, is designed to empower UTM staff to integrate AI tools effectively in their daily work processes.
+The AI in the Workplace course is designed to introduce participants to the fundamental concepts of Artificial Intelligence (AI) and its practical applications in modern work environments. Aligned with the university’s strategic digital competency framework, this course aims to enhance participants’ understanding of AI as a key enabler for productivity, efficiency, and innovation across various professional domains.
 
-Participants will explore key AI concepts, workplace automation strategies, and practical demonstrations of generative AI applications that improve productivity, decision-making, and communication. Through guided activities, participants will learn how to leverage tools such as ChatGPT, Gemini, and AI-assisted analytics to optimize efficiency and innovation in administrative and academic tasks.
+Participants will be exposed to core AI concepts, current trends, and real-world use cases relevant to workplace settings. The course emphasizes how AI tools and technologies can support decision-making, automate routine tasks, improve data handling, and enhance overall organizational performance. It also highlights the importance of digital readiness and ethical awareness when adopting AI solutions in daily work practices.
+
+This one-day intensive course provides 6 CPD points and is suitable for university staff and professionals seeking to strengthen their digital competencies and gain foundational knowledge of AI to remain relevant in the evolving digital workplace.
 
 ## **Teaching Materials**
 
