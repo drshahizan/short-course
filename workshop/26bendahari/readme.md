@@ -23,7 +23,7 @@ This one-day intensive course provides 6 CPD points and is suitable for universi
 
 | No | Type                 | Topic |
 | -- | -------------------- | ----- |
-| 1. | Slides               | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/25pendaftar/images/Pendaftar.pdf) |
+| 1. | Slides               | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
 | 2. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
 | 3. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
 | 4. | Telegram Integration | [Copilot](./materials/telegram.md) |
