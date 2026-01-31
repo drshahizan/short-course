@@ -6,23 +6,21 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Mengintegrasi ChatGPT dan Aplikasi AI dalam Pengurusan dan PdP
+# Kursus Kecerdasan Buatan (Artificial Intelligence, AI) untuk Pengajaran dan Pembelajaran (PdP)
 
  <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
 
-**Sinopsis Program:**
 
-Kursus ini direka khas untuk guru besar dan guru bagi memperkenalkan potensi dan aplikasi teknologi Kecerdasan Buatan (AI), khususnya ChatGPT, dalam bidang pendidikan. Sepanjang kursus ini, peserta akan didedahkan kepada kaedah praktikal menggunakan ChatGPT dan aplikasi AI lain bagi meningkatkan keberkesanan pengurusan sekolah serta memperkasakan proses pengajaran dan pembelajaran (PdP) di dalam bilik darjah.
+## **Sinopsis Kursus**
 
-Peserta akan mempelajari cara menghasilkan bahan PdP, merancang aktiviti pengajaran yang interaktif, menyusun pelaporan pentadbiran, dan mengoptimumkan masa serta sumber melalui penggunaan teknologi AI. Bengkel ini juga menyediakan ruang eksplorasi secara hands-on bagi membina kemahiran asas menggunakan ChatGPT secara bertanggungjawab, selamat, dan beretika dalam konteks pendidikan.
+Kursus **Kecerdasan Buatan (Artificial Intelligence, AI) untuk Pengajaran dan Pembelajaran (PdP)** dirangka bagi memberi pendedahan menyeluruh kepada pendidik tentang konsep, aplikasi dan potensi penggunaan teknologi AI dalam konteks pendidikan masa kini. Kursus ini menekankan penggunaan **Generative AI** sebagai alat sokongan untuk meningkatkan kecekapan pentadbiran, kualiti pengajaran, serta keberkesanan penyampaian bahan pembelajaran.
 
-**Hasil Pembelajaran:**
+Sepanjang kursus, peserta akan diperkenalkan kepada asas AI dan etika penggunaannya dalam pendidikan, diikuti dengan aplikasi praktikal AI dalam tugasan pentadbiran sekolah seperti penulisan surat rasmi, laporan, kertas kerja dan minit mesyuarat. Kursus ini turut memberi penekanan kepada penghasilan bahan multimedia pendidikan termasuk slaid pembentangan, video pembelajaran, infografik dan kandungan digital untuk media sosial pendidikan.
 
-* Memahami konsep asas AI dan ChatGPT serta aplikasinya dalam bidang pendidikan.
-* Mengetahui cara-cara penggunaan ChatGPT untuk merancang dan menyokong PdP.
-* Meneroka aplikasi AI untuk kegunaan pengurusan sekolah secara lebih cekap.
-* Mengenalpasti etika dan batasan penggunaan AI dalam konteks pendidikan.
-* Membangunkan kemahiran asas menggunakan ChatGPT melalui aktiviti praktikal.
+Selain itu, peserta akan dibimbing dalam penggunaan AI bagi perancangan PdP, meliputi penyediaan Rancangan Pengajaran Harian (RPH), objektif pembelajaran, aktiviti pengajaran, penilaian serta pembangunan bahan PdP interaktif seperti kuiz, latihan dan soalan beraras tinggi (KBAT). Kursus ini turut memperkenalkan reka bentuk bahan bantu mengajar visual serta demonstrasi pembangunan bot tutor subjek berasaskan AI menggunakan platform Telegram sebagai sokongan pembelajaran kendiri pelajar.
+
+Secara keseluruhan, kursus ini bertujuan memperkasakan pendidik dengan kemahiran praktikal dan beretika dalam mengintegrasikan AI ke dalam PdP, sejajar dengan keperluan pendidikan digital dan aspirasi pembangunan inovasi lestari negara.
+
 
 ## Bahan Pengajaran
 
