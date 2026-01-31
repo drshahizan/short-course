@@ -8,7 +8,7 @@
 
 # Kursus Kecerdasan Buatan (Artificial Intelligence, AI) untuk Pengajaran dan Pembelajaran (PdP)
 
- <img src="https://ecentral.my/wp-content/uploads/2024/10/ai-dalam-delima.png" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/images/srigading.jpeg" alt="Shahizan SLR"  height="400">
 
 
 ## **Sinopsis Kursus**
