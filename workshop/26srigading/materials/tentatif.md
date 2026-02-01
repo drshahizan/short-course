@@ -14,9 +14,9 @@
 |-----|---------|-----------|
 | 8:30 pagi | Pendaftaran Peserta | Pendaftaran dan pengesahan kehadiran |
 | 9:00 pagi | Pengenalan Kursus | Objektif kursus dan gambaran keseluruhan penggunaan AI oleh guru |
-| 9:15 pagi | Pengenalan kepada Generative AI | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
+| 9:15 pagi | [Pengenalan kepada Generative AI]() | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
 | 10:00 pagi | Minum Pagi | — |
-| 10:30 pagi | AI untuk Pentadbiran Sekolah | Penulisan surat rasmi, laporan, kertas kerja dan minit mesyuarat menggunakan AI |
+| 10:30 pagi | [AI untuk Pentadbiran Sekolah](pentadbir.md) | Penulisan [surat rasmi, laporan, kertas kerja, minit mesyuarat](pentadbir.md) dan [pengacara majlis](pengacara.md) menggunakan AI |
 | 11:45 pagi | AI untuk Penyediaan Slaid & Bahan Multimedia | AI slide generator, automasi kandungan dan penyeragaman grafik |
 | 1:00 petang | Makan Tengah Hari & Rehat | — |
 | 2:00 petang | AI untuk Pembangunan Video Pendidikan | AI video generator, voice-over automatik dan sari kata |
