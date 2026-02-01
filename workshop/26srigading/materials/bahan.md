@@ -5,7 +5,47 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 
+# Bahan Pengajaran
+
+| No | Pelajaran | Topik |
+|--------|---------|---------|
+| 1.| Slaid |[Pengenalan kepada Generative AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EeYnFrdvX_xKqbsH07QN7acBE_GaVxrrnmhTGrtj3Xdfjw?e=DlHoPb)
+| 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBqeBYT9WJ0HWwLgb_8wmt6A?e=cjxlwW)
+| 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 4. | Pemasangan |[ChatGPT, Copilot, Gemini](./materials/signin.md)|
+| 5. | WhatsApp |[ChatGPT, Copilot](./materials/wa-chatgpt.md)|
+| 6. | Telegram |[Copilot](./materials/telegram.md)|
+| 7. | Aplikasi AI |[Qwen](./materials/qwen.md)|
+|  |  |[Gemini](https://gemini.google.com/app)|
+|  |  |[DeepSeek](./materials/deepseek.md)|
+|  |  |[Napkin.ai](./materials//napkin.md)|
+|  |  |[Grok](./materials/grok.md)|
+|  |  |[Kimi](./materials/kimi.md)|
+|8.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md)|
+|  |  | [Latihan 2: Penggunaan arahan Generatif AI](./materials/latihan2.md)|
+|  |  | [Latihan 3: Kenali KPM & Tingkatkan Produktiviti Melalui Maklumat Institusi](./materials/latihan3.md)|
+|  |  | [Latihan 4: Analisis data dan visualisasi](./materials/latihan4.md)|
+|  |  | [Latihan 5: Peramalan Jumlah Penduduk Malaysia](./materials/latihan5.md)|
+|  |  | [Latihan 6: Analisis Data & Perancangan Strategik Staf Akademik UTM](./materials/latihan6.md)|
+|  |  | [Latihan 7: MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/pimpin/markmap.md)|
+|  |  | [Latihan 8: Analisa imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)|
+|  |  | [Latihan 9: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
+|  |  | [Latihan 10: Analisa dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)|
+|  |  | [Latihan 11: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+
+## Maklumat Tambahan
+
+| No | Topik |
+|--------:|---------|
+|1.|[Garis Panduan Pengadaptasian AI Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/)|
+|2.|[Panduan AI generatif dalam pendidikan dan penyelidikan (UNESCO)](./materials/390836may.pdf)|
+|3.|[Garis Panduan Teknologi Kecerdasan Buatan Generatif (KBG) dalam Pengajaran dan Pembelajaran (PdP) Pendidikan Tinggi](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf)|
+|4.|[AI and education Guidance for policy-makers (UNESCO)](./materials/391104eng.pdf)|
+|5.|[AI competency framework for teachers (UNESCO)](/materials/376709eng.pdf)|
+|6.|[Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+|7.|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|8.|[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
