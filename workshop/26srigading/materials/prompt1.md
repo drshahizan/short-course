@@ -5,6 +5,48 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# 📘 JADUAL KANDUNGAN  
+## Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
+
+
+
+## A. Dokumen Rasmi & Pentadbiran Teras
+1. Template Prompt — Surat Rasmi Sekolah  
+2. Template Prompt — Laporan Rasmi Sekolah  
+3. Template Prompt — Kertas Kerja Program Sekolah  
+4. Template Prompt — Minit Mesyuarat Sekolah  
+5. Template Prompt — Ringkasan Mesyuarat (Edaran Cepat)
+
+
+
+## B. Komunikasi Rasmi & Makluman
+6. Template Prompt — Makluman Rasmi (WhatsApp / Telegram)  
+7. Template Prompt — Nota Edaran / Pekeliling Dalaman  
+8. Template Prompt — Peringatan Rasmi (Reminder)  
+9. Template Prompt — Jawapan Rasmi Aduan / Pertanyaan  
+10. Template Prompt — Pengumuman Rasmi (Pelantikan / Pertukaran Tugas)
+
+
+
+## C. Pengurusan Program & Majlis Sekolah
+11. Template Prompt — Pengacara Majlis (MC) Sekolah  
+12. Template Prompt — Atur Cara Majlis / Program  
+13. Template Prompt — Senarai Tugas & Pembahagian Jawatankuasa  
+14. Template Prompt — Rancangan Tindakan / Pelan Penambahbaikan
+
+
+
+## D. Pelaporan & Analisis Ringkas
+15. Template Prompt — Laporan Kehadiran / Statistik Ringkas  
+16. Template Prompt — Rumusan Isu & Cadangan Tindakan  
+
+
+
+## E. Panduan Penggunaan
+17. Cara Menggunakan Prompt Template (Langkah Pantas)  
+18. Amalan Baik & Etika Penggunaan AI dalam Pentadbiran Sekolah  
+
+
 
 
 ### 🙌🏻 Connect with Me
