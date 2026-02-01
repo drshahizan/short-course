@@ -8,23 +8,10 @@
 
 # Bahan Multimedia untuk Pentadbiran Sekolah
 
-Baik puan — betul, versi tadi **belum lengkap** kerana saya hanya susun semula 5 latihan pertama (poster/infografik/video/slaid/kit media sosial) dan **tidak memasukkan set latihan tambahan poster & infografik** yang puan lampirkan di bahagian bawah (mesyuarat guru bulanan, poster ibu bapa, SOP kehadiran, proses cuti, infografik data).
-
-Di bawah ialah **versi lengkap, profesional, tanpa pengulangan**, dan **SEMUA latihan dimasukkan** (jumlah **10 latihan**) dengan format seragam:
-
-
-
-# **Bahan Multimedia untuk Pentadbiran Sekolah**
-
-## Modul Hands-On: Poster, Infografik, Video, Templat Slaid & Kit Komunikasi
-
-
 
 ## 1. Pengenalan Modul
 
 Modul ini membimbing peserta menggunakan **AI** untuk menghasilkan bahan multimedia pentadbiran sekolah yang **cepat, tepat, seragam, dan profesional**, termasuk poster rasmi, infografik SOP, video makluman ringkas, templat slaid standard, serta kit komunikasi merentas platform.
-
-
 
 ## 2. Peraturan Umum (Digunakan untuk Semua Latihan)
 
@@ -40,13 +27,9 @@ Sebelum memulakan latihan, peserta **WAJIB** menetapkan spesifikasi standard sup
 * **Bahasa:** Bahasa Melayu baku, ringkas, sopan
 * **Format tarikh:** Contoh — *Isnin, 10 Februari 2026*
 
+# 3. Latihan Hands-On 
 
-
-# 3. Latihan Hands-On (Lengkap)
-
-## A. Poster Pentadbiran (2 Latihan)
-
-
+## A. Poster Pentadbiran 
 
 ### **LATIHAN 1 — Poster Pengumuman Rasmi (Taklimat Pentadbiran)**
 
@@ -82,9 +65,7 @@ Akhir sekali, sediakan 2 versi teks:
 (2) Format IG Story (lebih pendek)
 ```
 
-
-
-### **LATIHAN 6 — Poster Pengumuman Rasmi Sekolah (Mesyuarat Guru Bulanan)**
+### **LATIHAN 2 — Poster Pengumuman Rasmi Sekolah (Mesyuarat Guru Bulanan)**
 
 **Hasil Akhir:** Poster A4 + paparan digital skrin sekolah
 **Kajian Kes:** *Pengumuman Mesyuarat Guru Bulanan*
@@ -124,11 +105,11 @@ Akhir sekali, sediakan versi:
 
 
 
-## B. Infografik SOP & Proses (4 Latihan)
+## B. Infografik SOP & Proses 
 
 
 
-### **LATIHAN 2 — Infografik SOP Prosedur Ringkas**
+### **LATIHAN 3 — Infografik SOP Prosedur Ringkas**
 
 **Hasil Akhir:** Infografik 1 halaman (A4)
 **Kajian Kes:** *SOP Permohonan Cuti Guru*
@@ -166,9 +147,7 @@ Kotak: Dokumen diperlukan
 Kotak: Perhatian
 ```
 
-
-
-### **LATIHAN 8 — Infografik SOP Kehadiran Guru**
+### **LATIHAN 4 — Infografik SOP Kehadiran Guru**
 
 **Hasil Akhir:** Infografik SOP 1 halaman (A4)
 **Kajian Kes:** *SOP Kehadiran Guru & Rekod Kehadiran*
@@ -202,9 +181,7 @@ Keperluan:
 - Ikut Standard Grafik Pentadbiran Sekolah
 ```
 
-
-
-### **LATIHAN 9 — Infografik Proses Permohonan (Flowchart)**
+### **LATIHAN 5 — Infografik Proses Permohonan (Flowchart)**
 
 **Hasil Akhir:** Infografik aliran proses (flowchart)
 **Kajian Kes:** *Proses Permohonan Cuti Guru*
@@ -238,9 +215,7 @@ Keperluan:
 - Ikut Standard Grafik Pentadbiran Sekolah
 ```
 
-
-
-### **LATIHAN 10 — Infografik Data Ringkas Pentadbiran**
+### **LATIHAN 6 — Infografik Data Ringkas Pentadbiran**
 
 **Hasil Akhir:** Infografik ringkas data (dalaman sekolah)
 **Kajian Kes:** *Ringkasan Kehadiran Guru Bulanan*
@@ -273,13 +248,9 @@ Keperluan:
 - Ikut Standard Grafik Pentadbiran Sekolah
 ```
 
+## C. Video Pentadbiran 
 
-
-## C. Video Pentadbiran (1 Latihan)
-
-
-
-### **LATIHAN 3 — Skrip Video Pendek (60–90 saat) + Storyboard**
+### **LATIHAN 7 — Skrip Video Pendek (60–90 saat) + Storyboard**
 
 **Hasil Akhir:** Skrip + storyboard + sari kata + voice-over
 **Kajian Kes:** *Panduan Hari Bertemu Pelanggan & Pengambilan Buku Laporan*
@@ -315,11 +286,11 @@ Ikut Standard Grafik Pentadbiran Sekolah untuk cadangan visual.
 
 
 
-## D. Templat Slaid Standard (1 Latihan)
+## D. Templat Slaid Standard
 
 
 
-### **LATIHAN 4 — Templat Slaid Standard Pentadbiran (Penyeragaman Grafik)**
+### **LATIHAN 8 — Templat Slaid Standard Pentadbiran (Penyeragaman Grafik)**
 
 **Hasil Akhir:** “Template deck” 6 slaid + Slide Style Guide
 **Kajian Kes:** *Taklimat Pengurusan Peperiksaan Pertengahan Tahun*
@@ -358,11 +329,11 @@ Akhir sekali, beri contoh isi untuk taklimat:
 
 
 
-## E. Kit Komunikasi Merentas Platform (1 Latihan)
+## E. Kit Komunikasi Merentas Platform 
 
 
 
-### **LATIHAN 5 — Kit Media Sosial Pentadbiran (3 Format Sekali Gus)**
+### **LATIHAN 9 — Kit Media Sosial Pentadbiran (3 Format Sekali Gus)**
 
 **Hasil Akhir:** Poster teks + caption + WhatsApp + FAQ
 **Kajian Kes:** Makluman rasmi sekolah yang perlu konsisten merentas saluran.
@@ -402,11 +373,11 @@ Keperluan:
 
 
 
-## F. Poster Makluman Ibu Bapa (1 Latihan Tambahan)
+## F. Poster Makluman Ibu Bapa 
 
 
 
-### **LATIHAN 7 — Poster Makluman Ibu Bapa (Mesra + Rasmi)**
+### **LATIHAN 10 — Poster Makluman Ibu Bapa (Mesra + Rasmi)**
 
 **Hasil Akhir:** Poster makluman ibu bapa (2 versi: formal & mudah)
 **Kajian Kes:** *Hari Bertemu Pelanggan*
@@ -444,12 +415,9 @@ Sediakan dua versi ayat:
 ```
 
 
-
 ## 4. Penutup Modul
 
 Melalui latihan-latihan ini, peserta dapat menghasilkan bahan multimedia pentadbiran yang **seragam, profesional, cepat disiapkan**, serta sesuai disebarkan melalui medium rasmi sekolah.
-
-Jika puan mahu, saya boleh tambah sekali **Rubrik Penilaian (untuk kumpulan)** dan **Worksheet peserta** bagi 10 latihan ini (siap ruang isi maklumat dan ruang prompt).
 
 
 ### 🙌🏻 Connect with Me
