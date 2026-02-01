@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# AI untuk Penyediaan Slaid & Bahan Multimedia
+# AI untuk Penyediaan Slaid 
 
 
 # A. Cara Kerja Langkah Demi Langkah
