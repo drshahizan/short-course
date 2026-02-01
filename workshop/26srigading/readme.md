@@ -21,9 +21,9 @@ Selain itu, peserta akan dibimbing dalam penggunaan AI bagi perancangan PdP, mel
 
 Secara keseluruhan, kursus ini bertujuan memperkasakan pendidik dengan kemahiran praktikal dan beretika dalam mengintegrasikan AI ke dalam PdP, sejajar dengan keperluan pendidikan digital dan aspirasi pembangunan inovasi lestari negara.
 
-## [Tentatif Program](./materials/tentatif.md)
+## [Tentatif Kursus](./materials/tentatif.md)
 
-## [Bahan Pengajaran]()
+## [Bahan Pengajaran](./materials/bahan.md)
 
 
 
