@@ -24,8 +24,6 @@
 | 4:30 petang | Refleksi & Soal Jawab | Perkongsian pengalaman dan sesi soal jawab |
 | 5:00 petang | Tamat | — |
 
----
-
 ## 📅 SESI KEDUA  
 ### AI untuk Pengajaran dan Pembelajaran (PdP)
 
