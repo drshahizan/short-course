@@ -5,10 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📘 JADUAL KANDUNGAN  
-## Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
-
-
+# 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
 
 ## A. Dokumen Rasmi & Pentadbiran Teras
 1. Template Prompt — Surat Rasmi Sekolah  
