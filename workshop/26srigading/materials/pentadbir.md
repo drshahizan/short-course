@@ -262,6 +262,13 @@ Mesyuarat Jawatankuasa PIBG Sekolah Rendah.
 Anda ialah setiausaha PIBG.
 
 Sediakan minit Mesyuarat Jawatankuasa PIBG Sekolah Rendah secara tersusun dan formal.
+
+Sertakan:
+- Maklumat mesyuarat
+- Agenda
+- Keputusan
+- Tindakan susulan
+
 ```
 
 ### 📝 Latihan 3: Minit Mesyuarat Panitia
@@ -276,6 +283,11 @@ Anda ialah setiausaha Panitia Mata Pelajaran.
 
 Sediakan minit Mesyuarat Panitia secara ringkas, jelas dan profesional
 untuk simpanan rekod sekolah.
+Sertakan:
+- Maklumat mesyuarat
+- Agenda
+- Keputusan
+- Tindakan susulan
 ```
 
 
