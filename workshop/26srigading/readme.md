@@ -13,7 +13,7 @@
 
 ## **Sinopsis Kursus**
 
-Kursus **Kecerdasan Buatan (Artificial Intelligence, AI) untuk Pengajaran dan Pembelajaran (PdP)** dirangka bagi memberi pendedahan menyeluruh kepada pendidik tentang konsep, aplikasi dan potensi penggunaan teknologi AI dalam konteks pendidikan masa kini. Kursus ini menekankan penggunaan **Generative AI** sebagai alat sokongan untuk meningkatkan kecekapan pentadbiran, kualiti pengajaran, serta keberkesanan penyampaian bahan pembelajaran.
+Kursus **Kecerdasan Buatan untuk Pengajaran dan Pembelajaran** dirangka bagi memberi pendedahan menyeluruh kepada pendidik tentang konsep, aplikasi dan potensi penggunaan teknologi AI dalam konteks pendidikan masa kini. Kursus ini menekankan penggunaan **Generative AI** sebagai alat sokongan untuk meningkatkan kecekapan pentadbiran, kualiti pengajaran, serta keberkesanan penyampaian bahan pembelajaran.
 
 Sepanjang kursus, peserta akan diperkenalkan kepada asas AI dan etika penggunaannya dalam pendidikan, diikuti dengan aplikasi praktikal AI dalam tugasan pentadbiran sekolah seperti penulisan surat rasmi, laporan, kertas kerja dan minit mesyuarat. Kursus ini turut memberi penekanan kepada penghasilan bahan multimedia pendidikan termasuk slaid pembentangan, video pembelajaran, infografik dan kandungan digital untuk media sosial pendidikan.
 
