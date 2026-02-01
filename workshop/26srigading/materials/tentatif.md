@@ -5,7 +5,42 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
  
-# 
+# TENTATIF KURSUS  
+
+## 📅 SESI PERTAMA  
+### Pengenalan AI, Pentadbiran & Penghasilan Multimedia
+
+| Masa | Aktiviti | Kandungan |
+|-----|---------|-----------|
+| 8:30 pagi | Pendaftaran Peserta | Pendaftaran dan pengesahan kehadiran |
+| 9:00 pagi | Pengenalan Kursus | Objektif kursus dan gambaran keseluruhan penggunaan AI oleh guru |
+| 9:15 pagi | Pengenalan kepada Generative AI | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
+| 10:00 pagi | Minum Pagi | — |
+| 10:30 pagi | AI untuk Pentadbiran Sekolah | Penulisan surat rasmi, laporan, kertas kerja dan minit mesyuarat menggunakan AI |
+| 11:45 pagi | AI untuk Penyediaan Slaid & Bahan Multimedia | AI slide generator, automasi kandungan dan penyeragaman grafik |
+| 1:00 petang | Makan Tengah Hari & Rehat | — |
+| 2:00 petang | AI untuk Pembangunan Video Pendidikan | AI video generator, voice-over automatik dan sari kata |
+| 3:15 petang | AI untuk Kandungan Digital & Media Sosial Pendidikan | Infografik, kapsyen pendidikan dan kandungan PdP digital |
+| 4:30 petang | Refleksi & Soal Jawab | Perkongsian pengalaman dan sesi soal jawab |
+| 5:00 petang | Tamat | — |
+
+---
+
+## 📅 SESI KEDUA  
+### AI untuk Pengajaran dan Pembelajaran (PdP)
+
+| Masa | Aktiviti | Kandungan |
+|-----|---------|-----------|
+| 8:30 pagi | Pendaftaran Peserta | Pendaftaran dan persediaan peserta |
+| 9:00 pagi | AI untuk Perancangan Pengajaran | Penyediaan RPH, objektif pembelajaran, aktiviti dan penilaian |
+| 10:00 pagi | Minum Pagi | — |
+| 10:30 pagi | AI untuk Bahan PdP Interaktif | Penjanaan kuiz, latihan dan soalan KBAT |
+| 1:00 petang | Makan Tengah Hari & Rehat | — |
+| 2:00 petang | AI untuk Reka Bentuk Bahan Bantu Mengajar Visual | Reka bentuk bahan bantu mengajar visual berasaskan AI |
+| 3:45 petang | Demonstrasi Pembangunan Bot Tutor Subjek (Telegram) | Pengenalan konsep dan potensi penggunaan AI dalam pembangunan bot tutor |
+| 4:30 petang | Rumusan & Penutup | Kesimpulan kursus dan maklum balas peserta |
+| 5:00 petang | Tamat | — |
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
