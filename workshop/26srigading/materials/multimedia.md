@@ -6,6 +6,255 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
+# Bahan Multimedia untuk Pentadbiran Sekolah
+
+## Peraturan Umum (Diguna untuk semua latihan)
+
+Sebelum mula, tetapkan “Spesifikasi Standard Sekolah” (supaya grafik seragam).
+
+### ✅ Standard Grafik Sekolah (copy & guna)
+
+* Tema warna: **Biru tua + Putih + Kelabu**, aksen **Kuning**
+* Fon cadangan: **Tajuk: Poppins/Arial Bold**, Isi: **Arial/Calibri**
+* Gaya ikon: **outline/flat** (konsisten)
+* Layout: Tajuk atas, isi tengah, maklumat penting dalam kotak (tarikh/masa/tempat)
+* Bahasa: **Bahasa Melayu baku, ringkas, sopan**
+* Format tarikh: **Isnin, 10 Februari 2026** (contoh)
+
+
+
+## 1️⃣ LATIHAN 1 — Poster Pengumuman Rasmi (Sekolah)
+
+### 🎯 Hasil akhir
+
+Poster A4 / IG Story: **Pengumuman Mesyuarat Guru / Taklimat Pentadbiran**
+
+### 📌 Kajian kes
+
+Sekolah perlu mengeluarkan poster: **“Taklimat Pengurusan Peperiksaan Pertengahan Tahun”**
+
+### Langkah demi langkah
+
+**Langkah 1 (Input maklumat):**
+Tulis maklumat program: tajuk, tarikh, masa, tempat, sasaran, tindakan perlu.
+
+**Langkah 2 (Jana teks poster):**
+Gunakan prompt di bawah.
+
+**Langkah 3 (Semak & pendekkan):**
+Minta AI ringkaskan kepada 30–50 patah perkataan.
+
+**Langkah 4 (Standardkan grafik):**
+Minta AI ikut “Standard Grafik Sekolah”.
+
+**Langkah 5 (Output akhir):**
+Hasilkan 2 versi: A4 dan IG Story.
+
+### 💡 Prompt AI
+
+```
+Anda ialah pegawai pentadbiran sekolah.
+
+Hasilkan teks poster pengumuman rasmi sekolah untuk:
+Tajuk: Taklimat Pengurusan Peperiksaan Pertengahan Tahun
+Sasaran: Semua guru
+Butiran: [isi tarikh], [isi masa], [isi tempat]
+Arahan: Guru wajib hadir, bawa fail peperiksaan dan jadual pengawasan
+
+Keperluan:
+- Bahasa Melayu baku, ringkas, sopan
+- Susun kandungan: Tajuk → Butiran → Tindakan/Perhatian → Penutup
+- Ikut Standard Grafik Sekolah: tema biru/putih/kelabu, aksen kuning, ikon outline, tajuk tebal
+
+Akhir sekali, sediakan 2 versi teks:
+(1) Format Poster A4
+(2) Format IG Story (lebih pendek)
+```
+
+
+
+## 2️⃣ LATIHAN 2 — Infografik Prosedur Ringkas (SOP)
+
+### 🎯 Hasil akhir
+
+Infografik 1 halaman: **SOP Permohonan Cuti Guru / Keluar Kawasan / Kebenaran Urusan Rasmi**
+
+### 📌 Kajian kes
+
+Sekolah ingin menyelaraskan SOP permohonan cuti supaya guru ikut langkah yang sama.
+
+### Langkah demi langkah
+
+1. Senaraikan proses dalam 5–7 langkah
+2. Jana infografik dalam format “blok” (Step 1–Step 7)
+3. Tambah “Dokumen diperlukan” + “Tempoh proses”
+4. Jadikan dua versi: **BM** dan **BM mudah**
+5. Tambah peringatan: “Rujuk PK Pentadbiran”
+
+### 💡 Prompt AI
+
+```
+Anda ialah pembantu pentadbiran sekolah.
+
+Hasilkan infografik SOP (1 halaman) bertajuk:
+“SOP Permohonan Cuti Guru”
+
+Kandungan mesti ada:
+- 6 langkah proses (Step 1 hingga Step 6)
+- Dokumen diperlukan (senarai ringkas)
+- Tempoh proses dan siapa meluluskan
+- Perhatian penting (contoh: permohonan awal, kecemasan, cuti sakit)
+
+Keperluan reka bentuk:
+- Ikut Standard Grafik Sekolah (biru/putih/kelabu, aksen kuning)
+- Gaya ringkas, jelas, sesuai ditampal di bilik guru
+
+Output dalam format:
+Tajuk
+Step 1–Step 6 (setiap step maksimum 1 ayat)
+Kotak: Dokumen diperlukan
+Kotak: Perhatian
+```
+
+
+
+## 3️⃣ LATIHAN 3 — Skrip Video Pendek (60–90 saat) + Storyboard
+
+### 🎯 Hasil akhir
+
+Skrip + storyboard video: **“Tatacara Ibu Bapa Ambil Buku Laporan / Hari Bertemu Pelanggan”**
+
+### 📌 Kajian kes
+
+Sekolah mahu hasilkan video ringkas untuk WhatsApp/Telegram/FB sekolah.
+
+### Langkah demi langkah
+
+1. Tetapkan mesej utama (3 perkara penting sahaja)
+2. Jana skrip video 60–90 saat
+3. Jana storyboard 6 babak (scene)
+4. Jana “teks sari kata” (subtitle)
+5. Jana versi BM ringkas untuk voice-over
+
+### 💡 Prompt AI
+
+```
+Anda ialah guru yang mengurus komunikasi rasmi sekolah.
+
+Sediakan skrip video ringkas (60–90 saat) untuk ibu bapa bertajuk:
+“Panduan Hari Bertemu Pelanggan & Pengambilan Buku Laporan”
+
+Kandungan wajib:
+- Tarikh, masa, lokasi (guna placeholder: [tarikh], [masa], [lokasi])
+- 3 arahan penting (contoh: bawa kad pengenalan, ikut giliran, hadir tepat masa)
+- Nada sopan dan mesra
+
+Selain skrip, sediakan:
+1) Storyboard 6 scene (scene + visual cadangan)
+2) Teks sari kata penuh (subtitle) dalam Bahasa Melayu ringkas
+3) Versi voice-over yang lebih natural (ayat lebih pendek)
+
+Ikut Standard Grafik Sekolah untuk cadangan visual (ikon outline, warna tema).
+```
+
+
+
+## 4️⃣ LATIHAN 4 — Templat Slaid Standard (Penyeragaman Grafik) untuk Pentadbiran
+
+### 🎯 Hasil akhir
+
+“Template deck” 6 slaid yang boleh digunakan semula:
+
+* Tajuk
+* Agenda
+* Makluman
+* Data ringkas (jadual)
+* Tindakan/Deadline
+* Penutup
+
+### 📌 Kajian kes
+
+Sekolah mahu semua PK/Ketua Panitia guna format slaid yang sama untuk taklimat.
+
+### Langkah demi langkah
+
+1. Tetapkan peraturan reka bentuk (warna, fon, layout)
+2. Minta AI jana “Slide Style Guide”
+3. Minta AI bina 6 slaid template (dengan placeholder)
+4. Minta AI sediakan contoh isi untuk 1 taklimat pentadbiran
+5. Semak konsistensi dan kemas kini
+
+### 💡 Prompt AI
+
+```
+Anda ialah pereka bahan taklimat pentadbiran sekolah.
+
+Bina “Template Slaid Standard Pentadbiran Sekolah” yang mengandungi:
+1) Slide Style Guide (warna, fon, ikon, layout, saiz tajuk/isi)
+2) 6 slaid template berikut (dengan placeholder):
+   - Slaid Tajuk
+   - Slaid Agenda
+   - Slaid Makluman
+   - Slaid Data (jadual ringkas)
+   - Slaid Tindakan & Tarikh Akhir
+   - Slaid Penutup
+
+Keperluan:
+- Ikut Standard Grafik Sekolah (biru/putih/kelabu + aksen kuning)
+- Gaya profesional, kemas, konsisten
+- Output dalam format markdown slaid (## Slaid 1: ...)
+
+Akhir sekali, beri contoh isi untuk taklimat: “Pengurusan Peperiksaan Pertengahan Tahun”.
+```
+
+## 5️⃣ LATIHAN 5 — Kit Media Sosial Pentadbiran (3 Format Sekali Gus)
+
+### 🎯 Hasil akhir
+
+Satu set kandungan automatik:
+
+* 1 poster (teks)
+* 1 caption FB/Telegram
+* 1 mesej WhatsApp ringkas
+* 5 soalan FAQ + jawapan
+
+### 📌 Kajian kes
+
+Sekolah mahu makluman yang sama disampaikan konsisten di semua saluran.
+
+### Langkah demi langkah
+
+1. Sediakan maklumat asas (tajuk, tarikh, masa, tempat, sasaran, tindakan)
+2. Jana versi untuk 3 platform (poster + caption + WhatsApp)
+3. Jana FAQ (untuk elak soalan berulang)
+4. Semak nada (sopan, jelas, tidak “kasar”)
+5. Pastikan semua versi selaras (tiada percanggahan tarikh/masa)
+
+### 💡 Prompt AI
+
+```
+Anda ialah penyelaras komunikasi pentadbiran sekolah.
+
+Berdasarkan maklumat berikut:
+Tajuk: [tajuk]
+Tarikh: [tarikh]
+Masa: [masa]
+Tempat: [tempat]
+Sasaran: [sasaran]
+Tindakan perlu: [tindakan]
+
+Hasilkan “Kit Makluman Rasmi” yang mengandungi:
+1) Teks Poster (ringkas, formal)
+2) Caption Facebook/Telegram (lebih mesra tetapi sopan)
+3) Mesej WhatsApp (sangat ringkas, jelas)
+4) 5 soalan FAQ + jawapan (contoh: perlu hadir? pakaian? parkir? jika tidak hadir?)
+
+Keperluan:
+- Bahasa Melayu baku
+- Konsisten maklumat
+- Ikut Standard Grafik Sekolah untuk cadangan ikon dan susun atur poster
+```
+
 
 ## Pembuatan Poster & Infografik untuk Pentadbiran Sekolah (Hands-On)
 
