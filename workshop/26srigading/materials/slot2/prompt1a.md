@@ -384,7 +384,7 @@ Keperluan:
 
 
 ## 1️⃣6️⃣ TEMPLATE PROMPT — ANALISIS ISU & CADANGAN PENYELESAIAN
-
+```
 Anda ialah pentadbir sekolah.
 
 Sila sediakan analisis ringkas berdasarkan maklumat berikut:
