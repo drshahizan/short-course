@@ -622,6 +622,106 @@ Keperluan:
 - Sesuai untuk laporan dalaman
 ```
 
+
+## 2️⃣8️⃣ TEMPLATE PROMPT — UCAPAN HARI ANUGERAH & PENGIKTIRAFAN
+```
+Anda ialah seorang pentadbir sekolah yang berwibawa.
+
+Sila sediakan teks ucapan rasmi sempena Hari Anugerah & Pengiktirafan berdasarkan maklumat berikut:
+
+Nama majlis        : [Hari Anugerah Kecemerlangan / Hari Pengiktirafan]
+Tarikh             : [Tarikh]
+Tempat             : [Tempat]
+Penganjur          : [Pihak penganjur]
+Sasaran hadirin    : [Murid / Ibu bapa / Guru / Tetamu jemputan]
+Penyampai ucapan   : [Pengetua / Guru Besar / Wakil pentadbiran]
+Tempoh ucapan      : [5 / 10 minit]
+
+Isi utama yang perlu dimasukkan:
+- Ucapan alu-aluan dan penghargaan kepada hadirin
+- Tujuan majlis dan kepentingan pengiktirafan
+- Penghargaan kepada murid, guru dan ibu bapa
+- Galakan untuk terus berusaha dan meningkatkan kecemerlangan
+- Penutup yang berinspirasi dan beradab
+
+Tambahan (jika perlu):
+- Pantun pembuka atau penutup
+- Unsur motivasi dan nilai murni
+- Rujukan visi, misi atau aspirasi sekolah
+
+Keperluan:
+- Bahasa Melayu baku, formal dan beradab
+- Nada positif, menghargai dan membina
+- Struktur ucapan jelas (pembukaan – isi – penutup)
+- Sesuai untuk majlis rasmi pendidikan
+```
+
+
+## 2️⃣9️⃣ TEMPLATE PROMPT — UCAPAN MOTIVASI MURID (AKADEMIK / SAHSIAH)
+```
+Anda ialah seorang pentadbir sekolah yang prihatin dan berinspirasikan pendidikan holistik.
+
+Sila sediakan teks ucapan motivasi murid berdasarkan maklumat berikut:
+
+Jenis motivasi      : [Akademik / Sahsiah / Disiplin / Kepimpinan]
+Sasaran murid       : [Tahun / Tingkatan]
+Konteks ucapan      : [Perhimpunan / Program khas / Taklimat]
+Tempoh ucapan       : [3–5 minit]
+
+Fokus utama ucapan:
+
+* Kepentingan usaha, disiplin dan sikap positif
+* Contoh atau situasi dekat dengan kehidupan murid
+* Galakan untuk memperbaiki diri dan mencapai potensi
+* Penutup yang menyuntik semangat dan keyakinan
+
+Tambahan (jika perlu):
+
+* Petikan kata-kata hikmah
+* Unsur nilai murni dan sahsiah terpuji
+* Nada mesra tetapi berautoriti
+
+Keperluan:
+
+* Bahasa Melayu baku dan mudah difahami murid
+* Ayat ringkas, jelas dan berkesan
+* Nada membina, tidak menghukum
+* Sesuai untuk suasana pendidikan
+
+```
+
+
+## 3️⃣0️⃣ TEMPLATE PROMPT — UCAPAN RINGKAS VIDEO RAKAMAN (OPENING / CLOSING)
+
+```
+Anda ialah seorang pentadbir sekolah yang menyampaikan mesej melalui rakaman video rasmi.
+
+Sila sediakan teks ucapan ringkas untuk rakaman video berdasarkan maklumat berikut:
+
+Jenis rakaman       : [Opening / Closing]
+Tujuan video        : [Pengenalan program / Penutup / Ucapan ringkas]
+Nama program        : [Nama program]
+Sasaran penonton    : [Guru / Murid / Ibu bapa / Umum]
+Tempoh rakaman      : [30–60 saat]
+
+Isi utama:
+- Ucapan pembukaan / penutup yang ringkas dan jelas
+- Pengenalan atau rumusan program
+- Ucapan terima kasih atau harapan
+- Penutup yang kemas dan profesional
+
+Tambahan (jika perlu):
+- Nada mesra dan yakin
+- Ayat sesuai untuk dituturkan di hadapan kamera
+- Tidak terlalu panjang atau kompleks
+
+Keperluan:
+- Bahasa Melayu baku dan santai berprotokol
+- Ayat pendek dan mudah ditutur
+- Sesuai untuk rakaman video rasmi sekolah
+```
+
+
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
