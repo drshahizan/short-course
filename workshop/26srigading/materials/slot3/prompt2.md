@@ -18,11 +18,11 @@
 5. [Infografik Takwim & Garis Masa Aktiviti Sekolah](prompt2a.md#a5%EF%B8%8F%E2%83%A3-template-prompt--infografik-takwim--garis-masa-sekolah)
 
 ## B. Poster & Banner Pengumuman Rasmi
-B1. Poster / Banner Makluman Mesyuarat & Taklimat  
-B2. Poster / Banner Makluman Peperiksaan & Akademik  
-B3. Poster / Banner Makluman Ibu Bapa & Komuniti  
-B4. Poster / Banner Pengumuman Dalaman Staf  
-B5. Poster / Banner Peringatan & Notis Penting  
+1. [Poster / Banner Makluman Mesyuarat & Taklimat]()
+2. [Poster / Banner Makluman Peperiksaan & Akademik]()
+3. [Poster / Banner Makluman Ibu Bapa & Komuniti]()
+4. [Poster / Banner Pengumuman Dalaman Staf]()
+5. [Poster / Banner Peringatan & Notis Penting]()
 
 ## C. Poster & Banner Program Sekolah
 C1. Poster / Banner Program Akademik & PdP  
