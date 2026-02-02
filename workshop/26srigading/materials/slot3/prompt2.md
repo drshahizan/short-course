@@ -18,11 +18,11 @@
 5. [Infografik Takwim & Garis Masa Aktiviti Sekolah](prompt2a.md#a5%EF%B8%8F%E2%83%A3-template-prompt--infografik-takwim--garis-masa-sekolah)
 
 ## B. Poster & Banner Pengumuman Rasmi
-1. [Poster / Banner Makluman Mesyuarat & Taklimat]()
-2. [Poster / Banner Makluman Peperiksaan & Akademik]()
-3. [Poster / Banner Makluman Ibu Bapa & Komuniti]()
-4. [Poster / Banner Pengumuman Dalaman Staf]()
-5. [Poster / Banner Peringatan & Notis Penting]()
+1. [Poster / Banner Makluman Mesyuarat & Taklimat](prompt2b.md#b1%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-mesyuarat--taklimat)
+2. [Poster / Banner Makluman Peperiksaan & Akademik](prompt2b.md#b2%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-makluman-peperiksaan)
+3. [Poster / Banner Makluman Ibu Bapa & Komuniti](prompt2b.md#b3%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-makluman-ibu-bapa)
+4. [Poster / Banner Pengumuman Dalaman Staf](prompt2b.md#b4%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-pengumuman-dalaman-staf)
+5. [Poster / Banner Peringatan & Notis Penting](prompt2b.md#b5%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-peringatan--notis-penting)
 
 ## C. Poster & Banner Program Sekolah
 C1. Poster / Banner Program Akademik & PdP  
