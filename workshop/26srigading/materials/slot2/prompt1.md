@@ -42,7 +42,10 @@
 23. [Ringkasan Eksekutif (Executive Summary)](prompt1a.md#2%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-eksekutif-executive-summary)
 24. [Analisis Kepatuhan / Pemantauan](prompt1a.md#2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-template-prompt--analisis-kepatuhan--pemantauan)
  
-
+## E. Ucapan Rasmi & Penyampaian Pentadbiran
+25. [Ucapan rasmi pentadbir sekolah]()
+26. [Ucapan Tidak Rasmi / Santai Berprotokol]()
+27. [Ucapan Krisis / Penjelasan Isu Sensitif]()
 
 ### 🙌🏻 Connect with Me
 <p align="left">
