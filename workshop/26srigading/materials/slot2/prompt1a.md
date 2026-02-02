@@ -7,7 +7,7 @@
 
 # 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
 
- <img src="infotemplate.png" alt="Dr Shahizan AI"  height="500">
+ <img src="prompt%20info.png" alt="Dr Shahizan AI"  height="500">
 
 ## 🔖 Cara Guna oleh Pentadbir Sekolah
 
