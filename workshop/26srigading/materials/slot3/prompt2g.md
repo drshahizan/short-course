@@ -11,7 +11,6 @@
 
 ## G1️⃣ Template Prompt — Poster Motivasi Murid
 
-*(Sekolah Rendah / Menengah)*
 
 ```
 Anda ialah guru/pentadbir sekolah di Malaysia.
@@ -40,8 +39,6 @@ Reka bentuk:
 - Sesuai ditampal di kelas dan koridor
 ```
 
-
-
 ## G2️⃣ Template Prompt — Visual Nilai Murni & Adab di Sekolah
 
 ```
@@ -68,8 +65,6 @@ Reka bentuk:
 - Ikut Standard Grafik Sekolah Malaysia
 - Sesuai untuk paparan awam sekolah
 ```
-
-
 
 ## G3️⃣ Template Prompt — Poster Kesedaran
 
@@ -100,8 +95,6 @@ Reka bentuk:
 - Ikut Standard Grafik Sekolah Malaysia
 ```
 
-
-
 ## G4️⃣ Template Prompt — Bahan Visual Sambutan Hari Kebesaran & Perayaan
 
 ```
@@ -129,8 +122,6 @@ Reka bentuk:
 - Ikut Standard Grafik Sekolah Malaysia
 - Sesuai untuk paparan awam dan digital
 ```
-
-
 
 ## G5️⃣ Template Prompt — Poster Jati Diri Sekolah & Aspirasi Murid
 
