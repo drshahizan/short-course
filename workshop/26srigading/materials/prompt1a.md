@@ -165,6 +165,238 @@ Keperluan:
 - Aliran majlis tersusun dan jelas
 ```
 
+Baik puan. Di bawah saya **tambahkan set PROMPT TEMPLATE LANJUTAN** yang **sangat praktikal untuk kegunaan harian pentadbir sekolah**, meliputi urusan yang kerap berlaku tetapi sering memakan masa jika dibuat manual.
+
+Semua template:
+
+* ✅ **Bahasa Melayu baku & profesional**
+* ✅ **Ruang isi sendiri dalam `[ ]`**
+* ✅ **Terus boleh guna** (copy–paste)
+* ✅ Sesuai untuk **sekolah rendah & menengah**
+
+
+
+# 📘 TEMPLATE PROMPT AI (LANJUTAN)
+
+## Untuk Kegunaan Harian Pentadbir Sekolah
+
+
+
+## 6️⃣ TEMPLATE PROMPT — MAKLUMAN RASMI (WHATSAPP / TELEGRAM)
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila hasilkan satu makluman rasmi sekolah untuk dihantar melalui WhatsApp/Telegram
+berdasarkan maklumat berikut:
+
+Perkara            : [Perkara / tajuk ringkas]
+Sasaran penerima   : [Guru / Ibu bapa / Staf]
+Tarikh             : [Tarikh]
+Masa               : [Masa]
+Tempat             : [Tempat jika berkaitan]
+Tindakan diperlukan: [Apa yang perlu dibuat]
+Maklumat tambahan  : [Jika ada]
+
+Keperluan:
+- Bahasa Melayu baku tetapi ringkas
+- Ayat jelas dan tidak berlapik
+- Sesuai untuk mesej rasmi sekolah
+```
+
+
+
+## 7️⃣ TEMPLATE PROMPT — NOTA EDARAN / PEKELILING DALAMAN
+
+```
+Anda ialah pegawai pentadbiran sekolah.
+
+Sila sediakan satu nota edaran / pekeliling dalaman berdasarkan maklumat berikut:
+
+Tajuk pekeliling : [Tajuk]
+Tujuan           : [Tujuan edaran]
+Tarikh kuat kuasa: [Tarikh]
+Perkara utama    : [Isi penting]
+Pihak terlibat   : [Guru / Staf / Murid]
+Arahan           : [Arahan khusus]
+
+Keperluan:
+- Format rasmi pekeliling sekolah
+- Bahasa Melayu baku dan tegas tetapi sopan
+- Mudah difahami dan tidak panjang
+```
+
+
+
+## 8️⃣ TEMPLATE PROMPT — ATUR CARA MAJLIS / PROGRAM
+
+```
+Anda ialah penyelaras program sekolah.
+
+Sila sediakan atur cara majlis berdasarkan maklumat berikut:
+
+Nama program     : [Nama program]
+Tarikh           : [Tarikh]
+Masa             : [Masa mula – masa tamat]
+Tempat           : [Tempat]
+VIP / Tetamu     : [Jika ada]
+Pengisian utama  : [Ucapan / aktiviti / slot]
+
+Keperluan:
+- Susunan masa yang logik dan realistik
+- Format senarai masa dan aktiviti
+- Bahasa Melayu rasmi dan kemas
+```
+
+
+
+## 9️⃣ TEMPLATE PROMPT — SENARAI TUGAS & PEMBAHAGIAN AJK
+
+```
+Anda ialah setiausaha jawatankuasa program sekolah.
+
+Sila sediakan senarai tugas dan pembahagian jawatankuasa berdasarkan maklumat berikut:
+
+Nama program   : [Nama program]
+Tarikh         : [Tarikh]
+Jenis program  : [Akademik / Kokurikulum / Pentadbiran]
+Senarai jawatan:
+- Pengerusi
+- Timbalan
+- Setiausaha
+- Bendahari
+- AJK
+
+Keperluan:
+- Senaraikan tugas ringkas bagi setiap jawatan
+- Bahasa Melayu baku
+- Sesuai untuk edaran rasmi kepada guru
+```
+
+
+
+## 🔟 TEMPLATE PROMPT — RANCANGAN TINDAKAN / PELAN PENAMBAHBAIKAN
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila hasilkan satu pelan tindakan berdasarkan maklumat berikut:
+
+Isu / masalah       : [Isu dikenal pasti]
+Punca               : [Jika ada]
+Matlamat            : [Apa yang ingin dicapai]
+Tindakan dicadangkan: [Langkah penyelesaian]
+Tempoh pelaksanaan  : [Tempoh]
+Pegawai bertanggungjawab: [Nama / jawatan]
+
+Keperluan:
+- Susunan logik dan sistematik
+- Fokus kepada tindakan praktikal
+- Bahasa Melayu profesional
+```
+
+
+
+## 1️⃣1️⃣ TEMPLATE PROMPT — LAPORAN KEHADIRAN / STATISTIK RINGKAS
+
+```
+Anda ialah penyelaras pentadbiran sekolah.
+
+Sila sediakan laporan ringkas berdasarkan data berikut:
+
+Jenis laporan  : [Kehadiran guru / murid]
+Tempoh         : [Harian / Bulanan]
+Data ringkas   : [Peratus / bilangan]
+Isu dikenal pasti: [Jika ada]
+Cadangan       : [Jika perlu]
+
+Keperluan:
+- Bahasa Melayu rasmi
+- Ringkas dan berfokus
+- Sesuai untuk laporan dalaman
+```
+
+
+
+## 1️⃣2️⃣ TEMPLATE PROMPT — JAWAPAN RASMI KEPADA ADUAN / PERTANYAAN
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila sediakan jawapan rasmi terhadap aduan / pertanyaan berikut:
+
+Jenis aduan / pertanyaan : [Ringkasan]
+Pihak terlibat           : [Ibu bapa / Guru / Agensi]
+Isu utama                : [Isu]
+Tindakan sekolah         : [Tindakan diambil]
+Penutup                  : [Ucapan terima kasih / jaminan]
+
+Keperluan:
+- Nada profesional dan berhemah
+- Tidak menyalahkan mana-mana pihak
+- Bahasa Melayu baku dan sopan
+```
+
+
+
+## 1️⃣3️⃣ TEMPLATE PROMPT — RINGKASAN MESYUARAT (UNTUK EDARAN CEPAT)
+
+```
+Anda ialah setiausaha mesyuarat.
+
+Sila sediakan ringkasan mesyuarat (1 muka surat) berdasarkan perkara berikut:
+
+Nama mesyuarat : [Nama]
+Tarikh         : [Tarikh]
+Perkara utama  : [Isu dibincangkan]
+Keputusan      : [Keputusan penting]
+Tindakan susulan: [Ringkas]
+
+Keperluan:
+- Ringkas dan padat
+- Bahasa Melayu rasmi
+- Sesuai untuk edaran WhatsApp/Telegram guru
+```
+
+
+
+## 1️⃣4️⃣ TEMPLATE PROMPT — PENGUMUMAN RASMI LANTIKAN / PERTUKARAN TUGAS
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila hasilkan pengumuman rasmi sekolah bagi perkara berikut:
+
+Jenis pengumuman : [Pelantikan / Pertukaran tugas]
+Nama guru        : [Nama]
+Jawatan baharu   : [Jawatan]
+Tarikh kuat kuasa: [Tarikh]
+Ucapan penutup   : [Tahniah / penghargaan]
+
+Keperluan:
+- Nada formal dan positif
+- Bahasa Melayu baku
+- Sesuai untuk edaran dalaman sekolah
+```
+
+## 1️⃣5️⃣ TEMPLATE PROMPT — PERINGATAN RASMI (REMINDER)
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila hasilkan peringatan rasmi sekolah berkaitan perkara berikut:
+
+Perkara        : [Perkara]
+Tarikh akhir  : [Tarikh]
+Sasaran       : [Guru / Staf]
+Arahan        : [Apa yang perlu dibuat]
+
+Keperluan:
+- Ringkas tetapi tegas
+- Bahasa Melayu sopan
+- Sesuai untuk mesej rasmi sekolah
+```
+
 
 
 
