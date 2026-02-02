@@ -29,15 +29,15 @@
 
 ## D. Pelaporan & Analisis Ringkas
 15. [Laporan Kehadiran / Statistik Ringkas](prompt1a.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--laporan-kehadiran--statistik-ringkas)
-16. Analisis Isu & Cadangan Penyelesaian  
-17. Laporan Ringkas Status Tindakan  
-18. Analisis Data Ringkas (Tanpa Teknikal)  
-19. Ringkasan Prestasi Program / Aktiviti  
-20. Laporan Perbandingan Ringkas  
-21. Rumusan Maklum Balas / Soal Selidik  
-22. Laporan Risiko & Mitigasi Ringkas  
-23. Ringkasan Eksekutif (Executive Summary)  
-24. Analisis Kepatuhan / Pemantauan
+16. [Analisis Isu & Cadangan Penyelesaian](prompt1a.md#1%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-template-prompt--analisis-isu--cadangan-penyelesaian)
+17. [Laporan Ringkas Status Tindakan](prompt1a.md#1%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-template-prompt--laporan-ringkas-status-tindakan)
+18. [Analisis Data Ringkas (Tanpa Teknikal)](prompt1a.md#1%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-template-prompt--analisis-data-ringkas-tanpa-teknikal)
+19. [Ringkasan Prestasi Program / Aktiviti](prompt1a.md#1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-prestasi-program--aktiviti)
+20. [Laporan Perbandingan Ringkas](prompt1a.md#2%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-template-prompt--laporan-perbandingan-ringkas)
+21. [Rumusan Maklum Balas / Soal Selidik](prompt1a.md#2%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--rumusan-maklum-balas--soal-selidik)
+22. [Laporan Risiko & Mitigasi Ringkas](prompt1a.md#2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-template-prompt--laporan-risiko--mitigasi-ringkas)
+23. [Ringkasan Eksekutif (Executive Summary)](prompt1a.md#2%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-eksekutif-executive-summary)
+24. [Analisis Kepatuhan / Pemantauan](prompt1a.md#2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-template-prompt--analisis-kepatuhan--pemantauan)
  
 
 
