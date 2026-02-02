@@ -165,23 +165,6 @@ Keperluan:
 - Aliran majlis tersusun dan jelas
 ```
 
-Baik puan. Di bawah saya **tambahkan set PROMPT TEMPLATE LANJUTAN** yang **sangat praktikal untuk kegunaan harian pentadbir sekolah**, meliputi urusan yang kerap berlaku tetapi sering memakan masa jika dibuat manual.
-
-Semua template:
-
-* ✅ **Bahasa Melayu baku & profesional**
-* ✅ **Ruang isi sendiri dalam `[ ]`**
-* ✅ **Terus boleh guna** (copy–paste)
-* ✅ Sesuai untuk **sekolah rendah & menengah**
-
-
-
-# 📘 TEMPLATE PROMPT AI (LANJUTAN)
-
-## Untuk Kegunaan Harian Pentadbir Sekolah
-
-
-
 ## 6️⃣ TEMPLATE PROMPT — MAKLUMAN RASMI (WHATSAPP / TELEGRAM)
 
 ```
