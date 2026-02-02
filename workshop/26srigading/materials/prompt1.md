@@ -31,10 +31,6 @@
 15. [Laporan Kehadiran / Statistik Ringkas](prompt1a.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--laporan-kehadiran--statistik-ringkas)
 16. Rumusan Isu & Cadangan Tindakan  
 
-## E. Panduan Penggunaan
-17. Cara Menggunakan Prompt Template (Langkah Pantas)  
-18. Amalan Baik & Etika Penggunaan AI dalam Pentadbiran Sekolah  
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
