@@ -53,11 +53,11 @@
 5. [Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)](prompt2f.md)
 
 ## G. Visual Murid & Komuniti Sekolah
-1. [Poster Motivasi Murid (Rendah/ Menengah)](prompt2g.md)
-2. [Visual Nilai Murni & Adab di Sekolah](prompt2g.md)
-3. [Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)](prompt2g.md)
-4. [Bahan Visual Sambutan Hari Kebesaran & Perayaan](prompt2g.md)
-5. [Poster Jati Diri Sekolah & Aspirasi Murid](prompt2g.md)
+1. [Poster Motivasi Murid (Rendah/ Menengah)](prompt2g.md#g1%EF%B8%8F%E2%83%A3-template-prompt--poster-motivasi-murid)
+2. [Visual Nilai Murni & Adab di Sekolah](prompt2g.md#g2%EF%B8%8F⃣-template-prompt--visual-nilai-murni--adab-di-sekolah)
+3. [Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)](prompt2g.md#g3%EF%B8%8F⃣-template-prompt--poster-kesedaran)
+4. [Bahan Visual Sambutan Hari Kebesaran & Perayaan](prompt2g.md%EF%B8%8F⃣-template-prompt--bahan-visual-sambutan-hari-kebesaran--perayaan)
+5. [Poster Jati Diri Sekolah & Aspirasi Murid](prompt2g.md#g5%EF%B8%8F⃣-template-prompt--poster-jati-diri-sekolah--aspirasi-murid)
 
 
 ### 🙌🏻 Connect with Me
