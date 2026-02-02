@@ -23,12 +23,12 @@
 
 ## C. Pengurusan Program & Majlis Sekolah
 11. [Pengacara Majlis (MC) Sekolah](prompt1a.md#5%EF%B8%8F%E2%83%A3-template-prompt--pengacara-majlis-mc-sekolah)
-12. Atur Cara Majlis / Program  
-13. Senarai Tugas & Pembahagian Jawatankuasa  
-14. Rancangan Tindakan / Pelan Penambahbaikan
+12. [Atur Cara Majlis / Program](prompt1a.md#8%EF%B8%8F%E2%83%A3-template-prompt--atur-cara-majlis--program)
+13. [Senarai Tugas & Pembahagian Jawatankuasa](prompt1a.md#9%EF%B8%8F%E2%83%A3-template-prompt--senarai-tugas--pembahagian-ajk)
+14. [Rancangan Tindakan / Pelan Penambahbaikan](prompt1a.md#-template-prompt--rancangan-tindakan--pelan-penambahbaikan)
 
 ## D. Pelaporan & Analisis Ringkas
-15. Laporan Kehadiran / Statistik Ringkas  
+15. [Laporan Kehadiran / Statistik Ringkas](prompt1a.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--laporan-kehadiran--statistik-ringkas)
 16. Rumusan Isu & Cadangan Tindakan  
 
 ## E. Panduan Penggunaan
