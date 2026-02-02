@@ -29,7 +29,16 @@
 
 ## D. Pelaporan & Analisis Ringkas
 15. [Laporan Kehadiran / Statistik Ringkas](prompt1a.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--laporan-kehadiran--statistik-ringkas)
-16. Rumusan Isu & Cadangan Tindakan  
+16. Analisis Isu & Cadangan Penyelesaian  
+17. Laporan Ringkas Status Tindakan  
+18. Analisis Data Ringkas (Tanpa Teknikal)  
+19. Ringkasan Prestasi Program / Aktiviti  
+20. Laporan Perbandingan Ringkas  
+21. Rumusan Maklum Balas / Soal Selidik  
+22. Laporan Risiko & Mitigasi Ringkas  
+23. Ringkasan Eksekutif (Executive Summary)  
+24. Analisis Kepatuhan / Pemantauan
+ 
 
 
 ### 🙌🏻 Connect with Me
