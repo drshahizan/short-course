@@ -17,7 +17,7 @@
 | 9:15 pagi | [Pengenalan kepada Generative AI](./slot1/readme.md) | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
 | 10:00 pagi | Minum Pagi | — |
 | 10:30 pagi | [AI untuk Pentadbir Sekolah](./slot2/readme.md) | Penulisan [surat rasmi](./slot2/readme.md#1%EF%B8%8F%E2%83%A3-penulisan-surat-rasmi), [laporan](./slot2/readme.md#2%EF%B8%8F%E2%83%A3-penulisan-laporan), [kertas kerja](./slot2/readme.md#3%EF%B8%8F%E2%83%A3-penulisan-kertas-kerja), [minit mesyuarat](./slot2/readme.md#4%EF%B8%8F%E2%83%A3-penulisan-minit-mesyuarat) dan [pengacara majlis](./slot2/pengacara.md) menggunakan AI<br><br>📌 [Prompt Template AI](./slot2/prompt1.md)  |
-| 11:45 pagi | [AI untuk Penyediaan Slaid](./slot3/slaid.md) & [Bahan Multimedia](./slot3/multimedia.md) | AI slide generator, automasi kandungan dan penyeragaman grafik |
+| 11:45 pagi | [AI untuk Penyediaan Slaid](./slot3/slaid.md) & [Bahan Multimedia](./slot3/multimedia.md) | AI slide generator, automasi kandungan dan penyeragaman grafik <br><br>📌 [Prompt Template AI](./slot3/prompt2.md)  |
 | 1:00 petang | Makan Tengah Hari & Rehat | — |
 | 2:00 petang | AI untuk Pembangunan Video Pendidikan | AI video generator, voice-over automatik dan sari kata |
 | 3:15 petang | AI untuk Kandungan Digital & Media Sosial Pendidikan | Infografik, kapsyen pendidikan dan kandungan PdP digital |
