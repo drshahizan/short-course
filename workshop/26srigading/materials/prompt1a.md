@@ -7,41 +7,350 @@
 
 # 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
 
-## A. Dokumen Rasmi & Pentadbiran Teras
-1. Template Prompt — Surat Rasmi Sekolah  
-2. Template Prompt — Laporan Rasmi Sekolah  
-3. Template Prompt — Kertas Kerja Program Sekolah  
-4. Template Prompt — Minit Mesyuarat Sekolah  
-5. Template Prompt — Ringkasan Mesyuarat (Edaran Cepat)
+## 1️⃣ TEMPLATE PROMPT — SURAT RASMI SEKOLAH
+
+```
+Anda ialah seorang pentadbir sekolah yang berpengalaman.
+
+Sila hasilkan satu surat rasmi sekolah berdasarkan maklumat berikut:
+
+Jenis surat        : [Surat Makluman / Surat Permohonan / Surat Jemputan]
+Penerima           : [Ibu bapa / PPD / JPN / PIBG / Agensi Luar]
+Tujuan surat       : [Nyatakan tujuan surat dengan jelas]
+Nama program/urusan: [Nama program / urusan rasmi]
+Tarikh             : [Tarikh]
+Masa               : [Masa jika berkaitan]
+Tempat             : [Tempat jika berkaitan]
+Butiran tambahan   : [Maklumat penting lain]
+Penutup            : [Harapan / ucapan terima kasih / kerjasama]
+
+Keperluan:
+- Bahasa Melayu baku dan sopan
+- Format surat rasmi sekolah
+- Ayat jelas, ringkas dan profesional
+- Sesuai untuk kegunaan pentadbiran sekolah
+```
 
 
 
-## B. Komunikasi Rasmi & Makluman
-6. Template Prompt — Makluman Rasmi (WhatsApp / Telegram)  
-7. Template Prompt — Nota Edaran / Pekeliling Dalaman  
-8. Template Prompt — Peringatan Rasmi (Reminder)  
-9. Template Prompt — Jawapan Rasmi Aduan / Pertanyaan  
-10. Template Prompt — Pengumuman Rasmi (Pelantikan / Pertukaran Tugas)
+## 2️⃣ TEMPLATE PROMPT — LAPORAN RASMI SEKOLAH
+
+```
+Anda ialah seorang pegawai pentadbiran sekolah.
+
+Sila sediakan satu laporan rasmi berdasarkan maklumat berikut:
+
+Tajuk laporan       : [Tajuk laporan]
+Nama program        : [Nama program / aktiviti]
+Tarikh pelaksanaan  : [Tarikh]
+Tempat              : [Tempat]
+Sasaran peserta     : [Guru / Murid / Ibu bapa]
+Objektif program    : [Objektif utama]
+Ringkasan aktiviti  : [Ringkasan pelaksanaan]
+Impak / hasil       : [Kesan kepada sekolah / murid / guru]
+Kesimpulan          : [Rumusan keseluruhan]
+
+Keperluan:
+- Format laporan pentadbiran sekolah
+- Bahasa Melayu rasmi dan tersusun
+- Tidak terlalu panjang tetapi lengkap
+- Sesuai untuk simpanan rekod atau dihantar ke PPD/JPN
+```
 
 
 
-## C. Pengurusan Program & Majlis Sekolah
-11. Template Prompt — Pengacara Majlis (MC) Sekolah  
-12. Template Prompt — Atur Cara Majlis / Program  
-13. Template Prompt — Senarai Tugas & Pembahagian Jawatankuasa  
-14. Template Prompt — Rancangan Tindakan / Pelan Penambahbaikan
+## 3️⃣ TEMPLATE PROMPT — KERTAS KERJA PROGRAM SEKOLAH
+
+```
+Anda ialah penyelaras program sekolah.
+
+Sila hasilkan kertas kerja program sekolah berdasarkan maklumat berikut:
+
+Tajuk program        : [Nama program]
+Latar belakang       : [Isu / keperluan program]
+Objektif             : [Objektif utama dan sampingan]
+Sasaran peserta      : [Kumpulan sasaran]
+Tarikh pelaksanaan   : [Tarikh]
+Tempoh               : [Tempoh program]
+Tempat               : [Tempat]
+Pengisian program    : [Aktiviti utama]
+Anggaran kos         : [Jika berkaitan]
+Jangkaan hasil       : [Manfaat program]
+Penutup              : [Harapan dan justifikasi]
+
+Keperluan:
+- Bahasa Melayu baku dan profesional
+- Struktur kertas kerja sekolah yang standard
+- Sesuai untuk kelulusan pentadbiran/PIBG/PPD
+```
 
 
 
-## D. Pelaporan & Analisis Ringkas
-15. Template Prompt — Laporan Kehadiran / Statistik Ringkas  
-16. Template Prompt — Rumusan Isu & Cadangan Tindakan  
+## 4️⃣ TEMPLATE PROMPT — MINIT MESYUARAT SEKOLAH
+
+```
+Anda ialah setiausaha mesyuarat sekolah.
+
+Sila sediakan minit mesyuarat rasmi berdasarkan maklumat berikut:
+
+Nama mesyuarat     : [Nama mesyuarat]
+Bilangan mesyuarat : [Contoh: Kali Ke-1 / Bil. 2/2026]
+Tarikh             : [Tarikh]
+Masa               : [Masa]
+Tempat             : [Tempat]
+Pengerusi          : [Nama]
+Kehadiran          : [Senarai / Bilangan hadir]
+Tidak hadir        : [Jika ada]
+
+Agenda:
+1. [Agenda 1]
+2. [Agenda 2]
+3. [Agenda 3]
+
+Keputusan mesyuarat:
+- [Keputusan penting]
+- [Perkara dibincangkan]
+
+Tindakan susulan:
+- [Siapa + tindakan + tarikh]
+
+Penutup:
+- [Rumusan / masa tamat mesyuarat]
+
+Keperluan:
+- Format minit mesyuarat rasmi sekolah
+- Bahasa Melayu baku
+- Ayat jelas dan padat
+- Sesuai untuk rekod rasmi sekolah
+```
 
 
 
-## E. Panduan Penggunaan
-17. Cara Menggunakan Prompt Template (Langkah Pantas)  
-18. Amalan Baik & Etika Penggunaan AI dalam Pentadbiran Sekolah  
+## 5️⃣ TEMPLATE PROMPT — PENGACARA MAJLIS (MC) SEKOLAH
+
+```
+Anda ialah pengacara majlis rasmi sekolah.
+
+Sila hasilkan skrip pengacara majlis berdasarkan maklumat berikut:
+
+Nama majlis        : [Nama majlis]
+Tarikh             : [Tarikh]
+Masa               : [Masa]
+Tempat             : [Tempat]
+Penganjur          : [Pihak penganjur]
+Sasaran hadirin    : [Guru / Murid / Ibu bapa / Tetamu]
+Atur cara utama    :
+- [Ucapan alu-aluan]
+- [Ucapan perasmian / perasmian penutup]
+- [Pengisian program]
+- [Penutup majlis]
+
+Tambahan (jika perlu):
+- Pantun pembuka    : [Ya / Tidak]
+- Doa pembuka majlis: [Ya / Tidak]
+- Dua pengacara     : [Ya / Tidak]
+
+Keperluan:
+- Bahasa Melayu baku dan beradab
+- Sesuai untuk majlis rasmi pendidikan
+- Aliran majlis tersusun dan jelas
+```
+
+Baik puan. Di bawah ialah **PROMPT TEMPLATE STANDARD** yang **lengkap, kemas dan profesional**, direka khas untuk **kegunaan harian pentadbir sekolah**.
+
+Setiap template:
+
+* ✅ Menggunakan **Bahasa Melayu baku**
+* ✅ Ada **ruang boleh isi sendiri** dalam `[ ]`
+* ✅ Boleh terus salin & tampal ke **ChatGPT / Gemini / NotebookLM**
+* ✅ Sesuai untuk **sekolah rendah & menengah**
+
+
+
+# 📘 TEMPLATE PROMPT AI
+
+## Untuk Kegunaan Harian Pentadbir Sekolah
+
+
+
+## 1️⃣ TEMPLATE PROMPT — SURAT RASMI SEKOLAH
+
+```
+Anda ialah seorang pentadbir sekolah yang berpengalaman.
+
+Sila hasilkan satu surat rasmi sekolah berdasarkan maklumat berikut:
+
+Jenis surat        : [Surat Makluman / Surat Permohonan / Surat Jemputan]
+Penerima           : [Ibu bapa / PPD / JPN / PIBG / Agensi Luar]
+Tujuan surat       : [Nyatakan tujuan surat dengan jelas]
+Nama program/urusan: [Nama program / urusan rasmi]
+Tarikh             : [Tarikh]
+Masa               : [Masa jika berkaitan]
+Tempat             : [Tempat jika berkaitan]
+Butiran tambahan   : [Maklumat penting lain]
+Penutup            : [Harapan / ucapan terima kasih / kerjasama]
+
+Keperluan:
+- Bahasa Melayu baku dan sopan
+- Format surat rasmi sekolah
+- Ayat jelas, ringkas dan profesional
+- Sesuai untuk kegunaan pentadbiran sekolah
+```
+
+
+
+## 2️⃣ TEMPLATE PROMPT — LAPORAN RASMI SEKOLAH
+
+```
+Anda ialah seorang pegawai pentadbiran sekolah.
+
+Sila sediakan satu laporan rasmi berdasarkan maklumat berikut:
+
+Tajuk laporan       : [Tajuk laporan]
+Nama program        : [Nama program / aktiviti]
+Tarikh pelaksanaan  : [Tarikh]
+Tempat              : [Tempat]
+Sasaran peserta     : [Guru / Murid / Ibu bapa]
+Objektif program    : [Objektif utama]
+Ringkasan aktiviti  : [Ringkasan pelaksanaan]
+Impak / hasil       : [Kesan kepada sekolah / murid / guru]
+Kesimpulan          : [Rumusan keseluruhan]
+
+Keperluan:
+- Format laporan pentadbiran sekolah
+- Bahasa Melayu rasmi dan tersusun
+- Tidak terlalu panjang tetapi lengkap
+- Sesuai untuk simpanan rekod atau dihantar ke PPD/JPN
+```
+
+
+
+## 3️⃣ TEMPLATE PROMPT — KERTAS KERJA PROGRAM SEKOLAH
+
+```
+Anda ialah penyelaras program sekolah.
+
+Sila hasilkan kertas kerja program sekolah berdasarkan maklumat berikut:
+
+Tajuk program        : [Nama program]
+Latar belakang       : [Isu / keperluan program]
+Objektif             : [Objektif utama dan sampingan]
+Sasaran peserta      : [Kumpulan sasaran]
+Tarikh pelaksanaan   : [Tarikh]
+Tempoh               : [Tempoh program]
+Tempat               : [Tempat]
+Pengisian program    : [Aktiviti utama]
+Anggaran kos         : [Jika berkaitan]
+Jangkaan hasil       : [Manfaat program]
+Penutup              : [Harapan dan justifikasi]
+
+Keperluan:
+- Bahasa Melayu baku dan profesional
+- Struktur kertas kerja sekolah yang standard
+- Sesuai untuk kelulusan pentadbiran/PIBG/PPD
+```
+
+
+
+## 4️⃣ TEMPLATE PROMPT — MINIT MESYUARAT SEKOLAH
+
+```
+Anda ialah setiausaha mesyuarat sekolah.
+
+Sila sediakan minit mesyuarat rasmi berdasarkan maklumat berikut:
+
+Nama mesyuarat     : [Nama mesyuarat]
+Bilangan mesyuarat : [Contoh: Kali Ke-1 / Bil. 2/2026]
+Tarikh             : [Tarikh]
+Masa               : [Masa]
+Tempat             : [Tempat]
+Pengerusi          : [Nama]
+Kehadiran          : [Senarai / Bilangan hadir]
+Tidak hadir        : [Jika ada]
+
+Agenda:
+1. [Agenda 1]
+2. [Agenda 2]
+3. [Agenda 3]
+
+Keputusan mesyuarat:
+- [Keputusan penting]
+- [Perkara dibincangkan]
+
+Tindakan susulan:
+- [Siapa + tindakan + tarikh]
+
+Penutup:
+- [Rumusan / masa tamat mesyuarat]
+
+Keperluan:
+- Format minit mesyuarat rasmi sekolah
+- Bahasa Melayu baku
+- Ayat jelas dan padat
+- Sesuai untuk rekod rasmi sekolah
+```
+
+
+
+## 5️⃣ TEMPLATE PROMPT — PENGACARA MAJLIS (MC) SEKOLAH
+
+```
+Anda ialah pengacara majlis rasmi sekolah.
+
+Sila hasilkan skrip pengacara majlis berdasarkan maklumat berikut:
+
+Nama majlis        : [Nama majlis]
+Tarikh             : [Tarikh]
+Masa               : [Masa]
+Tempat             : [Tempat]
+Penganjur          : [Pihak penganjur]
+Sasaran hadirin    : [Guru / Murid / Ibu bapa / Tetamu]
+Atur cara utama    :
+- [Ucapan alu-aluan]
+- [Ucapan perasmian / perasmian penutup]
+- [Pengisian program]
+- [Penutup majlis]
+
+Tambahan (jika perlu):
+- Pantun pembuka    : [Ya / Tidak]
+- Doa pembuka majlis: [Ya / Tidak]
+- Dua pengacara     : [Ya / Tidak]
+
+Keperluan:
+- Bahasa Melayu baku dan beradab
+- Sesuai untuk majlis rasmi pendidikan
+- Aliran majlis tersusun dan jelas
+```
+
+
+
+## 🔖 Cara Guna oleh Pentadbir Sekolah
+
+1️⃣ Salin template yang berkaitan
+2️⃣ Isi maklumat dalam `[ ]`
+3️⃣ Tampal ke ChatGPT / Gemini / NotebookLM
+4️⃣ Semak dan sesuaikan sebelum digunakan
+
+
+
+Jika puan mahu, saya boleh:
+
+* ✔️ Gabungkan semua template ini dalam **1 muka surat “Kad Prompt Pentadbir Sekolah”**
+* ✔️ Sediakan **versi dwibahasa (BM–English)**
+* ✔️ Sediakan **versi ringkas untuk WhatsApp**
+* ✔️ Susun sebagai **lampiran rasmi modul kursus**
+
+Beritahu sahaja format akhir yang puan perlukan.
+
+
+## 🔖 Cara Guna oleh Pentadbir Sekolah
+
+1️⃣ Salin template yang berkaitan
+2️⃣ Isi maklumat dalam `[ ]`
+3️⃣ Tampal ke ChatGPT / Gemini / NotebookLM
+4️⃣ Semak dan sesuaikan sebelum digunakan
+
+
 
 
 
