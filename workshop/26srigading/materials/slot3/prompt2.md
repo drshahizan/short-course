@@ -11,60 +11,54 @@
 
 
 ## A. Infografik Pentadbiran Sekolah
-A1. [Infografik SOP & Prosedur Pentadbiran]()
-A2. [Infografik Aliran Proses & Tatacara Sekolah]()
-A3. [Infografik Data & Statistik Ringkas Sekolah]()
-A4. [Infografik Peranan, Jawatankuasa & Tanggungjawab]()
-A5. [Infografik Takwim & Garis Masa Aktiviti Sekolah]()
+1. [Infografik SOP & Prosedur Pentadbiran](prompt2a.md#a1%EF%B8%8F%E2%83%A3-template-prompt--infografik-sop--prosedur-pentadbiran)
+2. [Infografik Aliran Proses & Tatacara Sekolah](prompt2a.md#a2%EF%B8%8F%E2%83%A3-template-prompt--infografik-aliran-proses--tatacara-sekolah)
+3. [Infografik Data & Statistik Ringkas Sekolah](prompt2a.md#a3%EF%B8%8F%E2%83%A3-template-prompt--infografik-data--statistik-ringkas-sekolah)
+4. [Infografik Peranan, Jawatankuasa & Tanggungjawab](prompt2a.md#a4%EF%B8%8F%E2%83%A3-template-prompt--infografik-peranan--jawatankuasa-sekolah)
+5. [Infografik Takwim & Garis Masa Aktiviti Sekolah](prompt2a.md#a5%EF%B8%8F%E2%83%A3-template-prompt--infografik-takwim--garis-masa-sekolah)
 
 ## B. Poster & Banner Pengumuman Rasmi
-B1. Poster / Banner Makluman Mesyuarat & Taklimat  
-B2. Poster / Banner Makluman Peperiksaan & Akademik  
-B3. Poster / Banner Makluman Ibu Bapa & Komuniti  
-B4. Poster / Banner Pengumuman Dalaman Staf  
-B5. Poster / Banner Peringatan & Notis Penting  
+1. [Poster/ Banner Makluman Mesyuarat & Taklimat](prompt2b.md#b1%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-mesyuarat--taklimat)
+2. [Poster/ Banner Makluman Peperiksaan & Akademik](prompt2b.md#b2%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-makluman-peperiksaan)
+3. [Poster/ Banner Makluman Ibu Bapa & Komuniti](prompt2b.md#b3%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-makluman-ibu-bapa)
+4. [Poster/ Banner Pengumuman Dalaman Staf](prompt2b.md#b4%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-pengumuman-dalaman-staf)
+5. [Poster/ Banner Peringatan & Notis Penting](prompt2b.md#b5%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-peringatan--notis-penting)
 
 ## C. Poster & Banner Program Sekolah
-C1. Poster / Banner Program Akademik & PdP  
-C2. Poster / Banner Kursus & Latihan Guru  
-C3. Poster / Banner Hari Anugerah & Pengiktirafan  
-C4. Poster / Banner Program Kokurikulum & Sahsiah  
-C5. Poster / Banner Program Libat Urus Ibu Bapa  
+1. [Poster/ Banner Program Akademik & PdP](prompt2c.md)  
+2. [Poster/ Banner Kursus & Latihan Guru](prompt2c.md)
+3. [Poster/ Banner Hari Anugerah & Pengiktirafan](prompt2c.md)
+4. [Poster/ Banner Program Kokurikulum & Sahsiah](prompt2c.md)
+5. [Poster/ Banner Program Libat Urus Ibu Bapa](prompt2c.md)
 
 ## D. Bahan Visual Panduan & Makluman
-D1. Infografik Panduan Ibu Bapa & Murid  
-D2. Infografik Tatacara Kehadiran & Disiplin  
-D3. Infografik Keselamatan, Kebajikan & Kecemasan  
-D4. Poster / Banner Panduan Penggunaan Sistem Sekolah  
-D5. Infografik Soalan Lazim (FAQ) Sekolah  
+1. [Infografik Panduan Ibu Bapa & Murid](prompt2d.md)
+2. [Infografik Tatacara Kehadiran & Disiplin](prompt2d.md)
+3. [Infografik Keselamatan, Kebajikan & Kecemasan](prompt2d.md)
+4. [Poster/ Banner Panduan Penggunaan Sistem Sekolah](prompt2d.md)
+5. [Infografik Soalan Lazim (FAQ) Sekolah](prompt2d.md)
 
 ## E. Cover Buku, Laporan & Dokumen Rasmi
-E1. Cover Buku Program / Modul Sekolah  
-E2. Cover Laporan Tahunan / Laporan Program  
-E3. Cover Kertas Kerja & Fail Pentadbiran  
-E4. Rekaan Muka Hadapan Buku Teks Tambahan / Modul PdP  
-E5. Penyeragaman Identiti Visual Dokumen Rasmi Sekolah  
+1. [Cover Buku Program/ Modul Sekolah](prompt2e.md)
+2. [Cover Laporan Tahunan/ Laporan Program](prompt2e.md)
+3. [Cover Kertas Kerja & Fail Pentadbiran](prompt2e.md)
+4. [Rekaan Muka Hadapan Buku Teks Tambahan/ Modul PdP](prompt2e.md)
+5. [Penyeragaman Identiti Visual Dokumen Rasmi Sekolah](prompt2e.md)
 
 ## F. Mencantikkan Kelas & Persekitaran Sekolah
-F1. Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)  
-F2. Poster Peraturan Kelas & Budaya Positif  
-F3. Infografik Sudut Ilmu / Sudut Bacaan  
-F4. Rekaan Visual Papan Kenyataan Kelas & Koridor  
-F5. Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)  
+1. [Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)](prompt2f.md)
+2. [Poster Peraturan Kelas & Budaya Positif](prompt2f.md)
+3. [Infografik Sudut Ilmu/ Sudut Bacaan](prompt2f.md)
+4. [Rekaan Visual Papan Kenyataan Kelas & Koridor](prompt2f.md)
+5. [Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)](prompt2f.md)
 
 ## G. Visual Murid & Komuniti Sekolah
-G1. Poster Motivasi Murid (Rendah / Menengah)  
-G2. Visual Nilai Murni & Adab di Sekolah  
-G3. Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)  
-G4. Bahan Visual Sambutan Hari Kebesaran & Perayaan  
-G5. Poster Jati Diri Sekolah & Aspirasi Murid  
+1. [Poster Motivasi Murid (Rendah/ Menengah)](prompt2g.md)
+2. [Visual Nilai Murni & Adab di Sekolah](prompt2g.md)
+3. [Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)](prompt2g.md)
+4. [Bahan Visual Sambutan Hari Kebesaran & Perayaan](prompt2g.md)
+5. [Poster Jati Diri Sekolah & Aspirasi Murid](prompt2g.md)
 
-## H. Penyeragaman Grafik & Automasi Kandungan
-H1. Templat Grafik Standard Sekolah (Warna, Fon, Layout)  
-H2. Automasi Kandungan Visual daripada Teks Pentadbiran  
-H3. Penyesuaian Saiz & Format (Poster, Banner, Digital)  
-H4. Konsistensi Visual Merentas Platform  
-H5. Semakan Akhir & Kelulusan Bahan Visual  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
