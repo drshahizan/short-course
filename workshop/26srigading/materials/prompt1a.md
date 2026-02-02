@@ -380,20 +380,6 @@ Keperluan:
 - Sesuai untuk mesej rasmi sekolah
 ```
 
-Baik puan. Berikut ialah **TEMPLATE PROMPT LANJUTAN** untuk **Pelaporan & Analisis Ringkas**, **bermula dari nombor 16**, disusun **konsisten dengan format sebelumnya**, dan sesuai untuk **kegunaan harian pentadbir sekolah**.
-
-Semua template:
-
-* ✔️ Bahasa Melayu baku & profesional
-* ✔️ Ruang boleh isi dalam `[ ]`
-* ✔️ Terus boleh guna (ChatGPT / Gemini / NotebookLM)
-
-
-
-```markdown
-## D. Pelaporan & Analisis Ringkas
-
-
 
 ## 1️⃣6️⃣ TEMPLATE PROMPT — ANALISIS ISU & CADANGAN PENYELESAIAN
 
