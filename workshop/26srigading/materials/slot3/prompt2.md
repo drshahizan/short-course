@@ -5,50 +5,66 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
+# 🎨 Prompt Template AI: Infografik, Banner & Bahan Visual untuk Pentadbiran & Persekitaran Sekolah
 
  <img src="infotemplate.png" alt="Dr Shahizan AI"  height="500">
 
 
-## A. Dokumen Rasmi & Pentadbiran Teras
-1. [Surat Rasmi Sekolah](prompt1a.md#1%EF%B8%8F%E2%83%A3-template-prompt--surat-rasmi-sekolah)
-2. [Laporan Rasmi Sekolah](prompt1a.md#2%EF%B8%8F%E2%83%A3-template-prompt--laporan-rasmi-sekolah)
-3. [Kertas Kerja Program Sekolah](prompt1a.md#3%EF%B8%8F%E2%83%A3-template-prompt--kertas-kerja-program-sekolah)
-4. [Minit Mesyuarat Sekolah](prompt1a.md#4%EF%B8%8F%E2%83%A3-template-prompt--minit-mesyuarat-sekolah)
-5. [Ringkasan Mesyuarat (Edaran Cepat)](prompt1a.md#1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-mesyuarat-untuk-edaran-cepat)
+## A. Infografik Pentadbiran Sekolah
+A1. Infografik SOP & Prosedur Pentadbiran  
+A2. Infografik Aliran Proses & Tatacara Sekolah  
+A3. Infografik Data & Statistik Ringkas Sekolah  
+A4. Infografik Peranan, Jawatankuasa & Tanggungjawab  
+A5. Infografik Takwim & Garis Masa Aktiviti Sekolah  
 
-## B. Komunikasi Rasmi & Makluman
-6. [Makluman Rasmi (WhatsApp / Telegram)](prompt1a.md#6%EF%B8%8F%E2%83%A3-template-prompt--makluman-rasmi-whatsapp--telegram)
-7. [Nota Edaran / Pekeliling Dalaman](prompt1a.md#7%EF%B8%8F%E2%83%A3-template-prompt--nota-edaran--pekeliling-dalaman)
-8. [Peringatan Rasmi (Reminder)](prompt1a.md#1%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-template-prompt--peringatan-rasmi-reminder)
-9. [Jawapan Rasmi Aduan / Pertanyaan](prompt1a.md#1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-template-prompt--jawapan-rasmi-kepada-aduan--pertanyaan)
-10. [Pengumuman Rasmi (Pelantikan / Pertukaran Tugas)](prompt1a.md#1%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-template-prompt--pengumuman-rasmi-lantikan--pertukaran-tugas)
+## B. Poster & Banner Pengumuman Rasmi
+B1. Poster / Banner Makluman Mesyuarat & Taklimat  
+B2. Poster / Banner Makluman Peperiksaan & Akademik  
+B3. Poster / Banner Makluman Ibu Bapa & Komuniti  
+B4. Poster / Banner Pengumuman Dalaman Staf  
+B5. Poster / Banner Peringatan & Notis Penting  
 
-## C. Pengurusan Program & Majlis Sekolah
-11. [Pengacara Majlis (MC) Sekolah](prompt1a.md#5%EF%B8%8F%E2%83%A3-template-prompt--pengacara-majlis-mc-sekolah)
-12. [Atur Cara Majlis / Program](prompt1a.md#8%EF%B8%8F%E2%83%A3-template-prompt--atur-cara-majlis--program)
-13. [Senarai Tugas & Pembahagian Jawatankuasa](prompt1a.md#9%EF%B8%8F%E2%83%A3-template-prompt--senarai-tugas--pembahagian-ajk)
-14. [Rancangan Tindakan / Pelan Penambahbaikan](prompt1a.md#-template-prompt--rancangan-tindakan--pelan-penambahbaikan)
+## C. Poster & Banner Program Sekolah
+C1. Poster / Banner Program Akademik & PdP  
+C2. Poster / Banner Kursus & Latihan Guru  
+C3. Poster / Banner Hari Anugerah & Pengiktirafan  
+C4. Poster / Banner Program Kokurikulum & Sahsiah  
+C5. Poster / Banner Program Libat Urus Ibu Bapa  
 
-## D. Pelaporan & Analisis Ringkas
-15. [Laporan Kehadiran / Statistik Ringkas](prompt1a.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--laporan-kehadiran--statistik-ringkas)
-16. [Analisis Isu & Cadangan Penyelesaian](prompt1a.md#1%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-template-prompt--analisis-isu--cadangan-penyelesaian)
-17. [Laporan Ringkas Status Tindakan](prompt1a.md#1%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-template-prompt--laporan-ringkas-status-tindakan)
-18. [Analisis Data Ringkas (Tanpa Teknikal)](prompt1a.md#1%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-template-prompt--analisis-data-ringkas-tanpa-teknikal)
-19. [Ringkasan Prestasi Program / Aktiviti](prompt1a.md#1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-prestasi-program--aktiviti)
-20. [Laporan Perbandingan Ringkas](prompt1a.md#2%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-template-prompt--laporan-perbandingan-ringkas)
-21. [Rumusan Maklum Balas / Soal Selidik](prompt1a.md#2%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-template-prompt--rumusan-maklum-balas--soal-selidik)
-22. [Laporan Risiko & Mitigasi Ringkas](prompt1a.md#2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-template-prompt--laporan-risiko--mitigasi-ringkas)
-23. [Ringkasan Eksekutif (Executive Summary)](prompt1a.md#2%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-eksekutif-executive-summary)
-24. [Analisis Kepatuhan / Pemantauan](prompt1a.md#2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-template-prompt--analisis-kepatuhan--pemantauan)
- 
-## E. Ucapan Rasmi & Penyampaian Pentadbiran
-25. [Ucapan rasmi pentadbir sekolah](prompt1a.md#2%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-template-prompt--ucapan-rasmi-pentadbir-sekolah)
-26. [Ucapan Tidak Rasmi / Santai Berprotokol](prompt1a.md#2%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-template-prompt--ucapan-tidak-rasmi-santai-berprotokol)
-27. [Ucapan Krisis / Penjelasan Isu Sensitif](prompt1a.md#2%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-template-prompt--ucapan-penjelasan--krisis--isu-sensitif)
-28. [Ucapan Hari Anugerah & Pengiktirafan](prompt1a.md#2%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-template-prompt--ucapan-hari-anugerah--pengiktirafan)
-29. [Ucapan Motivasi Murid (Akademik / Sahsiah)](prompt1a.md#2%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-template-prompt--ucapan-motivasi-murid-akademik--sahsiah)
-30. [Ucapan Ringkas Video Rakaman (Opening / Closing)](prompt1a.md#3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-template-prompt--ucapan-ringkas-video-rakaman-opening--closing)
+## D. Bahan Visual Panduan & Makluman
+D1. Infografik Panduan Ibu Bapa & Murid  
+D2. Infografik Tatacara Kehadiran & Disiplin  
+D3. Infografik Keselamatan, Kebajikan & Kecemasan  
+D4. Poster / Banner Panduan Penggunaan Sistem Sekolah  
+D5. Infografik Soalan Lazim (FAQ) Sekolah  
+
+## E. Cover Buku, Laporan & Dokumen Rasmi
+E1. Cover Buku Program / Modul Sekolah  
+E2. Cover Laporan Tahunan / Laporan Program  
+E3. Cover Kertas Kerja & Fail Pentadbiran  
+E4. Rekaan Muka Hadapan Buku Teks Tambahan / Modul PdP  
+E5. Penyeragaman Identiti Visual Dokumen Rasmi Sekolah  
+
+## F. Mencantikkan Kelas & Persekitaran Sekolah
+F1. Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)  
+F2. Poster Peraturan Kelas & Budaya Positif  
+F3. Infografik Sudut Ilmu / Sudut Bacaan  
+F4. Rekaan Visual Papan Kenyataan Kelas & Koridor  
+F5. Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)  
+
+## G. Visual Murid & Komuniti Sekolah
+G1. Poster Motivasi Murid (Rendah / Menengah)  
+G2. Visual Nilai Murni & Adab di Sekolah  
+G3. Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)  
+G4. Bahan Visual Sambutan Hari Kebesaran & Perayaan  
+G5. Poster Jati Diri Sekolah & Aspirasi Murid  
+
+## H. Penyeragaman Grafik & Automasi Kandungan
+H1. Templat Grafik Standard Sekolah (Warna, Fon, Layout)  
+H2. Automasi Kandungan Visual daripada Teks Pentadbiran  
+H3. Penyesuaian Saiz & Format (Poster, Banner, Digital)  
+H4. Konsistensi Visual Merentas Platform  
+H5. Semakan Akhir & Kelulusan Bahan Visual  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
