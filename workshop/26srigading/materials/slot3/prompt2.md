@@ -32,11 +32,11 @@
 5. [Poster/ Banner Program Libat Urus Ibu Bapa](prompt2c.md)
 
 ## D. Bahan Visual Panduan & Makluman
-1. [Infografik Panduan Ibu Bapa & Murid](prompt2d.md)
-2. [Infografik Tatacara Kehadiran & Disiplin](prompt2d.md)
-3. [Infografik Keselamatan, Kebajikan & Kecemasan](prompt2d.md)
-4. [Poster/ Banner Panduan Penggunaan Sistem Sekolah](prompt2d.md)
-5. [Infografik Soalan Lazim (FAQ) Sekolah](prompt2d.md)
+1. [Infografik Panduan Ibu Bapa & Murid](prompt2d.md#d1%EF%B8%8F⃣-template-prompt--infografik-panduan-ibu-bapa--murid)
+2. [Infografik Tatacara Kehadiran & Disiplin](prompt2d.md#d2%EF%B8%8F⃣-template-prompt--infografik-tatacara-kehadiran--disiplin)
+3. [Infografik Keselamatan, Kebajikan & Kecemasan](prompt2d.md#d3%EF%B8%8F⃣-template-prompt--infografik-keselamatan-kebajikan--kecemasan)
+4. [Poster/ Banner Panduan Penggunaan Sistem Sekolah](prompt2d.md#d4%EF%B8%8F⃣-template-prompt--poster--banner-panduan-penggunaan-sistem-sekolah)
+5. [Infografik Soalan Lazim (FAQ) Sekolah](prompt2d.md#d5%EF%B8%8F⃣-template-prompt--infografik-soalan-lazim-faq-sekolah)
 
 ## E. Cover Buku, Laporan & Dokumen Rasmi
 1. [Cover Buku Program/ Modul Sekolah](prompt2e.md)
