@@ -43,12 +43,12 @@
 24. [Analisis Kepatuhan / Pemantauan](prompt1a.md#2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-template-prompt--analisis-kepatuhan--pemantauan)
  
 ## E. Ucapan Rasmi & Penyampaian Pentadbiran
-25. [Ucapan rasmi pentadbir sekolah]()
-26. [Ucapan Tidak Rasmi / Santai Berprotokol]()
-27. [Ucapan Krisis / Penjelasan Isu Sensitif]()
-28. [Ucapan Hari Anugerah & Pengiktirafan]()
-29. [Ucapan Motivasi Murid (Akademik / Sahsiah)]()
-30. [Ucapan Ringkas Video Rakaman (Opening / Closing)]()
+25. [Ucapan rasmi pentadbir sekolah](prompt1a.md#2%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-template-prompt--ucapan-rasmi-pentadbir-sekolah)
+26. [Ucapan Tidak Rasmi / Santai Berprotokol](prompt1a.md#2%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-template-prompt--ucapan-tidak-rasmi-santai-berprotokol)
+27. [Ucapan Krisis / Penjelasan Isu Sensitif](prompt1a.md#2%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-template-prompt--ucapan-penjelasan--krisis--isu-sensitif)
+28. [Ucapan Hari Anugerah & Pengiktirafan](prompt1a.md#2%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-template-prompt--ucapan-hari-anugerah--pengiktirafan)
+29. [Ucapan Motivasi Murid (Akademik / Sahsiah)](prompt1a.md#2%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-template-prompt--ucapan-motivasi-murid-akademik--sahsiah)
+30. [Ucapan Ringkas Video Rakaman (Opening / Closing)](prompt1a.md#3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-template-prompt--ucapan-ringkas-video-rakaman-opening--closing)
 
 ### 🙌🏻 Connect with Me
 <p align="left">
