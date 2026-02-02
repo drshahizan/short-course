@@ -189,8 +189,6 @@ Keperluan:
 - Sesuai untuk mesej rasmi sekolah
 ```
 
-
-
 ## 7️⃣ TEMPLATE PROMPT — NOTA EDARAN / PEKELILING DALAMAN
 
 ```
@@ -410,8 +408,6 @@ Keperluan:
 - Sesuai untuk laporan dalaman atau perbincangan pentadbiran
 ```
 
-
-
 ## 1️⃣7️⃣ TEMPLATE PROMPT — LAPORAN RINGKAS STATUS TINDAKAN
 
 ```
@@ -517,8 +513,6 @@ Keperluan:
 - Sesuai untuk mesyuarat pengurusan
 ```
 
-
-
 ## 2️⃣1️⃣ TEMPLATE PROMPT — RUMUSAN MAKLUM BALAS / SOAL SELIDIK
 
 ```
@@ -541,8 +535,6 @@ Keperluan rumusan:
 
 Bahasa Melayu baku dan sesuai untuk laporan ringkas pentadbiran.
 ```
-
-
 
 ## 2️⃣2️⃣ TEMPLATE PROMPT — LAPORAN RISIKO & MITIGASI RINGKAS
 
@@ -569,8 +561,6 @@ Keperluan:
 - Sesuai untuk perancangan awal atau mesyuarat
 ```
 
-
-
 ## 2️⃣3️⃣ TEMPLATE PROMPT — RINGKASAN EKSEKUTIF (EXECUTIVE SUMMARY)
 
 ```
@@ -594,8 +584,6 @@ Keperluan:
 - Bahasa Melayu baku
 - Sesuai untuk pihak pengurusan atasan
 ```
-
-
 
 ## 2️⃣4️⃣ TEMPLATE PROMPT — ANALISIS KEPATUHAN / PEMANTAUAN
 
@@ -622,6 +610,89 @@ Keperluan:
 - Sesuai untuk laporan dalaman
 ```
 
+## 2️⃣5️⃣ TEMPLATE PROMPT — UCAPAN RASMI PENTADBIR SEKOLAH
+```
+Anda ialah seorang pentadbir sekolah yang berpengalaman dan berwibawa.
+
+Sila sediakan teks ucapan rasmi berdasarkan maklumat berikut:
+
+Jenis ucapan        : [Ucapan alu-aluan / Perasmian / Penutup / Penghargaan]
+Nama majlis         : [Nama majlis / program]
+Tarikh              : [Tarikh]
+Tempat              : [Tempat]
+Penganjur           : [Penganjur]
+Sasaran hadirin     : [Guru / Murid / Ibu bapa / Tetamu]
+Penyampai ucapan    : [Pengetua / Guru Besar / Wakil pentadbiran]
+Tempoh ucapan       : [5 / 10 minit]
+
+Isi utama:
+- Tujuan majlis
+- Mesej utama / tema
+- Harapan pentadbiran
+- Penutup (terima kasih / doa / penghargaan)
+
+Tambahan (jika perlu):
+- Pantun pembuka / penutup
+- Unsur motivasi
+- Rujukan visi / dasar
+
+Keperluan:
+- Bahasa Melayu baku, formal dan beradab
+- Struktur jelas: pembukaan – isi – penutup
+```
+
+
+## 2️⃣6️⃣ TEMPLATE PROMPT — UCAPAN TIDAK RASMI (SANTAI BERPROTOKOL)
+```
+Anda ialah pentadbir sekolah.
+
+Sila sediakan teks ucapan tidak rasmi tetapi beradab berdasarkan maklumat berikut:
+
+Konteks ucapan     : [Taklimat ringkas / Perjumpaan guru / Majlis dalaman]
+Nama program       : [Nama program]
+Sasaran hadirin    : [Guru / Murid / Staf]
+Tempoh ucapan      : [3–5 minit]
+Nada ucapan        : [Santai, mesra, profesional]
+
+Isi utama:
+
+* Tujuan perjumpaan
+* Perkara penting ingin disampaikan
+* Galakan / motivasi ringkas
+* Penutup santai dan positif
+
+Keperluan:
+
+* Bahasa Melayu baku tetapi ringan
+* Tidak terlalu formal
+* Sesuai untuk komunikasi dalaman sekolah
+
+```
+
+
+## 2️⃣7️⃣ TEMPLATE PROMPT — UCAPAN PENJELASAN / KRISIS / ISU SENSITIF
+```
+Anda ialah pentadbir sekolah yang perlu menyampaikan penjelasan rasmi.
+
+Sila sediakan teks ucapan penjelasan berdasarkan maklumat berikut:
+
+Isu / perkara       : [Ringkasan isu]
+Sasaran pendengar   : [Guru / Ibu bapa / Murid]
+Tujuan ucapan       : [Memberi penjelasan / menenangkan keadaan]
+Pendekatan          : [Berhemah, telus, profesional]
+
+Isi utama:
+- Pengenalan isu secara umum
+- Fakta yang boleh dikongsi
+- Tindakan pihak sekolah
+- Jaminan / langkah susulan
+- Penutup yang menenangkan
+
+Keperluan:
+- Bahasa Melayu baku dan berhemah
+- Tidak menyalahkan mana-mana pihak
+- Fokus kepada penyelesaian dan kepercayaan
+```
 
 ## 2️⃣8️⃣ TEMPLATE PROMPT — UCAPAN HARI ANUGERAH & PENGIKTIRAFAN
 ```
