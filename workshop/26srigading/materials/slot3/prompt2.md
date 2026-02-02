@@ -46,11 +46,11 @@
 5. [Penyeragaman Identiti Visual Dokumen Rasmi Sekolah](prompt2e.md)
 
 ## F. Mencantikkan Kelas & Persekitaran Sekolah
-1. [Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)](prompt2f.md)
-2. [Poster Peraturan Kelas & Budaya Positif](prompt2f.md)
-3. [Infografik Sudut Ilmu/ Sudut Bacaan](prompt2f.md)
-4. [Rekaan Visual Papan Kenyataan Kelas & Koridor](prompt2f.md)
-5. [Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)](prompt2f.md)
+1. [Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)](prompt2f.md#f1%EF%B8%8F⃣-template-prompt--visual-hiasan-kelas)
+2. [Poster Peraturan Kelas & Budaya Positif](prompt2f.md#f2%EF%B8%8F⃣-template-prompt--poster-peraturan-kelas--budaya-positif)
+3. [Infografik Sudut Ilmu/ Sudut Bacaan](prompt2f.md#f3%EF%B8%8F⃣-template-prompt--infografik-sudut-ilmu--sudut-bacaan)
+4. [Rekaan Visual Papan Kenyataan Kelas & Koridor](prompt2f.md#f4%EF%B8%8F⃣-template-prompt--rekaan-visual-papan-kenyataan-kelas--koridor)
+5. [Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)](prompt2f.md#f5%EF%B8%8F⃣-template-prompt--tema-visual-kelas)
 
 ## G. Visual Murid & Komuniti Sekolah
 1. [Poster Motivasi Murid (Rendah/ Menengah)](prompt2g.md#g1%EF%B8%8F%E2%83%A3-template-prompt--poster-motivasi-murid)
