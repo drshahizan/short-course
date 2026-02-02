@@ -23,8 +23,13 @@ Slaid pembentangan ini membincangkan evolusi dan impak **Generative AI (GenAI)**
 
 
  <img src="info1.png" alt="Dr Shahizan AI"  height="300">
+ <img src="info2.png" alt="Dr Shahizan AI"  height="300">
+ <img src="info3.png" alt="Dr Shahizan AI"  height="300">
 
-
+ ## Slaid - NotebookLM
+<a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAZ7nM-Uxy7Qp_32wXzWTEjAXlD79EDjaBVqttl9WZrz9E?e=CnWRqb">
+ <img src="slaid1.png" alt="Dr Shahizan AI"  height="300">
+</a> 
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
