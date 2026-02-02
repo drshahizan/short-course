@@ -380,11 +380,259 @@ Keperluan:
 - Sesuai untuk mesej rasmi sekolah
 ```
 
+Baik puan. Berikut ialah **TEMPLATE PROMPT LANJUTAN** untuk **Pelaporan & Analisis Ringkas**, **bermula dari nombor 16**, disusun **konsisten dengan format sebelumnya**, dan sesuai untuk **kegunaan harian pentadbir sekolah**.
+
+Semua template:
+
+* ✔️ Bahasa Melayu baku & profesional
+* ✔️ Ruang boleh isi dalam `[ ]`
+* ✔️ Terus boleh guna (ChatGPT / Gemini / NotebookLM)
 
 
 
+```markdown
+## D. Pelaporan & Analisis Ringkas
 
 
+
+## 1️⃣6️⃣ TEMPLATE PROMPT — ANALISIS ISU & CADANGAN PENYELESAIAN
+
+Anda ialah pentadbir sekolah.
+
+Sila sediakan analisis ringkas berdasarkan maklumat berikut:
+
+Isu dikenal pasti        : [Nyatakan isu utama]
+Lokasi / konteks         : [Sekolah / kelas / unit terlibat]
+Tempoh isu berlaku       : [Tempoh]
+Pihak terlibat           : [Guru / Murid / Ibu bapa / Staf]
+
+Maklumat sokongan (jika ada):
+- Data ringkas           : [Peratus / bilangan / pemerhatian]
+- Aduan / maklum balas   : [Ringkasan]
+
+Keperluan analisis:
+- Punca utama isu
+- Kesan terhadap pengurusan / PdP / operasi sekolah
+- Cadangan penyelesaian jangka pendek
+- Cadangan penambahbaikan jangka panjang
+
+Keperluan:
+- Bahasa Melayu baku
+- Ringkas tetapi berfokus
+- Sesuai untuk laporan dalaman atau perbincangan pentadbiran
+```
+
+
+
+## 1️⃣7️⃣ TEMPLATE PROMPT — LAPORAN RINGKAS STATUS TINDAKAN
+
+```
+Anda ialah pegawai pentadbiran sekolah.
+
+Sila sediakan laporan ringkas status tindakan berdasarkan maklumat berikut:
+
+Perkara / projek        : [Nama perkara / projek]
+Tarikh mula             : [Tarikh]
+Tarikh sasaran siap     : [Tarikh]
+Pegawai bertanggungjawab: [Nama / jawatan]
+
+Status semasa:
+- Tindakan telah dibuat : [Ya / Tidak + huraian]
+- Isu / halangan        : [Jika ada]
+- Keperluan sokongan    : [Jika ada]
+
+Keperluan:
+- Nyatakan status dengan jelas (Selesai / Dalam Proses / Belum Mula)
+- Sertakan cadangan tindakan seterusnya
+- Bahasa Melayu rasmi dan padat
+```
+
+
+
+## 1️⃣8️⃣ TEMPLATE PROMPT — ANALISIS DATA RINGKAS (TANPA TEKNIKAL)
+
+```
+Anda ialah penyelaras pentadbiran sekolah.
+
+Sila hasilkan analisis ringkas berdasarkan data berikut:
+
+Jenis data            : [Kehadiran / disiplin / pencapaian / penglibatan]
+Tempoh                : [Harian / Bulanan / Tahunan]
+Data utama             : [Ringkasan data / peratus / bilangan]
+
+Fokus analisis:
+- Corak umum (trend)
+- Isu utama yang dikenal pasti
+- Implikasi terhadap pengurusan sekolah
+- Cadangan ringkas
+
+Keperluan:
+- Elakkan istilah teknikal
+- Gunakan ayat mudah difahami
+- Sesuai untuk laporan pengurusan atau pembentangan ringkas
+```
+
+
+
+## 1️⃣9️⃣ TEMPLATE PROMPT — RINGKASAN PRESTASI PROGRAM / AKTIVITI
+
+```
+Anda ialah penyelaras program sekolah.
+
+Sila sediakan ringkasan prestasi program berdasarkan maklumat berikut:
+
+Nama program        : [Nama program]
+Tarikh pelaksanaan  : [Tarikh]
+Sasaran peserta     : [Guru / Murid / Ibu bapa]
+Objektif utama      : [Objektif]
+
+Maklumat pelaksanaan:
+- Tahap kehadiran   : [Peratus / anggaran]
+- Penglibatan      : [Baik / Sederhana / Rendah]
+- Maklum balas umum: [Ringkasan]
+
+Keperluan ringkasan:
+- Tahap pencapaian objektif
+- Kekuatan program
+- Perkara yang boleh ditambah baik
+- Cadangan ringkas untuk pelaksanaan akan datang
+
+Bahasa Melayu baku dan sesuai untuk laporan dalaman.
+```
+
+
+
+## 2️⃣0️⃣ TEMPLATE PROMPT — LAPORAN PERBANDINGAN RINGKAS
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila sediakan laporan perbandingan ringkas berdasarkan maklumat berikut:
+
+Perkara dibandingkan : [Program / data / tempoh]
+Tempoh A             : [Tempoh / tahun]
+Tempoh B             : [Tempoh / tahun]
+
+Data ringkas:
+- Data Tempoh A      : [Ringkasan]
+- Data Tempoh B      : [Ringkasan]
+
+Fokus laporan:
+- Perbezaan utama
+- Peningkatan atau penurunan
+- Faktor penyumbang (jika ada)
+- Cadangan susulan
+
+Keperluan:
+- Tidak terlalu panjang
+- Bahasa Melayu formal
+- Sesuai untuk mesyuarat pengurusan
+```
+
+
+
+## 2️⃣1️⃣ TEMPLATE PROMPT — RUMUSAN MAKLUM BALAS / SOAL SELIDIK
+
+```
+Anda ialah pegawai pentadbiran sekolah.
+
+Sila sediakan rumusan maklum balas berdasarkan maklumat berikut:
+
+Sumber maklum balas : [Guru / Murid / Ibu bapa]
+Kaedah              : [Borang / temu bual / soal selidik]
+Tempoh              : [Tempoh]
+
+Dapatan utama:
+- Perkara positif   : [Ringkasan]
+- Perkara dibangkit : [Ringkasan]
+
+Keperluan rumusan:
+- Isu utama
+- Cadangan penambahbaikan
+- Tindakan susulan dicadangkan
+
+Bahasa Melayu baku dan sesuai untuk laporan ringkas pentadbiran.
+```
+
+
+
+## 2️⃣2️⃣ TEMPLATE PROMPT — LAPORAN RISIKO & MITIGASI RINGKAS
+
+```
+Anda ialah pentadbir sekolah.
+
+Sila sediakan laporan ringkas risiko berdasarkan maklumat berikut:
+
+Aktiviti / program  : [Nama aktiviti]
+Risiko dikenal pasti: [Nyatakan risiko]
+Tahap risiko        : [Rendah / Sederhana / Tinggi]
+
+Kesan berpotensi:
+- Terhadap murid    : [Jika ada]
+- Terhadap operasi : [Jika ada]
+
+Cadangan mitigasi:
+- Tindakan pencegahan
+- Pelan sokongan
+
+Keperluan:
+- Format ringkas dan jelas
+- Bahasa Melayu profesional
+- Sesuai untuk perancangan awal atau mesyuarat
+```
+
+
+
+## 2️⃣3️⃣ TEMPLATE PROMPT — RINGKASAN EKSEKUTIF (EXECUTIVE SUMMARY)
+
+```
+Anda ialah pentadbir kanan sekolah.
+
+Sila sediakan ringkasan eksekutif berdasarkan laporan berikut:
+
+Tajuk laporan        : [Tajuk]
+Tempoh              : [Tempoh]
+Fokus utama          : [Isu / program / data]
+
+Perkara penting:
+- Isu utama
+- Dapatan utama
+- Cadangan utama
+- Keputusan diperlukan (jika ada)
+
+Keperluan:
+- Maksimum 1 muka surat
+- Ayat padat dan strategik
+- Bahasa Melayu baku
+- Sesuai untuk pihak pengurusan atasan
+```
+
+
+
+## 2️⃣4️⃣ TEMPLATE PROMPT — ANALISIS KEPATUHAN / PEMANTAUAN
+
+```
+Anda ialah pegawai pemantauan sekolah.
+
+Sila sediakan analisis kepatuhan ringkas berdasarkan perkara berikut:
+
+Perkara dipantau     : [Dasar / SOP / arahan]
+Tempoh pemantauan   : [Tempoh]
+Pihak terlibat       : [Guru / Staf / Unit]
+
+Dapatan pemantauan:
+- Tahap pematuhan   : [Tinggi / Sederhana / Rendah]
+- Isu dikenal pasti : [Jika ada]
+
+Cadangan:
+- Tindakan pembetulan
+- Penambahbaikan
+
+Keperluan:
+- Bahasa Melayu formal
+- Ringkas dan berfokus
+- Sesuai untuk laporan dalaman
+```
 
 ### 🙌🏻 Connect with Me
 <p align="left">
