@@ -7,7 +7,7 @@
 
 # 🎨 Prompt Template AI: Bahan Multimedia
 
- <img src="infotemplate.png" alt="Dr Shahizan AI"  height="500">
+ <img src="info.png" alt="Dr Shahizan AI"  height="500">
 
 
 ## A. Infografik Pentadbiran Sekolah
