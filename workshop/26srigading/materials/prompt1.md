@@ -7,6 +7,9 @@
 
 # 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
 
+ <img src="infotemplate.png" alt="Dr Shahizan AI"  height="600">
+
+
 ## A. Dokumen Rasmi & Pentadbiran Teras
 1. [Surat Rasmi Sekolah](prompt1a.md#1%EF%B8%8F%E2%83%A3-template-prompt--surat-rasmi-sekolah)
 2. [Laporan Rasmi Sekolah](prompt1a.md#2%EF%B8%8F%E2%83%A3-template-prompt--laporan-rasmi-sekolah)
