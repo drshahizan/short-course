@@ -5,267 +5,150 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🅰️ SEKSYEN A — INFOGRAFIK PENTADBIRAN SEKOLAH
+# 🅳 SEKSYEN D — BAHAN VISUAL PANDUAN & MAKLUMAN
 
-## A1️⃣ Template Prompt — Infografik SOP & Prosedur Pentadbiran
+## D1️⃣ Template Prompt — Infografik Panduan Ibu Bapa & Murid
 
 ```
-Anda ialah pegawai pentadbiran sekolah di Malaysia.
+Anda ialah pentadbir sekolah di Malaysia.
 
-Hasilkan kandungan DAN cadangan visual untuk infografik SOP pentadbiran sekolah.
+Hasilkan kandungan DAN cadangan visual untuk infografik panduan kepada ibu bapa dan murid.
 
-Maklumat kandungan:
-Tajuk SOP           : [Contoh: SOP Permohonan Cuti Guru]
-Sasaran             : [Guru / Staf]
-Bilangan langkah    : [5–7 langkah]
-Dokumen diperlukan : [Jika ada]
-Perhatian penting   : [Jika ada]
+Maklumat panduan:
+Tajuk panduan      : [Contoh: Panduan Kehadiran & Disiplin Murid]
+Sasaran            : [Ibu bapa / Murid]
+Bilangan perkara   : [5–7 perkara utama]
+Nada bahasa        : [Mesra, sopan dan jelas]
 
 Keperluan kandungan:
-- Setiap langkah maksimum 1 ayat
-- Bahasa Melayu baku dan jelas
-- Susunan Step 1 → Step akhir
+- Setiap perkara maksimum 1 ayat
+- Elakkan istilah teknikal
+- Fokus kepada perkara yang sering ditanya
 
 Arahan visual / imej:
-- Latar belakang: suasana sekolah atau bilik guru (imej generik)
-- Ikon outline untuk setiap langkah (contoh: borang, jam, tandatangan)
-- Tambah elemen visual kecil seperti buku, kalendar atau komputer
-- Elakkan wajah murid sebenar
+- Gambar ibu bapa dan murid di sekolah (imej generik)
+- Ikon mudah seperti jam, buku, senarai semak
+- Latar belakang sekolah yang cerah dan mesra
 
 Reka bentuk:
 - Ikut Standard Grafik Sekolah Malaysia
-- Warna utama biru tua, aksen kuning untuk penegasan
-- Format infografik 1 halaman (A4)
+- Susun dalam bentuk blok atau senarai visual
+- Sesuai untuk infografik 1 halaman (A4)
 ```
 
-## A2️⃣ Template Prompt — Infografik Aliran Proses & Tatacara Sekolah
+## D2️⃣ Template Prompt — Infografik Tatacara Kehadiran & Disiplin
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan infografik aliran proses (flowchart) beserta cadangan visual.
+Hasilkan infografik tatacara kehadiran dan disiplin murid.
 
 Maklumat:
-Tajuk proses        : [Contoh: Proses Permohonan Cuti Guru]
-Pihak terlibat      : [Guru, PK Pentadbiran, Pengetua]
-Bilangan peringkat  : [4–6 peringkat]
-Keputusan utama     : [Lulus / Tidak Lulus]
+Tajuk              : [Tatacara Kehadiran & Disiplin Murid]
+Tahap              : [Sekolah Rendah / Menengah]
+Bilangan langkah   : [5–6 langkah]
+Peraturan utama    : [Perkara wajib dipatuhi]
+
+Keperluan kandungan:
+- Ayat pendek dan tegas tetapi berhemah
+- Susunan langkah jelas (Do & Don’t jika sesuai)
 
 Arahan visual / imej:
-- Latar belakang ringkas sekolah (koridor / pejabat)
-- Ikon berbeza untuk setiap peranan (guru, pentadbir)
-- Anak panah jelas menunjukkan aliran
+- Gambar murid di sekolah / pintu pagar sekolah (imej generik)
+- Ikon jam, loceng, tanda betul/salah
+- Elakkan visual yang menakutkan atau menghukum
 
 Reka bentuk:
-- Gaya flowchart
+- Warna tenang dan berautoriti
 - Ikut Standard Grafik Sekolah Malaysia
-- Sesuai dipamerkan di bilik guru
+- Sesuai untuk paparan di koridor dan bilik darjah
 ```
 
-## A3️⃣ Template Prompt — Infografik Data & Statistik Ringkas Sekolah
 
-```
-Anda ialah penyelaras pentadbiran sekolah.
 
-Hasilkan infografik data ringkas berserta cadangan visual.
-
-Maklumat:
-Tajuk              : [Contoh: Kehadiran Guru Bulan Januari]
-Tempoh             : [Bulan / Tahun]
-Data utama          : [Peratus / bilangan ringkas]
-Kategori            : [Hadir penuh, Lewat, Cuti]
-
-Arahan visual / imej:
-- Ikon manusia/guru untuk representasi data
-- Graf ringkas (bar / simbol)
-- Latar belakang neutral sekolah
-
-Reka bentuk:
-- Tidak padat
-- Fokus kepada 3–4 data utama
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-## A4️⃣ Template Prompt — Infografik Peranan & Jawatankuasa Sekolah
-
-```
-Anda ialah setiausaha jawatankuasa sekolah.
-
-Hasilkan infografik peranan jawatankuasa beserta cadangan visual.
-
-Maklumat:
-Nama jawatankuasa : [Contoh: Jawatankuasa Peperiksaan]
-Senarai peranan   : [Pengerusi, Setiausaha, AJK]
-Skop tugas ringkas: [1–2 tugas setiap peranan]
-
-Arahan visual / imej:
-- Ikon profesional (bukan kartun)
-- Susun dalam bentuk kad / blok
-- Latar belakang sekolah atau pejabat
-
-Reka bentuk:
-- Ikut Standard Grafik Sekolah Malaysia
-- Mudah difahami sepintas lalu
-```
-
-## A5️⃣ Template Prompt — Infografik Takwim & Garis Masa Sekolah
+## D3️⃣ Template Prompt — Infografik Keselamatan, Kebajikan & Kecemasan
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan infografik takwim / timeline aktiviti sekolah.
+Hasilkan infografik panduan keselamatan dan kecemasan sekolah.
 
 Maklumat:
-Tajuk          : [Takwim Aktiviti Sekolah 2026]
-Tempoh         : [Tahunan / Bulanan]
-Aktiviti utama : [Senarai aktiviti + tarikh]
+Tajuk              : [Panduan Keselamatan & Kecemasan Sekolah]
+Jenis panduan      : [Kebakaran / Banjir / Kecederaan / Kesihatan]
+Sasaran            : [Murid / Guru / Ibu bapa]
+Bilangan langkah   : [4–6 langkah]
+
+Keperluan kandungan:
+- Arahan jelas dan mudah difahami
+- Fokus kepada tindakan segera (apa perlu dibuat)
 
 Arahan visual / imej:
-- Ikon kalendar dan jam
-- Latar belakang sekolah / kelas
-- Tarikh penting diserlahkan warna kuning
+- Ikon keselamatan (api, kecemasan, telefon)
+- Latar sekolah atau bilik darjah
+- Elakkan imej panik atau ekstrem
 
 Reka bentuk:
-- Gaya timeline mendatar atau menegak
+- Kontras warna jelas untuk keterbacaan
+- Aksen kuning digunakan untuk amaran
 - Ikut Standard Grafik Sekolah Malaysia
 ```
 
-# 🅱️ SEKSYEN B
-
-## TEMPLATE PROMPT PENUH — POSTER & BANNER SEKOLAH
-
-*(Dengan Arahan Imej Visual)*
-
-
-
-## B1️⃣ Template Prompt — Poster / Banner Mesyuarat & Taklimat
-
-```
-Anda ialah pegawai pentadbiran sekolah di Malaysia.
-
-Hasilkan poster/banner rasmi sekolah beserta cadangan visual.
-
-Maklumat:
-Tajuk      : [Mesyuarat Guru Bulanan]
-Tarikh     : [Tarikh]
-Masa       : [Masa]
-Tempat     : [Tempat]
-Sasaran    : [Semua guru]
-Arahan     : [Kehadiran WAJIB]
-
-Arahan visual / imej:
-- Gambar guru / bilik mesyuarat (imej generik)
-- Ikon jam, kalendar, lokasi
-- Latar sekolah neutral
-
-Reka bentuk:
-- Tajuk besar dan jelas
-- Ikut Standard Grafik Sekolah Malaysia
-- Sesuai untuk A4 & banner digital
-```
-
-
-
-## B2️⃣ Template Prompt — Poster / Banner Makluman Peperiksaan
+## D4️⃣ Template Prompt — Poster / Banner Panduan Penggunaan Sistem Sekolah
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan poster/banner makluman peperiksaan dengan elemen visual pendidikan.
+Hasilkan poster/banner panduan penggunaan sistem sekolah.
 
-Maklumat:
-Tajuk         : [Peperiksaan Pertengahan Tahun]
-Tahap         : [Rendah / Menengah]
-Tarikh        : [Tempoh]
-Kelas         : [Tahun / Tingkatan]
-Arahan penting: [Contoh: Bawa alat tulis lengkap]
+Maklumat sistem:
+Nama sistem        : [Contoh: Sistem Kehadiran Murid]
+Sasaran pengguna   : [Guru / Ibu bapa / Murid]
+Tujuan sistem      : [Kehadiran / Maklumat / Rekod]
+Langkah utama      : [3–5 langkah ringkas]
 
-Arahan visual / imej:
-- Gambar pelajar belajar (imej generik)
-- Ikon buku, pensel, jam
-- Elakkan wajah murid sebenar
-
-Reka bentuk:
-- Bersih dan tidak menekan emosi
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-
-
-## B3️⃣ Template Prompt — Poster / Banner Makluman Ibu Bapa
-
-```
-Anda ialah penyelaras komunikasi sekolah.
-
-Hasilkan poster/banner makluman ibu bapa beserta cadangan visual.
-
-Maklumat:
-Tajuk      : [Hari Bertemu Pelanggan]
-Tarikh     : [Tarikh]
-Masa       : [Masa]
-Tempat     : [Tempat]
-Arahan     : [Contoh: Hadir mengikut slot]
+Keperluan kandungan:
+- Langkah bernombor
+- Bahasa ringkas dan tidak teknikal
 
 Arahan visual / imej:
-- Gambar ibu bapa & guru berbincang (imej generik)
-- Ikon keluarga / perbincangan
-- Nada visual mesra
-
-Reka bentuk:
-- Bahasa mudah
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-
-
-## B4️⃣ Template Prompt — Poster / Banner Pengumuman Dalaman Staf
-
-```
-Anda ialah pentadbir sekolah.
-
-Hasilkan poster/banner pengumuman dalaman staf.
-
-Maklumat:
-Tajuk        : [Penggunaan Sistem Baharu]
-Tarikh mula  : [Tarikh]
-Sasaran      : [Guru / Staf]
-Arahan       : [Tindakan diperlukan]
-
-Arahan visual / imej:
-- Gambar komputer / sistem / pejabat sekolah
+- Gambar komputer, tablet atau telefon pintar
 - Ikon teknologi pendidikan
+- Latar pejabat atau sekolah
 
 Reka bentuk:
-- Profesional dan ringkas
+- Gaya moden dan kemas
 - Ikut Standard Grafik Sekolah Malaysia
+- Sesuai untuk cetakan dan edaran digital
 ```
 
-
-
-## B5️⃣ Template Prompt — Poster / Banner Peringatan & Notis Penting
+## D5️⃣ Template Prompt — Infografik Soalan Lazim (FAQ) Sekolah
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan poster/banner peringatan rasmi sekolah.
+Hasilkan infografik Soalan Lazim (FAQ) sekolah.
 
 Maklumat:
-Perkara     : [Tarikh Akhir Hantar Markah]
-Tarikh akhir: [Tarikh]
-Sasaran     : [Guru]
-Tindakan    : [Hantar melalui sistem]
+Tajuk FAQ          : [Soalan Lazim Ibu Bapa / Murid]
+Bilangan soalan    : [5–8 soalan utama]
+Topik              : [Kehadiran, peperiksaan, disiplin, komunikasi]
+
+Keperluan kandungan:
+- Soalan ringkas dan biasa ditanya
+- Jawapan maksimum 1–2 ayat
+- Nada sopan dan membantu
 
 Arahan visual / imej:
-- Ikon amaran ringan (bukan agresif)
-- Jam / kalendar
-- Latar belakang sekolah
+- Ikon tanda soal, maklumat, perbualan
+- Gambar latar sekolah atau komuniti sekolah (imej generik)
+- Susun dalam format kad FAQ
 
 Reka bentuk:
-- Sangat ringkas
-- Tarikh mesti paling menonjol
+- Mudah dibaca sepintas lalu
 - Ikut Standard Grafik Sekolah Malaysia
+- Sesuai untuk paparan awam dan edaran WhatsApp
 ```
-
 
 
 ### 🙌🏻 Connect with Me

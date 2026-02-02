@@ -5,268 +5,139 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🅰️ SEKSYEN A — INFOGRAFIK PENTADBIRAN SEKOLAH
+# 🅲 SEKSYEN C — POSTER & BANNER PROGRAM SEKOLAH
 
-## A1️⃣ Template Prompt — Infografik SOP & Prosedur Pentadbiran
+## C1️⃣ Template Prompt — Poster / Banner Program Akademik & PdP
 
 ```
-Anda ialah pegawai pentadbiran sekolah di Malaysia.
+Anda ialah pentadbir sekolah di Malaysia.
 
-Hasilkan kandungan DAN cadangan visual untuk infografik SOP pentadbiran sekolah.
+Hasilkan kandungan DAN cadangan visual untuk poster/banner program akademik sekolah.
 
-Maklumat kandungan:
-Tajuk SOP           : [Contoh: SOP Permohonan Cuti Guru]
-Sasaran             : [Guru / Staf]
-Bilangan langkah    : [5–7 langkah]
-Dokumen diperlukan : [Jika ada]
-Perhatian penting   : [Jika ada]
-
-Keperluan kandungan:
-- Setiap langkah maksimum 1 ayat
-- Bahasa Melayu baku dan jelas
-- Susunan Step 1 → Step akhir
+Maklumat program:
+Nama program     : [Contoh: Program Pecutan Akademik]
+Subjek / Fokus   : [Akademik / PdP / STEM / Literasi]
+Tarikh           : [Tarikh]
+Masa             : [Masa]
+Tempat           : [Tempat]
+Sasaran          : [Murid Tahun / Tingkatan]
+Penganjur        : [Unit / Panitia]
 
 Arahan visual / imej:
-- Latar belakang: suasana sekolah atau bilik guru (imej generik)
-- Ikon outline untuk setiap langkah (contoh: borang, jam, tandatangan)
-- Tambah elemen visual kecil seperti buku, kalendar atau komputer
-- Elakkan wajah murid sebenar
+- Gambar pelajar sedang belajar atau aktiviti PdP (imej generik)
+- Ikon buku, papan putih, komputer atau STEM
+- Latar belakang kelas atau sekolah
+- Elakkan wajah murid sebenar yang boleh dikenal pasti
 
 Reka bentuk:
 - Ikut Standard Grafik Sekolah Malaysia
-- Warna utama biru tua, aksen kuning untuk penegasan
-- Format infografik 1 halaman (A4)
+- Nada visual positif dan berunsur pendidikan
+- Sesuai untuk poster A4 dan banner digital
 ```
 
-## A2️⃣ Template Prompt — Infografik Aliran Proses & Tatacara Sekolah
+## C2️⃣ Template Prompt — Poster / Banner Kursus & Latihan Guru
+
+```
+Anda ialah penyelaras latihan sekolah.
+
+Hasilkan poster/banner rasmi bagi kursus atau latihan guru.
+
+Maklumat program:
+Nama kursus      : [Contoh: Kursus Kecerdasan Buatan (AI) untuk PdP]
+Tarikh           : [Tarikh]
+Masa             : [Masa]
+Tempat           : [Tempat]
+Sasaran          : [Guru sekolah rendah / menengah]
+Penganjur        : [Sekolah / PPD / JPN]
+
+Arahan visual / imej:
+- Gambar guru berbincang atau menggunakan komputer (imej generik)
+- Ikon teknologi, latihan, idea
+- Latar bilik latihan / sekolah
+
+Reka bentuk:
+- Profesional dan matang
+- Ikut Standard Grafik Sekolah Malaysia
+- Sesuai untuk edaran WhatsApp dan cetakan
+```
+
+## C3️⃣ Template Prompt — Poster / Banner Hari Anugerah & Pengiktirafan
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan infografik aliran proses (flowchart) beserta cadangan visual.
+Hasilkan poster/banner rasmi bagi Hari Anugerah & Pengiktirafan sekolah.
 
-Maklumat:
-Tajuk proses        : [Contoh: Proses Permohonan Cuti Guru]
-Pihak terlibat      : [Guru, PK Pentadbiran, Pengetua]
-Bilangan peringkat  : [4–6 peringkat]
-Keputusan utama     : [Lulus / Tidak Lulus]
-
-Arahan visual / imej:
-- Latar belakang ringkas sekolah (koridor / pejabat)
-- Ikon berbeza untuk setiap peranan (guru, pentadbir)
-- Anak panah jelas menunjukkan aliran
-
-Reka bentuk:
-- Gaya flowchart
-- Ikut Standard Grafik Sekolah Malaysia
-- Sesuai dipamerkan di bilik guru
-```
-
-## A3️⃣ Template Prompt — Infografik Data & Statistik Ringkas Sekolah
-
-```
-Anda ialah penyelaras pentadbiran sekolah.
-
-Hasilkan infografik data ringkas berserta cadangan visual.
-
-Maklumat:
-Tajuk              : [Contoh: Kehadiran Guru Bulan Januari]
-Tempoh             : [Bulan / Tahun]
-Data utama          : [Peratus / bilangan ringkas]
-Kategori            : [Hadir penuh, Lewat, Cuti]
+Maklumat majlis:
+Nama majlis      : [Hari Anugerah Kecemerlangan]
+Tarikh           : [Tarikh]
+Masa             : [Masa]
+Tempat           : [Tempat]
+Sasaran          : [Murid, Ibu bapa, Guru]
+Penganjur        : [Sekolah / PIBG]
 
 Arahan visual / imej:
-- Ikon manusia/guru untuk representasi data
-- Graf ringkas (bar / simbol)
-- Latar belakang neutral sekolah
+- Gambar pelajar berjaya / menerima sijil (imej generik)
+- Ikon trofi, bintang, sijil
+- Elemen bendera Malaysia secara minimal
+- Latar pentas atau sekolah
 
 Reka bentuk:
-- Tidak padat
-- Fokus kepada 3–4 data utama
+- Nada visual meraikan kejayaan
+- Warna aksen kuning digunakan secara terkawal
 - Ikut Standard Grafik Sekolah Malaysia
 ```
 
-## A4️⃣ Template Prompt — Infografik Peranan & Jawatankuasa Sekolah
-
-```
-Anda ialah setiausaha jawatankuasa sekolah.
-
-Hasilkan infografik peranan jawatankuasa beserta cadangan visual.
-
-Maklumat:
-Nama jawatankuasa : [Contoh: Jawatankuasa Peperiksaan]
-Senarai peranan   : [Pengerusi, Setiausaha, AJK]
-Skop tugas ringkas: [1–2 tugas setiap peranan]
-
-Arahan visual / imej:
-- Ikon profesional (bukan kartun)
-- Susun dalam bentuk kad / blok
-- Latar belakang sekolah atau pejabat
-
-Reka bentuk:
-- Ikut Standard Grafik Sekolah Malaysia
-- Mudah difahami sepintas lalu
-```
-
-## A5️⃣ Template Prompt — Infografik Takwim & Garis Masa Sekolah
+## C4️⃣ Template Prompt — Poster / Banner Program Kokurikulum & Sahsiah
 
 ```
 Anda ialah pentadbir sekolah.
 
-Hasilkan infografik takwim / timeline aktiviti sekolah.
+Hasilkan poster/banner program kokurikulum atau sahsiah murid.
 
-Maklumat:
-Tajuk          : [Takwim Aktiviti Sekolah 2026]
-Tempoh         : [Tahunan / Bulanan]
-Aktiviti utama : [Senarai aktiviti + tarikh]
-
-Arahan visual / imej:
-- Ikon kalendar dan jam
-- Latar belakang sekolah / kelas
-- Tarikh penting diserlahkan warna kuning
-
-Reka bentuk:
-- Gaya timeline mendatar atau menegak
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-# 🅱️ SEKSYEN B
-
-## TEMPLATE PROMPT PENUH — POSTER & BANNER SEKOLAH
-
-*(Dengan Arahan Imej Visual)*
-
-
-
-## B1️⃣ Template Prompt — Poster / Banner Mesyuarat & Taklimat
-
-```
-Anda ialah pegawai pentadbiran sekolah di Malaysia.
-
-Hasilkan poster/banner rasmi sekolah beserta cadangan visual.
-
-Maklumat:
-Tajuk      : [Mesyuarat Guru Bulanan]
-Tarikh     : [Tarikh]
-Masa       : [Masa]
-Tempat     : [Tempat]
-Sasaran    : [Semua guru]
-Arahan     : [Kehadiran WAJIB]
+Maklumat program:
+Nama program     : [Contoh: Program Kepimpinan Murid]
+Fokus            : [Sukan / Unit Beruniform / Sahsiah]
+Tarikh           : [Tarikh]
+Tempat           : [Tempat]
+Sasaran          : [Murid Tahun / Tingkatan]
 
 Arahan visual / imej:
-- Gambar guru / bilik mesyuarat (imej generik)
-- Ikon jam, kalendar, lokasi
-- Latar sekolah neutral
+- Gambar murid beruniform / aktiviti luar (imej generik)
+- Ikon kepimpinan, disiplin, kerjasama
+- Latar kawasan sekolah
 
 Reka bentuk:
-- Tajuk besar dan jelas
+- Visual bertenaga tetapi beradab
 - Ikut Standard Grafik Sekolah Malaysia
-- Sesuai untuk A4 & banner digital
+- Sesuai untuk paparan awam sekolah
 ```
 
-
-
-## B2️⃣ Template Prompt — Poster / Banner Makluman Peperiksaan
-
-```
-Anda ialah pentadbir sekolah.
-
-Hasilkan poster/banner makluman peperiksaan dengan elemen visual pendidikan.
-
-Maklumat:
-Tajuk         : [Peperiksaan Pertengahan Tahun]
-Tahap         : [Rendah / Menengah]
-Tarikh        : [Tempoh]
-Kelas         : [Tahun / Tingkatan]
-Arahan penting: [Contoh: Bawa alat tulis lengkap]
-
-Arahan visual / imej:
-- Gambar pelajar belajar (imej generik)
-- Ikon buku, pensel, jam
-- Elakkan wajah murid sebenar
-
-Reka bentuk:
-- Bersih dan tidak menekan emosi
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-
-
-## B3️⃣ Template Prompt — Poster / Banner Makluman Ibu Bapa
+## C5️⃣ Template Prompt — Poster / Banner Program Libat Urus Ibu Bapa
 
 ```
 Anda ialah penyelaras komunikasi sekolah.
 
-Hasilkan poster/banner makluman ibu bapa beserta cadangan visual.
+Hasilkan poster/banner bagi program libat urus ibu bapa dan komuniti.
 
-Maklumat:
-Tajuk      : [Hari Bertemu Pelanggan]
-Tarikh     : [Tarikh]
-Masa       : [Masa]
-Tempat     : [Tempat]
-Arahan     : [Contoh: Hadir mengikut slot]
-
-Arahan visual / imej:
-- Gambar ibu bapa & guru berbincang (imej generik)
-- Ikon keluarga / perbincangan
-- Nada visual mesra
-
-Reka bentuk:
-- Bahasa mudah
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-
-
-## B4️⃣ Template Prompt — Poster / Banner Pengumuman Dalaman Staf
-
-```
-Anda ialah pentadbir sekolah.
-
-Hasilkan poster/banner pengumuman dalaman staf.
-
-Maklumat:
-Tajuk        : [Penggunaan Sistem Baharu]
-Tarikh mula  : [Tarikh]
-Sasaran      : [Guru / Staf]
-Arahan       : [Tindakan diperlukan]
+Maklumat program:
+Nama program     : [Contoh: Sesi Libat Urus Ibu Bapa]
+Tujuan           : [Perbincangan prestasi / hal ehwal murid]
+Tarikh           : [Tarikh]
+Masa             : [Masa]
+Tempat           : [Tempat]
+Sasaran          : [Ibu bapa / Penjaga]
 
 Arahan visual / imej:
-- Gambar komputer / sistem / pejabat sekolah
-- Ikon teknologi pendidikan
+- Gambar ibu bapa dan guru berbincang (imej generik)
+- Ikon komunikasi, keluarga, pertemuan
+- Latar sekolah yang mesra
 
 Reka bentuk:
-- Profesional dan ringkas
+- Nada visual mesra dan profesional
+- Bahasa mudah difahami ibu bapa
 - Ikut Standard Grafik Sekolah Malaysia
 ```
-
-
-
-## B5️⃣ Template Prompt — Poster / Banner Peringatan & Notis Penting
-
-```
-Anda ialah pentadbir sekolah.
-
-Hasilkan poster/banner peringatan rasmi sekolah.
-
-Maklumat:
-Perkara     : [Tarikh Akhir Hantar Markah]
-Tarikh akhir: [Tarikh]
-Sasaran     : [Guru]
-Tindakan    : [Hantar melalui sistem]
-
-Arahan visual / imej:
-- Ikon amaran ringan (bukan agresif)
-- Jam / kalendar
-- Latar belakang sekolah
-
-Reka bentuk:
-- Sangat ringkas
-- Tarikh mesti paling menonjol
-- Ikut Standard Grafik Sekolah Malaysia
-```
-
-
 
 ### 🙌🏻 Connect with Me
 <p align="left">
