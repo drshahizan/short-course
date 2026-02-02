@@ -9,7 +9,7 @@
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Pengenalan kepada Generative AI]()
+| 1.| Slaid |[Pengenalan kepada Generative AI](./slot1/readme.md)
 | 2.| Slaid |[Meneroka AI Generatif Dengan Selamat dan Bertanggungjawab](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/ERXy76ZaHpBImoI6aiWEXTUBqeBYT9WJ0HWwLgb_8wmt6A?e=cjxlwW)
 | 3.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 4. | Pemasangan |[ChatGPT, Copilot, Gemini](signin.md)|
