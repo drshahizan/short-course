@@ -157,8 +157,11 @@ Keperluan:
 ## 🔖 Cara Guna oleh Pentadbir Sekolah
 
 1️⃣ Salin template yang berkaitan
+
 2️⃣ Isi maklumat dalam `[ ]`
+
 3️⃣ Tampal ke ChatGPT / Gemini / NotebookLM
+
 4️⃣ Semak dan sesuaikan sebelum digunakan
 
 
