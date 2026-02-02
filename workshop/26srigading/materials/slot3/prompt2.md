@@ -25,11 +25,11 @@
 5. [Poster/ Banner Peringatan & Notis Penting](prompt2b.md#b5%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-peringatan--notis-penting)
 
 ## C. Poster & Banner Program Sekolah
-1. [Poster/ Banner Program Akademik & PdP](prompt2c.md)  
-2. [Poster/ Banner Kursus & Latihan Guru](prompt2c.md)
-3. [Poster/ Banner Hari Anugerah & Pengiktirafan](prompt2c.md)
-4. [Poster/ Banner Program Kokurikulum & Sahsiah](prompt2c.md)
-5. [Poster/ Banner Program Libat Urus Ibu Bapa](prompt2c.md)
+1. [Poster/ Banner Program Akademik & PdP](prompt2c.md#c1%EF%B8%8F⃣-template-prompt--poster--banner-program-akademik--pdp)  
+2. [Poster/ Banner Kursus & Latihan Guru](prompt2c.md#c2%EF%B8%8F⃣-template-prompt--poster--banner-kursus--latihan-guru)
+3. [Poster/ Banner Hari Anugerah & Pengiktirafan](prompt2c.md#c3%EF%B8%8F⃣-template-prompt--poster--banner-hari-anugerah--pengiktirafan)
+4. [Poster/ Banner Program Kokurikulum & Sahsiah](prompt2c.md#c4%EF%B8%8F⃣-template-prompt--poster--banner-program-kokurikulum--sahsiah)
+5. [Poster/ Banner Program Libat Urus Ibu Bapa](prompt2c.md#c5%EF%B8%8F⃣-template-prompt--poster--banner-program-libat-urus-ibu-bapa)
 
 ## D. Bahan Visual Panduan & Makluman
 1. [Infografik Panduan Ibu Bapa & Murid](prompt2d.md#d1%EF%B8%8F⃣-template-prompt--infografik-panduan-ibu-bapa--murid)
