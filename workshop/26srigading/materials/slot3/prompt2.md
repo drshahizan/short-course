@@ -11,11 +11,11 @@
 
 
 ## A. Infografik Pentadbiran Sekolah
-A1. [Infografik SOP & Prosedur Pentadbiran]()
-A2. [Infografik Aliran Proses & Tatacara Sekolah]()
-A3. [Infografik Data & Statistik Ringkas Sekolah]()
-A4. [Infografik Peranan, Jawatankuasa & Tanggungjawab]()
-A5. [Infografik Takwim & Garis Masa Aktiviti Sekolah]()
+1. [Infografik SOP & Prosedur Pentadbiran]()
+2. [Infografik Aliran Proses & Tatacara Sekolah]()
+3. [Infografik Data & Statistik Ringkas Sekolah]()
+4. [Infografik Peranan, Jawatankuasa & Tanggungjawab]()
+5. [Infografik Takwim & Garis Masa Aktiviti Sekolah]()
 
 ## B. Poster & Banner Pengumuman Rasmi
 B1. Poster / Banner Makluman Mesyuarat & Taklimat  
