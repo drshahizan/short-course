@@ -25,46 +25,40 @@
 5. [Poster / Banner Peringatan & Notis Penting](prompt2b.md#b5%EF%B8%8F%E2%83%A3-template-prompt--poster--banner-peringatan--notis-penting)
 
 ## C. Poster & Banner Program Sekolah
-C1. Poster / Banner Program Akademik & PdP  
-C2. Poster / Banner Kursus & Latihan Guru  
-C3. Poster / Banner Hari Anugerah & Pengiktirafan  
-C4. Poster / Banner Program Kokurikulum & Sahsiah  
-C5. Poster / Banner Program Libat Urus Ibu Bapa  
+1. Poster / Banner Program Akademik & PdP  
+2. Poster / Banner Kursus & Latihan Guru  
+3. Poster / Banner Hari Anugerah & Pengiktirafan  
+4. Poster / Banner Program Kokurikulum & Sahsiah  
+5. Poster / Banner Program Libat Urus Ibu Bapa  
 
 ## D. Bahan Visual Panduan & Makluman
-D1. Infografik Panduan Ibu Bapa & Murid  
-D2. Infografik Tatacara Kehadiran & Disiplin  
-D3. Infografik Keselamatan, Kebajikan & Kecemasan  
-D4. Poster / Banner Panduan Penggunaan Sistem Sekolah  
-D5. Infografik Soalan Lazim (FAQ) Sekolah  
+1. Infografik Panduan Ibu Bapa & Murid  
+2. Infografik Tatacara Kehadiran & Disiplin  
+3. Infografik Keselamatan, Kebajikan & Kecemasan  
+4. Poster / Banner Panduan Penggunaan Sistem Sekolah  
+5. Infografik Soalan Lazim (FAQ) Sekolah  
 
 ## E. Cover Buku, Laporan & Dokumen Rasmi
-E1. Cover Buku Program / Modul Sekolah  
-E2. Cover Laporan Tahunan / Laporan Program  
-E3. Cover Kertas Kerja & Fail Pentadbiran  
-E4. Rekaan Muka Hadapan Buku Teks Tambahan / Modul PdP  
-E5. Penyeragaman Identiti Visual Dokumen Rasmi Sekolah  
+1. Cover Buku Program / Modul Sekolah  
+2. Cover Laporan Tahunan / Laporan Program  
+3. Cover Kertas Kerja & Fail Pentadbiran  
+4. Rekaan Muka Hadapan Buku Teks Tambahan / Modul PdP  
+5. Penyeragaman Identiti Visual Dokumen Rasmi Sekolah  
 
 ## F. Mencantikkan Kelas & Persekitaran Sekolah
-F1. Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)  
-F2. Poster Peraturan Kelas & Budaya Positif  
-F3. Infografik Sudut Ilmu / Sudut Bacaan  
-F4. Rekaan Visual Papan Kenyataan Kelas & Koridor  
-F5. Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)  
+1. Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)  
+2. Poster Peraturan Kelas & Budaya Positif  
+3. Infografik Sudut Ilmu / Sudut Bacaan  
+4. Rekaan Visual Papan Kenyataan Kelas & Koridor  
+5. Tema Visual Kelas (Contoh: STEM, Literasi, Sahsiah)  
 
 ## G. Visual Murid & Komuniti Sekolah
-G1. Poster Motivasi Murid (Rendah / Menengah)  
-G2. Visual Nilai Murni & Adab di Sekolah  
-G3. Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)  
-G4. Bahan Visual Sambutan Hari Kebesaran & Perayaan  
-G5. Poster Jati Diri Sekolah & Aspirasi Murid  
+1. Poster Motivasi Murid (Rendah / Menengah)  
+2. Visual Nilai Murni & Adab di Sekolah  
+3. Poster Kesedaran (Anti-Buli, Disiplin, Keselamatan)  
+4. Bahan Visual Sambutan Hari Kebesaran & Perayaan  
+5. Poster Jati Diri Sekolah & Aspirasi Murid  
 
-## H. Penyeragaman Grafik & Automasi Kandungan
-H1. Templat Grafik Standard Sekolah (Warna, Fon, Layout)  
-H2. Automasi Kandungan Visual daripada Teks Pentadbiran  
-H3. Penyesuaian Saiz & Format (Poster, Banner, Digital)  
-H4. Konsistensi Visual Merentas Platform  
-H5. Semakan Akhir & Kelulusan Bahan Visual  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
