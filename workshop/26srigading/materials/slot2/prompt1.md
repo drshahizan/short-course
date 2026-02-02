@@ -46,6 +46,9 @@
 25. [Ucapan rasmi pentadbir sekolah]()
 26. [Ucapan Tidak Rasmi / Santai Berprotokol]()
 27. [Ucapan Krisis / Penjelasan Isu Sensitif]()
+28. [Ucapan Hari Anugerah & Pengiktirafan]()
+29. [Ucapan Motivasi Murid (Akademik / Sahsiah)]()
+30. [Ucapan Ringkas Video Rakaman (Opening / Closing)]()
 
 ### 🙌🏻 Connect with Me
 <p align="left">
