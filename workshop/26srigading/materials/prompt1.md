@@ -12,7 +12,7 @@
 2. [Laporan Rasmi Sekolah](prompt1a.md#2%EF%B8%8F%E2%83%A3-template-prompt--laporan-rasmi-sekolah)
 3. [Kertas Kerja Program Sekolah](prompt1a.md#3%EF%B8%8F%E2%83%A3-template-prompt--kertas-kerja-program-sekolah)
 4. [Minit Mesyuarat Sekolah](prompt1a.md#4%EF%B8%8F%E2%83%A3-template-prompt--minit-mesyuarat-sekolah)
-5. [Ringkasan Mesyuarat (Edaran Cepat)]()
+5. [Ringkasan Mesyuarat (Edaran Cepat)](prompt1a.md#1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-template-prompt--ringkasan-mesyuarat-untuk-edaran-cepat)
 
 ## B. Komunikasi Rasmi & Makluman
 6. [Makluman Rasmi (WhatsApp / Telegram)](prompt1a.md#6%EF%B8%8F%E2%83%A3-template-prompt--makluman-rasmi-whatsapp--telegram)
