@@ -7,6 +7,17 @@
 
 # 📘 Prompt Template AI untuk Kegunaan Harian Pentadbir Sekolah
 
+## 🔖 Cara Guna oleh Pentadbir Sekolah
+
+1️⃣ Salin template yang berkaitan
+
+2️⃣ Isi maklumat dalam `[ ]`
+
+3️⃣ Tampal ke ChatGPT / Gemini / NotebookLM
+
+4️⃣ Semak dan sesuaikan sebelum digunakan
+
+
 ## 1️⃣ TEMPLATE PROMPT — SURAT RASMI SEKOLAH
 
 ```
@@ -154,15 +165,6 @@ Keperluan:
 - Aliran majlis tersusun dan jelas
 ```
 
-## 🔖 Cara Guna oleh Pentadbir Sekolah
-
-1️⃣ Salin template yang berkaitan
-
-2️⃣ Isi maklumat dalam `[ ]`
-
-3️⃣ Tampal ke ChatGPT / Gemini / NotebookLM
-
-4️⃣ Semak dan sesuaikan sebelum digunakan
 
 
 
