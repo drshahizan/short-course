@@ -14,7 +14,7 @@
 |-----|---------|-----------|
 | 8:30 pagi | Pendaftaran Peserta | Pendaftaran dan pengesahan kehadiran |
 | 9:00 pagi | Pengenalan Kursus | Objektif kursus dan gambaran keseluruhan penggunaan AI oleh guru |
-| 9:15 pagi | [Pengenalan kepada Generative AI](/slot1/readme.md) | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
+| 9:15 pagi | [Pengenalan kepada Generative AI](./slot1/readme.md) | Konsep asas AI, contoh aplikasi AI dalam pendidikan, dan etika penggunaan |
 | 10:00 pagi | Minum Pagi | — |
 | 10:30 pagi | [AI untuk Pentadbir Sekolah](./materials/slot2/readme.md) | Penulisan [surat rasmi](pentadbir.md#1%EF%B8%8F%E2%83%A3-penulisan-surat-rasmi), [laporan](pentadbir.md#2%EF%B8%8F%E2%83%A3-penulisan-laporan), [kertas kerja](pentadbir.md#3%EF%B8%8F%E2%83%A3-penulisan-kertas-kerja), [minit mesyuarat](pentadbir.md#4%EF%B8%8F%E2%83%A3-penulisan-minit-mesyuarat) dan [pengacara majlis](pengacara.md) menggunakan AI<br><br>📌 [Prompt Template AI](prompt1.md)  |
 | 11:45 pagi | [AI untuk Penyediaan Slaid](slaid.md) & [Bahan Multimedia](multimedia.md) | AI slide generator, automasi kandungan dan penyeragaman grafik |
