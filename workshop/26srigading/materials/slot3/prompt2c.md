@@ -5,16 +5,6 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Baik puan. Berikut ialah **SEKSYEN C — TEMPLATE PROMPT PENUH (POSTER & BANNER PROGRAM SEKOLAH)** yang **konsisten dengan Seksyen A & B**, **lengkap dengan arahan imej/visual**, dan **sesuai untuk sekolah rendah & menengah di Malaysia**.
-
-Saya susun supaya **pentadbir hanya isi `[ ]`**, dan AI akan:
-
-* jana **kandungan + cadangan visual**
-* guna **imej pelajar/guru/latar sekolah/bendera** yang sesuai
-* patuh **Standard Grafik Sekolah Malaysia**
-
-
-
 # 🅲 SEKSYEN C — POSTER & BANNER PROGRAM SEKOLAH
 
 ## C1️⃣ Template Prompt — Poster / Banner Program Akademik & PdP
