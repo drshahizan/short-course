@@ -39,11 +39,11 @@
 5. [Infografik Soalan Lazim (FAQ) Sekolah](prompt2d.md#d5%EF%B8%8F⃣-template-prompt--infografik-soalan-lazim-faq-sekolah)
 
 ## E. Cover Buku, Laporan & Dokumen Rasmi
-1. [Cover Buku Program/ Modul Sekolah](prompt2e.md)
-2. [Cover Laporan Tahunan/ Laporan Program](prompt2e.md)
-3. [Cover Kertas Kerja & Fail Pentadbiran](prompt2e.md)
-4. [Rekaan Muka Hadapan Buku Teks Tambahan/ Modul PdP](prompt2e.md)
-5. [Penyeragaman Identiti Visual Dokumen Rasmi Sekolah](prompt2e.md)
+1. [Cover Buku Program/ Modul Sekolah](prompt2e.md#e1%EF%B8%8F⃣-template-prompt--cover-buku-program--modul-sekolah)
+2. [Cover Laporan Tahunan/ Laporan Program](prompt2e.md#e2%EF%B8%8F⃣-template-prompt--cover-laporan-tahunan--laporan-program)
+3. [Cover Kertas Kerja & Fail Pentadbiran](prompt2e.md#e3%EF%B8%8F⃣-template-prompt--cover-kertas-kerja--fail-pentadbiran)
+4. [Rekaan Muka Hadapan Buku Teks Tambahan/ Modul PdP](prompt2e.md#e4%EF%B8%8F⃣-template-prompt--rekaan-muka-hadapan-buku-teks-tambahan--modul-pdp)
+5. [Penyeragaman Identiti Visual Dokumen Rasmi Sekolah](prompt2e.md#e5%EF%B8%8F⃣-template-prompt--penyeragaman-identiti-visual-dokumen-rasmi-sekolah)
 
 ## F. Mencantikkan Kelas & Persekitaran Sekolah
 1. [Visual Hiasan Kelas (Motivasi, Nilai Murni, Sahsiah)](prompt2f.md#f1%EF%B8%8F⃣-template-prompt--visual-hiasan-kelas)
