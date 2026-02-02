@@ -18,7 +18,7 @@
 6. [Makluman Rasmi (WhatsApp / Telegram)](prompt1a.md#6%EF%B8%8F%E2%83%A3-template-prompt--makluman-rasmi-whatsapp--telegram)
 7. [Nota Edaran / Pekeliling Dalaman](prompt1a.md#7%EF%B8%8F%E2%83%A3-template-prompt--nota-edaran--pekeliling-dalaman)
 8. Peringatan Rasmi (Reminder)  
-9. Jawapan Rasmi Aduan / Pertanyaan  
+9. [Jawapan Rasmi Aduan / Pertanyaan](prompt1a.md#1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-template-prompt--jawapan-rasmi-kepada-aduan--pertanyaan)
 10. Pengumuman Rasmi (Pelantikan / Pertukaran Tugas)
 
 ## C. Pengurusan Program & Majlis Sekolah
