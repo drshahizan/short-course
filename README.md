@@ -22,6 +22,14 @@
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 
+
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
+|:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 12 Dis | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
+| 25 Nov | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
+| 5 Nov | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
+
+
 ## Workshops and Courses: Year 2025
 <a href="https://github.com/drshahizan/short-course/tree/main/workshop/25IIRGS5">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25IIRGS5/images/IIRG_colloqium5.jpeg" alt="Dr Shahizan AI"  height="200">
