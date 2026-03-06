@@ -13,14 +13,13 @@
 
 ## **Synopsis**
 
-The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
+The Empowering Librarians with AI for Academic Writing course is specifically designed to empower librarians in utilizing Artificial Intelligence (AI) as a supportive tool in the academic writing process. The course provides comprehensive exposure to fundamental AI concepts as well as practical applications across the stages of planning, content development, editing, and refinement of scholarly manuscripts.
 
-This one-day hands-on workshop introduces participants to the practical use of **Generative AI tools** to refine their manuscripts. By leveraging AI-powered writing assistants, attendees will learn how to enhance clarity, coherence, and scholarly tone, as well as strengthen argumentation and citation management. The session will also cover ethical considerations in AI-assisted academic writing, ensuring participants can integrate these tools responsibly.
+In line with the role of librarians as educators in the User Education Program, this course emphasizes guiding students and researchers in using AI ethically, critically, and responsibly.
 
-Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computing, Universiti Teknologi Malaysia, the workshop emphasizes **interactive learning**. Participants are encouraged to bring along their draft papers to gain personalized feedback and direct improvements during the session.
+Drawing upon librarians’ expertise in information literacy, source credibility evaluation, citation management, and academic integrity, librarians play a crucial role in ensuring that the use of AI not only enhances productivity but also complies with established research and scholarly publishing standards.
 
-By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
-
+Overall, this course strengthens the position of librarians as strategic academic partners in cultivating high-quality and impactful scholarly writing among the university community.
 
 ## **Workshop Learning Outcomes**
 
