@@ -13,13 +13,9 @@
 
 ## **Synopsis**
 
-The Empowering Librarians with AI for Academic Writing course is specifically designed to empower librarians in utilizing Artificial Intelligence (AI) as a supportive tool in the academic writing process. The course provides comprehensive exposure to fundamental AI concepts as well as practical applications across the stages of planning, content development, editing, and refinement of scholarly manuscripts.
+The Empowering Librarians with AI for Academic Writing course is specifically designed to empower librarians in utilizing Artificial Intelligence (AI) as a supportive tool in the academic writing process. The course provides comprehensive exposure to fundamental AI concepts as well as practical applications across the stages of planning, content development, editing, and refinement of scholarly manuscripts. In line with the role of librarians as educators in the User Education Program, this course emphasizes guiding students and researchers in using AI ethically, critically, and responsibly.
 
-In line with the role of librarians as educators in the User Education Program, this course emphasizes guiding students and researchers in using AI ethically, critically, and responsibly.
-
-Drawing upon librarians’ expertise in information literacy, source credibility evaluation, citation management, and academic integrity, librarians play a crucial role in ensuring that the use of AI not only enhances productivity but also complies with established research and scholarly publishing standards.
-
-Overall, this course strengthens the position of librarians as strategic academic partners in cultivating high-quality and impactful scholarly writing among the university community.
+Drawing upon librarians’ expertise in information literacy, source credibility evaluation, citation management, and academic integrity, librarians play a crucial role in ensuring that the use of AI not only enhances productivity but also complies with established research and scholarly publishing standards. Overall, this course strengthens the position of librarians as strategic academic partners in cultivating high-quality and impactful scholarly writing among the university community.
 
 ## **Workshop Learning Outcomes**
 
