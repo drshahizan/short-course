@@ -13,13 +13,9 @@
 
 ## Sinopsis
 
-Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi.
+Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi. Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
 
-Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
-
-Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi.
-
-Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
+Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
 
 ## **Teaching Materials**
 
