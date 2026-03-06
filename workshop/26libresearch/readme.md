@@ -17,34 +17,19 @@ The Empowering Librarians with AI for Academic Writing course is specifically de
 
 Drawing upon librarians’ expertise in information literacy, source credibility evaluation, citation management, and academic integrity, librarians play a crucial role in ensuring that the use of AI not only enhances productivity but also complies with established research and scholarly publishing standards. Overall, this course strengthens the position of librarians as strategic academic partners in cultivating high-quality and impactful scholarly writing among the university community.
 
-## **Workshop Learning Outcomes**
+## Course Learning Outcomes
 
-By the end of the workshop, participants will be able to:
+At the end of the course, participants will be able to:
 
-1. **Understand Publishing Requirements**
+1. Explain the fundamental concepts of Artificial Intelligence (AI) and its role in supporting the academic writing process.
 
-   * Identify the key standards and expectations of ERA and Scopus-indexed journals.
-   * Recognize common reasons for manuscript rejection and strategies to overcome them.
+2. Apply AI tools effectively in the planning, development, and editing of scholarly manuscripts.
 
-2. **Apply Generative AI Tools in Academic Writing**
+3. Critically evaluate AI-generated content based on principles of information literacy, source credibility, and academic integrity.
 
-   * Utilize AI-powered platforms to improve clarity, coherence, and academic style in draft articles.
-   * Enhance argumentation, literature integration, and citation management with the support of AI.
+4. Guide students and researchers in the ethical and responsible use of AI in academic writing and scholarly publishing.
 
-3. **Improve Draft Manuscripts**
-
-   * Refine participants’ own draft papers through hands-on AI-assisted editing.
-   * Strengthen structure, flow, and overall readability to meet international publishing standards.
-
-4. **Evaluate Ethical and Responsible Use of AI**
-
-   * Discuss ethical considerations and limitations of using Generative AI in scholarly writing.
-   * Apply best practices to ensure academic integrity while integrating AI in manuscript preparation.
-
-5. **Develop Practical Publishing Strategies**
-
-   * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
-   * Gain confidence in aligning research contributions with target journal scopes and impact.
+5. Integrate AI tools into the User Education Program modules to strengthen the role of librarians as strategic academic partners.
 
 ## [Workshop Schedule](materials/time.md)
 
