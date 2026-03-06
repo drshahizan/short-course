@@ -6,18 +6,20 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# AI in Workplace
+# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
  </p>
 
 ## Synopsis
 
-The AI in the Workplace course is designed to introduce participants to the fundamental concepts of Artificial Intelligence (AI) and its practical applications in modern work environments. Aligned with the university’s strategic digital competency framework, this course aims to enhance participants’ understanding of AI as a key enabler for productivity, efficiency, and innovation across various professional domains.
+Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi.
 
-Participants will be exposed to core AI concepts, current trends, and real-world use cases relevant to workplace settings. The course emphasizes how AI tools and technologies can support decision-making, automate routine tasks, improve data handling, and enhance overall organizational performance. It also highlights the importance of digital readiness and ethical awareness when adopting AI solutions in daily work practices.
+Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
 
-This one-day intensive course provides 6 CPD points and is suitable for university staff and professionals seeking to strengthen their digital competencies and gain foundational knowledge of AI to remain relevant in the evolving digital workplace.
+Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi.
+
+Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
 
 ## **Teaching Materials**
 
