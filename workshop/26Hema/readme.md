@@ -8,7 +8,7 @@
 
 # AI in Workplace
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/26_ai_bendahari.jpeg"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
  </p>
 
 ## Synopsis
