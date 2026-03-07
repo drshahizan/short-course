@@ -17,77 +17,78 @@ Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran prak
 
 Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
 
-## **Teaching Materials**
 
-| No | Type                 | Topic |
-| -- | -------------------- | ----- |
-| 1. | Slides               | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
-| 2. | Installation Guide   | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
-| 3. | WhatsApp Integration | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
-| 4. | Telegram Integration | [Copilot](./materials/telegram.md) |
-| 5. | AI Applications      | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br>[Notebooklm](https://notebooklm.google/) |
+## **Bahan Pengajaran**
 
-## **Hands-On Activities**
-
-### **Applied AI Exercises (Registrar’s Department Context)**
-
-| **No.** | **Activity** | **Description**                                                                                  |
-| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-|    1   | [Integrating Generative AI for Organizational Excellence in the Registrar’s Department](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) | Explore how Generative AI enhances efficiency and innovation within administrative workflows.    |
-|    2   | [Using Generative AI Commands](./materials/latihan2.md) | Learn effective AI prompting techniques for task automation and knowledge generation.            |
-|    3   | [Discover UTM & Boost Productivity through Institutional Insights](./materials/latihan3.md) | Analyze institutional data to extract meaningful insights using AI tools.                        |
-|    4   | [Data Analysis & Strategic Planning for UTM Academic Staff](./materials/latihan6.md) | Apply AI for strategic planning, data-driven decisions, and academic staff performance analysis. |
-
-### **Document & Content Creation**
-
-| **No.** | **Activity** | **Description** |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-|    5    | [Document Analysis with NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md) | Employ AI to extract, summarize, and interpret information from research or policy documents.             |
-|    6    | [Designing Presentation Slides with Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Use AI-powered design tools to produce clear, professional, and engaging slides.                          |
-|    7    | [Memo and Notice Drafting](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md) | Generate and refine official memos, notices, and circulars for various communication channels.            |
-|    8   | [Academic Program Proposal Writing](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)                                                                                      | Use AI to develop structured proposals or working papers aligned with institutional requirements.         |
-|    9   | [Quarterly Academic Report Summarization](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)                                                                               | Convert raw data into concise quarterly reports summarizing key metrics, achievements, and insights.      |
-|    10   | [Email Drafting for Student Enquiries](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)                                                                                   | Practice generating professional and concise email replies for student queries and requests.              |
-|    11   | [Meeting Minutes Generation](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md) | Convert meeting discussions into structured, formal minutes with clear action items and responsibilities. |
+| No | Jenis              | Topik |
+| -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. | Slaid              | [AI di Tempat Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
+| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
+| 3. | Integrasi WhatsApp | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
+| 4. | Integrasi Telegram | [Copilot](./materials/telegram.md) |
+| 5. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) |
 
 
-### **Visualization & Planning Tools**
+# **Aktiviti Hands-On**
 
-| **No.** | **Activity** | **Description** |
-| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-|    12    | [Mind Mapping with Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                        | Create interactive mind maps to visualize, structure, and organize research or strategic ideas effectively.          |
-|    13    | [Flowcharts, Concept Maps, and Mind Maps with Whimsical in ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Use Whimsical with ChatGPT to design flowcharts, concept maps, and mind maps for clearer planning and communication. |
-|    14    | [Gantt Chart using ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                        | Generate project timelines and milestones using Gantt charts to plan and manage tasks efficiently.                   |
+## **Latihan AI Gunaan (Konteks Jabatan Pendaftar)**
 
-### **Data Analysis & Forecasting**
-
-| **No.** | **Activity** | **Description** |
-| :-----: | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
-|    15    | [Forecasting with Deepseek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Apply AI-driven forecasting tools to analyze data trends and generate predictive insights for decision-making. |
-|    16    | [Data Analysis and Visualization](./materials/latihan4.md)                                                                     | Perform data visualization and pattern recognition using AI tools to support evidence-based insights.          |
-|    17    | [Forecasting Malaysia’s Population](./materials/latihan5.md)                                                                   | Use AI-assisted methods to project population growth and analyze demographic trends.                           |
-
-### **Creative & Exploratory AI Applications**
-
-First ask me to upload an image and then create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is a 3D modeling process of this figurine. Next to the computer screen is a toy packaging box, designed in a style reminiscent of high-quality collectible figures, printed with original artwork. The packaging features two-dimensional flat illustrations.
+| **No.** | **Aktiviti**                                                                                                                                             | **Penerangan**                                                                                             |
+| :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi di Jabatan Pendaftar](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
+|    2    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
+|    3    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
+|    4    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
 
 
-| **No.** | **Activity** | **Description** |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-|    18   | [Image Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Explore AI’s capability to interpret and analyze visual content for research or documentation. |
-|    19   | [CSV File Analysis using ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)  | Analyze and summarize data from CSV files using AI-powered analytical prompts. |
-|    20   | [Document Analysis using Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md) | Use Microsoft Copilot to review, interpret, and summarize complex documents. |
-|    21   | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)  | Combine AI tools for creative output inspired by Malaysian art and culture. |
+# **Penciptaan Dokumen & Kandungan**
 
-## **Additional Resources**
+| **No.** | **Aktiviti** | **Penerangan** |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+|    5    | [Analisis Dokumen menggunakan NotebookLM](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/notebooklm.md)     | Menggunakan AI untuk mengekstrak, merumus dan mentafsir maklumat daripada dokumen penyelidikan atau dasar.                  |
+|    6    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
+|    7    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
+|    8    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
+|    9    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
+|    10   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
+|    11   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
 
-| **No** | **Category**                       | **Content** | **Focus Area**                                                                                        |
-| -----: | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-|     1. | **Guidelines & Policies**          | • [Generative AI in Education & Research (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> • [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Global and local guidelines on **AI adoption in education and the public sector**                     |
-|     2. | **National Guidelines (Malaysia)** | • [AI Adoption in the Public Sector](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI in Teaching & Learning (Higher Education)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [UTM Generative AI Guidelines for Teaching & Learning](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)                                                                                          | **Policy adoption** of Generative AI in Malaysia’s education and government sectors                   |
-|     3. | **Trends & Insights**              | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Understanding **global usage, trends, and interest in AI**                                            |
-|     4. | **Multimedia Learning Resources**  | • [Introduction to Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | Engaging **video-based learning** resources to understand AI concepts, ethics, and real-world impacts |
+# **Alat Visualisasi & Perancangan**
 
+| **No.** | **Aktiviti** | **Penerangan** |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    12   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
+|    13   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
+|    14   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
+
+# **Analisis Data & Peramalan**
+
+| **No.** | **Aktiviti** | **Penerangan** |
+| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+|    15   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
+|    16   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
+|    17   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
+
+
+# **Aplikasi AI Kreatif & Eksploratori**
+
+Mula-mula minta pengguna memuat naik imej dan kemudian hasilkan figurine berskala komersial **1/7** daripada watak dalam imej tersebut dalam gaya realistik dalam persekitaran sebenar. Figurine tersebut diletakkan di atas meja komputer dengan tapak akrilik bulat lutsinar tanpa sebarang teks. Kandungan pada skrin komputer memaparkan proses pemodelan 3D bagi figurine tersebut. Di sebelah skrin komputer terdapat kotak pembungkusan mainan yang direka dalam gaya figura koleksi berkualiti tinggi dan dicetak dengan ilustrasi karya asli dua dimensi.
+
+| **No.** | **Aktiviti**                                                                                                                | **Penerangan**                                                                                                      |
+| :-----: | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+|    18   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
+|    19   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
+|    20   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
+|    21   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
+
+# **Maklumat Tambahan**
+
+| **No** | **Kategori**                          | **Kandungan** | **Fokus** |
+| -----: | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|     1. | **Garis Panduan & Polisi**            | • [Generative AI dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> • [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Garis panduan global dan tempatan berkaitan **penggunaan AI dalam pendidikan dan sektor awam**                   |
+|     2. | **Garis Panduan Nasional (Malaysia)** | • [Pengadaptasian AI dalam Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI dalam Pengajaran & Pembelajaran (Pendidikan Tinggi)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [Garis Panduan Generative AI UTM untuk Pengajaran & Pembelajaran](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)                                                                          | Polisi dan garis panduan berkaitan **penggunaan Generative AI dalam sektor pendidikan dan kerajaan di Malaysia** |
+|     3. | **Trend & Wawasan**                   | [Laporan Minat Global Generative AI 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Memahami **trend penggunaan dan minat global terhadap AI** |
+|     4. | **Sumber Pembelajaran Multimedia**    | • [Pengenalan kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | Sumber pembelajaran berasaskan **video yang menarik** untuk memahami konsep AI, etika dan kesan dunia sebenar    |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
