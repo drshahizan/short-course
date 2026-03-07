@@ -24,9 +24,7 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 | -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. | Slaid              | [AI di Tempat Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
 | 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
-| 3. | Integrasi WhatsApp | [ChatGPT, Copilot](./materials/wa-chatgpt.md) |
-| 4. | Integrasi Telegram | [Copilot](./materials/telegram.md) |
-| 5. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) |
+| 3. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) |
 
 
 # **Aktiviti Hands-On**
