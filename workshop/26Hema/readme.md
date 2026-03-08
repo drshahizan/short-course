@@ -43,8 +43,7 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-|    5    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | 
-Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
+|    5    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
 |    6    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
 |    7    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
 |    8    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
