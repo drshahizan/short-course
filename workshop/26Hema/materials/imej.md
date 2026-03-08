@@ -7,6 +7,9 @@
 
 # Modul Latihan AI: Prompt Engineering untuk Penghasilan Kandungan & Infografik
 
+<img src="https://opencv.org/wp-content/uploads/2025/02/1920x1080-1.jpg" alt="Dr Shahizan AI tools" height="400">
+
+
 ## Hasil Pembelajaran (Learning Outcomes)
 
 Selepas mengikuti latihan ini, peserta akan dapat:
