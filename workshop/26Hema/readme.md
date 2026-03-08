@@ -29,11 +29,11 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 
 # **Aktiviti Hands-On**
 
-## **Latihan AI Gunaan (Konteks Jabatan Pendaftar)**
+## **Latihan AI Gunaan**
 
 | **No.** | **Aktiviti**                                                                                                                                             | **Penerangan**                                                                                             |
 | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi di Jabatan Pendaftar](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
+|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
 |    2    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
 |    3    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
 |    4    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
