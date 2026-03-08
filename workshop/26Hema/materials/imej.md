@@ -51,12 +51,12 @@ Provide relevant examples.
 Audience is 10 year old students.
 ```
 
-### 6. Aktiviti 2: Menghasilkan Prompt Infografik Menggunakan ChatGPT
+### Aktiviti 2: Menghasilkan Prompt Infografik Menggunakan ChatGPT
 
 Selepas kandungan dihasilkan, peserta akan belajar menggunakan ChatGPT untuk menghasilkan **prompt infografik secara automatik**.
 
 
-## Prompt Latihan
+#### Prompt Latihan
 
 Gunakan prompt berikut:
 
@@ -75,9 +75,7 @@ mind map, comic, roadmap, sketchnote, and fact infographic.
 Write the prompts clearly so they can be used with AI image generators.
 ```
 
----
-
-# 7. Contoh Hasil Prompt Infografik
+### Contoh Hasil Prompt Infografik
 
 ## Prompt 1 – Mind Map Infographic
 
@@ -96,8 +94,6 @@ Add icons such as robots, laptops, books, and light bulbs.
 Use bright colors and simple illustrations.
 ```
 
----
-
 ## Prompt 2 – Comic Style Infographic
 
 ```text
@@ -113,8 +109,6 @@ Divide the layout into 5 panels showing:
 Use cartoon characters and speech bubbles.
 ```
 
----
-
 ## Prompt 3 – Roadmap Infographic
 
 ```text
@@ -125,8 +119,6 @@ School → Science Learning → University → Research → Innovation.
 
 Add icons such as books, computers, robots, and laboratories.
 ```
-
----
 
 ## Prompt 4 – Fun Facts Infographic
 
@@ -140,8 +132,6 @@ Include facts such as:
 - Technology and engineering programs
 ```
 
----
-
 ## Prompt 5 – Future Technology Infographic
 
 ```text
@@ -154,11 +144,7 @@ Illustrate technology areas such as:
 - Engineering innovation
 ```
 
----
-
-# 8. Aktiviti 3
-
-# Eksperimen Prompt Lanjutan
+### Aktiviti 3: Eksperimen Prompt Lanjutan
 
 Peserta diminta menghasilkan prompt untuk topik lain.
 
@@ -171,9 +157,7 @@ Contoh topik:
 
 Gunakan struktur prompt yang sama.
 
----
-
-# 9. Refleksi Peserta
+### Refleksi Peserta
 
 Peserta diminta menjawab:
 
@@ -184,7 +168,7 @@ Peserta diminta menjawab:
 3️⃣ Bagaimanakah teknik ini boleh membantu kerja harian di universiti?
 
 
-# 10. Rumusan
+### Rumusan
 
 Dalam latihan ini peserta telah mempelajari:
 
@@ -199,16 +183,6 @@ Kemahiran ini boleh digunakan untuk:
 * penyediaan slaid
 * bahan promosi universiti
 * komunikasi sains dan teknologi
-
-✔ **Cadangan Penggunaan di UTM**
-
-Teknik ini boleh digunakan untuk menghasilkan:
-
-* bahan promosi fakulti
-* infografik penyelidikan
-* slaid pengajaran
-* poster acara universiti
-
 
 
 ### 🙌🏻 Connect with Me
