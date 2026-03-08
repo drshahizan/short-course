@@ -7,6 +7,8 @@
 
 # Penggunaan Generative AI dalam Pengurusan Universiti
 
+<img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/pengurusanUTM.png" alt="Dr Shahizan AI tools" height="600">
+
 ## Gambaran Keseluruhan
 
 Generative AI ialah teknologi kecerdasan buatan yang mampu menjana kandungan baharu seperti teks, analisis, idea, dan ringkasan maklumat berdasarkan arahan yang diberikan oleh pengguna.
