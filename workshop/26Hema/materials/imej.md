@@ -7,40 +7,24 @@
 
 # Modul Latihan AI: Prompt Engineering untuk Penghasilan Kandungan & Infografik
 
-**Format:** Bengkel Latihan Staf
-**Institusi:** Universiti Teknologi Malaysia
-
-## 1. Maklumat Bengkel
-
-| Item               | Maklumat                                                                               |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| Tajuk Latihan      | Prompt Engineering untuk Kandungan & Infografik                                        |
-| Sasaran Peserta    | Staf akademik dan pentadbiran UTM                                                      |
-| Tempoh Latihan     | 60 – 90 minit                                                                          |
-| Platform           | ChatGPT / Google Gemini                                                                |
-| Hasil Pembelajaran | Peserta mampu menulis prompt yang berkesan untuk menghasilkan kandungan dan infografik |
-
----
-
-# 2. Hasil Pembelajaran (Learning Outcomes)
+## Hasil Pembelajaran (Learning Outcomes)
 
 Selepas mengikuti latihan ini, peserta akan dapat:
 
 1. memahami konsep **prompt engineering**
 2. menghasilkan **prompt yang jelas dan spesifik**
-3. menggunakan ChatGPT untuk menjana **kandungan pendidikan**
-4. menggunakan ChatGPT untuk menghasilkan **prompt infografik**
+3. menggunakan ChatGPT/ Google Gemini untuk menjana **kandungan pendidikan**
+4. menggunakan ChatGPT/ Google Gemini untuk menghasilkan **prompt infografik**
 5. menghasilkan **pelbagai format visual untuk bahan komunikasi**
 
----
-
-# 3. Pengenalan Ringkas
+## Pengenalan Ringkas
 
 **Prompt engineering** ialah teknik menulis arahan yang jelas kepada AI supaya AI dapat menghasilkan output yang tepat.
 
 Dalam latihan ini peserta akan belajar dua perkara utama:
 
 1️⃣ Menggunakan prompt untuk menghasilkan **kandungan penerangan**
+
 2️⃣ Menggunakan ChatGPT untuk menghasilkan **prompt infografik**
 
 Pendekatan ini sangat berguna untuk:
@@ -51,30 +35,10 @@ Pendekatan ini sangat berguna untuk:
 * komunikasi sains
 * promosi universiti
 
----
+### Aktiviti 1: Menghasilkan Kandungan Menggunakan Prompt
 
-# 4. Struktur Aktiviti Bengkel
 
-| Aktiviti     | Kandungan                                 | Tempoh |
-| ------------ | ----------------------------------------- | ------ |
-| Aktiviti 1   | Menjana kandungan menggunakan prompt asas | 20 min |
-| Aktiviti 2   | Menghasilkan prompt infografik            | 20 min |
-| Aktiviti 3   | Eksperimen dengan pelbagai gaya visual    | 20 min |
-| Perbincangan | Perkongsian hasil peserta                 | 10 min |
-
----
-
-# 5. Aktiviti 1
-
-# Menghasilkan Kandungan Menggunakan Prompt
-
-## Objektif
-
-Peserta belajar menghasilkan **kandungan penerangan yang jelas dan ringkas** menggunakan ChatGPT.
-
----
-
-## Prompt Latihan
+#### Prompt Latihan
 
 Gunakan prompt berikut:
 
@@ -87,63 +51,10 @@ Provide relevant examples.
 Audience is 10 year old students.
 ```
 
----
-
-## Cara Menggunakan Prompt
-
-### Langkah 1
-
-Pilih topik yang ingin diterangkan.
-
-Contoh topik:
-
-* Universiti Teknologi Malaysia
-* Artificial Intelligence
-* Robotics
-* Smart Cities
-* Renewable Energy
-
----
-
-### Langkah 2
-
-Masukkan topik ke dalam prompt.
-
-Contoh:
-
-```text
-Identify and explain about Universiti Teknologi Malaysia.
-
-Be specific and to the point.
-Provide relevant examples.
-
-Audience is 10 year old students.
-```
-
----
-
-### Contoh Output Ringkas
-
-Universiti Teknologi Malaysia ialah sebuah universiti di Malaysia yang terkenal dalam bidang teknologi dan kejuruteraan.
-
-Pelajar di universiti ini belajar bagaimana untuk:
-
-* membina robot
-* mencipta aplikasi komputer
-* mereka bentuk bangunan dan mesin
-
-Contoh:
-Seorang pelajar mungkin membina **robot yang membantu doktor di hospital** atau **aplikasi telefon untuk membantu petani memantau tanaman**.
-
----
-
-# 6. Aktiviti 2
-
-# Menghasilkan Prompt Infografik Menggunakan ChatGPT
+### 6. Aktiviti 2: Menghasilkan Prompt Infografik Menggunakan ChatGPT
 
 Selepas kandungan dihasilkan, peserta akan belajar menggunakan ChatGPT untuk menghasilkan **prompt infografik secara automatik**.
 
----
 
 ## Prompt Latihan
 
