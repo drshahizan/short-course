@@ -26,6 +26,12 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 
 * **📊 [Publish or Perish](./ai/pop.md)** – A citation analysis software that retrieves and analyzes academic citations from sources such as Google Scholar, Crossref, and Scopus. It enables researchers to evaluate research impact using metrics like h-index, citation counts, and publication trends, helping scholars identify influential works and potential research gaps.
 
+* **🔎 [Elicit](./ai/elicit.md)** – An AI research assistant designed to automate parts of the literature review process. Elicit helps researchers find relevant academic papers, extract key findings, summarize research evidence, and identify methodological insights from scholarly articles, making it particularly useful for systematic literature reviews.
+
+* **📖 [Semantic Scholar](./ai/semantic.md)** – An AI-powered academic search engine developed by the Allen Institute for AI. It uses machine learning to identify influential papers, highlight key citations, and provide concise summaries of research articles, enabling scholars to quickly navigate large bodies of scientific literature.
+
+* **🕸️ [Connected Papers](./ai/connected.md)** – A visual discovery tool that generates graphs of related academic papers based on citation relationships. It helps researchers explore how studies are connected, identify foundational publications, and discover relevant literature that may not appear in traditional keyword searches.
+
 ## Others
 
 | No. | 🛠 **Tool Name** | 📖 **Function** | 
@@ -35,7 +41,7 @@ An AI-powered semantic search engine designed for academic research. Unlike trad
 | 3 | [Claude AI](https://claude.ai/) | Processes long documents with high contextual coherence, enabling researchers to query, summarize, and interpret extensive academic papers or reports. | 
 | 4 | [NotebookLM](https://notebooklm.google.com/) | Google’s AI-powered research notebook that ingests your documents and allows contextual Q&A, helping researchers extract insights and trace ideas directly from their sources. |  
 | 5 | [Microsoft Copilot](./ai/copilot.md) | Integrated into Microsoft 365, it assists in reading and summarizing literature within Word, Excel, and PowerPoint—ideal for preparing reviews and synthesizing research findings. | 
-| 6 | [HyperWrite](./ai/hyperwrite.md) | Helps users rephrase, simplify, or summarize dense literature, making it accessible and readable while offering quick insights and writing suggestions. | 
+
 
 
 
