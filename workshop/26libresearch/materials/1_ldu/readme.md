@@ -7,6 +7,8 @@
 
 # 1. Literature Discovery & Understanding
 
+ <img src="lit.png" alt="Dr Shahizan AI tools"  height="600">
+
 ## 🔸 Purpose
 To search, filter, and understand the most relevant scholarly work efficiently. This phase forms the foundation for defining your research gap and framing research questions.
 
