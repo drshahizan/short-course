@@ -31,9 +31,11 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 12 Dis | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
-| 25 Nov | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
-| 5 Nov | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
+| 11 Mac | 🇲🇾 Jab Perpustakaan, UTM | [Empowering Librarians With AI for Academic Writing](https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch) | 
+| 10 Mac | 🇲🇾 UTM  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema) | 
+| 3 & 9 Feb | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
+| 22 Jan | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
+| 20-21 Jan | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
 
 
 ## Workshops and Courses: Year 2025
