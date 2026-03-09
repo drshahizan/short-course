@@ -21,7 +21,6 @@ Artificial Intelligence (AI) can now support researchers across the entire resea
 | **8**   | **[Practical 6: Draft Refinement Workshop (Part 2)](08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                                                     |
 | **9**   | **[Session: Ethical AI Use & Roadmap to Submission](09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q&A**                                        |
 
-Jika mahu, saya juga boleh **jadikan versi ini lebih “workshop module style”** seperti yang biasa digunakan dalam **latihan akademik atau modul perpustakaan universiti**, supaya lebih profesional untuk dimasukkan ke dalam **buku program atau GitHub README**.
 
 
 ### 🙌🏻 Connect with Me
