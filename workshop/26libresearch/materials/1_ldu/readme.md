@@ -15,8 +15,6 @@ AI helps overcome time-consuming, keyword-limited searches by understanding mean
 
 ## AI Tools
 
-## AI Tools
-
 * **🧠 [Zeta Alpha](./ai/zeta.md)** –
 An AI-powered semantic search engine designed for academic research. Unlike traditional keyword-based search, Zeta Alpha understands the meaning behind your query and returns conceptually relevant papers. It also helps users track research trends and follow topic-specific updates using natural language search capabilities.
 
