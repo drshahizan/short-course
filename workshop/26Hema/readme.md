@@ -34,8 +34,8 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 
 | No | Jenis              | Topik |
 | -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. | Slaid              | 1.[Pengenalan kepada Kepintaran Buatan](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) <br> 2. [Pengenalan kepada Generatif AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
-| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) 3. [Penyediaan Slaid Pembentangan Korporat]()|
+| 1. | Slaid              | 1.[Pengenalan kepada Kepintaran Buatan](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) <br> 2. [Pengenalan kepada Generatif AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) 3. [Penyediaan Slaid Pembentangan Korporat]() |
+| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
 | 3. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) <br>[Google Slides](https://docs.google.com/presentation/create)|
 
 
