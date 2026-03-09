@@ -7,7 +7,7 @@
 
 # Publish or Perish 📊📚
 
-<img src="https://harzing.com/resources/publish-or-perish-pop.jpg" alt="Publish or Perish citation analysis tool" height="400">
+<img src="https://harzing.com/pophelp/img/mainwnd_600_ann-256.png" alt="Publish or Perish citation analysis tool" height="400">
 
 
 ## 1. Introduction
