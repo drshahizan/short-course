@@ -5,8 +5,9 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# AI Tools for Research Workflow
-Artificial Intelligence (AI) can now support researchers across the entire research lifecycle — from discovering literature, generating ideas, organizing knowledge, visualizing results, to writing high-quality manuscripts. Below is an overview of five key stages with representative AI tools.
+# Workshop Learning Sessions and Hands-On Activities
+
+This table outlines the sequence of learning sessions and practical activities designed to guide participants through the process of improving academic manuscripts using generative AI tools. Each session focuses on a specific stage of scholarly writing, including understanding publishing standards, assessing manuscript quality, enhancing language clarity, improving argument structure, and refining the overall research narrative. Through a combination of guided exercises, AI-assisted techniques, and peer feedback, participants will gain practical experience in applying artificial intelligence responsibly to strengthen the quality and impact of their academic publications.
 
 
 | **No.** | **Session** |
