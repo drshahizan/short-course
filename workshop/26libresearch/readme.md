@@ -39,9 +39,9 @@ This section provides the **complete timetable** for the workshop, outlining the
 
 This section contains the **essential learning resources and references** used during the workshop. It includes official guidelines (UNESCO, national, and institutional), global AI adoption reports, practical setup instructions, and curated videos. Together, these materials provide participants with **theoretical background, best practices, and practical guides** to reinforce what they learn during the workshop and to support continued application afterward.
 
-## [AI Tools for Research Workflow](materials/ai.md)
+## [Workshop Learning Sessions and Hands-On Activities](materials/ai.md)
 
-This section introduces participants to a curated set of **AI tools designed to support researchers across the entire research lifecycle**. From literature discovery and idea generation to data visualization and academic writing, each tool is presented with its **purpose, strengths, and practical use cases**. This equips participants with the digital skills to adopt AI ethically and effectively in their own research and teaching.
+This table outlines the sequence of learning sessions and practical activities designed to guide participants through the process of improving academic manuscripts using generative AI tools. Each session focuses on a specific stage of scholarly writing, including understanding publishing standards, assessing manuscript quality, enhancing language clarity, improving argument structure, and refining the overall research narrative. Through a combination of guided exercises, AI-assisted techniques, and peer feedback, participants will gain practical experience in applying artificial intelligence responsibly to strengthen the quality and impact of their academic publications.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
