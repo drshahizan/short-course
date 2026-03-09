@@ -5,103 +5,100 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Elicit 🔎📄
+# # Semantic Scholar 🔎📚
 
-<img src="https://framerusercontent.com/images/ZNDicg9Nowy7BkFvOhUGNc5hJg.png?scale-down-to=2048&width=3225&height=1809" alt="Elicit AI research assistant" height="400">
+<img src="https://www.semanticscholar.org/img/semantic_scholar_og.png" alt="Semantic Scholar academic search engine" height="400">
 
 
 ## 1. Introduction
 
-[Elicit](https://elicit.com/) is an AI-powered research assistant designed to help researchers automate parts of the literature review process. Developed by Ought, Elicit uses large language models and semantic search techniques to find relevant academic papers, summarize research findings, and extract key information from scientific articles.
+[Semantic Scholar](https://www.semanticscholar.org/) is an AI-powered academic search engine developed by the Allen Institute for AI (AI2). It is designed to help researchers discover relevant scientific literature more efficiently by using artificial intelligence to understand the context and meaning of research papers.
 
-Unlike traditional academic search engines that rely mainly on keyword matching, Elicit focuses on understanding research questions and identifying conceptually relevant papers. The platform can also extract structured information such as research methods, datasets, sample sizes, and key findings, making it particularly useful for systematic literature reviews and evidence-based research.
+Unlike traditional academic search engines that rely heavily on keyword matching, Semantic Scholar applies machine learning techniques to analyze the relationships between papers, authors, and research topics. This allows the platform to highlight influential publications, identify important citations, and recommend related research.
 
-Elicit is widely used by researchers, students, and librarians to accelerate literature discovery, compare research findings, and organize academic knowledge efficiently.
+Semantic Scholar covers millions of academic articles across disciplines such as computer science, biomedical research, engineering, and social sciences. The platform is widely used by researchers, students, and librarians to explore scholarly literature, track research trends, and identify impactful studies.
 
 ### Key Features:
 
-- **Semantic Literature Search:** Finds relevant research papers based on the meaning of a research question rather than exact keywords.
+- **AI-Powered Paper Discovery:** Uses machine learning to identify relevant research papers beyond simple keyword matching.
 
-- **Paper Summarization:** Automatically summarizes key insights from academic papers, helping researchers quickly understand the main contributions.
+- **Citation Context Analysis:** Highlights important citations and shows how papers influence each other within the academic literature.
 
-- **Structured Data Extraction:** Extracts important research details such as methodology, datasets, and findings into organized tables for easier comparison.
+- **Research Trend Identification:** Helps researchers discover influential authors, emerging research areas, and highly cited publications.
 
 
-## 2. How to Use Elicit: A Step-by-Step Guide
+## 2. How to Use Semantic Scholar: A Step-by-Step Guide
 
-*Case Study: Identifying Research on AI Applications in Smart Villages*
+*Case Study: Exploring Research on Artificial Intelligence for Smart Villages*
 
-### **Step 1: Access Elicit**
+### **Step 1: Access Semantic Scholar**
 
-- Open the Elicit platform:
-  - Visit **https://elicit.com/**
-- Create an account or log in to access the research assistant interface.
+- Open the Semantic Scholar website:
+  - Visit **https://www.semanticscholar.org/**
+- Use the search bar to begin exploring research papers.
 
-### **Step 2: Enter a Research Question**
+### **Step 2: Enter a Research Query**
 
-- Instead of typing simple keywords, enter a research question such as:
+- Input keywords or research questions related to your topic:
 
-  > *"What are the applications of artificial intelligence in smart village development?"*
+  > *"Artificial Intelligence for Smart Village Development"*
 
-- Elicit will analyze the question and retrieve relevant academic papers.
+- Semantic Scholar will retrieve relevant academic papers from its database.
 
-### **Step 3: Explore Suggested Papers**
+### **Step 3: Review Paper Insights**
 
-- The system will display a list of relevant papers with key information including:
-  - Title
-  - Authors
-  - Abstract summary
-  - Year of publication
-  - Citation information
+- Each paper includes additional AI-generated insights such as:
+  - Influential citations
+  - Key phrases
+  - Author information
+  - Citation counts
 
-### **Step 4: Analyze Research Findings**
+### **Step 4: Explore Related Research**
 
-- Elicit automatically extracts important research information such as:
-  - Research methods used
-  - Datasets involved
-  - Key results and conclusions
+- Use features such as:
+  - **Related Papers**
+  - **Citation Graph**
+  - **Influential Citations**
 
-- These insights are displayed in structured tables to facilitate comparison between studies.
+- These tools help identify connections between studies and track research development within the field.
 
-### **Step 5: Refine and Expand the Search**
+### **Step 5: Save and Organize Papers**
 
-- Adjust the research question or add filters to narrow down results.
-- You may focus on:
-  - Specific methodologies
-  - Recent publications
-  - Highly cited studies
+- Create a Semantic Scholar account to:
+  - Save important papers
+  - Follow authors
+  - Track updates on specific research topics.
 
-### **Step 6: Export and Use the Results**
+### **Step 6: Integrate with Your Literature Review**
 
-- Review relevant papers for your literature review.
-- Export or record key insights for use in:
-  - Research proposals
-  - Literature review sections
-  - Systematic literature reviews (SLR)
+- Use the discovered papers to:
+  - Identify foundational studies
+  - Build a literature review
+  - Discover emerging research trends.
 
 
 ## 3. Learning Resources
 
-To maximize the benefits of Elicit, explore the following resources:
+To maximize the benefits of Semantic Scholar, explore the following resources:
 
 ### **Official Tutorials:**
 
-- **[Elicit Official Website](https://elicit.com/):** Provides access to the AI research assistant and explanations of its features.
+- **[Semantic Scholar Website](https://www.semanticscholar.org/):** Explore the AI-powered academic search platform.
 
-- **[Elicit Documentation](https://help.elicit.com/):** Guides users on how to perform literature searches, analyze papers, and extract research insights.
+- **[Semantic Scholar Research Tools](https://www.semanticscholar.org/product):** Learn about advanced research tools and APIs provided by Semantic Scholar.
 
 ### **Video Tutorials:**
 
-- **[Elicit AI Research Assistant Tutorial](https://youtu.be/p1H0z2Jv7Rw):** Demonstrates how to use Elicit for literature reviews and academic research.
+- **[Semantic Scholar Overview](https://youtu.be/6v7y1r1JrJg):** Introduction to using Semantic Scholar for academic research.
 
-- **[Using Elicit for Literature Review](https://youtu.be/W6L9o4p7ZxA):** Step-by-step guide to finding and summarizing research papers using Elicit.
+- **[How to Use Semantic Scholar for Literature Review](https://youtu.be/yh4XvQ1yY3A):** Demonstrates how to discover and organize research papers efficiently.
 
 
 ## 4. Additional Resources
 
-- **[Ought Research](https://ought.org/):** Organization behind Elicit that focuses on building AI tools to support scientific research.
+- **[Allen Institute for AI (AI2)](https://allenai.org/):** The research organization behind Semantic Scholar, focusing on advancing artificial intelligence for scientific discovery.
 
-By integrating Elicit into the literature review process, researchers and librarians can significantly reduce the time required to discover, analyze, and synthesize academic literature while maintaining a systematic and evidence-based research workflow.
+By integrating Semantic Scholar into the literature discovery process, researchers and librarians can quickly identify influential papers, understand citation relationships, and navigate complex research landscapes more effectively.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
