@@ -17,8 +17,20 @@ Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran prak
 
 Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
 
+## Tentatif Program
 
-## **Bahan Pengajaran**
+| Masa | Slot | Kandungan |
+|-----|------|-----------|
+| **8.30 – 9.00 pagi** | **Pendaftaran** | Kehadiran peserta dan persediaan teknikal |
+| **9.00 – 9.30 pagi** | **Sesi 1: Pengenalan AI di Tempat Kerja** | - Konsep asas AI dan Generative AI <br> - Trend semasa serta impaknya kepada organisasi <br> - AI sebagai pemangkin produktiviti |
+| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan |
+| **10.15 – 10.30 pagi** | **Rehat** | - |
+| **10.30 – 11.30 pagi** | **Sesi 3: Hands-On – Automasi Tugasan Pejabat** | - Penulisan memo dan emel rasmi menggunakan AI <br> - Penyediaan minit mesyuarat secara automatik <br> - Ringkasan laporan dengan bantuan AI |
+| **11.30 – 12.15 tengah hari** | **Sesi 4: Analisis Data dan Sokongan Keputusan** | - Analisis data CSV dan visualisasi asas <br> - Pengenalan forecasting menggunakan AI <br> - Pendekatan *data-driven decision making* |
+| **12.15 – 12.55 tengah hari** | **Sesi 5: Aplikasi Lanjutan dan Integrasi AI** | - Analisis dokumen menggunakan NotebookLM / Copilot <br> - Analisis imej dan data CSV menggunakan AI |
+| **12.55 – 1.00 tengah hari** | **Rumusan dan Penutup** | - Refleksi peserta <br> - Sesi soal jawab |
+
+## Bahan Pengajaran
 
 | No | Jenis              | Topik |
 | -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
