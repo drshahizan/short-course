@@ -5,87 +5,100 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Microsoft Copilot💡🧠
+# Publish or Perish 📊📚
 
- <img src="https://store-images.s-microsoft.com/image/apps.36459.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.c0fbfed4-09cf-4672-be75-064859803961" alt="Dr Shahizan AI tools"  height="400">
+<img src="https://harzing.com/resources/publish-or-perish-pop.jpg" alt="Publish or Perish citation analysis tool" height="400">
 
 
 ## 1. Introduction
 
-[Microsoft Copilot](https://copilot.microsoft.com/chats/) is an AI-powered productivity tool integrated into Microsoft 365 applications, designed to enhance creativity, productivity, and collaboration. By leveraging large language models (LLMs) and Microsoft Graph, Copilot provides real-time assistance across various Microsoft 365 apps such as Word, Excel, PowerPoint, Outlook, and Teams. This integration allows users to generate content, analyze data, and automate tasks efficiently. 
+[Publish or Perish](https://harzing.com/resources/publish-or-perish) is a citation analysis software developed by Anne-Wil Harzing that helps researchers retrieve and analyze academic citations from multiple scholarly databases such as Google Scholar, Crossref, Scopus, and OpenAlex. The tool is widely used by researchers, librarians, and academics to evaluate research impact, identify influential publications, and explore scholarly trends.
+
+Publish or Perish calculates a variety of bibliometric indicators including citation counts, h-index, g-index, and other research metrics. These indicators help scholars assess the influence of publications, authors, journals, and institutions. By providing structured citation data and analytical metrics, Publish or Perish supports evidence-based literature discovery and research evaluation.
+
 ### Key Features:
 
-- **Content Generation:** Assists in drafting documents, emails, and presentations based on user prompts, providing a starting point for further refinement. 
+- **Citation Retrieval:** Extracts citation data from multiple scholarly databases such as Google Scholar and Crossref.
 
-- **Data Analysis:** Helps analyze data in Excel by formatting data, creating graphs, generating pivot tables, identifying trends, and summarizing information. 
+- **Research Impact Metrics:** Automatically calculates metrics such as h-index, g-index, and citation counts for authors, journals, or research topics.
 
-- **Meeting Summaries:** Summarizes discussions, lists key actions deliberated in meetings, and answers questions covered during the meeting in Microsoft Teams. 
+- **Literature Exploration:** Helps researchers identify influential publications, emerging research topics, and citation patterns within a field.
 
 
-## 2. How to Use Microsoft Copilot: A Step-by-Step Guide
+## 2. How to Use Publish or Perish: A Step-by-Step Guide
 
-*Case Study: Developing a Smart Village Model*
+*Case Study: Exploring Research Trends in Artificial Intelligence for Smart Villages*
 
-### **Step 1: Access Microsoft Copilot**
+### **Step 1: Install and Open Publish or Perish**
 
-- **Within Microsoft Word:**
-  - Open a new or existing document.
-  - Click on the **Copilot** icon located in the toolbar to activate the assistant.
+- Download Publish or Perish from the official website.
+- Launch the application on your computer.
 
-### **Step 2: Define the Objective**
+### **Step 2: Select a Data Source**
 
-- In the Copilot chat interface, input the objective:
-  > *"Develop a comprehensive Smart Village Model integrating AI and IoT technologies."*
+- Choose a citation database such as:
+  - **Google Scholar**
+  - **Crossref**
+  - **Scopus**
+  - **OpenAlex**
 
-### **Step 3: Generate Initial Content**
+### **Step 3: Define the Search Query**
 
-- Copilot will draft an initial outline or content based on the provided objective. This may include sections such as:
-  - **Introduction:** Overview of the Smart Village concept.
-  - **Technological Infrastructure:** Implementation of AI and IoT for smart utilities.
-  - **Community Services:** Enhancing healthcare, education, and governance through technology.
-  - **Sustainability Measures:** Strategies for environmental conservation and resource management.
+- Enter relevant keywords related to the research topic:
+  > *"Artificial Intelligence Smart Village Development"*
 
-### **Step 4: Refine and Expand Content**
+- You may also search by:
+  - **Author name**
+  - **Journal title**
+  - **Specific article title**
 
-- Review the generated content and provide specific prompts to elaborate on particular sections. For example:
-  > *"Expand on AI applications in smart healthcare within the village."*
+### **Step 4: Retrieve and Analyze Results**
 
-- Copilot will provide detailed information, which can be incorporated into the document.
+- Publish or Perish will retrieve relevant publications along with citation information.
+- The software will automatically calculate metrics such as:
+  - Total citations
+  - Average citations per paper
+  - h-index and g-index
+  - Publication year trends
 
-### **Step 5: Collaborate and Iterate**
+### **Step 5: Identify Influential Studies**
 
-- Share the document with team members via **Microsoft Teams** or **OneDrive**.
-- Collaborate in real-time, allowing team members to add comments, suggest edits, and contribute additional content.
+- Review highly cited papers to identify key publications in the research field.
+- Analyze citation patterns to understand the development of the research area.
 
-### **Step 6: Finalize the Document**
+### **Step 6: Export and Use the Data**
 
-- Use Copilot to proofread the document, check for consistency, and format it according to desired styles.
-- Generate a summary or executive overview if required.
+- Export citation results into formats such as:
+  - **CSV**
+  - **RIS**
+  - **BibTeX**
+
+- Use the exported data for literature review, citation analysis, or research evaluation.
 
 
 ## 3. Learning Resources
 
-To maximize the benefits of Microsoft Copilot, explore the following resources:
+To better understand and maximize the use of Publish or Perish, explore the following resources:
 
 ### **Official Tutorials:**
 
-- **[Learn to Use Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/):** A comprehensive guide covering various scenarios where Copilot can enhance productivity and creativity. 
+- **[Publish or Perish Official Website](https://harzing.com/resources/publish-or-perish):** Provides detailed information about the software, its features, and download instructions.
 
-- **[Microsoft 365 Copilot Overview](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview):** Detailed documentation on Copilot's integration with Microsoft 365 apps and services. 
+- **[Publish or Perish User Guide](https://harzing.com/resources/publish-or-perish/manual):** Comprehensive documentation explaining how to retrieve citations and interpret bibliometric metrics.
+
 
 ### **Video Tutorials:**
 
-- **[Introducing Microsoft 365 Copilot Chat](https://youtu.be/rc-fc7pT9nw?si=RpXP5hOlyMhqbBK4):** Discover how Microsoft 365 Copilot Chat enables your entire workforce from sales to field service solutions. Microsoft 365 Copilot Chat can transform business processes with free secure AI chat, agents, and enterprise data protection.
+- **[Publish or Perish Tutorial](https://youtu.be/qh0qH4mH4l0):** Introduction to using Publish or Perish for citation analysis and literature discovery.
 
-- **[Microsoft Copilot Tutorial](https://youtu.be/d-CuF6dlqLg?si=tyXwYwjgXm8eerV4):** In this step-by-step tutorial, learn how to use Microsoft Copilot.. 
+- **[Using Publish or Perish for Research Metrics](https://youtu.be/1y0R0v6XvJg):** Demonstrates how to evaluate research impact using bibliometric indicators.
 
 
 ## 4. Additional Resources
 
-- **[AI Productivity Tools for Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/copilot):** Explore how Copilot reinvents productivity with secure AI assistance in Microsoft 365 apps, documents, and conversations. 
+- **[Anne-Wil Harzing Research Tools](https://harzing.com/resources):** A collection of academic tools and resources designed to support research evaluation and bibliometric analysis.
 
-By integrating Microsoft Copilot into your workflow, you can enhance creativity, streamline processes, and foster collaboration, leading to more efficient and innovative outcomes.
-
+By integrating Publish or Perish into the literature discovery process, researchers and librarians can better understand citation patterns, identify influential studies, and evaluate the impact of scholarly publications.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
