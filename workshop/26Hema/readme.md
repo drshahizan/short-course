@@ -23,7 +23,7 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 |-----|------|-----------|
 | **8.30 – 9.00 pagi** | **Pendaftaran** | Kehadiran peserta dan persediaan teknikal |
 | **9.00 – 9.30 pagi** | **Sesi 1: Pengenalan kepada Kepintaran Buatan dan Generatif AI** | - Konsep asas AI dan Generative AI <br> - Trend semasa serta impaknya kepada organisasi <br> - AI sebagai pemangkin produktiviti |
-| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan |
+| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan|
 | **10.15 – 10.30 pagi** | **Rehat** |  |
 | **10.30 – 11.30 pagi** | **Sesi 3: Automasi Tugasan Pejabat** | - Penulisan memo dan emel rasmi menggunakan AI <br> - Penyediaan minit mesyuarat secara automatik <br> - Ringkasan laporan dengan bantuan AI |
 | **11.30 – 12.15 tengah hari** | **Sesi 4: Analisis Data dan Sokongan Keputusan** | - Analisis data CSV dan visualisasi asas <br> - Pengenalan forecasting menggunakan AI <br> - Pendekatan *data-driven decision making* |
@@ -34,8 +34,8 @@ Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang 
 
 | No | Jenis              | Topik |
 | -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. | Slaid              | [Pengenalan kepada Kepintaran Buatan](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) <br> [Pengenalan kepada Generatif AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
-| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
+| 1. | Slaid              | 1.[Pengenalan kepada Kepintaran Buatan](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) <br> 2. [Pengenalan kepada Generatif AI](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari/images/AI%20Bendahari.pdf) |
+| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) 3. [Penyediaan Slaid Pembentangan Korporat]()|
 | 3. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) <br>[Google Slides](https://docs.google.com/presentation/create)|
 
 
