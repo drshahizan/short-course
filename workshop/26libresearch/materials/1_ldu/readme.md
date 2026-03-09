@@ -15,12 +15,16 @@ AI helps overcome time-consuming, keyword-limited searches by understanding mean
 
 ## AI Tools
 
+## AI Tools
+
 * **🧠 [Zeta Alpha](./ai/zeta.md)** –
 An AI-powered semantic search engine designed for academic research. Unlike traditional keyword-based search, Zeta Alpha understands the meaning behind your query and returns conceptually relevant papers. It also helps users track research trends and follow topic-specific updates using natural language search capabilities.
 
 * **📚 [Scopus AI](./ai/scopus.md)** – A new feature within the Scopus platform that uses generative AI to summarize research areas, suggest related documents, and answer specific queries based on a curated database of peer-reviewed literature. It helps in quickly understanding complex research landscapes and identifying seminal works.
 
-* **🧾 [SciSpace](./ai/scispace.md/)** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q\&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
+* **🧾 [SciSpace](./ai/scispace.md/)** – Formerly known as Typeset, SciSpace uses AI to explain and summarize research papers in plain language. It offers features like citation tracing (to find connected studies), Q&A-style document interactions, and GPT-powered explanations for math, code, and scientific concepts within PDFs.
+
+* **📊 [Publish or Perish](./ai/pop.md)** – A citation analysis software that retrieves and analyzes academic citations from sources such as Google Scholar, Crossref, and Scopus. It enables researchers to evaluate research impact using metrics like h-index, citation counts, and publication trends, helping scholars identify influential works and potential research gaps.
 
 ## Others
 
