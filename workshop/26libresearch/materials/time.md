@@ -7,6 +7,17 @@
 
 # Workshop Schedule
 
+| Time | Activity |
+|-----|----------|
+| **8:30 AM** | Participant Registration |
+| **9:00 AM** | Literature Discovery & Understanding |
+| **10:00 AM** | Idea Generation and Research Design |
+| **11:00 AM** | Knowledge Organization and Mind Mapping |
+| **12:30 PM** | Lunch Break |
+| **2:00 PM** | Data and Result Visualization |
+| **3:00 PM** | Writing and Deep Research Assistance |
+| **4:00 PM** | End of Programme |
+
 | **Time**             | **Session** |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **09:00 – 09:15 AM** | Registration & Welcome Note                                                                                                                                                        |
@@ -22,6 +33,9 @@
 | **03:30 – 03:45 PM** | Afternoon Break                                                                                                                                                                    |
 | **03:45 – 04:30 PM** | **[Practical 6: Draft Refinement Workshop (Part 2)](08mat.md)**  <br> Continuation of hands-on manuscript editing, focusing on discussion, conclusion, and overall polish.                     |
 | **04:30 – 05:00 PM** | **[Session: Ethical AI Use & Roadmap to Submission](09mat.md)**  <br> Addressing plagiarism concerns, integrity, and planning submission to ERA/Scopus journals. <br> **Closing & Q\&A**       |
+
+
+
 
 
 ### 🙌🏻 Connect with Me
