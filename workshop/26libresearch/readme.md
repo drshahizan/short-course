@@ -35,7 +35,7 @@ At the end of the course, participants will be able to:
 
 This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
 
-## [Workshop Learning Sessions and Hands-On Activities](materials/ai.md)
+## [Workshop Learning Sessions](materials/ai.md)
 
 This table outlines the sequence of learning sessions and practical activities designed to guide participants through the process of improving academic manuscripts using generative AI tools. Each session focuses on a specific stage of scholarly writing, including understanding publishing standards, assessing manuscript quality, enhancing language clarity, improving argument structure, and refining the overall research narrative. Through a combination of guided exercises, AI-assisted techniques, and peer feedback, participants will gain practical experience in applying artificial intelligence responsibly to strengthen the quality and impact of their academic publications.
 
