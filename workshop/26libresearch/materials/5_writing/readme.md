@@ -48,7 +48,7 @@ An optimized interface for academic writing. It assists in summarizing articles,
 | No. |Tool Name                                  | Function |
 | --: | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 |  1. | [Notion AI](https://www.notion.so/product/ai) | Assists in drafting, rewriting, and organizing research notes or full sections with clear academic structure.               |
-|  2. | [SciSpace](https://typeset.io/scispace/)      | AI-powered platform for reading, understanding, and summarizing scientific papers, plus citation tracing.                   |
+|  2. | [SciSpace](https://scispace.com/)      | AI-powered platform for reading, understanding, and summarizing scientific papers, plus citation tracing.                   |
 |  3. | [Scite.ai](https://scite.ai/)                 | Suggests evidence-based citations and shows how cited papers support, contradict, or mention your claim.                    |
 |  4. | [Elicit](https://elicit.org/)                 | AI research assistant that helps you find papers, extract findings, and assist with literature synthesis.                   |
 |  5. | [Grammarly](https://www.grammarly.com/go)   | Offers advanced writing suggestions for tone, structure, and clarity with academic-appropriate feedback.                    |
