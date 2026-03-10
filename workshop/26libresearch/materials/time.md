@@ -7,7 +7,7 @@
 
 # Workshop Schedule
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch/images/lib_research.jpeg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch/images/aitools.png" alt="Shahizan SLR"  height="400">
 
 
 | **Time**     | **Stage** | **AI Tools & Descriptions** |
