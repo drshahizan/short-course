@@ -48,6 +48,7 @@ AI can help tailor your research scope, hypotheses, or conceptual frameworks by 
 | [**Research Rabbit**](https://www.researchrabbit.ai/)                                                            | Enables paper discovery and visual literature mapping; learns user interests to suggest relevant academic works, ideal for topic expansion and design grounding. |
 | [**STORM**](https://storm.genie.stanford.edu/) | Developed by Stanford, this tool automates generation of cited, structured knowledge articles using web retrieval and LLMs for rapid conceptual grounding.       |
 | [**Consensus**](https://consensus.app/) | an AI-powered academic search engine that focuses on evidence-based answers from scientific literature. Instead of returning only papers, Consensus highlights whether studies support or contradict a specific research claim. This feature helps researchers validate early research ideas, evaluate existing scientific evidence, and refine research questions based on empirical findings |
+| [**Whimsical AI**](https://whimsical.com/ai) | Whimsical AI helps researchers transform rough research concepts into structured diagrams such as flowcharts, mind maps, and conceptual models. By visualizing research workflows and relationships between variables, Whimsical AI supports the design of research frameworks, experimental structures, and methodological planning. |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
