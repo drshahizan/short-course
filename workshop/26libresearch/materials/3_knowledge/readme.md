@@ -7,6 +7,8 @@
 
 # 3. Knowledge Organization & Mind Mapping
 
+ <img src="komm.png" alt="Dr Shahizan AI tools"  height="600">
+
 ## 🔸 Purpose
 To make sense of gathered knowledge, connect different themes, and visualize literature review structure or conceptual models.
 
