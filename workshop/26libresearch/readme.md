@@ -31,6 +31,8 @@ At the end of the course, participants will be able to:
 
 5. Integrate AI tools into the User Education Program modules to strengthen the role of librarians as strategic academic partners.
 
+## [Slide presentation](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAQQco6QiDBRqGeywp9coNQARLiiyv8EsOAK0MX9sPVczg?e=W271Ic)
+
 ## [Workshop Schedule](materials/time.md)
 
 This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
