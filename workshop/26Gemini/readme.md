@@ -6,16 +6,18 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
+# Pemerkasaan Media dengan Kecerdasan Buatan (AI)
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
  </p>
 
 ## Sinopsis
 
-Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi. Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
+Kursus *Pemerkasaan Media dengan Kecerdasan Buatan (AI)* ini direka untuk memperkenalkan dan memperkasa pengamal media dengan kemahiran penggunaan teknologi AI terkini dalam ekosistem kewartawanan digital. Seiring dengan perkembangan pesat teknologi generatif, kursus ini memberi tumpuan kepada aplikasi praktikal alat seperti **Gemini** dan **NotebookLM** dalam menyokong proses penulisan, penyuntingan, penyelidikan, serta penghasilan kandungan media yang berkualiti dan berimpak tinggi.
 
-Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
+Peserta akan didedahkan kepada konsep asas AI dalam industri media sebelum meneroka teknik penulisan berita berbantu AI, penghasilan kandungan digital dan media sosial, serta penggunaan NotebookLM sebagai alat penyelidikan yang sistematik dan efisien. Kursus ini turut menekankan integrasi AI dalam aliran kerja editorial bagi meningkatkan produktiviti, ketepatan, dan kecekapan operasi media.
+
+Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut diberi penekanan bagi memastikan peserta memahami tanggungjawab profesional dalam mengendalikan teknologi ini secara beretika dan berakauntabiliti. Secara keseluruhannya, kursus ini bertujuan untuk melahirkan pengamal media yang bukan sahaja celik teknologi, tetapi juga mampu memanfaatkan AI secara strategik dalam menghadapi cabaran landskap media digital masa kini.
 
 ## Tentatif Program
 
