@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Pemerkasaan Media dengan Kecerdasan Buatan (AI)
+# Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg"  height="500">
  </p>
