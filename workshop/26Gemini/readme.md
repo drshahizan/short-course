@@ -21,16 +21,21 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 
 ## Tentatif Program
 
-| Masa | Slot | Kandungan |
-|-----|------|-----------|
-| **8.30 – 9.00 pagi** | **Pendaftaran** | Kehadiran peserta dan persediaan teknikal |
-| **9.00 – 9.30 pagi** | **Sesi 1: Pengenalan kepada Kepintaran Buatan dan Generatif AI** | - Konsep asas AI dan Generative AI <br> - Trend semasa serta impaknya kepada organisasi <br> - AI sebagai pemangkin produktiviti |
-| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan|
-| **10.15 – 10.30 pagi** | **Rehat** |  |
-| **10.30 – 11.30 pagi** | **Sesi 3: Automasi Tugasan Pejabat** | - Penulisan memo dan emel rasmi menggunakan AI <br> - Penyediaan minit mesyuarat secara automatik <br> - Ringkasan laporan dengan bantuan AI |
-| **11.30 – 12.15 tengah hari** | **Sesi 4: Analisis Data dan Sokongan Keputusan** | - Analisis data CSV dan visualisasi asas <br> - Pengenalan forecasting menggunakan AI <br> - Pendekatan *data-driven decision making* |
-| **12.15 – 12.55 tengah hari** | **Sesi 5: Aplikasi Lanjutan dan Integrasi AI** | - Analisis dokumen menggunakan NotebookLM / Copilot <br> - Analisis imej dan data CSV menggunakan AI |
-| **12.55 – 1.00 tengah hari** | **Rumusan dan Penutup** | - Refleksi peserta <br> - Sesi soal jawab |
+| Masa                          | Slot                                                        | Kandungan                                                                                                              |
+| ----------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **8.00 – 8.30 pagi**          | **Pendaftaran Peserta**                                     | Kehadiran peserta, pengesahan pendaftaran dan persediaan teknikal                                                      |
+| **8.30 – 8.45 pagi**          | **Ucapan Aluan**                                            | - Ucapan penganjur <br> - Pengenalan kursus dan objektif                                                               |
+| **8.45 – 9.15 pagi**          | **Sesi 1: Pengenalan kepada Kecerdasan Buatan (AI)**        | - Definisi AI dan Generative AI <br> - Evolusi dan trend semasa <br> - Impak AI dalam industri media                   |
+| **9.15 – 10.15 pagi**         | **Sesi 2: Asas AI dalam Industri Media & Ekosistem Google** | - Peranan AI dalam kewartawanan digital <br> - Pengenalan Gemini dan NotebookLM <br> - Use case dalam media            |
+| **10.15 – 11.15 pagi**        | **Sesi 3: Penulisan & Penyuntingan Berita Berbantu Gemini** | - Teknik prompt untuk penulisan berita <br> - Struktur berita profesional <br> - Penyuntingan menggunakan AI           |
+| **11.15 – 11.30 pagi**        | **Rehat**                                                   |                                                                                                                        |
+| **11.30 – 12.15 tengah hari** | **Sesi 4: Kandungan Digital & Media Sosial dengan Gemini**  | - Penjanaan kandungan digital <br> - Caption, headline dan skrip video <br> - Strategi engagement menggunakan AI       |
+| **12.15 – 1.00 petang**       | **Sesi 5: NotebookLM untuk Penyelidikan Media**             | - Pengurusan dokumen dan sumber <br> - Summarization dan insight extraction <br> - Q&A berasaskan dokumen              |
+| **1.00 – 2.30 petang**        | **Rehat / Makan Tengah Hari / Solat**                       |                                                                                                                        |
+| **2.30 – 3.45 petang**        | **Sesi 6: Integrasi AI dalam Aliran Kerja Editorial**       | - Workflow media tradisional vs AI <br> - Integrasi Gemini & NotebookLM <br> - Kajian kes penggunaan AI dalam newsroom |
+| **3.45 – 4.30 petang**        | **Sesi 7: Etika, Integriti & Tadbir Urus AI dalam Media**   | - Risiko AI (bias, misinformation) <br> - Etika penggunaan AI <br> - Garis panduan dan amalan terbaik                  |
+| **4.30 – 5.00 petang**        | **Rumusan & Penutup**                                       | - Refleksi pembelajaran <br> - Sesi soal jawab <br> - Penutup program                                                  |
+
 
 ## Bahan Pengajaran
 
