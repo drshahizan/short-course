@@ -8,7 +8,7 @@
 
 # Pemerkasaan Media dengan Kecerdasan Buatan (AI)
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg"  height="500">
  </p>
 
 ## Sinopsis
