@@ -27,7 +27,7 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 | **08.30 – 08.45 pagi**   | Ucapan Aluan daripada Pengarah Pusat Komunikasi Korporat UTM, Prof. Madya Dr. Farhana Diana binti Deris |
 | **08.45 – 09.50 pagi**   | [**Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDvZtwg_GtXRYWXfQ-mHTHpAe5feyxh9iYKoLSSudVWwgc?e=lTMNkh) |
 | **09.50 – 10.00 pagi**   | Rehat pagi |
-| **10.00 – 11.30 pagi**   | **Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini |
+| **10.00 – 11.30 pagi**   | [**Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDmawOHh0DARahIldBC0JB7AbsG3Dsrnpmp_6K01fPU26Q?e=C3b2Bi) |
 | **11.30 – 01.00 petang** | **Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini |
 | **01.00 – 02.00 petang** | Rehat / Solat |
 | **02.00 – 04.00 petang** | **Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan <br><br> **Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media |
