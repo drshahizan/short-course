@@ -61,29 +61,29 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-|    5    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
-|    6    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
-|    7    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
-|    8    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
-|    9    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
-|    10   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
-|    11   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
+|    6    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
+|    7    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
+|    8    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
+|    9    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
+|    10    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
+|    11   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
+|    12   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
 
 # **Alat Visualisasi & Perancangan**
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    12   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
-|    13   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
-|    14   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
+|    13   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
+|    14   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
+|    15   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
 
 # **Analisis Data & Peramalan**
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-|    15   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
-|    16   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
-|    17   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
+|    16   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
+|    17   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
+|    18   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
 
 
 # **Aplikasi AI Kreatif & Eksploratori**
@@ -92,10 +92,10 @@ Mula-mula minta pengguna memuat naik imej dan kemudian hasilkan figurine berskal
 
 | **No.** | **Aktiviti**                                                                                                                | **Penerangan**                                                                                                      |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-|    18   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
-|    19   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
-|    20   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
-|    21   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
+|    19   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
+|    20   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
+|    21   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
+|    22   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
 
 # **Maklumat Tambahan**
 
