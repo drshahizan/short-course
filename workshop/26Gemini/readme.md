@@ -50,11 +50,11 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 
 | **No.** | **Aktiviti**                                                                                                                                             | **Penerangan**                                                                                             |
 | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-|    1    | [Aplikasi Gemini dan NotebookLM dalam Kewartawanan Digital]([./materials/fungsi.md](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAvvzB-idshQrS52GYqR_kXAd9USOwk_vDXCeq1y3-dfVg?e=oyGCvO)) | Fokus utama latihan ialah penggunaan dua alat AI generatif yang paling relevan kepada industri media masa kini, iaitu Gemini dan NotebookLM.  |
-|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
-|    2    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
-|    3    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
-|    4    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
+|    1    | [Aplikasi Gemini dan NotebookLM dalam Kewartawanan Digital](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAvvzB-idshQrS52GYqR_kXAd9USOwk_vDXCeq1y3-dfVg?e=oyGCvO) | Fokus utama latihan ialah penggunaan dua alat AI generatif yang paling relevan kepada industri media masa kini, iaitu Gemini dan NotebookLM.  |
+|    2    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
+|    3    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
+|    4    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
+|    5    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
 
 
 ## **Penciptaan Dokumen & Kandungan**
