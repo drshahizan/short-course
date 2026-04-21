@@ -7,11 +7,14 @@
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg" alt="Dr Shahizan AI"  height="400">
 </a> 
 
 ## 🌍 Workshops and Courses: Year 2026
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg" alt="Dr Shahizan AI"  height="200">
+</a> 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch/images/lib_research.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
@@ -31,6 +34,7 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 22 Apr | 🇲🇾 BDC, UTM | [Kursus Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital](https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini) | 
 | 11 Mac | 🇲🇾 Jab Perpustakaan, UTM | [Empowering Librarians With AI for Academic Writing](https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch) | 
 | 10 Mac | 🇲🇾 UTM  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema) | 
 | 3 & 9 Feb | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 

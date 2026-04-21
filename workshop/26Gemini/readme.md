@@ -6,29 +6,34 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
+# Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg"  height="500">
  </p>
 
 ## Sinopsis
 
-Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi. Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
+Kursus *Pemerkasaan Media dengan Kecerdasan Buatan (AI)* ini direka untuk memperkenalkan dan memperkasa pengamal media dengan kemahiran penggunaan teknologi AI terkini dalam ekosistem kewartawanan digital. Seiring dengan perkembangan pesat teknologi generatif, kursus ini memberi tumpuan kepada aplikasi praktikal alat seperti **Gemini** dan **NotebookLM** dalam menyokong proses penulisan, penyuntingan, penyelidikan, serta penghasilan kandungan media yang berkualiti dan berimpak tinggi.
 
-Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
+Peserta akan didedahkan kepada konsep asas AI dalam industri media sebelum meneroka teknik penulisan berita berbantu AI, penghasilan kandungan digital dan media sosial, serta penggunaan NotebookLM sebagai alat penyelidikan yang sistematik dan efisien. Kursus ini turut menekankan integrasi AI dalam aliran kerja editorial bagi meningkatkan produktiviti, ketepatan, dan kecekapan operasi media.
+
+Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut diberi penekanan bagi memastikan peserta memahami tanggungjawab profesional dalam mengendalikan teknologi ini secara beretika dan berakauntabiliti. Secara keseluruhannya, kursus ini bertujuan untuk melahirkan pengamal media yang bukan sahaja celik teknologi, tetapi juga mampu memanfaatkan AI secara strategik dalam menghadapi cabaran landskap media digital masa kini.
 
 ## Tentatif Program
 
-| Masa | Slot | Kandungan |
-|-----|------|-----------|
-| **8.30 – 9.00 pagi** | **Pendaftaran** | Kehadiran peserta dan persediaan teknikal |
-| **9.00 – 9.30 pagi** | **Sesi 1: Pengenalan kepada Kepintaran Buatan dan Generatif AI** | - Konsep asas AI dan Generative AI <br> - Trend semasa serta impaknya kepada organisasi <br> - AI sebagai pemangkin produktiviti |
-| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan|
-| **10.15 – 10.30 pagi** | **Rehat** |  |
-| **10.30 – 11.30 pagi** | **Sesi 3: Automasi Tugasan Pejabat** | - Penulisan memo dan emel rasmi menggunakan AI <br> - Penyediaan minit mesyuarat secara automatik <br> - Ringkasan laporan dengan bantuan AI |
-| **11.30 – 12.15 tengah hari** | **Sesi 4: Analisis Data dan Sokongan Keputusan** | - Analisis data CSV dan visualisasi asas <br> - Pengenalan forecasting menggunakan AI <br> - Pendekatan *data-driven decision making* |
-| **12.15 – 12.55 tengah hari** | **Sesi 5: Aplikasi Lanjutan dan Integrasi AI** | - Analisis dokumen menggunakan NotebookLM / Copilot <br> - Analisis imej dan data CSV menggunakan AI |
-| **12.55 – 1.00 tengah hari** | **Rumusan dan Penutup** | - Refleksi peserta <br> - Sesi soal jawab |
+| **Masa**                 | **Aktiviti** |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **08.00 – 08.30 pagi**   | Pendaftaran |
+| **08.30 – 08.45 pagi**   | Ucapan Aluan daripada Pengarah Pusat Komunikasi Korporat UTM, Prof. Madya Dr. Farhana Diana binti Deris |
+| **08.45 – 09.50 pagi**   | **Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media |
+| **09.50 – 10.00 pagi**   | Rehat pagi |
+| **10.00 – 11.30 pagi**   | **Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini |
+| **11.30 – 01.00 petang** | **Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini |
+| **01.00 – 02.00 petang** | Rehat / Solat |
+| **02.00 – 04.00 petang** | **Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan <br><br> **Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media |
+| **04.00 – 04.10 petang** | Rehat petang |
+| **04.10 – 05.00 petang** | **Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media |
+| **05.00 petang**         | Tamat |
 
 ## Bahan Pengajaran
 
