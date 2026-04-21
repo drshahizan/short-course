@@ -21,21 +21,19 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 
 ## Tentatif Program
 
-| Masa                          | Slot                                                        | Kandungan                                                                                                              |
-| ----------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **8.00 – 8.30 pagi**          | **Pendaftaran Peserta**                                     | Kehadiran peserta, pengesahan pendaftaran dan persediaan teknikal                                                      |
-| **8.30 – 8.45 pagi**          | **Ucapan Aluan**                                            | - Ucapan penganjur <br> - Pengenalan kursus dan objektif                                                               |
-| **8.45 – 9.15 pagi**          | **Sesi 1: Pengenalan kepada Kecerdasan Buatan (AI)**        | - Definisi AI dan Generative AI <br> - Evolusi dan trend semasa <br> - Impak AI dalam industri media                   |
-| **9.15 – 10.15 pagi**         | **Sesi 2: Asas AI dalam Industri Media & Ekosistem Google** | - Peranan AI dalam kewartawanan digital <br> - Pengenalan Gemini dan NotebookLM <br> - Use case dalam media            |
-| **10.15 – 11.15 pagi**        | **Sesi 3: Penulisan & Penyuntingan Berita Berbantu Gemini** | - Teknik prompt untuk penulisan berita <br> - Struktur berita profesional <br> - Penyuntingan menggunakan AI           |
-| **11.15 – 11.30 pagi**        | **Rehat**                                                   |                                                                                                                        |
-| **11.30 – 12.15 tengah hari** | **Sesi 4: Kandungan Digital & Media Sosial dengan Gemini**  | - Penjanaan kandungan digital <br> - Caption, headline dan skrip video <br> - Strategi engagement menggunakan AI       |
-| **12.15 – 1.00 petang**       | **Sesi 5: NotebookLM untuk Penyelidikan Media**             | - Pengurusan dokumen dan sumber <br> - Summarization dan insight extraction <br> - Q&A berasaskan dokumen              |
-| **1.00 – 2.30 petang**        | **Rehat / Makan Tengah Hari / Solat**                       |                                                                                                                        |
-| **2.30 – 3.45 petang**        | **Sesi 6: Integrasi AI dalam Aliran Kerja Editorial**       | - Workflow media tradisional vs AI <br> - Integrasi Gemini & NotebookLM <br> - Kajian kes penggunaan AI dalam newsroom |
-| **3.45 – 4.30 petang**        | **Sesi 7: Etika, Integriti & Tadbir Urus AI dalam Media**   | - Risiko AI (bias, misinformation) <br> - Etika penggunaan AI <br> - Garis panduan dan amalan terbaik                  |
-| **4.30 – 5.00 petang**        | **Rumusan & Penutup**                                       | - Refleksi pembelajaran <br> - Sesi soal jawab <br> - Penutup program                                                  |
-
+| **Masa**                 | **Aktiviti** |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **08.00 – 08.30 pagi**   | Pendaftaran |
+| **08.30 – 08.45 pagi**   | Ucapan Aluan daripada Pengarah Pusat Komunikasi Korporat UTM, Prof. Madya Dr. Farhana Diana binti Deris |
+| **08.45 – 09.50 pagi**   | **Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media |
+| **09.50 – 10.00 pagi**   | Rehat pagi |
+| **10.00 – 11.30 pagi**   | **Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini |
+| **11.30 – 01.00 petang** | **Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini |
+| **01.00 – 02.00 petang** | Rehat / Solat |
+| **02.00 – 04.00 petang** | **Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan <br><br> **Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media |
+| **04.00 – 04.10 petang** | Rehat petang |
+| **04.10 – 05.00 petang** | **Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media |
+| **05.00 petang**         | Tamat |
 
 ## Bahan Pengajaran
 
