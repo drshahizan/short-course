@@ -28,11 +28,11 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 | **08.45 – 09.50 pagi**   | [**Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDvZtwg_GtXRYWXfQ-mHTHpAe5feyxh9iYKoLSSudVWwgc?e=lTMNkh) |
 | **09.50 – 10.00 pagi**   | Rehat pagi |
 | **10.00 – 11.30 pagi**   | [**Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDmawOHh0DARahIldBC0JB7AbsG3Dsrnpmp_6K01fPU26Q?e=C3b2Bi) |
-| **11.30 – 01.00 petang** | **Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini |
+| **11.30 – 01.00 petang** | [**Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAvWHVj7oLySbOklLBVIdhOAfW22xweNnLZBJj8FZ14pbk?e=aQzg5F) |
 | **01.00 – 02.00 petang** | Rehat / Solat |
-| **02.00 – 04.00 petang** | **Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan <br><br> **Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media |
+| **02.00 – 04.00 petang** | [**Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDIo6E62jgzR5rQNKX5Lgq5AavcW41nzjBz4NjOCBc8Fjs?e=gDWZ4f) <br><br> [**Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDk62pSjDVnR6RHANGOGm2NAQ9wIX4W_zbPFMOFg8JxPqo?e=oypmYU) |
 | **04.00 – 04.10 petang** | Rehat petang |
-| **04.10 – 05.00 petang** | **Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media |
+| **04.10 – 05.00 petang** | [**Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQC_iKAE4CQoSpq8BMdsBZHvAcD7tpKN3h86Ec0fskh41GM?e=sQFUpg) |
 | **05.00 petang**         | Tamat |
 
 ## Bahan Pengajaran
