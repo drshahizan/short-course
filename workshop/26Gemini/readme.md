@@ -32,7 +32,7 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 | **01.00 – 02.00 petang** | Rehat / Solat |
 | **02.00 – 04.00 petang** | [**Modul 4:** NotebookLM sebagai Alat Penyelidikan & Rujukan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDIo6E62jgzR5rQNKX5Lgq5AavcW41nzjBz4NjOCBc8Fjs?e=gDWZ4f) <br>[🎥 Video]()<br><br> [**Modul 5:** Integrasi AI dalam Aliran Kerja Editorial Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDk62pSjDVnR6RHANGOGm2NAQ9wIX4W_zbPFMOFg8JxPqo?e=oypmYU) <br>[🎥 Video]() |
 | **04.00 – 04.10 petang** | Rehat petang |
-| **04.10 – 05.00 petang** | [**Modul 6:** Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQC_iKAE4CQoSpq8BMdsBZHvAcD7tpKN3h86Ec0fskh41GM?e=sQFUpg) <br>[🎥 Video]()|
+| **04.10 – 05.00 petang** | [**Modul 6:** Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQC_iKAE4CQoSpq8BMdsBZHvAcD7tpKN3h86Ec0fskh41GM?e=sQFUpg) <br>[🎥 Video](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQDUH-YU_g3nTr44i4P6GQJsAR2Q2lIrRV9e7FzHENgQtug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=GWVOHT)|
 | **05.00 petang**         | Tamat |
 
 ## Bahan Pengajaran
