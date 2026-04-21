@@ -25,14 +25,14 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **08.00 – 08.30 pagi**   | Pendaftaran |
 | **08.30 – 08.45 pagi**   | Ucapan Aluan daripada Pengarah Pusat Komunikasi Korporat UTM, Prof. Madya Dr. Farhana Diana binti Deris |
-| **08.45 – 09.50 pagi**   | **Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media |
+| **08.45 – 09.50 pagi**   | [**Modul 1:** <br> Asas Kecerdasan Buatan (AI) dalam Industri Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDvZtwg_GtXRYWXfQ-mHTHpAe5feyxh9iYKoLSSudVWwgc?e=lTMNkh) |
 | **09.50 – 10.00 pagi**   | Rehat pagi |
-| **10.00 – 11.30 pagi**   | **Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini |
-| **11.30 – 01.00 petang** | **Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini |
+| **10.00 – 11.30 pagi**   | [**Modul 2:** <br> Penulisan & Penyuntingan Berita Berbantu Gemini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDmawOHh0DARahIldBC0JB7AbsG3Dsrnpmp_6K01fPU26Q?e=C3b2Bi) |
+| **11.30 – 01.00 petang** | [**Modul 3:** <br> Penghasilan Kandungan Digital & Media Sosial Menggunakan Gemini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAvWHVj7oLySbOklLBVIdhOAfW22xweNnLZBJj8FZ14pbk?e=aQzg5F) |
 | **01.00 – 02.00 petang** | Rehat / Solat |
-| **02.00 – 04.00 petang** | **Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan <br><br> **Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media |
+| **02.00 – 04.00 petang** | [**Modul 4:** <br> NotebookLM sebagai Alat Penyelidikan & Rujukan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDIo6E62jgzR5rQNKX5Lgq5AavcW41nzjBz4NjOCBc8Fjs?e=gDWZ4f) <br><br> [**Modul 5:** <br> Integrasi AI dalam Aliran Kerja Editorial Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDk62pSjDVnR6RHANGOGm2NAQ9wIX4W_zbPFMOFg8JxPqo?e=oypmYU) |
 | **04.00 – 04.10 petang** | Rehat petang |
-| **04.10 – 05.00 petang** | **Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media |
+| **04.10 – 05.00 petang** | [**Modul 6:** <br> Etika, Integriti & Tadbir Urus Penggunaan AI dalam Media](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQC_iKAE4CQoSpq8BMdsBZHvAcD7tpKN3h86Ec0fskh41GM?e=sQFUpg) |
 | **05.00 petang**         | Tamat |
 
 ## Bahan Pengajaran
@@ -50,39 +50,40 @@ Selain itu, aspek **etika, integriti, dan tadbir urus penggunaan AI** turut dibe
 
 | **No.** | **Aktiviti**                                                                                                                                             | **Penerangan**                                                                                             |
 | :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
-|    2    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
-|    3    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
-|    4    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
+|    1    | [Aplikasi Gemini dan NotebookLM dalam Kewartawanan Digital](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAvvzB-idshQrS52GYqR_kXAd9USOwk_vDXCeq1y3-dfVg?e=oyGCvO) | Fokus utama latihan ialah penggunaan dua alat AI generatif yang paling relevan kepada industri media masa kini, iaitu Gemini dan NotebookLM.  |
+|    2    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
+|    3    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
+|    4    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
+|    5    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
 
 
 ## **Penciptaan Dokumen & Kandungan**
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-|    5    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
-|    6    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
-|    7    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
-|    8    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
-|    9    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
-|    10   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
-|    11   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
+|    6    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
+|    7    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
+|    8    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
+|    9    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
+|    10    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
+|    11   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
+|    12   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
 
 # **Alat Visualisasi & Perancangan**
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    12   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
-|    13   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
-|    14   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
+|    13   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
+|    14   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
+|    15   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
 
 # **Analisis Data & Peramalan**
 
 | **No.** | **Aktiviti** | **Penerangan** |
 | :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-|    15   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
-|    16   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
-|    17   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
+|    16   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
+|    17   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
+|    18   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
 
 
 # **Aplikasi AI Kreatif & Eksploratori**
@@ -91,10 +92,10 @@ Mula-mula minta pengguna memuat naik imej dan kemudian hasilkan figurine berskal
 
 | **No.** | **Aktiviti**                                                                                                                | **Penerangan**                                                                                                      |
 | :-----: | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-|    18   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
-|    19   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
-|    20   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
-|    21   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
+|    19   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
+|    20   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
+|    21   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
+|    22   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
 
 # **Maklumat Tambahan**
 
