@@ -24,6 +24,11 @@ Phase 3 audits the alignment chain across Chapters 1 to 5 and turns insight into
 
 By the end of the workshop, participants will leave with sharper problem statements, stronger literature strategies, more defensible methodologies, a personal prompt library, and a clear plan for moving forward. The promise of the day is simple: hands-on, focused, impactful, and grounded in a single truth. AI did not earn your PhD. You will.
 
+## AI Tools
+
+| No. | Topic                                              | File | 
+|----: |----------------------------------------------------|------|
+| 1.   | Slides |  <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 
 
 ## Topic
