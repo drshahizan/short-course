@@ -28,7 +28,7 @@ By the end of the workshop, participants will leave with sharper problem stateme
 
 | No. | Topic                                              | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Slide presentation |  <a href="" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
+| 1.   | Slide presentation |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDA3zTJCgfhRY-XqVhNKvvMARecYObJ5_rE8sF3yax2aKo?e=QT1jSO" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 | 2.   | Notes |  <a href="" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 | 2.   | Worksheet |  <a href="" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 
