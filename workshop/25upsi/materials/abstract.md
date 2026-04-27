@@ -7,7 +7,7 @@
 
 ## Abstract Writing Template (PIMPAC): A Clear Structure for Your Research
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/abstract.jpeg" alt="Image Alt Text"  height="600">
+ <img src="../images/abstract.jpeg" alt="Image Alt Text"  height="600">
 
 Master the **PIMPAC framework** to craft concise, structured, and impactful abstracts that effectively communicate your research. Each component is designed to address key aspects of your study and its significance.
 
