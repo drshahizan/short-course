@@ -7,7 +7,7 @@
 
 # Mastering the Art of a PhD Thesis Introduction: A Step-by-Step Guide
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/c1intro.jpg" alt="Image Alt Text"  height="500">
+ <img src="../images/c1intro.jpg" alt="Image Alt Text"  height="500">
 
 An effective introduction is the foundation of a strong PhD thesis. It sets the context for your research, highlights its importance, and outlines your objectives. Below are the steps to craft a great introduction, tailored for **Computer Science**.
 
