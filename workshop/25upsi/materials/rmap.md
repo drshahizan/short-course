@@ -7,7 +7,7 @@
 
 # Research MAP: A Detailed Guide to Structuring Your Research Process
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rmap.jpeg" alt="Image Alt Text"  height="500">
+ <img src="../images/rmap.jpeg" alt="Image Alt Text"  height="500">
 
 The Research MAP serves as a visual and systematic framework to guide researchers through each phase of the research process, from identifying problems to making actionable recommendations.
 
