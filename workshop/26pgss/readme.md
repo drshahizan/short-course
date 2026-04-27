@@ -8,6 +8,10 @@
 
 # Hands-On AI Tools for Academic Research
 
+<p align="center">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss/images/PGSS%20ai.jpeg"  height="500">
+</p>
+
 **Synopsis**
 
 This three-hour postgraduate workshop introduces PhD and Master students in Computer Science to a disciplined, ethical, and practical way of using AI tools in their research. Conducted by Assoc Prof Dr Mohd Shahizan Othman on 29 April 2026 at the School of Postgraduate Studies, UTM, the session is built on a single guiding principle: AI is your research sparring partner, not your ghostwriter. Participants will learn how to use AI for critique and refinement of their own thinking, never for generating thesis content.
@@ -19,9 +23,8 @@ Phase 2 takes participants through hands-on construction of the three core thesi
 Phase 3 audits the alignment chain across Chapters 1 to 5 and turns insight into action. Participants run a Devil's Advocate or Noble Examiner audit to expose weak links in their argument, complete the PhD Readiness Checklist across four pillars (foundation, synthesis, methodology, integration), and apply the Sting Test to identify which AI critique most deserves a revision. The session closes with a four-week action plan and a clear framework for the ethical use of AI in postgraduate research, anchored on transparency, accountability, and integrity.
 
 By the end of the workshop, participants will leave with sharper problem statements, stronger literature strategies, more defensible methodologies, a personal prompt library, and a clear plan for moving forward. The promise of the day is simple: hands-on, focused, impactful, and grounded in a single truth. AI did not earn your PhD. You will.
-<p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/UPSI_c1_2025.jpeg"  height="500">
-</p>
+
+
 
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/ontime.md)
