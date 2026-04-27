@@ -6,10 +6,19 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# Mastering Chapter 1: Tools and Techniques for Crafting a Strong Thesis Introduction
+# Hands-On AI Tools for Academic Research
 
-The workshop is designed to help postgraduate students and researchers develop a compelling and well-structured introduction for their theses. The session will cover essential tools, techniques, and strategies to effectively set the foundation of a thesis by addressing key components such as the research background, problem statement, objectives, and significance of the study. Led by **Assoc. Prof. Dr. Mohd Shahizan Bin Othman**, an experienced lecturer from Universiti Teknologi Malaysia (UTM), the workshop will provide actionable insights and practical guidance for academic writing. Participants will gain the skills necessary to craft a persuasive and impactful first chapter that aligns with academic standards. Scheduled to take place on **11th January 2025 (Saturday)**, the workshop will run from **9:30 AM to 12:30 PM** and will be conducted online via **Google Meet**. This session is ideal for students at any stage of their thesis journey, offering a unique opportunity to learn from an expert in the field. 
+**Synopsis**
 
+This three-hour postgraduate workshop introduces PhD and Master students in Computer Science to a disciplined, ethical, and practical way of using AI tools in their research. Conducted by Assoc Prof Dr Mohd Shahizan Othman on 29 April 2026 at the School of Postgraduate Studies, UTM, the session is built on a single guiding principle: AI is your research sparring partner, not your ghostwriter. Participants will learn how to use AI for critique and refinement of their own thinking, never for generating thesis content.
+
+The workshop is organised into three integrated phases. Phase 1 establishes the philosophy, the three commitments (critique only, verify everything, defend every revision in your own words), and the distinct roles of the three core tools used throughout the session: Scopus AI for discovering and verifying literature, NotebookLM for organising and synthesising knowledge, and Google Gemini (or any general-purpose AI chatbot) for critique, refinement, and stress-testing arguments. Participants also learn the 30-Paper Method, a focused literature strategy built on 5 foundational pillars, 15 niche exploration papers, and 10 current-frontier studies.
+
+Phase 2 takes participants through hands-on construction of the three core thesis chapters. For Chapter 1, the focus is on sharpening the problem statement, verifying the research gap with evidence, and articulating a novel, specific, and verifiable contribution. For Chapter 2, the emphasis shifts from descriptive review to critical synthesis using the five pillars of a powerful literature review and a synthesis matrix grounded in deep reading. For Chapter 3, participants justify their methodology along three dimensions (method, dataset, and metrics) using ready-to-use critique prompts.
+
+Phase 3 audits the alignment chain across Chapters 1 to 5 and turns insight into action. Participants run a Devil's Advocate or Noble Examiner audit to expose weak links in their argument, complete the PhD Readiness Checklist across four pillars (foundation, synthesis, methodology, integration), and apply the Sting Test to identify which AI critique most deserves a revision. The session closes with a four-week action plan and a clear framework for the ethical use of AI in postgraduate research, anchored on transparency, accountability, and integrity.
+
+By the end of the workshop, participants will leave with sharper problem statements, stronger literature strategies, more defensible methodologies, a personal prompt library, and a clear plan for moving forward. The promise of the day is simple: hands-on, focused, impactful, and grounded in a single truth. AI did not earn your PhD. You will.
 <p align="center">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/UPSI_c1_2025.jpeg"  height="500">
 </p>
