@@ -7,7 +7,7 @@
 
 # How to Pick a Winning Research Topic
 
- <img src="https://github.com/drshahizan/short-course/blob/main/25upsi/images/rt.jpeg" alt="Image Alt Text"  height="500">
+ <img src="../images/rt.jpeg" alt="Image Alt Text"  height="500">
 
 Choosing the right research topic is critical to the success of your academic journey. Here’s a step-by-step guide to selecting a topic that’s impactful, practical, and aligned with your interests and goals.
 
