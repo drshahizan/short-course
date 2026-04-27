@@ -28,15 +28,15 @@ By the end of the workshop, participants will leave with sharper problem stateme
 
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](./materials/ontime.md)
-- [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials//survive.md)
-- [Research MAP: A Detailed Guide to Structuring Your Research Process](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/rmap.md)
-- [Mastering the Art of a PhD Thesis Introduction: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/c1intro.md)
-- [Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/ww.md)
-- [Discover Essential AI Tools Transforming Every Step of the Research Process](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/ai_research.md)
-- [Abstract Writing Template (PIMPAC): A Clear Structure for Your Research](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/abstract.md)
+- [How to Survive and Ace Your PhD Thesis](./materials//survive.md)
+- [Research MAP: A Detailed Guide to Structuring Your Research Process](./materials/rmap.md)
+- [Mastering the Art of a PhD Thesis Introduction: A Step-by-Step Guide](./materials/c1intro.md)
+- [Mastering the "Why-What" Sequence: A Step-by-Step Guide for Your Thesis](./materials/ww.md)
+- [Discover Essential AI Tools Transforming Every Step of the Research Process](./materials/ai_research.md)
+- [Abstract Writing Template (PIMPAC): A Clear Structure for Your Research](./materials/abstract.md)
 - [Research Gap](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/rgap.md)
-- [Crafting the Perfect Research Question: A Step-by-Step Guide](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/rq.md)
-- [How to Pick a Winning Research Topic](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/rt.md)
+- [Crafting the Perfect Research Question: A Step-by-Step Guide](./materials/rq.md)
+- [How to Pick a Winning Research Topic](./materials/rt.md)
 
 ## Github
 - **[Research Design and Analysis in Data Science](https://github.com/drshahizan/research-design)**
