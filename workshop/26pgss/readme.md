@@ -23,23 +23,6 @@ By the end of the workshop, participants will leave with sharper problem stateme
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/image/UPSI_c1_2025.jpeg"  height="500">
 </p>
 
-## Picture
-
-<img src="images/upsi1.jpeg" alt="Shahizan UTM"  height="350">
-
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/upsi2.jpeg" alt="Shahizan UTM"  height="200">
-</a>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/upsi3.jpeg" alt="Shahizan UTM"  height="200">
-</a><br>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/upsi4.jpeg" alt="Shahizan UTM"  height="200">
-</a>
-<a href="https://github.com/drshahizan/short-course/tree/main/25upsi">
-<img src="images/upsi5.jpeg" alt="Shahizan UTM"  height="200">
-</a>
-
 ## Topic
 - [Complete Your PhD in 3 Years Using REWARDS Framework](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials/ontime.md)
 - [How to Survive and Ace Your PhD Thesis](https://github.com/drshahizan/short-course/blob/main/workshop/25upsi/materials//survive.md)
