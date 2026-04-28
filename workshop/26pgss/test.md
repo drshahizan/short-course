@@ -17,7 +17,7 @@
   <a href="#ai-tools">AI Tools</a>
 </p>
 
----
+
 
 ## Workshop Details
 
@@ -31,7 +31,7 @@
 | **Audience** | PhD and Master students in Computer Science and related fields |
 | **Format** | Three-hour hands-on session with three integrated phases |
 
----
+
 
 ## Synopsis
 
@@ -45,7 +45,7 @@ The workshop is organised into three integrated phases. **Phase 1** establishes 
 
 By the end of the workshop, participants will leave with sharper problem statements, stronger literature strategies, more defensible methodologies, a personal prompt library, and a clear plan for moving forward. The promise of the day is simple: hands-on, focused, impactful, and grounded in a single truth. **AI did not earn your PhD. You will.**
 
----
+
 
 ## Workshop Structure
 
@@ -55,7 +55,7 @@ By the end of the workshop, participants will leave with sharper problem stateme
 | **Phase 2** | Building the Thesis (Chapters 1, 2, 3) | Sharpen problem and gap, move from description to critical synthesis, justify method, dataset, and metrics |
 | **Phase 3** | Integration and Alignment | Audit the alignment chain, complete the PhD Readiness Checklist, build a four-week action plan |
 
----
+
 
 ## Materials
 
@@ -66,7 +66,7 @@ By the end of the workshop, participants will leave with sharper problem stateme
 | 3 | Worksheet 1: Hands-On PhD Worksheet | <a href="https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/IQD8zKSC5g8WSZICPSlxC6ihAWld1-qc2sF-DWAh-68o3EA?e=Xs2Izf"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
 | 4 | Worksheet 2: AI Prompt Bank (Scopus AI, NotebookLM, Gemini) | <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAefX2YZ1hjQZx4YNCLWiuUAaTqKkik5xFk5306Ka1-fLk?e=NbUTWd"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
 
----
+
 
 ## Further Reading
 
@@ -83,7 +83,7 @@ These guides expand on the topics covered in the workshop and are useful for pos
 - [Crafting the Perfect Research Question: A Step-by-Step Guide](./materials/rq.md)
 - [How to Pick a Winning Research Topic](./materials/rt.md)
 
----
+
 
 ## Related Repositories
 
@@ -96,7 +96,7 @@ A curated set of companion repositories that extend the ideas in this workshop.
 - **[AI Tools for Researchers](https://drshahizan.gitbook.io/ai-tools/)** &mdash; A collection of AI tools and resources compiled to support researchers across data science and machine learning tasks.
 - **[Obsidian.md for Academic Writing](https://github.com/drshahizan/obsidian)** &mdash; Tools and tips for using Obsidian.md to enhance academic writing and research.
 
----
+
 
 ## AI Tools
 
@@ -111,7 +111,7 @@ A reference shelf of curated AI tools that complement the workshop. Each entry l
 | 5 | **Paper Visualisation** | Visualise research papers and their connections to understand complex relationships between academic works. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
 | 6 | **Citation Management** | Manage citations efficiently. Track references, generate bibliographies, and ensure accurate citations across your thesis. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
 
----
+
 
 ## The Three Tools at a Glance
 
@@ -121,7 +121,7 @@ A reference shelf of curated AI tools that complement the workshop. Each entry l
 | **NotebookLM** | Organise and synthesise | Mapping themes, comparing claims, surfacing patterns across uploaded papers |
 | **Google Gemini** | Critique and refine | Stress-testing arguments, simulating examiners, surfacing weaknesses and inconsistencies |
 
----
+
 
 ## The Golden Rule
 
@@ -131,7 +131,7 @@ A reference shelf of curated AI tools that complement the workshop. Each entry l
 >
 > Tools do not think. You do.
 
----
+
 
 <p align="center">
   <em>Hands-on. Focused. Impactful.</em><br>
