@@ -59,7 +59,7 @@ By the end of the workshop, participants will leave with sharper problem stateme
 | Phase | Focus | Outcomes |
 |------:|-------|----------|
 | **1** | Foundations and Tool Selection | Internalise the sparring-partner mindset, the three commitments, and match each tool to the right task |
-| **2** | Building the Thesis (Chapters 1, 2, 3) | Sharpen problem and gap, move from description to critical synthesis, justify method, dataset, and metrics |
+| **2** | Building the Thesis | Sharpen problem and gap, move from description to critical synthesis, justify method, dataset, and metrics |
 | **3** | Integration and Alignment | Audit the alignment chain, complete the PhD Readiness Checklist, build a four-week action plan |
 
 ## Materials
