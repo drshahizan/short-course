@@ -31,7 +31,7 @@ By the end of the workshop, participants will leave with sharper problem stateme
 | 1.   | Slide presentation |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDA3zTJCgfhRY-XqVhNKvvMARecYObJ5_rE8sF3yax2aKo?e=QT1jSO" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 | 2.   | Notes |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAKS9jE2xovQrH0KDZSQxtDAU8u5PR99FBVvE9LSvT4e5w?e=jTLSdl" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 | 3.   | Worksheet 1 |  <a href="https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/IQD8zKSC5g8WSZICPSlxC6ihAWld1-qc2sF-DWAh-68o3EA?e=Xs2Izf" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Worksheet: AI_Prompt |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAefX2YZ1hjQZx4YNCLWiuUAaTqKkik5xFk5306Ka1-fLk?e=NbUTWd" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
+| 4.   | Worksheet: AI_Prompt |  <a href="https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAefX2YZ1hjQZx4YNCLWiuUAaTqKkik5xFk5306Ka1-fLk?e=NbUTWd" ><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px" ></a> |
 
 
 ## Others
