@@ -5,100 +5,84 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Public Lecture: AI for Adaptive Learning in Higher Education
 
-# Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema/images/AI_hema.jpeg"  height="500">
- </p>
+  <img src="https://raw.githubusercontent.com/drshahizan/phd/main/images/public_lecture_ai.jpg" height="500">
+</p>
 
-## Sinopsis
+<p align="center">
+  <em>Harnessing AI to personalise learning, empower students, and transform higher education.</em>
+</p>
 
-Kursus ini direka bagi memperkasakan peserta dengan kefahaman dan kemahiran praktikal dalam memanfaatkan teknologi Kecerdasan Buatan (AI), khususnya Generative AI seperti ChatGPT dan pelbagai aplikasi AI terkini. Dalam era transformasi digital yang pesat, AI bukan lagi pilihan tetapi keperluan strategik untuk meningkatkan kecekapan, ketepatan dan daya saing organisasi. Kursus ini memberi tumpuan kepada penggunaan AI dalam tugasan harian seperti penulisan dokumen rasmi, penyediaan laporan, analisis data, ringkasan maklumat, penyediaan slaid pembentangan, serta sokongan kepada proses membuat keputusan. Peserta akan mempelajari teknik arahan (prompting) yang berkesan bagi memastikan hasil yang tepat, relevan dan berkualiti tinggi.
-
-Melalui pendekatan demonstrasi dan latihan amali (hands-on), peserta berpeluang mengaplikasikan AI secara terus dalam konteks kerja sebenar. Kursus ini juga menekankan aspek penggunaan AI secara bertanggungjawab, beretika dan selamat selaras dengan keperluan tadbir urus organisasi. Pada akhir kursus, peserta dijangka mampu mengintegrasikan ChatGPT dan aplikasi AI lain sebagai pembantu digital yang efektif untuk meningkatkan produktiviti, mempercepatkan penyampaian kerja serta menyokong kecemerlangan organisasi dalam era Revolusi AI.
-
-## Tentatif Program
-
-| Masa | Slot | Kandungan |
-|-----|------|-----------|
-| **8.30 – 9.00 pagi** | **Pendaftaran** | Kehadiran peserta dan persediaan teknikal |
-| **9.00 – 9.30 pagi** | **Sesi 1: Pengenalan kepada Kepintaran Buatan dan Generatif AI** | - Konsep asas AI dan Generative AI <br> - Trend semasa serta impaknya kepada organisasi <br> - AI sebagai pemangkin produktiviti |
-| **9.30 – 10.15 pagi** | **Sesi 2: AI Tools untuk Produktiviti** | - Pengenalan ChatGPT, Copilot, Gemini, Qwen, DeepSeek, Kimi dan NotebookLM <br> - Demonstrasi penggunaan AI tools <br> - Teknik penulisan prompt yang berkesan|
-| **10.15 – 10.30 pagi** | **Rehat** |  |
-| **10.30 – 11.30 pagi** | **Sesi 3: Automasi Tugasan Pejabat** | - Penulisan memo dan emel rasmi menggunakan AI <br> - Penyediaan minit mesyuarat secara automatik <br> - Ringkasan laporan dengan bantuan AI |
-| **11.30 – 12.15 tengah hari** | **Sesi 4: Analisis Data dan Sokongan Keputusan** | - Analisis data CSV dan visualisasi asas <br> - Pengenalan forecasting menggunakan AI <br> - Pendekatan *data-driven decision making* |
-| **12.15 – 12.55 tengah hari** | **Sesi 5: Aplikasi Lanjutan dan Integrasi AI** | - Analisis dokumen menggunakan NotebookLM / Copilot <br> - Analisis imej dan data CSV menggunakan AI |
-| **12.55 – 1.00 tengah hari** | **Rumusan dan Penutup** | - Refleksi peserta <br> - Sesi soal jawab |
-
-## Bahan Pengajaran
-
-| No | Jenis              | Topik |
-| -- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. | Slaid              | 1. [Pengenalan kepada Kepintaran Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCcz0b98v7oRLVTkyWbV-QSAez3B2YupiPWEIphgj_1z3c?e=gWjf9a) <br> 2. [Pengenalan kepada Generatif AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCoA1k-ZUZxSo0NhW1vecNsASDqQT-RqwfOzIffgbtFuYY?e=G2Ko9p) <br> 3. [Penyediaan Slaid Pembentangan Korporat](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCXLZGo6MdaT6Coer1VrlNWAXa586gBphxTX5CaF6kUeWM?e=qJ2uax) <br> 4. [Video: Penggunaan AI untuk menghasilkan video ](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQAq8nM1mMrFSq8AOHqVhLDUARxqFB-tHlMG0A-_fuMT6Zw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpDwmw)<br> 5. [Dokumen: Transformasi Strategik Pembentangan Korporat](https://liveutm-my.sharepoint.com/:w:/g/personal/shahizan_live_utm_my/IQC0DOZDydiTQrdvPTP7yAqJAVbRxwJUqsFw0sP6GWVMII8?e=IvOrTy) |
-| 2. | Panduan Pemasangan | [ChatGPT, Copilot, Gemini](./materials/signin.md) |
-| 3. | Aplikasi AI        | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) <br>[Google Slides](https://docs.google.com/presentation/create)|
+<p align="center">
+  <a href="#synopsis">Synopsis</a> &nbsp;&middot;&nbsp;
+  <a href="#event-details">Event Details</a> &nbsp;&middot;&nbsp;
+  <a href="#key-topics">Key Topics</a> &nbsp;&middot;&nbsp;
+  <a href="#materials">Materials</a> &nbsp;&middot;&nbsp;
+  <a href="#further-reading">Further Reading</a> &nbsp;&middot;&nbsp;
+  <a href="#ai-tools">AI Tools</a>
+</p>
 
 
-# **Aktiviti Hands-On**
+## Event Details
 
-## **Latihan AI Gunaan**
+| | |
+|---|---|
+| **Event** | Public Lecture |
+| **Title** | The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students |
+| **Speaker** | Assoc. Prof. Dr. Mohd Shahizan Bin Othman |
+| **Moderator** | Shelly Pramudiawardani, S.T., M.Kom. |
+| **Date** | Monday, 11 May 2026 |
+| **Time** | 13:00 – 15:00 WIB |
+| **Venue** | Hybrid (Online & Physical Session) |
+| **Organiser** | Sekolah Tinggi Teknologi Terpadu Nurul Fikri (STT-NF) |
+| **Collaborator** | Universiti Teknologi Malaysia (UTM) |
+| **Audience** | University students, educators, researchers, and professionals in AI and education |
 
-| **No.** | **Aktiviti**                                                                                                                                             | **Penerangan**                                                                                             |
-| :-----: | :------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
-|    1    | [Integrasi Generative AI untuk Kecemerlangan Organisasi](./materials/fungsi.md) | Meneroka bagaimana Generative AI dapat meningkatkan kecekapan dan inovasi dalam aliran kerja pentadbiran.  |
-|    2    | [Penggunaan Arahan Generative AI](./materials/latihan2.md) | Mempelajari teknik **prompting AI** yang berkesan untuk automasi tugas dan penjanaan pengetahuan.          |
-|    3    | [Meneroka UTM dan Meningkatkan Produktiviti melalui Analisis Institusi](./materials/latihan3.md)                                                         | Menganalisis data institusi untuk mendapatkan maklumat dan wawasan bermakna menggunakan alat AI.           |
-|    4    | [Analisis Data dan Perancangan Strategik untuk Staf Akademik UTM](./materials/latihan6.md)                                                               | Menggunakan AI untuk perancangan strategik, keputusan berasaskan data dan analisis prestasi staf akademik. |
+## Synopsis
 
+This public lecture explores the transformative role of Artificial Intelligence (AI) in enhancing adaptive learning strategies within higher education. As universities move towards more personalised and student-centered learning environments, AI has emerged as a critical enabler for understanding learner behaviour, tailoring educational content, and improving academic outcomes.
 
-## **Penciptaan Dokumen & Kandungan**
+The session will introduce the fundamental principles of adaptive learning and demonstrate how AI-driven systems can analyse learning data to provide real-time feedback, personalised recommendations, and intelligent tutoring support. Participants will gain exposure to key AI applications such as recommendation engines, learning analytics, and data-driven decision-making in education.
 
-| **No.** | **Aktiviti** | **Penerangan** |
-| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-|    5    | [Prompt Engineering untuk Penghasilan Kandungan & Infografik](./materials/imej.md)     | Menggunakan generative AI untuk menghasilkan prompt infografik dan menjana kandungan |
-|    6    | [Mereka Bentuk Slaid Pembentangan menggunakan Kimi](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/kimi.md) | Menggunakan alat reka bentuk berasaskan AI untuk menghasilkan slaid yang jelas, profesional dan menarik.                    |
-|    7    | [Penyediaan Memo dan Notis](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_11.md)                     | Menjana dan memperkemas memo rasmi, notis dan pekeliling untuk pelbagai saluran komunikasi. |
-|    8    | [Penulisan Cadangan Program Akademik](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_8.md)            | Menggunakan AI untuk membangunkan cadangan atau kertas kerja yang tersusun selaras dengan keperluan institusi.              |
-|    9    | [Perumusan Laporan Akademik Suku Tahunan](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_10.md)       | Menukarkan data mentah kepada laporan suku tahunan yang ringkas dan jelas merangkumi metrik utama, pencapaian dan analisis. |
-|    10   | [Penulisan Emel untuk Pertanyaan Pelajar](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_7.md)        | Berlatih menghasilkan emel profesional dan ringkas bagi menjawab pertanyaan serta permohonan pelajar.                       |
-|    11   | [Penjanaan Minit Mesyuarat](https://github.com/drshahizan/short-course/blob/main/workshop/25ppspace/materials/latihan/p2_9.md)                      | Menukarkan perbincangan mesyuarat kepada minit rasmi yang tersusun dengan tindakan dan tanggungjawab yang jelas. |
+In addition, the lecture will address important considerations including ethical challenges, data privacy, and the future direction of AI integration in higher education. Real-world insights and practical perspectives will be shared to bridge the gap between theory and implementation.
 
-# **Alat Visualisasi & Perancangan**
+By the end of the session, participants will develop a clearer understanding of how AI can be effectively leveraged to create more engaging, efficient, and personalised learning experiences, while maintaining academic integrity and ethical responsibility.
 
-| **No.** | **Aktiviti** | **Penerangan** |
-| :-----: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    12   | [Peta Minda menggunakan Markmap](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/07_markmap.md)                                            | Membina peta minda interaktif untuk memvisualkan, menyusun dan mengorganisasikan idea penyelidikan atau perancangan strategik dengan berkesan.     |
-|    13   | [Carta Alir, Peta Konsep dan Peta Minda menggunakan Whimsical dalam ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/whimsical.md) | Menggunakan Whimsical bersama ChatGPT untuk mereka bentuk carta alir, peta konsep dan peta minda bagi perancangan dan komunikasi yang lebih jelas. |
-|    14   | [Carta Gantt menggunakan ChatGPT](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/ganttchart.md)                                           | Menjana garis masa projek dan pencapaian utama menggunakan carta Gantt bagi merancang dan mengurus tugasan dengan lebih sistematik.                |
+## Key Topics
 
-# **Analisis Data & Peramalan**
-
-| **No.** | **Aktiviti** | **Penerangan** |
-| :-----: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-|    15   | [Peramalan menggunakan DeepSeek](https://github.com/drshahizan/short-course/blob/main/workshop/25idea/materials/latihan/deepseek_prediction.md) | Menggunakan alat peramalan berasaskan AI untuk menganalisis trend data dan menjana ramalan bagi menyokong proses membuat keputusan. |
-|    16   | [Analisis dan Visualisasi Data](./materials/latihan4.md) | Melaksanakan visualisasi data dan pengecaman corak menggunakan alat AI bagi menyokong analisis berasaskan bukti. |
-|    17   | [Peramalan Populasi Malaysia](./materials/latihan5.md) | Menggunakan kaedah berasaskan AI untuk mengunjurkan pertumbuhan populasi serta menganalisis trend demografi. |
+| Topic | Description |
+|------|-------------|
+| **Adaptive Learning** | Understanding personalised learning pathways based on student needs |
+| **AI in Education** | Role of AI in transforming teaching and learning processes |
+| **Learning Analytics** | Using data to monitor, predict, and enhance student performance |
+| **Intelligent Tutoring Systems** | AI-driven systems that simulate one-to-one tutoring |
+| **Ethical Considerations** | Addressing bias, privacy, and responsible AI usage |
+| **Future of AI in HE** | Trends and innovations shaping next-generation education |
 
 
-# **Aplikasi AI Kreatif & Eksploratori**
 
-Mula-mula minta pengguna memuat naik imej dan kemudian hasilkan figurine berskala komersial **1/7** daripada watak dalam imej tersebut dalam gaya realistik dalam persekitaran sebenar. Figurine tersebut diletakkan di atas meja komputer dengan tapak akrilik bulat lutsinar tanpa sebarang teks. Kandungan pada skrin komputer memaparkan proses pemodelan 3D bagi figurine tersebut. Di sebelah skrin komputer terdapat kotak pembungkusan mainan yang direka dalam gaya figura koleksi berkualiti tinggi dan dicetak dengan ilustrasi karya asli dua dimensi.
+## Materials
 
-| **No.** | **Aktiviti**                                                                                                                | **Penerangan**                                                                                                      |
-| :-----: | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
-|    18   | [Analisis Imej menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_untw.md)        | Meneroka keupayaan AI dalam mentafsir dan menganalisis kandungan visual untuk tujuan penyelidikan atau dokumentasi. |
-|    19   | [Analisis Fail CSV menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md) | Menganalisis dan merumuskan data daripada fail CSV menggunakan arahan analitik berasaskan AI.                       |
-|    20   | [Analisis Dokumen menggunakan Copilot](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_copilot.md)  | Menggunakan Microsoft Copilot untuk menyemak, mentafsir dan merumuskan dokumen kompleks.                            |
-|    21   | [Seni Budaya Malaysia](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md)               | Menggabungkan alat AI untuk menghasilkan karya kreatif yang diinspirasikan oleh seni dan budaya Malaysia.           |
+- Lecture Slides (To be shared)
+- Case Studies on AI in Education
+- Sample AI Tools for Adaptive Learning
+- Recommended Research Articles
 
-# **Maklumat Tambahan**
+## Further Reading
 
-| **No** | **Kategori**                          | **Kandungan** | **Fokus** |
-| -----: | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|     1. | **Garis Panduan & Polisi**            | • [Generative AI dalam Pendidikan & Penyelidikan (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/390836may.pdf) <br> • [AI and Education: Guidance for Policy-Makers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/391104eng.pdf) <br> • [AI Competency Framework for Teachers (UNESCO)](https://github.com/drshahizan/short-course/blob/main/workshop/25skkulai/materials/376709eng.pdf) | Garis panduan global dan tempatan berkaitan **penggunaan AI dalam pendidikan dan sektor awam**                   |
-|     2. | **Garis Panduan Nasional (Malaysia)** | • [Pengadaptasian AI dalam Sektor Awam](https://www.jdn.gov.my/garis-panduan-pengadaptasian-ai-sektor-awam/) <br> • [Generative AI dalam Pengajaran & Pembelajaran (Pendidikan Tinggi)](https://cdex-apps.utm.my/files/meipta/GARIS_PANDUAN_PENGGUNAAN_AI.pdf) <br> • [Garis Panduan Generative AI UTM untuk Pengajaran & Pembelajaran](https://cdex-apps.utm.my/files/guidelines/GP-KBG-PP-Terkini-1.pdf)                                                                          | Polisi dan garis panduan berkaitan **penggunaan Generative AI dalam sektor pendidikan dan kerajaan di Malaysia** |
-|     3. | **Trend & Wawasan**                   | [Laporan Minat Global Generative AI 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) | Memahami **trend penggunaan dan minat global terhadap AI** |
-|     4. | **Sumber Pembelajaran Multimedia**    | • [Pengenalan kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) <br> • [Stunning AI Shows How It Would Kill 90% (with Elon Musk)](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw) <br> • [Artificial Intelligence: 60 Minutes](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ) | Sumber pembelajaran berasaskan **video yang menarik** untuk memahami konsep AI, etika dan kesan dunia sebenar    |
+- Holmes, W., Bialik, M., & Fadel, C. (2019). *Artificial Intelligence in Education*
+- Luckin, R. (2018). *Machine Learning and Human Intelligence*
+- Siemens, G., & Baker, R. (2012). *Learning Analytics and Educational Data Mining*
+- UNESCO (2021). *AI and Education: Guidance for Policy-makers*
+
+## AI Tools
+
+- **Google Gemini** – AI-assisted content generation and idea refinement  
+- **NotebookLM** – Knowledge organisation and synthesis  
+- **Scopus AI** – Literature discovery and validation  
+- **ChatGPT / Copilot** – Academic discussion, critique, and refinement  
 
 ### 🙌🏻 Connect with Me
 <p align="left">
