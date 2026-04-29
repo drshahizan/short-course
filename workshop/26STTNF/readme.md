@@ -8,7 +8,7 @@
 # Public Lecture: AI for Adaptive Learning in Higher Education
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drshahizan/phd/main/images/public_lecture_ai.jpg" height="500">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/images/26STTNF.jpeg" height="500">
 </p>
 
 <p align="center">
