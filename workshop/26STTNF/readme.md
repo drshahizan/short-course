@@ -65,7 +65,7 @@ By the end of the session, participants will develop a clearer understanding of 
 
 ## Materials
 
-- Lecture Slides (To be shared)
+- [Lecture Slides](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCbtnWmUNOBSoCFAm36MT-3AbWRErFCrQysDX97sFogyiM?e=lCuQKq)
 - Case Studies on AI in Education
 - Sample AI Tools for Adaptive Learning
 - Recommended Research Articles
