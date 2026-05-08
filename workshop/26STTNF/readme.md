@@ -32,7 +32,7 @@
 | **Event** | Public Lecture |
 | **Title** | The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students |
 | **Speaker** | Assoc. Prof. Dr. Mohd Shahizan Bin Othman |
-| **Moderator** | Shelly Pramudiawardani, S.T., M.Kom. |
+| **Moderator** | Maulana Fakih Latief, S. Si., M. Si.|
 | **Date** | Monday, 11 May 2026 |
 | **Time** | 13:00 – 15:00 WIB |
 | **Venue** | Hybrid (Online & Physical Session) |
