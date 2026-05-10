@@ -26,7 +26,6 @@
 
 ## Event Details
 
-| | |
 |---|---|
 | **Event** | Public Lecture |
 | **Title** | The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students |
@@ -65,10 +64,7 @@ By the end of the session, participants will develop a clearer understanding of 
 ## Materials
 
 - [Lecture Slides](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCbtnWmUNOBSoCFAm36MT-3AbWRErFCrQysDX97sFogyiM?e=lCuQKq)
-- Case Studies on AI in Education
-- Sample AI Tools for Adaptive Learning
-- Recommended Research Articles
-
+- [Case Studies on AI in Education](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAOlIc5ipEPSZZfIwZDuX3JATjPUpjsmDZNdGRATGI-Zws?e=H54pd5)
 
 ## AI Tools
 
