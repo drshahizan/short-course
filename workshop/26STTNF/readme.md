@@ -79,10 +79,16 @@ By the end of the session, participants will develop a clearer understanding of 
 
 ## AI Tools
 
-- **Google Gemini** – AI-assisted content generation and idea refinement  
-- **NotebookLM** – Knowledge organisation and synthesis  
-- **Scopus AI** – Literature discovery and validation  
-- **ChatGPT / Copilot** – Academic discussion, critique, and refinement  
+A reference shelf of curated AI tools that complement the workshop. Each entry links to a dedicated guide.
+
+| No. | Topic | Description | Guide |
+|----:|-------|-------------|:----:|
+| 1 | **Top Computer Science Literature Databases** | Access prominent databases of computer science literature. Explore relevant papers, articles, and research findings across the field. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
+| 2 | **Generative AI Prompts: ChatGPT, Copilot, Gemini** | Generate human-like text from carefully designed prompts. Useful for chat responses, code snippets, and creative drafts that you then critique and rewrite in your own words. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
+| 3 | **Research Gaps** | Identify gaps in existing research and pinpoint areas where further investigation is needed. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
+| 4 | **Paper Discovery** | Discover relevant scholarly articles related to your specific research topic. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
+| 5 | **Paper Visualisation** | Visualise research papers and their connections to understand complex relationships between academic works. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
+| 6 | **Citation Management** | Manage citations efficiently. Track references, generate bibliographies, and ensure accurate citations across your thesis. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md"><img src="https://github.com/drshahizan/ai-tools/blob/main/images/brave-ai.png" width="24px" height="24px"></a> |
 
 ### 🙌🏻 Connect with Me
 <p align="left">
