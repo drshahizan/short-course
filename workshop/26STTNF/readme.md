@@ -20,7 +20,6 @@
   <a href="#event-details">Event Details</a> &nbsp;&middot;&nbsp;
   <a href="#key-topics">Key Topics</a> &nbsp;&middot;&nbsp;
   <a href="#materials">Materials</a> &nbsp;&middot;&nbsp;
-  <a href="#further-reading">Further Reading</a> &nbsp;&middot;&nbsp;
   <a href="#ai-tools">AI Tools</a>
 </p>
 
@@ -70,12 +69,6 @@ By the end of the session, participants will develop a clearer understanding of 
 - Sample AI Tools for Adaptive Learning
 - Recommended Research Articles
 
-## Further Reading
-
-- Holmes, W., Bialik, M., & Fadel, C. (2019). *Artificial Intelligence in Education*
-- Luckin, R. (2018). *Machine Learning and Human Intelligence*
-- Siemens, G., & Baker, R. (2012). *Learning Analytics and Educational Data Mining*
-- UNESCO (2021). *AI and Education: Guidance for Policy-makers*
 
 ## AI Tools
 
