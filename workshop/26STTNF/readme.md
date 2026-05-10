@@ -25,7 +25,7 @@
 
 
 ## Event Details
-
+|||
 |---|---|
 | **Event** | Public Lecture |
 | **Title** | The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students |
