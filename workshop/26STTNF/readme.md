@@ -62,12 +62,12 @@ This lecture is suitable for educators, university students, researchers, academ
 | **Ethical Considerations** | Addressing bias, privacy, and responsible AI usage |
 | **Future of AI in HE** | Trends and innovations shaping next-generation education |
 
-
-
 ## Materials
 
 - [Lecture Slides](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCbtnWmUNOBSoCFAm36MT-3AbWRErFCrQysDX97sFogyiM?e=lCuQKq)
 - [Case Studies on AI in Education](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAOlIc5ipEPSZZfIwZDuX3JATjPUpjsmDZNdGRATGI-Zws?e=H54pd5)
+
+[NotebookLM](https://notebooklm.google/)
 
 ## AI Tools
 
