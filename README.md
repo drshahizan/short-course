@@ -11,6 +11,12 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/images/26STTNF.jpeg" alt="Dr Shahizan AI"  height="400">
 
 ## 🌍 Workshops and Courses: Year 2026
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/images/26STTNF.jpeg" alt="Dr Shahizan AI"  height="200">
+
+ <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss/images/PGSS%20ai.jpeg" alt="Dr Shahizan AI"  height="200">
+ 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
