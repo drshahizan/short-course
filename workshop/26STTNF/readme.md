@@ -42,17 +42,17 @@
 
 ## Synopsis
 
-**The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students** is a public lecture that explores how Artificial Intelligence (AI) is transforming higher education through adaptive and personalized learning approaches. The session introduces the evolution of AI, beginning with early systems such as ELIZA and progressing toward modern Generative AI technologies including ChatGPT, Google Gemini, NotebookLM, Claude.ai, and Scopus AI. 
+## Synopsis
 
-The lecture highlights the growing importance of AI in the digital economy and examines the landscape of AI technologies, national AI strategies in Southeast Asia, and the increasing adoption of Generative AI across industries and educational environments. Special attention is given to the Indonesian higher education context, where AI technologies are increasingly used to address educational challenges across diverse institutions and geographical regions. 
+Artificial Intelligence (AI) is rapidly transforming the landscape of higher education, creating new opportunities for more personalized, engaging, and effective learning experiences. This public lecture explores how AI technologies can support adaptive learning strategies for university students, particularly in the context of modern higher education environments.
 
-Participants will gain an understanding of adaptive learning concepts, including how AI systems utilize learning analytics, predictive modeling, intelligent tutoring systems, and personalized recommendations to support student success. The lecture also compares traditional learning approaches with adaptive learning environments that provide flexible pacing, continuous feedback, and learner-centered experiences. 
+The session will introduce the evolution of AI, from early intelligent systems to the rise of Generative AI technologies such as ChatGPT, Google Gemini, NotebookLM, Claude.ai, and Scopus AI. Participants will gain insights into how these tools can enhance learning, research, academic writing, critical thinking, and student engagement through personalized and adaptive approaches.
 
-In addition, the session demonstrates practical applications of widely used AI tools such as NotebookLM, Google Gemini, ChatGPT, and Claude.ai in academic workflows. Real-world case studies involving Indonesian university students from areas such as Computer Science and Business Digital are presented to illustrate how AI can improve learning efficiency, critical thinking, engagement, research, writing, and academic performance. 
+The lecture will also highlight practical applications of AI in education, including intelligent tutoring systems, learning analytics, automated feedback, and AI-powered academic support. Real-world examples and case studies from Indonesian higher education institutions will be presented to demonstrate how AI can improve student learning experiences and academic performance.
 
-The lecture also addresses ethical considerations and challenges associated with AI adoption in education, including academic integrity, over-reliance on AI, data privacy, algorithmic bias, and the digital divide. Recommendations are provided for universities, educators, and students to ensure responsible, ethical, and effective AI integration in higher education. 
+In addition, the session will discuss important ethical considerations surrounding AI adoption in education, including academic integrity, responsible AI usage, and the role of educators in an AI-driven learning ecosystem.
 
-Overall, this lecture aims to empower educators and students to leverage AI as a learning partner rather than a replacement for human intelligence. It emphasizes that AI should be used to enhance learning experiences, improve accessibility, and support lifelong learning while maintaining human values, critical thinking, and academic integrity. 
+This lecture is suitable for educators, university students, researchers, academic administrators, and anyone interested in understanding the future of AI-enhanced higher education. 
 
 
 ## Key Topics
