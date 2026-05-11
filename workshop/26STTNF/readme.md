@@ -67,7 +67,12 @@ This lecture is suitable for educators, university students, researchers, academ
 - [Lecture Slides](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCbtnWmUNOBSoCFAm36MT-3AbWRErFCrQysDX97sFogyiM?e=lCuQKq)
 - [Case Studies on AI in Education](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAOlIc5ipEPSZZfIwZDuX3JATjPUpjsmDZNdGRATGI-Zws?e=H54pd5)
 
-[NotebookLM](https://notebooklm.google/)
+[*NotebookLM*](https://notebooklm.google/)
+- [Infographic 1](https://liveutm-my.sharepoint.com/:i:/g/personal/shahizan_live_utm_my/IQDa6sdW55LJSJRDqJ8aHUVEAdH0dzEmi_USev03vOY2fjg?e=HPRnqN)
+- [Infographic 2](https://liveutm-my.sharepoint.com/:i:/g/personal/shahizan_live_utm_my/IQCLH2Ai4RaoSZ0B8PEFGtwkAUdVkI25lWGdCJELVdpbNrs?e=Ow2XFd)
+- [Slide](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/IQBPtelqOnCSQoCICuu7JFoZAY_JYwv9U08dIsBJkCriqF0?e=7LKpcy)
+- [Video 1](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQCXggSwUAZ-Qp0U56twt2C4AaZGKC05n1Oc8VWeqGZSEyM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bYx6iG)
+- [Video 2](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQCdGwsnq4Z7QYjUGpfWZlIIAW0xBJOb5YPHq4LSMiuiqJY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hu1Vp5)
 
 ## AI Tools
 
