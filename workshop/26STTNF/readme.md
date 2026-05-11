@@ -40,10 +40,6 @@
 
 ## Synopsis
 
-## Synopsis
-
-## Synopsis
-
 Artificial Intelligence (AI) is rapidly transforming the landscape of higher education, creating new opportunities for more personalized, engaging, and effective learning experiences. This public lecture explores how AI technologies can support adaptive learning strategies for university students, particularly in the context of modern higher education environments.
 
 The session will introduce the evolution of AI, from early intelligent systems to the rise of Generative AI technologies such as ChatGPT, Google Gemini, NotebookLM, and Claude.ai. Participants will gain insights into how these tools can enhance learning, research, academic writing, critical thinking, and student engagement through personalized and adaptive approaches.
