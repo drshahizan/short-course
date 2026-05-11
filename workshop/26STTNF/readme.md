@@ -73,7 +73,6 @@ This lecture is suitable for educators, university students, researchers, academ
 - [Slide](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/IQBPtelqOnCSQoCICuu7JFoZAY_JYwv9U08dIsBJkCriqF0?e=7LKpcy)
 - [Video 1](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQCXggSwUAZ-Qp0U56twt2C4AaZGKC05n1Oc8VWeqGZSEyM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bYx6iG)
 - [Video 2](https://liveutm-my.sharepoint.com/:v:/g/personal/shahizan_live_utm_my/IQCdGwsnq4Z7QYjUGpfWZlIIAW0xBJOb5YPHq4LSMiuiqJY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Hu1Vp5)
-- [Case study](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/IQA3ieesAaHqQYzZgp6xblHGAfE27Ym3V_T1FPABoNLhKEc?e=f6neeO)
 
 ## AI Tools
 
