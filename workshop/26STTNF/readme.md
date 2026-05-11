@@ -40,13 +40,20 @@
 
 ## Synopsis
 
-This public lecture explores the transformative role of Artificial Intelligence (AI) in enhancing adaptive learning strategies within higher education. As universities move towards more personalised and student-centered learning environments, AI has emerged as a critical enabler for understanding learner behaviour, tailoring educational content, and improving academic outcomes.
+## Synopsis
 
-The session will introduce the fundamental principles of adaptive learning and demonstrate how AI-driven systems can analyse learning data to provide real-time feedback, personalised recommendations, and intelligent tutoring support. Participants will gain exposure to key AI applications such as recommendation engines, learning analytics, and data-driven decision-making in education.
+**The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students** is a public lecture that explores how Artificial Intelligence (AI) is transforming higher education through adaptive and personalized learning approaches. The session introduces the evolution of AI, beginning with early systems such as ELIZA and progressing toward modern Generative AI technologies including ChatGPT, Google Gemini, NotebookLM, Claude.ai, and Scopus AI. 
 
-In addition, the lecture will address important considerations including ethical challenges, data privacy, and the future direction of AI integration in higher education. Real-world insights and practical perspectives will be shared to bridge the gap between theory and implementation.
+The lecture highlights the growing importance of AI in the digital economy and examines the landscape of AI technologies, national AI strategies in Southeast Asia, and the increasing adoption of Generative AI across industries and educational environments. Special attention is given to the Indonesian higher education context, where AI technologies are increasingly used to address educational challenges across diverse institutions and geographical regions. 
 
-By the end of the session, participants will develop a clearer understanding of how AI can be effectively leveraged to create more engaging, efficient, and personalised learning experiences, while maintaining academic integrity and ethical responsibility.
+Participants will gain an understanding of adaptive learning concepts, including how AI systems utilize learning analytics, predictive modeling, intelligent tutoring systems, and personalized recommendations to support student success. The lecture also compares traditional learning approaches with adaptive learning environments that provide flexible pacing, continuous feedback, and learner-centered experiences. 
+
+In addition, the session demonstrates practical applications of widely used AI tools such as NotebookLM, Google Gemini, ChatGPT, and Claude.ai in academic workflows. Real-world case studies involving Indonesian university students from areas such as Computer Science and Business Digital are presented to illustrate how AI can improve learning efficiency, critical thinking, engagement, research, writing, and academic performance. 
+
+The lecture also addresses ethical considerations and challenges associated with AI adoption in education, including academic integrity, over-reliance on AI, data privacy, algorithmic bias, and the digital divide. Recommendations are provided for universities, educators, and students to ensure responsible, ethical, and effective AI integration in higher education. 
+
+Overall, this lecture aims to empower educators and students to leverage AI as a learning partner rather than a replacement for human intelligence. It emphasizes that AI should be used to enhance learning experiences, improve accessibility, and support lifelong learning while maintaining human values, critical thinking, and academic integrity. 
+
 
 ## Key Topics
 
