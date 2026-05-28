@@ -8,6 +8,8 @@
 
 # The Integration of AI Tools in Postgraduate Computer Science Studies
 
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25binus/images/Binus2025.jpeg" alt="Image Alt Text"  height="400">
+
 ## Synopsis
 
 This workshop is designed to explore the transformative role of Artificial Intelligence (AI) tools in enhancing postgraduate research and academic development within the field of Computer Science. With the rapid emergence of AI-powered platforms such as ChatGPT, Gemini, Copilot, and other specialized research assistants, postgraduate students are now able to streamline complex research tasks, from literature review to data analysis and academic writing.
