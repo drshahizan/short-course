@@ -11,15 +11,25 @@
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Shahizan SLR"  height="400">
 
 
-## **Sinopsis Kursus**
+## Sinopsis Kursus
 
-Kursus **Kecerdasan Buatan untuk Pengajaran dan Pembelajaran** dirangka bagi memberi pendedahan menyeluruh kepada pendidik tentang konsep, aplikasi dan potensi penggunaan teknologi AI dalam konteks pendidikan masa kini. Kursus ini menekankan penggunaan **Generative AI** sebagai alat sokongan untuk meningkatkan kecekapan pentadbiran, kualiti pengajaran, serta keberkesanan penyampaian bahan pembelajaran.
+**Kursus Kecerdasan Buatan (AI) untuk Guru-Guru Sekolah di Pasir Gudang, Johor** direka untuk memperkenalkan konsep dan aplikasi kecerdasan buatan (AI) dalam konteks pendidikan serta pentadbiran sekolah. Kursus ini memberi pendedahan kepada peserta mengenai penggunaan Generative AI bagi meningkatkan produktiviti, mempercepatkan penyediaan dokumen, dan menghasilkan bahan pengajaran yang lebih kreatif dan menarik.
 
-Sepanjang kursus, peserta akan diperkenalkan kepada asas AI dan etika penggunaannya dalam pendidikan, diikuti dengan aplikasi praktikal AI dalam tugasan pentadbiran sekolah seperti penulisan surat rasmi, laporan, kertas kerja dan minit mesyuarat. Kursus ini turut memberi penekanan kepada penghasilan bahan multimedia pendidikan termasuk slaid pembentangan, video pembelajaran, infografik dan kandungan digital untuk media sosial pendidikan.
+Sepanjang kursus, peserta akan mempelajari asas-asas AI, penggunaan AI untuk tugas pentadbiran seperti penyediaan surat rasmi, laporan, kertas kerja, dan minit mesyuarat. Selain itu, peserta juga akan didedahkan kepada penggunaan AI dalam penyediaan slaid pembentangan, bahan multimedia, kandungan digital, dan media sosial pendidikan. Kursus ini turut memperkenalkan **Google Gemini** dan **NotebookLM** sebagai alat yang dapat membantu guru dalam penyelidikan, pengurusan maklumat, dan penghasilan kandungan berasaskan sumber yang dipercayai.
 
-Selain itu, peserta akan dibimbing dalam penggunaan AI bagi perancangan PdP, meliputi penyediaan Rancangan Pengajaran Harian (RPH), objektif pembelajaran, aktiviti pengajaran, penilaian serta pembangunan bahan PdP interaktif seperti kuiz, latihan dan soalan beraras tinggi (KBAT). Kursus ini turut memperkenalkan reka bentuk bahan bantu mengajar visual serta demonstrasi pembangunan bot tutor subjek berasaskan AI menggunakan platform Telegram sebagai sokongan pembelajaran kendiri pelajar.
+Melalui pendekatan yang praktikal dan berorientasikan aplikasi sebenar, peserta akan memperoleh kemahiran asas untuk memanfaatkan teknologi AI secara beretika dan berkesan bagi menyokong proses pengajaran, pembelajaran, serta pengurusan sekolah selaras dengan keperluan pendidikan abad ke-21.
 
-Secara keseluruhan, kursus ini bertujuan memperkasakan pendidik dengan kemahiran praktikal dan beretika dalam mengintegrasikan AI ke dalam PdP, sejajar dengan keperluan pendidikan digital dan aspirasi pembangunan inovasi lestari negara.
+### Hasil Pembelajaran Kursus
+
+Pada akhir kursus, peserta akan dapat:
+
+1. Memahami konsep asas dan potensi penggunaan Generative AI dalam pendidikan.
+2. Menggunakan AI untuk membantu tugas pentadbiran dan pengurusan sekolah.
+3. Menghasilkan slaid pembentangan dan bahan multimedia dengan lebih cekap menggunakan AI.
+4. Menghasilkan kandungan digital dan media sosial pendidikan menggunakan Google Gemini.
+5. Menggunakan NotebookLM sebagai alat sokongan penyelidikan, rujukan, dan pengurusan pengetahuan.
+6. Mengaplikasikan AI secara beretika dan bertanggungjawab dalam persekitaran pendidikan.
+
 
 ## [Tentatif Kursus](./materials/tentatif.md)
 
