@@ -8,7 +8,7 @@
 
 # Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26srigading/images/srigading.jpeg" alt="Shahizan SLR"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Shahizan SLR"  height="400">
 
 
 ## **Sinopsis Kursus**
