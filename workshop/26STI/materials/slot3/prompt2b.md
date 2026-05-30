@@ -1,0 +1,153 @@
+<a href="https://github.com/drshahizan/short-course/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/short-course" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/short-course/network/members"><img src="https://img.shields.io/github/forks/drshahizan/short-course" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/short-course/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/short-course" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/short-course"><img src="https://img.shields.io/github/issues/drshahizan/short-course" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+
+
+# 🅱️ SEKSYEN B: POSTER & BANNER SEKOLAH
+
+## B1️⃣ Template Prompt — Poster / Banner Mesyuarat & Taklimat
+
+```
+Anda ialah pegawai pentadbiran sekolah di Malaysia.
+
+Hasilkan poster/banner rasmi sekolah beserta cadangan visual.
+
+Maklumat:
+Tajuk      : [Mesyuarat Guru Bulanan]
+Tarikh     : [Tarikh]
+Masa       : [Masa]
+Tempat     : [Tempat]
+Sasaran    : [Semua guru]
+Arahan     : [Kehadiran WAJIB]
+
+Arahan visual / imej:
+- Gambar guru / bilik mesyuarat (imej generik)
+- Ikon jam, kalendar, lokasi
+- Latar sekolah neutral
+
+Reka bentuk:
+- Tajuk besar dan jelas
+- Ikut Standard Grafik Sekolah Malaysia
+- Sesuai untuk A4 & banner digital
+```
+
+
+
+## B2️⃣ Template Prompt — Poster / Banner Makluman Peperiksaan
+
+```
+Anda ialah pentadbir sekolah.
+
+Hasilkan poster/banner makluman peperiksaan dengan elemen visual pendidikan.
+
+Maklumat:
+Tajuk         : [Peperiksaan Pertengahan Tahun]
+Tahap         : [Rendah / Menengah]
+Tarikh        : [Tempoh]
+Kelas         : [Tahun / Tingkatan]
+Arahan penting: [Contoh: Bawa alat tulis lengkap]
+
+Arahan visual / imej:
+- Gambar pelajar belajar (imej generik)
+- Ikon buku, pensel, jam
+- Elakkan wajah murid sebenar
+
+Reka bentuk:
+- Bersih dan tidak menekan emosi
+- Ikut Standard Grafik Sekolah Malaysia
+```
+
+
+
+## B3️⃣ Template Prompt — Poster / Banner Makluman Ibu Bapa
+
+```
+Anda ialah penyelaras komunikasi sekolah.
+
+Hasilkan poster/banner makluman ibu bapa beserta cadangan visual.
+
+Maklumat:
+Tajuk      : [Hari Bertemu Pelanggan]
+Tarikh     : [Tarikh]
+Masa       : [Masa]
+Tempat     : [Tempat]
+Arahan     : [Contoh: Hadir mengikut slot]
+
+Arahan visual / imej:
+- Gambar ibu bapa & guru berbincang (imej generik)
+- Ikon keluarga / perbincangan
+- Nada visual mesra
+
+Reka bentuk:
+- Bahasa mudah
+- Ikut Standard Grafik Sekolah Malaysia
+```
+
+
+
+## B4️⃣ Template Prompt — Poster / Banner Pengumuman Dalaman Staf
+
+```
+Anda ialah pentadbir sekolah.
+
+Hasilkan poster/banner pengumuman dalaman staf.
+
+Maklumat:
+Tajuk        : [Penggunaan Sistem Baharu]
+Tarikh mula  : [Tarikh]
+Sasaran      : [Guru / Staf]
+Arahan       : [Tindakan diperlukan]
+
+Arahan visual / imej:
+- Gambar komputer / sistem / pejabat sekolah
+- Ikon teknologi pendidikan
+
+Reka bentuk:
+- Profesional dan ringkas
+- Ikut Standard Grafik Sekolah Malaysia
+```
+
+
+
+## B5️⃣ Template Prompt — Poster / Banner Peringatan & Notis Penting
+
+```
+Anda ialah pentadbir sekolah.
+
+Hasilkan poster/banner peringatan rasmi sekolah.
+
+Maklumat:
+Perkara     : [Tarikh Akhir Hantar Markah]
+Tarikh akhir: [Tarikh]
+Sasaran     : [Guru]
+Tindakan    : [Hantar melalui sistem]
+
+Arahan visual / imej:
+- Ikon amaran ringan (bukan agresif)
+- Jam / kalendar
+- Latar belakang sekolah
+
+Reka bentuk:
+- Sangat ringkas
+- Tarikh mesti paling menonjol
+- Ikut Standard Grafik Sekolah Malaysia
+```
+
+
+
+### 🙌🏻 Connect with Me
+<p align="left">
+    <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/drshahizan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
+    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
+    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a> 
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan" target="_blank"><img alt="A" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic"></a>
+ 
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+</p>
+
