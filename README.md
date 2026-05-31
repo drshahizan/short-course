@@ -10,7 +10,6 @@
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="400">
 
-
 ## 🌍 Workshops and Courses: Year 2026
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="200">
@@ -41,8 +40,10 @@
 </a>
 
 
-| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 13 Jun |🇲🇾 MOSTI & UTM |[Kursus Kecerdasan Buatan (AI) untuk Guru-Guru Sekolah di Pasir Gudang, Johor](https://github.com/drshahizan/short-course/blob/main/workshop/26STI)|
+| 10 Jun |🇲🇾 FTSM, UKM |[GitHub Workshop for Beginners](https://github.com/drshahizan/learn-github/blob/main/README1.md)|
 | 11 May | 🇮🇩 Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students](https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md) | 
 | 29 Apr | 🇲🇾 PGSS FK, UTM | [Hands-On AI Tools for Academic Research](https://github.com/drshahizan/short-course/blob/main/workshop/26pgss) | 
 | 22 Apr | 🇲🇾 BDC, UTM | [Kursus Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital](https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini) | 
