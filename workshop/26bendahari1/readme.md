@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja" height="440">
-    <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI1.jpeg" alt="Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja" height="440">
+    <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI2.jpeg" alt="Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja" height="440">
 </p>
 
 <p align="center">
