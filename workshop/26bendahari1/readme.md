@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Workshop praktikal untuk meningkatkan produktiviti kerja melalui ChatGPT, Copilot, Gemini dan aplikasi AI moden.</strong>
+  <strong>bengkel praktikal untuk meningkatkan produktiviti kerja melalui ChatGPT, Copilot, Gemini dan aplikasi AI moden.</strong>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@
 
 Program ini memberi tumpuan kepada penggunaan ChatGPT serta aplikasi AI lain yang relevan dalam konteks pentadbiran, pendidikan, penyelidikan dan pengurusan. Peserta juga akan mempelajari teknik *prompt engineering* yang berkesan supaya interaksi dengan AI menjadi lebih jelas, tepat dan bernilai.
 
-Selain kemahiran teknikal, workshop ini menekankan penggunaan AI secara **beretika, bertanggungjawab dan berintegriti**, termasuk aspek keselamatan maklumat, hak cipta, ketelusan dan semakan manusia.
+Selain kemahiran teknikal, bengkel ini menekankan penggunaan AI secara **beretika, bertanggungjawab dan berintegriti**, termasuk aspek keselamatan maklumat, hak cipta, ketelusan dan semakan manusia.
 
 ## Hasil Pembelajaran
 
-Selepas mengikuti workshop ini, peserta berupaya untuk:
+Selepas mengikuti bengkel ini, peserta berupaya untuk:
 
 | Fokus | Kemahiran yang Dibangunkan |
 | --- | --- |
