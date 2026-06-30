@@ -55,7 +55,7 @@ Selepas mengikuti bengkel ini, peserta berupaya untuk:
 | 2 | Panduan akses | [ChatGPT, Copilot dan Gemini](./materials/signin.md) |
 | 3 | Integrasi WhatsApp | [ChatGPT dan Copilot](./materials/wa-chatgpt.md) |
 | 4 | Integrasi Telegram | [Copilot](./materials/telegram.md) |
-| 5 | Aplikasi AI | [Qwen](./materials/qwen.md), [Gemini](https://gemini.google.com/app), [DeepSeek](./materials/deepseek.md), [Napkin.ai](./materials/napkin.md), [Grok](./materials/grok.md), [Kimi](./materials/kimi.md), [NotebookLM](https://notebooklm.google/) |
+| 5 | Aplikasi AI | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) <br>[Google Slides](https://docs.google.com/presentation/create)|
 
 ## Aktiviti Amali
 
