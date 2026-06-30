@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>bengkel praktikal untuk meningkatkan produktiviti kerja melalui ChatGPT, Copilot, Gemini dan aplikasi AI moden.</strong>
+  <strong>Bengkel praktikal untuk meningkatkan produktiviti kerja melalui ChatGPT, Copilot, Gemini dan aplikasi AI moden.</strong>
 </p>
 
 <p align="center">
