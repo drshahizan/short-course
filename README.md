@@ -7,10 +7,16 @@
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="400">
+</a>
+
 
 ## 🌍 Workshops and Courses: Year 2026
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="200">
 
