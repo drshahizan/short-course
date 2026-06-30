@@ -51,7 +51,7 @@ Selepas mengikuti bengkel ini, peserta berupaya untuk:
 
 | Bil. | Jenis Bahan | Topik |
 | --: | --- | --- |
-| 1 | Slaid utama | [AI di Tempat Kerja](slot1/readme.md) |
+| 1 | Slaid utama | [AI di Tempat Kerja](./materials/slot1/readme.md) |
 | 2 | Panduan akses | [ChatGPT, Copilot dan Gemini](./materials/signin.md) |
 | 3 | Integrasi WhatsApp | [ChatGPT dan Copilot](./materials/wa-chatgpt.md) |
 | 4 | Integrasi Telegram | [Copilot](./materials/telegram.md) |
