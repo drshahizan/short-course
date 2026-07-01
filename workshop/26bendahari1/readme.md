@@ -51,7 +51,7 @@ Selepas mengikuti bengkel ini, peserta berupaya untuk:
 
 | Bil. | Jenis Bahan | Topik |
 | --: | --- | --- |
-| 1 | Slaid utama | [Pengenalan kepada Generative AI](./materials/slot1/readme.md) |
+| 1 | Slaid utama | [Slot 1](./materials/slot1/readme.md) <br>[Pengenalan kepada AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQA83yH8RpzfRIHNgTbPuFz-AfSdt1glrHoUwariEYY1dS4?e=0L883W)|
 | 2 | Panduan akses | [ChatGPT, Copilot dan Gemini](./materials/signin.md) |
 | 3 | Aplikasi AI | [Qwen](./materials/qwen.md) <br> [Gemini](https://gemini.google.com/app) <br> [DeepSeek](./materials/deepseek.md) <br> [Napkin.ai](./materials//napkin.md) <br> [Grok](./materials/grok.md) <br> [Kimi](./materials/kimi.md) <br> [NotebookLM](https://notebooklm.google/) <br>[Google Slides](https://docs.google.com/presentation/create)|
 
