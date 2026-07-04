@@ -5,80 +5,145 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🧠 English for Global AI: ChatGPT
+# 🧠 Basic for Global AI (AI Hackathon): Mastering ChatGPT for Ideas, Content & Solutions
 
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg"  height="500">
- </p>
- 
-- **📅 Date:** 4 June 2025
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" height="500">
+</p>
+
+- **📅 Date:** 20 July 2026
 - **🕘 Time:** 9:00 AM – 5:00 PM
-- **📍 Venue:** Block T05, Universiti Teknologi Malaysia
+- **📍 Venue:** UTMSPACE, Taman Universiti, Johor Bahru
 - **👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan Othman
 
-**Synopsis:**
-This professional development program, organized by UTMSPACE, aims to enhance participants' proficiency in using English within the context of Artificial Intelligence applications. Titled *"English for Global AI"*, the focus of Short Course will center on the practical integration of **ChatGPT**, a leading generative AI model, in global communication, education, and workplace productivity.
+## 📖 Synopsis
 
-The full-day course will equip participants with the foundational knowledge and applied skills to utilize ChatGPT effectively in tasks such as drafting content, generating ideas, summarizing texts, and enhancing English language usage in AI-mediated environments. The training will be led by **Assoc. Prof. Dr. Mohd Shahizan**, an expert in the field of computing and AI communication.
+This one-day professional workshop introduces participants to the practical use of **ChatGPT** as a Generative AI assistant for learning, creativity, and innovation.
 
-This session forms part of UTMSPACE’s ongoing commitment to bridging language skills with AI fluency for professionals in the digital age.
+Participants will learn how to leverage ChatGPT throughout the entire project development process—from searching for information and analysing references to brainstorming ideas, designing prompts, generating content, and creating multimedia materials.
 
-### 🗂️ **Content Overview**
+Through a series of hands-on activities and a mini AI Hackathon, participants will apply ChatGPT to develop an AI-assisted project by producing a **project poster**, **video storyboard**, and **promotional video**. The workshop also introduces complementary AI tools that enhance productivity, visual content creation, and multimedia production.
 
-#### 🟩 [Session 1: Welcome & Introduction to ChatGPT](materials/s1)
-* Ice-breaking activity: Introduce yourself with ChatGPT's help
-* What is ChatGPT? How does it work?
-* Why English is important in AI and the global world
-* Simple examples: Asking questions in English using ChatGPT
+By the end of the workshop, participants will gain practical experience in using Generative AI responsibly to transform ideas into impactful digital solutions.
 
-> 🧠 *Goal: Feel comfortable using simple English and AI tools.*
 
-#### 🟦 [Session 2: Exploring AI Tools for Learning & Creativity](materials/s2)
-* Overview of popular AI tools in the global education world
+# 🗂️ Content Overview
 
-  * **Qwen:** Thinking and writing like a scholar
-  * **Kimi:** Understanding and explaining academic papers
-  * **Grok:** Creative conversations and big ideas
-  * **Napkin AI:** Turn ideas into diagrams and visuals
-  * **Gemini (Google):** Deep research and reliable writing help
-* Discussion: Which tools help with English? Which for school?
+## 🟦 [Session 1: Introduction to Generative AI & ChatGPT](materials/s1)
 
-> 💡 *Activity: Match each tool to a real-world student task.*
+- What is Generative AI?
+- Understanding ChatGPT and Large Language Models (LLMs)
+- Real-world applications of AI
+- Responsible and ethical use of AI
+- Overview of today's AI Hackathon
 
-#### 🟦 [Session 3: Everyday English with ChatGPT](materials/s3)
-* Practice: Making polite requests and greetings
-* ChatGPT as your English study partner
-* Correcting grammar and pronunciation tips
-* Using ChatGPT for vocabulary learning and sentence building
+> 🧠 **Goal:** Understand the fundamentals of ChatGPT and how it supports creativity, productivity, and innovation.
 
-> ✏️ *Activity: Ask ChatGPT to fix or improve your English diary entry.*
 
-#### 🟨 [Session 4: Creative Writing and Storytelling](materials/s4)
-* How to write a short story using ChatGPT
-* Writing English poems, fairy tales, or comic scenes
-* Build your own character and story with AI help
+## 🟩 [Session 2: Information Searching & Idea Brainstorming with ChatGPT](materials/s2)
 
-> 🎨 *Group Activity: Create a short story with your team and present it in English.*
+Participants will learn how to use ChatGPT as an intelligent research and brainstorming assistant.
 
-#### 🟧 [Session 5: English for the Future – AI, School, and Career](materials/s5)
-* Using ChatGPT to write a school essay or project report
-* Asking ChatGPT for help with science or history in English
-* How AI can help you in your dream job
-* Role-play: ChatGPT as your interview coach
+Topics include:
 
-> 💼 *Activity: Write your dream job description in English with ChatGPT's help.*
+- Searching for relevant information
+- Summarising articles and reports
+- Analysing references
+- Brainstorming innovative ideas
+- Identifying real-world problems
+- Developing project concepts
 
-#### 🟫 [Creative Content Generation with Generative AI](materials/s6)
-* Explore the use of AI in producing high-quality written content through copywriting.
-* Gain hands-on experience with AI tools for generating images based on text prompts.
-* Discover how generative AI can enhance creativity in communication, education, and content creation.
+> 💡 **Exercise:** Each team selects a challenge and develops an initial project idea using ChatGPT.
 
-#### 🟪 **Closing Session: What Did We Learn?**
-* Reflection: What new English words did you learn today?
-* Feedback session (simple English survey)
-* Photo session & certificate presentation
 
-> 🎓 *Leave with confidence and tools to keep learning English with AI*
+## 🟨 [Session 3: Prompt Engineering Essentials](materials/s3)
+
+- Anatomy of an effective prompt
+- Zero-shot, One-shot and Few-shot prompting
+- Role Prompting
+- Prompt refinement techniques
+- Best practices for obtaining high-quality AI responses
+
+> ✏️ **Exercise:** Improve prompts to generate better project ideas and content.
+
+
+## 🟧 [Session 4: AI-Assisted Content Creation](materials/s4)
+
+Participants will learn how ChatGPT can assist in creating high-quality project content.
+
+Topics include:
+
+- Writing project descriptions
+- Generating titles and slogans
+- Preparing presentation content
+- Writing promotional copy
+- Structuring reports and documentation
+
+> 🚀 **Exercise 1:** Create an **AI Project Poster** using ChatGPT together with AI image generation and design tools.
+
+
+## 🟪 [Session 5: AI Storytelling & Storyboard Development](materials/s5)
+
+- Storytelling techniques
+- Developing project narratives
+- Creating scene descriptions
+- Writing video scripts
+- Planning camera shots
+- Storyboard development using ChatGPT
+
+> 🎬 **Exercise 2:** Develop a **Storyboard and Video Script** for the hackathon project.
+
+
+## 🟥 [Session 6: AI Hackathon – Video Production](materials/s6)
+
+Participants integrate everything learned throughout the workshop to create a complete AI-assisted project.
+
+Activities include:
+
+- Producing a short promotional video
+- AI-assisted narration
+- Video editing
+- Team collaboration
+- Project presentation
+
+> 🎥 **Exercise 3:** Produce a **1–2 minute AI Hackathon Promotional Video** and present the project.
+
+
+# 🏆 Final Deliverables
+
+Each team will produce:
+
+- 📌 AI Project Poster
+- 📖 Storyboard & Video Script
+- 🎥 1–2 Minute Promotional Video
+- 🎤 Project Presentation
+
+
+# 🎯 Learning Outcomes
+
+By the end of this workshop, participants will be able to:
+
+- Understand the fundamentals of Generative AI and ChatGPT.
+- Use ChatGPT to search, analyse and summarise information.
+- Brainstorm innovative project ideas using AI.
+- Apply prompt engineering techniques effectively.
+- Generate AI-assisted written and visual content.
+- Design a professional project poster.
+- Develop a storyboard and video script.
+- Produce and present a short AI-assisted promotional video.
+- Demonstrate responsible and ethical use of Generative AI.
+
+
+
+# 🎓 Closing Session
+
+- Team presentations
+- Project showcase
+- Reflection and discussion
+- Feedback session
+- Group photo
+
+> 🚀 **Transform Ideas into AI-Powered Solutions**
 
 
 ### 🙌🏻 Connect with Me
