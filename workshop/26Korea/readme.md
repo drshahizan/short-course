@@ -7,6 +7,10 @@
 
 # 🧠 English for Global AI: ChatGPT
 
+<p align="center">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg"  height="500">
+ </p>
+ 
 - **📅 Date:** 4 June 2025
 - **🕘 Time:** 9:00 AM – 5:00 PM
 - **📍 Venue:** Block T05, Universiti Teknologi Malaysia
