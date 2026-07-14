@@ -5,63 +5,103 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Writing and Publication Workshop GRG 2026
 
-# WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI
+<p align="center">
+<img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Writing and Publication Workshop GRG 2026" height="400">
+</p>
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Shahizan SLR"  height="400">
+## Synopsis
 
+The **Writing and Publication Workshop GRG 2026** is a one-day intensive workshop organized by the **Geotechnical Research Group (GRG), Universiti Teknologi Malaysia (UTM)**. Designed specifically for postgraduate students, the workshop aims to empower researchers with practical knowledge and skills in using **Artificial Intelligence (AI)** to improve scientific writing and accelerate the publication process.
 
-## **Synopsis**
+Under the theme **"Empowering Scientific Writing and Publication through Artificial Intelligence (AI)"**, the workshop introduces participants to the latest AI-powered tools and techniques that support every stage of academic writing—from developing a manuscript structure and conducting literature reviews to refining language, improving coherence, and preparing manuscripts for submission to high-quality journals.
 
-The **WriteWise+: Enhancing Articles for ERA/Scopus with Generative AI** workshop is designed to empower researchers, academics, and postgraduate students with advanced strategies for improving the quality and impact of their scholarly articles. In today’s competitive research environment, achieving publication in reputable indexing platforms such as **ERA and Scopus** requires more than strong ideas—it demands clear structure, academic rigor, and adherence to international publishing standards.
+The workshop adopts a highly interactive and hands-on approach, allowing participants to explore real-world applications of AI in scholarly publishing while understanding the ethical and responsible use of these technologies. Throughout the sessions, participants will learn practical strategies to produce well-structured, high-quality manuscripts that meet international publication standards.
 
-This one-day hands-on workshop introduces participants to the practical use of **Generative AI tools** to refine their manuscripts. By leveraging AI-powered writing assistants, attendees will learn how to enhance clarity, coherence, and scholarly tone, as well as strengthen argumentation and citation management. The session will also cover ethical considerations in AI-assisted academic writing, ensuring participants can integrate these tools responsibly.
+The workshop will be facilitated by **Associate Professor Dr. Mohd Shahizan bin Othman** from the **Faculty of Computing, Universiti Teknologi Malaysia (UTM)**, who will guide participants through practical demonstrations, AI-assisted writing exercises, and best practices for academic publishing.
 
-Led by **Assoc. Prof. Dr. Ts. Mohd Shahizan Othman** from the Faculty of Computing, Universiti Teknologi Malaysia, the workshop emphasizes **interactive learning**. Participants are encouraged to bring along their draft papers to gain personalized feedback and direct improvements during the session.
+By the end of the workshop, participants will possess practical skills to integrate AI into their research workflow, enhance the quality of their manuscripts, and increase their confidence in publishing in reputable scholarly journals.
 
-By the end of the workshop, attendees will be equipped with practical skills and actionable techniques to transform their manuscripts into publishable-quality articles ready for submission to ERA/Scopus-indexed journals.
-
-
-## **Workshop Learning Outcomes**
+## Workshop Learning Outcomes
 
 By the end of the workshop, participants will be able to:
 
-1. **Understand Publishing Requirements**
+### 1. Understand the Role of Artificial Intelligence in Scientific Publishing
 
-   * Identify the key standards and expectations of ERA and Scopus-indexed journals.
-   * Recognize common reasons for manuscript rejection and strategies to overcome them.
+- Explain how AI can support the academic writing and publication process.
+- Identify suitable AI tools for different stages of manuscript development.
 
-2. **Apply Generative AI Tools in Academic Writing**
+### 2. Apply AI Tools to Improve Scientific Writing
 
-   * Utilize AI-powered platforms to improve clarity, coherence, and academic style in draft articles.
-   * Enhance argumentation, literature integration, and citation management with the support of AI.
+- Use AI to generate, refine, and organize academic content.
+- Improve manuscript clarity, coherence, grammar, and academic writing style.
+- Produce stronger titles, abstracts, and literature reviews using AI-assisted techniques.
 
-3. **Improve Draft Manuscripts**
+### 3. Develop High-Quality Research Manuscripts
 
-   * Refine participants’ own draft papers through hands-on AI-assisted editing.
-   * Strengthen structure, flow, and overall readability to meet international publishing standards.
+- Structure manuscripts according to international academic publishing standards.
+- Apply best practices for writing the Introduction, Methodology, Results, Discussion, and Conclusion sections.
+- Prepare manuscripts that are ready for submission to reputable journals.
 
-4. **Evaluate Ethical and Responsible Use of AI**
+### 4. Apply Ethical and Responsible AI Practices
 
-   * Discuss ethical considerations and limitations of using Generative AI in scholarly writing.
-   * Apply best practices to ensure academic integrity while integrating AI in manuscript preparation.
+- Recognize ethical considerations when using AI in academic writing.
+- Apply responsible AI practices while maintaining academic integrity and originality.
+- Understand the limitations of AI-generated content in scholarly publications.
 
-5. **Develop Practical Publishing Strategies**
+### 5. Enhance Publication Readiness
 
-   * Formulate a plan to prepare and finalize manuscripts for submission to reputable journals.
-   * Gain confidence in aligning research contributions with target journal scopes and impact.
+- Improve research productivity through AI-assisted workflows.
+- Evaluate manuscripts before journal submission.
+- Increase confidence in preparing high-quality articles for publication.
 
 ## [Workshop Schedule](materials/time.md)
 
-This section provides the **complete timetable** for the workshop, outlining the sequence of sessions, activities, and breaks. It helps participants know what to expect, when practical sessions will take place, and how theory and hands-on learning are balanced throughout the day. The schedule ensures a **structured flow** from policy awareness, to AI tools exploration, to practical manuscript refinement.
+This section presents the complete programme schedule for the one-day workshop held on **3 August 2026 (Monday)** at the **Seminar Room M46, Faculty of Civil Engineering, UTM Johor Bahru**.
 
-## [Teaching materials](materials/teaching.md)
+The programme consists of participant registration, welcoming remarks, an opening address by the Deputy Dean (Research), two hands-on workshop sessions on **AI in Scientific Publication**, networking opportunities during refreshments and lunch, and concludes with a token of appreciation and a group photography session.
 
-This section contains the **essential learning resources and references** used during the workshop. It includes official guidelines (UNESCO, national, and institutional), global AI adoption reports, practical setup instructions, and curated videos. Together, these materials provide participants with **theoretical background, best practices, and practical guides** to reinforce what they learn during the workshop and to support continued application afterward.
+The schedule is carefully designed to balance theoretical understanding with extensive practical activities, enabling participants to gain immediate hands-on experience using AI in scientific writing.
 
-## [AI Tools for Research Workflow](materials/ai.md)
+## [Teaching Materials](materials/teaching.md)
 
-This section introduces participants to a curated set of **AI tools designed to support researchers across the entire research lifecycle**. From literature discovery and idea generation to data visualization and academic writing, each tool is presented with its **purpose, strengths, and practical use cases**. This equips participants with the digital skills to adopt AI ethically and effectively in their own research and teaching.
+This section contains the presentation slides, demonstrations, examples, and supporting references used throughout the workshop.
+
+The materials cover:
+
+- Fundamentals of AI in academic writing
+- Scientific writing principles
+- Manuscript structure and organization
+- Academic writing techniques
+- Literature review development
+- AI-assisted editing and proofreading
+- Ethical use of AI in scholarly publishing
+- Publication strategies and best practices
+
+These resources provide participants with both conceptual understanding and practical guidance that can be applied immediately to their own research.
+
+## [Hands-On AI in Scientific Publication](materials/ai.md)
+
+This section introduces participants to practical AI applications throughout the scientific publication workflow.
+
+Participants will learn how AI can assist with:
+
+- Brainstorming research ideas
+- Developing manuscript outlines
+- Writing and improving academic content
+- Refining grammar and writing style
+- Generating effective abstracts and titles
+- Improving coherence and logical flow
+- Editing and proofreading manuscripts
+- Preparing cover letters
+- Selecting suitable journals
+- Responding to reviewers' comments
+- Enhancing overall publication readiness
+
+Through guided demonstrations and practical exercises, participants will gain hands-on experience integrating AI into their daily research activities while maintaining ethical publishing standards.
+
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
