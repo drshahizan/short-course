@@ -7,8 +7,8 @@
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
