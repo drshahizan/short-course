@@ -51,6 +51,11 @@
 
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
+| 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume]()|
+| 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
+| 20 Jul | 🇲🇾 UTMSPACE | [Chat GPT for AI Hackathon](https://github.com/drshahizan/short-course/tree/main/workshop/26Korea)|
+| 01 Jul | 🇲🇾 Jab Bendahari, UTM | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/tree/main/workshop/26bendahari1)|
 | 25 Jun | 🇨🇳 Xi'an Eurasia University| [Leveraging Big Data Analytics and Digital Twins for Intelligent and Sustainable Smart Cities](https://m.ais.cn/attendees/index/ZQ2I7N)|
 | 15 Jun |🇲🇾 UTM |[Digitex 2026](https://fcdigitex.com/)|
 | 13 Jun |🇲🇾 MOSTI & UTM |[Kursus Kecerdasan Buatan (AI) untuk Guru-Guru Sekolah di Pasir Gudang, Johor](https://github.com/drshahizan/short-course/blob/main/workshop/26STI)|
