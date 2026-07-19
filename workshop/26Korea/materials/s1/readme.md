@@ -5,84 +5,364 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-#  🟩 **Session 1: Welcome & Introduction to ChatGPT**
+````markdown
+# 🟦 Session 1: Introduction to Generative AI & ChatGPT
 
-This session is designed to help Korean students **warm up**, **feel comfortable using English**, and **get introduced to ChatGPT** in an easy and engaging way. The tone should be friendly and supportive, with visual aids and live demonstrations to maintain interest.
+## 🎯 Learning Objectives
 
-## ✅ **1. Ice-Breaking Activity: Introduce Yourself with ChatGPT's Help**
+By the end of this session, participants will be able to:
 
-**Objective:** Make students less shy and introduce basic ChatGPT prompting.
+- Understand the concept of Artificial Intelligence (AI) and Generative AI.
+- Explain how ChatGPT and Large Language Models (LLMs) work.
+- Recognise the capabilities and limitations of ChatGPT.
+- Explore practical applications of AI in education, research, and the workplace.
+- Understand the importance of responsible and ethical AI usage.
 
-* The instructor greets everyone and briefly introduces the workshop.
+---
 
-* Each student will work in pairs or small groups with a device (or guided by the instructor on a projector) to type a simple prompt like:
+# 📖 What is Artificial Intelligence?
 
-  > ✍️ *"Help me introduce myself in English. I am 16 years old. I like music and drawing."*
+Artificial Intelligence (AI) refers to computer systems that can perform tasks normally requiring human intelligence, such as:
 
-* ChatGPT returns a sentence like:
+- Learning from data
+- Understanding language
+- Solving problems
+- Making decisions
+- Recognising images
+- Generating content
 
-  > *"Hi! My name is Jisoo. I am 16 years old and I enjoy music and drawing. Nice to meet you!"*
+Today, AI has become part of our daily lives.
 
-* Students then read aloud their generated introductions (voluntarily or in small groups).
+Examples include:
 
-> 💡 *Benefit:* Eases nervousness, shows how ChatGPT can support them immediately.
+- Google Maps
+- Netflix recommendations
+- YouTube suggestions
+- Siri
+- Google Assistant
+- ChatGPT
 
-## ✅ **2. What is ChatGPT? How Does It Work?**
+---
 
-**Objective:** Explain the basic idea of ChatGPT in simple, age-appropriate English.
+# 🤖 What is Generative AI?
 
-* Explain that **ChatGPT is a computer program made by OpenAI** that can read and write like a human.
-* Use visuals or analogies:
+Generative AI is a type of AI that creates new content rather than simply analysing existing information.
 
-  * ChatGPT is like a **very smart robot friend** who has read millions of books and websites.
-  * It doesn’t “think” like a person, but it gives answers based on patterns in data.
-* Key points:
+It can generate:
 
-  * It responds to **“prompts”** (questions or instructions).
-  * It uses **machine learning**, especially **language models**.
+- Text
+- Images
+- Videos
+- Music
+- Computer code
+- Presentations
+- Reports
+- Lesson plans
 
-> 👀 *Visual demo:* Show how ChatGPT answers a few example questions live.
+Instead of searching for answers like a search engine, Generative AI creates original responses based on your prompts.
 
+---
 
-## ✅ **3. Why English is Important in AI and the Global World**
+# 💬 What is ChatGPT?
 
-**Objective:** Motivate students to see the value of learning English in today’s AI-driven, globalized world.
+ChatGPT is a conversational AI developed by OpenAI.
 
-* Explain that English is the **international language** of:
+It understands natural language and generates human-like responses.
 
-  * Technology (AI tools, programming)
-  * Science and academic writing
-  * Business and job markets
-* Most AI tools—including ChatGPT—**use English by default**, and understanding English makes them more powerful for learning.
+ChatGPT can help users to:
 
-> 🌍 *Mini discussion:* Ask students, “Where do you see English in your life?” (e.g., YouTube, games, K-pop interviews, school subjects)
+- Answer questions
+- Explain difficult concepts
+- Brainstorm ideas
+- Translate languages
+- Summarise articles
+- Write emails
+- Prepare presentations
+- Generate reports
+- Create lesson plans
+- Write computer programs
 
-## ✅ **4. Simple Examples: Asking Questions in English Using ChatGPT**
+---
 
-**Objective:** Let students try real, simple English prompts and see friendly responses.
+# 🧠 What is a Large Language Model (LLM)?
 
-Provide 3–5 prompts they can try immediately:
+A Large Language Model (LLM) is an AI model trained on enormous amounts of text from books, articles, websites, and other publicly available resources.
 
-* 🗣️ *“Teach me 5 English words about food.”*
-* 🗣️ *“What is the meaning of ‘curious’?”*
-* 🗣️ *“Make a sentence using the word ‘challenge’.”*
-* 🗣️ *“Help me write a thank you message to my teacher.”*
+Rather than memorising answers, an LLM predicts the most appropriate next word based on patterns it has learned.
 
-> ✏️ *Activity:* Each student types one question in English into ChatGPT and reads the response with a partner or aloud.
+Simplified workflow:
 
-## ✅ **5. [WhatsApp: ChatGPT and Microsoft Copilot](wa_chat.md)**
+```
+Human Prompt
+      │
+      ▼
+Large Language Model (LLM)
+      │
+      ▼
+Generate Response
+```
 
-### 🎯 **Session Goal Recap**
+---
 
-> 🧠 *By the end of this session, students should:*
+# 🆚 Search Engine vs ChatGPT
 
-* Understand what ChatGPT is and what it can do.
-* Feel **safe and confident** asking questions in English.
-* See that AI can help them improve their **real-life English** skills.
-* Start the day with **energy, curiosity, and low anxiety**.
+| Search Engine | ChatGPT |
+|---------------|----------|
+| Finds existing web pages | Generates new responses |
+| Provides links | Provides explanations |
+| Requires reading multiple websites | Produces summarised information |
+| Good for finding sources | Good for understanding concepts |
+| Information retrieval | Information generation |
 
+---
 
-## [Exercise](exercise1.md)
+# 🌍 Real-World Applications of ChatGPT
+
+## 🎓 Education
+
+- Explain difficult topics
+- Prepare study notes
+- Generate quizzes
+- Improve writing
+- Language learning
+
+---
+
+## 💼 Workplace
+
+- Draft emails
+- Write reports
+- Prepare meeting minutes
+- Brainstorm ideas
+- Project planning
+
+---
+
+## 🔬 Research
+
+- Literature summaries
+- Brainstorm research ideas
+- Compare journal papers
+- Explain methodologies
+- Improve academic writing
+
+---
+
+## 🎨 Creativity
+
+- Story writing
+- Poster content
+- Video scripts
+- Presentation slides
+- Marketing materials
+
+---
+
+# 💡 Prompt = Communication with AI
+
+ChatGPT only knows what you tell it.
+
+Better prompts produce better answers.
+
+Example:
+
+❌ Bad Prompt
+
+> Tell me about AI.
+
+---
+
+✅ Better Prompt
+
+> Explain Artificial Intelligence to first-year university students using simple English and real-world examples.
+
+---
+
+# 🎯 The Prompt Formula
+
+A good prompt usually contains:
+
+**Role + Task + Context + Output Format**
+
+Example
+
+```
+You are a university lecturer.
+
+Explain Generative AI to high school students.
+
+Use simple English.
+
+Provide five real-world examples.
+
+Present the answer in bullet points.
+```
+
+---
+
+# ⚠️ Limitations of ChatGPT
+
+ChatGPT is powerful, but it is **not perfect**.
+
+It may:
+
+- Generate incorrect information
+- Produce outdated knowledge
+- Hallucinate facts
+- Misinterpret vague prompts
+
+Always verify important information using trusted sources.
+
+---
+
+# 🤝 Responsible AI
+
+When using AI, always:
+
+✅ Verify facts
+
+✅ Respect copyright
+
+✅ Protect personal data
+
+✅ Avoid plagiarism
+
+✅ Use AI ethically
+
+Remember:
+
+> AI should assist human thinking, not replace it.
+
+---
+
+# 🚀 Today's AI Hackathon
+
+During today's workshop, you will use ChatGPT to complete an AI project.
+
+Your team will use ChatGPT to:
+
+- Research information
+- Brainstorm ideas
+- Plan a project
+- Generate content
+- Create a poster
+- Develop a storyboard
+- Produce a short promotional video
+
+---
+
+# 💬 Live Demonstration
+
+The instructor will demonstrate how ChatGPT can:
+
+- Answer questions
+- Explain concepts
+- Generate creative ideas
+- Improve writing
+- Produce structured reports
+- Generate presentation outlines
+
+---
+
+# 🧩 Exercise 1 — Meet Your AI Partner
+
+## Objective
+
+Become familiar with communicating with ChatGPT.
+
+### Task
+
+Open ChatGPT and introduce yourself.
+
+Ask ChatGPT:
+
+> Hello! My name is ________. I am a student from Yeongjin University, South Korea. Please introduce yourself and tell me how you can help me during today's AI Hackathon.
+
+Discuss the response with your teammates.
+
+---
+
+# 🧩 Exercise 2 — Discover Malaysia
+
+## Objective
+
+Experience how ChatGPT answers questions.
+
+Each team asks ChatGPT five questions about Malaysia.
+
+Examples:
+
+- What is Malaysia famous for?
+- What food should I try?
+- What languages are spoken in Malaysia?
+- What places should I visit?
+- What cultural etiquette should I know?
+
+Compare the answers with another team.
+
+---
+
+# 🧩 Exercise 3 — Better Prompt Challenge
+
+Below are weak prompts.
+
+Rewrite them to produce better responses.
+
+| Weak Prompt | Improve It |
+|--------------|------------|
+| Tell me about AI. | __________________ |
+| Write an email. | __________________ |
+| Explain Malaysia. | __________________ |
+
+After improving your prompts, test them in ChatGPT.
+
+---
+
+# 🧩 Exercise 4 — AI vs Human
+
+Ask ChatGPT:
+
+> Recommend three interesting places for Korean students to visit in Johor Bahru.
+
+Then discuss:
+
+- Do you agree?
+- Which recommendation is the best?
+- What would you change?
+
+---
+
+# 🎯 Reflection
+
+Before moving to Session 2, discuss with your team:
+
+1. What surprised you most about ChatGPT?
+
+2. What can ChatGPT do well?
+
+3. What should humans still do themselves?
+
+4. How can ChatGPT help you in your studies?
+
+5. How can ChatGPT help your future career?
+
+---
+
+# 📌 Key Takeaways
+
+After this session, you should understand:
+
+- What Artificial Intelligence is
+- What Generative AI is
+- How ChatGPT works
+- What Large Language Models (LLMs) are
+- The importance of writing good prompts
+- Responsible and ethical AI practices
+- How ChatGPT can support learning, creativity, and innovation
+
+> 🧠 **Remember:** ChatGPT is not just a chatbot—it is your AI thinking partner for learning, problem-solving, and innovation.
+````
+
 
 ### 🙌🏻 Connect with Me
 <p align="left">
