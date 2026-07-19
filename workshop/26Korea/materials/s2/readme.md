@@ -5,62 +5,429 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🟦 Session 2: Exploring AI Tools for Learning & Creativity
-
-In this session, you will learn about **5 useful AI tools** that are becoming popular in education and creative thinking around the world. These tools can help you study better, improve your English, and develop your ideas in exciting new ways.
-
-### 🔍 **1. Overview of Popular AI Tools in the Global Education World**
-
-Introduce each tool in simple, relatable language. If possible, show short demos or screenshots.
-
-#### 📘 [Qwen – Thinking and Writing Like a Scholar](../2_idea/ai/qwen.md)
-
-* Developed by Alibaba Cloud, Qwen is strong in **logic, language, and structure**.
-* Good at **outlining essays**, **generating academic-style writing**, and **answering reasoning questions**.
-* Great for students who want to **practice formal English** or write school reports.
-
-#### 📄 [Kimi – Understanding and Explaining Academic Papers](../2_idea/ai/kimi.md)
-
-* Designed for **reading scientific articles** and giving **easy-to-understand explanations**.
-* Perfect for students who are curious about science but struggle with complex English texts.
-* Can help summarize or translate difficult papers into simple English.
+# 🟩 Session 2: Information Searching & Idea Brainstorming with ChatGPT
 
 
-#### 🧠 [Grok – Creative Conversations and Big Ideas](../2_idea/ai/grok.md)
+## 🎯 Learning Objectives
 
-* Created by xAI (Elon Musk’s team), Grok is good at **open-ended questions** and **imaginative thinking**.
-* Helps with **debates, opinion writing, and brainstorming** new ideas.
-* Can be funny, weird, and smart—great for **creative writing and critical thinking**.
+By the end of this session, participants will be able to:
 
+- Use ChatGPT to search for useful information efficiently.
+- Summarise articles, reports, and websites.
+- Compare multiple sources of information.
+- Brainstorm innovative ideas for solving real-world problems.
+- Generate and refine project concepts.
+- Evaluate AI-generated ideas critically.
 
-#### 🖼️ [Napkin AI – Turn Ideas into Diagrams and Visuals](../2_idea/ai/napkin.md)
+# 📖 Why Use ChatGPT for Research?
 
-* A **text-to-visualization tool**: you describe your idea, and it creates a diagram or chart.
-* Good for **mind maps, project planning, and explaining processes visually**.
-* Supports English learning by connecting words to images (good for visual learners).
+Finding information on the Internet can be time-consuming.
 
+Traditional research often requires you to:
 
-#### 🔍 [Gemini (Google) – Deep Research and Reliable Writing Help](../1_ldu/ai/gemini.md)
+- Search multiple websites
+- Read long articles
+- Compare different sources
+- Take notes
+- Organise information
 
-* Google’s powerful AI assistant. Strong in **finding sources, summarizing articles**, and writing with **citation awareness**.
-* Excellent for **research projects**, school essays, and studying different subjects in English.
-* You can ask Gemini to compare information, explain ideas, or give reliable data.
+ChatGPT helps speed up this process by acting as an intelligent research assistant.
 
-### 💬 **Discussion Time**
+It can:
 
-Think about which of these tools is most interesting to you.
+- Explain complex topics
+- Summarise lengthy documents
+- Compare different ideas
+- Suggest additional resources
+- Brainstorm creative solutions
+- Organise information into clear formats
 
-* Which tools do you think can help you **learn English better**?
-* Which ones would be useful for your **school subjects**?
-* Which one do you want to try in the future?
+Remember:
 
-### 🧠 [Exercise 2](exercise2.md)
+> ChatGPT assists your research—it does not replace critical thinking.
 
-### ✅ **What You Will Learn from This Session:**
+# 🔍 Searching for Information Effectively
 
-* Understand 5 different AI tools that support learning and creativity
-* Know which tools can help with English and which for school subjects
-* Gain confidence in using technology for studying and thinking
+Instead of asking vague questions, provide clear instructions.
+
+Example
+
+❌ Weak Prompt
+
+> Tell me about electric vehicles.
+
+✅ Better Prompt
+
+> Explain the advantages and disadvantages of electric vehicles for university students. Include environmental, economic, and technological perspectives.
+
+Another example
+
+❌ Weak Prompt
+
+> Tell me about tourism.
+
+✅ Better Prompt
+
+> What are the biggest challenges faced by tourism in South Korea? Suggest innovative AI-based solutions.
+
+# 🎯 Using Context Improves Results
+
+The more context you provide, the better ChatGPT performs.
+
+Example
+
+Instead of
+
+> Suggest a project.
+
+Try
+
+> Suggest five AI project ideas suitable for undergraduate engineering students. The project should be completed within one semester and should address environmental sustainability.
+
+# 📄 Summarising Information
+
+ChatGPT can summarise:
+
+- Articles
+- Research papers
+- News reports
+- Meeting minutes
+- Websites
+- PDF documents
+
+Example Prompt
+
+> Summarise this article in five bullet points suitable for university students.
+
+You can also ask ChatGPT to produce:
+
+- Executive summaries
+- Key findings
+- Action items
+- Advantages and disadvantages
+- Frequently Asked Questions (FAQs)
+
+# 📊 Comparing Information
+
+ChatGPT is excellent at making comparisons.
+
+Example Prompt
+
+> Compare electric vehicles, hydrogen vehicles, and hybrid vehicles.
+
+Possible output
+
+| Electric Vehicle | Hydrogen Vehicle | Hybrid Vehicle |
+|------------------|------------------|----------------|
+| Battery powered | Hydrogen fuel | Battery + petrol |
+| Zero emissions | Zero emissions | Lower emissions |
+| Charging required | Hydrogen stations required | Petrol stations available |
+
+Comparison tables make decision-making much easier.
+
+# 🧠 Brainstorming with ChatGPT
+
+Brainstorming means generating many ideas before choosing the best one.
+
+Instead of asking
+
+> Give me one idea.
+
+Ask
+
+> Generate twenty innovative ideas.
+
+Example
+
+> Suggest ten AI applications that could improve university life.
+
+Possible responses include:
+
+- Smart parking
+- AI campus guide
+- Smart attendance
+- Mental health chatbot
+- Classroom assistant
+- Energy monitoring
+- AI library assistant
+- Smart cafeteria
+- Campus navigation
+- Lost-and-found assistant
+
+The goal is quantity first, quality second.
+
+# 💡 Expanding an Idea
+
+Suppose ChatGPT suggests:
+
+> AI Smart Parking
+
+Ask follow-up questions such as:
+
+- What problem does it solve?
+- Who are the users?
+- What technologies are needed?
+- What are the benefits?
+- What challenges may occur?
+
+This helps transform a simple idea into a project concept.
+
+# 🌍 Identifying Real-World Problems
+
+Every successful innovation begins with a real problem.
+
+Examples
+
+Education
+
+- Student stress
+- Attendance
+- Assignment management
+
+Healthcare
+
+- Long waiting times
+- Medication reminders
+- Elderly care
+
+Environment
+
+- Waste management
+- Water pollution
+- Energy conservation
+
+Transportation
+
+- Parking shortage
+- Traffic congestion
+- Public transport
+
+Tourism
+
+- Language barriers
+- Trip planning
+- Tourist recommendations
+
+# 🏗️ Developing a Project Concept
+
+A good project usually answers six questions.
+
+| Question | Example |
+|-----------|----------|
+| What is the problem? | Students waste time searching for classrooms. |
+| Who has the problem? | University students |
+| Why is it important? | Time is wasted every day. |
+| What is the proposed solution? | AI Campus Navigation Assistant |
+| Who benefits? | Students and visitors |
+| Expected impact | Better campus experience |
+
+# 💬 Asking Better Follow-up Questions
+
+ChatGPT becomes more useful through conversation.
+
+Example
+
+Prompt 1
+
+> Suggest five AI ideas for tourism.
+
+Prompt 2
+
+> Which idea is the most practical?
+
+Prompt 3
+
+> Explain why.
+
+Prompt 4
+
+> How much would it cost?
+
+Prompt 5
+
+> Can university students build it?
+
+Prompt 6
+
+> Suggest improvements.
+
+Each follow-up produces a better outcome.
+
+# ⚠️ Verify AI Responses
+
+Before using AI-generated information:
+
+✅ Check facts
+
+✅ Compare multiple sources
+
+✅ Verify statistics
+
+✅ Confirm references
+
+Never assume every AI response is correct.
+
+# 🤖 Live Demonstration
+
+The instructor will demonstrate how ChatGPT can:
+
+- Search information
+- Summarise articles
+- Compare technologies
+- Brainstorm ideas
+- Improve project concepts
+- Generate action plans
+
+# 🧩 Exercise 1 — Smart Information Search
+
+## Objective
+
+Learn how to search effectively using ChatGPT.
+
+### Task
+
+Each team selects one topic.
+
+Examples
+
+- Smart Cities
+- Renewable Energy
+- Healthcare
+- Tourism
+- Agriculture
+- Education
+- Transportation
+
+Ask ChatGPT to:
+
+1. Explain the topic.
+2. Identify the biggest challenges.
+3. Identify current trends.
+4. Suggest possible AI solutions.
+
+Present your findings in five bullet points.
+
+# 🧩 Exercise 2 — Article Summary Challenge
+
+## Objective
+
+Practise summarising information.
+
+Each team selects a recent news article or website.
+
+Ask ChatGPT to produce:
+
+- Five key points
+- Three important facts
+- Two challenges
+- One recommendation
+
+Compare your summary with the original article.
+
+# 🧩 Exercise 3 — Brainstorming Challenge
+
+## Objective
+
+Generate as many ideas as possible.
+
+Prompt
+
+> Suggest twenty innovative AI project ideas for university students.
+
+Discuss as a team.
+
+Select your Top Five ideas.
+
+Then choose the Best One.
+
+Explain why.
+
+# 🧩 Exercise 4 — Problem Identification
+
+## Objective
+
+Find a real-world problem worth solving.
+
+Choose one category.
+
+- Education
+- Tourism
+- Healthcare
+- Environment
+- Transportation
+- Smart Campus
+
+Complete the table.
+
+| Question | Your Answer |
+|-----------|-------------|
+| What is the problem? | |
+| Who experiences the problem? | |
+| Why is it important? | |
+| Current solution | |
+| Limitations | |
+
+# 🧩 Exercise 5 — Develop Your Project Idea
+
+## Objective
+
+Transform a problem into a project concept.
+
+Ask ChatGPT:
+
+> Based on the problem above, propose an innovative AI solution.
+
+Then complete the table.
+
+| Item | Description |
+|------|-------------|
+| Project Name | |
+| Problem | |
+| Proposed Solution | |
+| Target Users | |
+| Key Features | |
+| Expected Benefits | |
+
+Prepare a **2-minute pitch** for your classmates.
+
+# 🏆 Mini AI Challenge
+
+Each team presents:
+
+- The problem
+- Why it matters
+- The AI solution
+- Target users
+- Expected impact
+
+Presentation time:
+
+**2 minutes per team**
+
+The instructor and participants will provide feedback.
+
+# 🎯 Reflection
+
+Discuss within your team:
+
+1. Did ChatGPT generate ideas you had never considered?
+2. Which prompt produced the best results?
+3. How did follow-up questions improve the quality of the ideas?
+4. What limitations did you observe?
+5. How can ChatGPT support innovation in your future studies or career?
+
+# 📌 Key Takeaways
+
+After completing this session, you should be able to:
+
+- Search for information more effectively using ChatGPT.
+- Summarise long documents into concise insights.
+- Compare multiple sources and technologies.
+- Brainstorm innovative solutions systematically.
+- Identify meaningful real-world problems.
+- Develop an initial AI project concept.
+
+> 💡 **Remember:** Great innovations rarely begin with the perfect idea. They begin with asking the right questions, exploring multiple possibilities, and refining ideas through continuous collaboration with AI.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
