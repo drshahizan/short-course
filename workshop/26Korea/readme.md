@@ -29,6 +29,10 @@ By the end of the workshop, participants will gain practical experience in using
 
 # 🗂️ Content Overview
 
+- [Slaid - Pengenalan kepada Kepintaran Buatan](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQA83yH8RpzfRIHNgTbPuFz-AfSdt1glrHoUwariEYY1dS4?e=0L883W)
+- [Slaid - Pengenalan kepada Generatif AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCYKByDHS0tTZTOL9yx6v4QAbjgR5lflDuLXRWqmA7Fau0?e=feD23B)
+
+
 ## 🟦 [Session 1: Introduction to Generative AI & ChatGPT](materials/s1)
 
 - What is Generative AI?
