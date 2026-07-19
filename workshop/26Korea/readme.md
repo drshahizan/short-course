@@ -29,9 +29,10 @@ By the end of the workshop, participants will gain practical experience in using
 
 # 🗂️ Content Overview
 
-- [Slides - Introduction to Artificial Intelligence](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQA83yH8RpzfRIHNgTbPuFz-AfSdt1glrHoUwariEYY1dS4?e=0L883W)
-- [Slides - Introduction to Generative AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCYKByDHS0tTZTOL9yx6v4QAbjgR5lflDuLXRWqmA7Fau0?e=feD23B)
-
+| No. | Category | Resources |
+|:---:|----------|-----------|
+| 1 | Lecture Slides | • [Slides – Introduction to Artificial Intelligence](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQA83yH8RpzfRIHNgTbPuFz-AfSdt1glrHoUwariEYY1dS4?e=0L883W) <br> • [Slides – Introduction to Generative AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCYKByDHS0tTZTOL9yx6v4QAbjgR5lflDuLXRWqmA7Fau0?e=feD23B) |
+| 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Gemini](https://gemini.google.com/app) <br> • [DeepSeek](https://chat.deepseek.com/) <br> • [Napkin AI](https://www.napkin.ai/) <br> • [Grok](https://grok.com/) <br> • [Kimi AI](https://kimi.com/) <br> • [NotebookLM](https://notebooklm.google.com/) <br> • [Google Slides](https://docs.google.com/presentation/create) <br> • [Canva](https://www.canva.com/)  <br> • [CapCut](https://www.capcut.com/) |
 
 ## 🟦 [Session 1: Introduction to Generative AI & ChatGPT](materials/s1)
 
