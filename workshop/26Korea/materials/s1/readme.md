@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-````markdown
+
 # 🟦 Session 1: Introduction to Generative AI & ChatGPT
 
 ## 🎯 Learning Objectives
@@ -17,8 +17,6 @@ By the end of this session, participants will be able to:
 - Recognise the capabilities and limitations of ChatGPT.
 - Explore practical applications of AI in education, research, and the workplace.
 - Understand the importance of responsible and ethical AI usage.
-
----
 
 # 📖 What is Artificial Intelligence?
 
@@ -42,8 +40,6 @@ Examples include:
 - Google Assistant
 - ChatGPT
 
----
-
 # 🤖 What is Generative AI?
 
 Generative AI is a type of AI that creates new content rather than simply analysing existing information.
@@ -60,8 +56,6 @@ It can generate:
 - Lesson plans
 
 Instead of searching for answers like a search engine, Generative AI creates original responses based on your prompts.
-
----
 
 # 💬 What is ChatGPT?
 
@@ -82,8 +76,6 @@ ChatGPT can help users to:
 - Create lesson plans
 - Write computer programs
 
----
-
 # 🧠 What is a Large Language Model (LLM)?
 
 A Large Language Model (LLM) is an AI model trained on enormous amounts of text from books, articles, websites, and other publicly available resources.
@@ -102,19 +94,17 @@ Large Language Model (LLM)
 Generate Response
 ```
 
----
-
 # 🆚 Search Engine vs ChatGPT
 
 | Search Engine | ChatGPT |
-|---------------|----------|
+||-|
 | Finds existing web pages | Generates new responses |
 | Provides links | Provides explanations |
 | Requires reading multiple websites | Produces summarised information |
 | Good for finding sources | Good for understanding concepts |
 | Information retrieval | Information generation |
 
----
+
 
 # 🌍 Real-World Applications of ChatGPT
 
@@ -126,7 +116,7 @@ Generate Response
 - Improve writing
 - Language learning
 
----
+
 
 ## 💼 Workplace
 
@@ -136,7 +126,7 @@ Generate Response
 - Brainstorm ideas
 - Project planning
 
----
+
 
 ## 🔬 Research
 
@@ -146,7 +136,7 @@ Generate Response
 - Explain methodologies
 - Improve academic writing
 
----
+
 
 ## 🎨 Creativity
 
@@ -156,7 +146,7 @@ Generate Response
 - Presentation slides
 - Marketing materials
 
----
+
 
 # 💡 Prompt = Communication with AI
 
@@ -170,13 +160,13 @@ Example:
 
 > Tell me about AI.
 
----
+
 
 ✅ Better Prompt
 
 > Explain Artificial Intelligence to first-year university students using simple English and real-world examples.
 
----
+
 
 # 🎯 The Prompt Formula
 
@@ -198,7 +188,7 @@ Provide five real-world examples.
 Present the answer in bullet points.
 ```
 
----
+
 
 # ⚠️ Limitations of ChatGPT
 
@@ -213,7 +203,7 @@ It may:
 
 Always verify important information using trusted sources.
 
----
+
 
 # 🤝 Responsible AI
 
@@ -233,7 +223,7 @@ Remember:
 
 > AI should assist human thinking, not replace it.
 
----
+
 
 # 🚀 Today's AI Hackathon
 
@@ -249,7 +239,7 @@ Your team will use ChatGPT to:
 - Develop a storyboard
 - Produce a short promotional video
 
----
+
 
 # 💬 Live Demonstration
 
@@ -262,7 +252,7 @@ The instructor will demonstrate how ChatGPT can:
 - Produce structured reports
 - Generate presentation outlines
 
----
+
 
 # 🧩 Exercise 1 — Meet Your AI Partner
 
@@ -280,7 +270,7 @@ Ask ChatGPT:
 
 Discuss the response with your teammates.
 
----
+
 
 # 🧩 Exercise 2 — Discover Malaysia
 
@@ -300,7 +290,7 @@ Examples:
 
 Compare the answers with another team.
 
----
+
 
 # 🧩 Exercise 3 — Better Prompt Challenge
 
@@ -309,14 +299,14 @@ Below are weak prompts.
 Rewrite them to produce better responses.
 
 | Weak Prompt | Improve It |
-|--------------|------------|
+|--||
 | Tell me about AI. | __________________ |
 | Write an email. | __________________ |
 | Explain Malaysia. | __________________ |
 
 After improving your prompts, test them in ChatGPT.
 
----
+
 
 # 🧩 Exercise 4 — AI vs Human
 
@@ -330,7 +320,7 @@ Then discuss:
 - Which recommendation is the best?
 - What would you change?
 
----
+
 
 # 🎯 Reflection
 
@@ -346,7 +336,7 @@ Before moving to Session 2, discuss with your team:
 
 5. How can ChatGPT help your future career?
 
----
+
 
 # 📌 Key Takeaways
 
@@ -361,7 +351,7 @@ After this session, you should understand:
 - How ChatGPT can support learning, creativity, and innovation
 
 > 🧠 **Remember:** ChatGPT is not just a chatbot—it is your AI thinking partner for learning, problem-solving, and innovation.
-````
+
 
 
 ### 🙌🏻 Connect with Me
