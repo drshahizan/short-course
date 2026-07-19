@@ -299,7 +299,7 @@ Below are weak prompts.
 Rewrite them to produce better responses.
 
 | Weak Prompt | Improve It |
-|--||
+|--|--|
 | Tell me about AI. | __________________ |
 | Write an email. | __________________ |
 | Explain Malaysia. | __________________ |
