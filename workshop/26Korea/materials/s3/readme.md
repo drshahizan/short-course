@@ -5,84 +5,512 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# 🟨 **Session 3: Everyday English with ChatGPT**
+# 🟨 Session 3: Prompt Engineering Essentials
 
-In this session, we explore how **ChatGPT** can support your development of **practical, everyday English skills** — particularly useful for daily communication in academic, professional, and social contexts. The focus is on how to interact with ChatGPT to **enhance your politeness, grammar, vocabulary**, and **autonomous learning habits** in English.
+## 🎯 Learning Objectives
 
-### 🟡 **1. Making Polite Requests and Greetings**
+By the end of this session, participants will be able to:
 
-#### ✦ Why It Matters:
+- Understand what prompt engineering is.
+- Identify the key components of an effective prompt.
+- Apply Zero-shot, One-shot, and Few-shot prompting techniques.
+- Use Role Prompting to improve AI responses.
+- Refine prompts iteratively to obtain higher-quality outputs.
+- Design prompts that produce accurate, creative, and useful results.
 
-In both academic and international environments, polite and appropriate language use is essential — especially in emails, presentations, classroom discussions, and social interactions. First impressions are often shaped by how we speak or write.
+# 📖 What is Prompt Engineering?
 
-#### ✦ How ChatGPT Helps:
+Prompt Engineering is the process of designing clear and effective instructions that guide AI to produce the desired output.
 
-* ChatGPT can **model common English greetings** used in formal and informal contexts (e.g., emails to lecturers vs. chatting with peers).
-* It can teach you how to **structure polite requests**, such as asking for assistance or clarification (e.g., “Would you mind helping me with…” vs. “Help me with…”).
-* It helps you recognize **tone and register**, key concepts in effective communication.
+Think of ChatGPT as a very intelligent assistant.
 
-#### ✦ Learning Strategy:
+The quality of its response depends greatly on the quality of your instructions.
 
-Ask ChatGPT to rephrase direct or informal requests into polite, professional ones. Then, reflect on the differences in tone and structure.
+Simple formula:
 
-### 🟡 **2. ChatGPT as Your English Study Partner**
+```
+Better Prompt
+        ↓
+Better Response
+```
 
-#### ✦ Why It Matters:
+Poor prompts usually produce:
 
-Effective language learning requires **consistent practice** and immediate feedback — both of which are often unavailable in traditional classroom settings. ChatGPT offers you a **low-pressure, always-available environment** to practice English at your own pace.
+- Generic answers
+- Incomplete information
+- Incorrect assumptions
+- Unstructured responses
 
-#### ✦ How ChatGPT Helps:
+Well-designed prompts usually produce:
 
-* Acts as a **conversational partner**, allowing you to simulate real-world dialogues.
-* Supports your **self-directed learning** by providing vocabulary lists, practice questions, and follow-up explanations.
-* Reinforces your **academic independence**, a core skill at the university level.
+- Clear explanations
+- Accurate information
+- Creative ideas
+- Well-organised content
 
-#### ✦ Learning Strategy:
+# 💬 The Anatomy of a Good Prompt
 
-Use ChatGPT to simulate a conversation about your field of study, daily routine, or global issues. Record or save the exchange to review vocabulary and sentence structures later.
+An effective prompt usually contains several important components.
 
-### 🟡 **3. Correcting Grammar and Pronunciation Tips**
+| Component | Purpose | Example |
+|-----------|---------|---------|
+| Role | Who should AI become? | You are a university lecturer. |
+| Task | What should AI do? | Explain Generative AI. |
+| Context | Additional information | Audience: first-year students. |
+| Constraints | Rules or limitations | Maximum 200 words. |
+| Output Format | Desired presentation | Bullet points and table. |
 
-#### ✦ Why It Matters:
+Example
 
-Academic and professional writing requires **grammatical accuracy and clarity**. While ChatGPT cannot hear you speak, it can provide you with guidance on **grammar structures, sentence formation**, and even **pronunciation cues** using phonetics.
+```
+You are an experienced university lecturer.
 
-#### ✦ How ChatGPT Helps:
+Explain Generative AI to first-year engineering students.
 
-* Provides **corrections and explanations** when you paste a sentence or paragraph.
-* Can identify **common grammatical errors**, such as verb tense, subject-verb agreement, prepositions, or article usage.
-* Offers **pronunciation tips** using International Phonetic Alphabet (IPA) or plain descriptions (e.g., “schedule” as /ˈskɛdʒ.uːl/ or “skejool”).
+Use simple English.
 
-#### ✦ Learning Strategy:
+Limit the explanation to 200 words.
 
-Write a short paragraph about a current topic (e.g., your recent assignment) and ask ChatGPT to check grammar and explain any corrections it makes.
+Include three real-world examples.
 
-### 🟡 **4. Using ChatGPT for Vocabulary Learning and Sentence Building**
+Present the answer using bullet points.
+```
 
-#### ✦ Why It Matters:
+# 🎭 Role Prompting
 
-Vocabulary is the foundation of fluent expression. However, **knowing a word** is not enough — you must know how to **use it correctly in context**. Sentence building also develops your ability to explain, compare, persuade, and narrate.
+One of the easiest ways to improve AI responses is to assign a role.
 
-#### ✦ How ChatGPT Helps:
+Instead of asking:
 
-* Offers **clear definitions, synonyms, antonyms**, and **collocations** (common word pairings).
-* Generates **example sentences** across different contexts (academic, casual, formal).
-* Helps you identify **correct word forms** (noun, verb, adjective, adverb) and how to use them in complex sentences.
+> Explain climate change.
 
-#### ✦ Learning Strategy:
+Try:
 
-Choose five unfamiliar words from your reading material. Ask ChatGPT to define them, provide collocations, and use each word in both an academic and informal sentence.
+> You are an environmental scientist. Explain climate change to secondary school students using simple language and real-world examples.
 
-### [Exercise](exercise3.md)
+Other useful roles include:
 
-### ✅ **Learning Outcomes:**
+- University Lecturer
+- Research Supervisor
+- Software Engineer
+- Marketing Consultant
+- Travel Planner
+- Financial Advisor
+- Medical Educator
+- Project Manager
+- Data Scientist
+- Entrepreneur
 
-By the end of this session, you should be able to:
+Changing the role changes the style and quality of the response.
 
-* Apply polite English in everyday and academic settings using models generated by ChatGPT.
-* Independently engage in English conversation and writing with support from ChatGPT.
-* Recognize and correct common grammatical errors in your own writing.
-* Expand and apply your vocabulary appropriately through AI-assisted practice.
+# 🎯 Zero-shot Prompting
+
+Zero-shot prompting means asking AI to complete a task without providing any examples.
+
+Example
+
+```
+Summarise the advantages of electric vehicles.
+```
+
+ChatGPT relies entirely on its existing knowledge.
+
+Best used for:
+
+- General questions
+- Explanations
+- Definitions
+- Brainstorming
+
+# 🎯 One-shot Prompting
+
+One-shot prompting provides one example before asking AI to perform a similar task.
+
+Example
+
+```
+Example
+
+Problem:
+Students often forget assignment deadlines.
+
+Solution:
+Develop an AI reminder system.
+
+Now suggest another educational problem and propose an AI solution.
+```
+
+Providing one example helps AI understand your expectations.
+
+# 🎯 Few-shot Prompting
+
+Few-shot prompting provides multiple examples.
+
+Example
+
+```
+Example 1
+
+Problem:
+Traffic congestion
+
+Solution:
+Smart traffic monitoring
+
+Example 2
+
+Problem:
+Food waste
+
+Solution:
+AI food donation platform
+
+Example 3
+
+Problem:
+Student stress
+
+Solution:
+Mental health chatbot
+
+Now generate five additional AI project ideas.
+```
+
+Few-shot prompting generally produces more consistent and structured responses.
+
+# 🔄 Prompt Refinement
+
+Good prompts are rarely written perfectly on the first attempt.
+
+Professional users refine prompts step by step.
+
+Example
+
+First Prompt
+
+> Suggest AI project ideas.
+
+↓
+
+Second Prompt
+
+> Suggest ten AI project ideas for university students.
+
+↓
+
+Third Prompt
+
+> Suggest ten AI project ideas related to environmental sustainability that can be completed within one semester.
+
+↓
+
+Fourth Prompt
+
+> Rank the ideas from most practical to most innovative and explain your reasoning.
+
+Notice how each refinement improves the output.
+
+# 📋 Adding Constraints
+
+Constraints help ChatGPT generate more focused responses.
+
+Examples
+
+- Maximum 100 words
+- Use simple English
+- Present in a table
+- Include references
+- Provide three examples
+- Compare advantages and disadvantages
+
+Example
+
+```
+Explain renewable energy.
+
+Maximum 150 words.
+
+Use simple English.
+
+Include one comparison table.
+```
+
+# 📊 Choosing the Output Format
+
+Always tell ChatGPT how you want the information presented.
+
+Possible formats include:
+
+- Bullet points
+- Tables
+- Timeline
+- Checklist
+- Flowchart
+- SWOT Analysis
+- Executive Summary
+- Presentation outline
+- Report
+- Lesson plan
+
+Example
+
+```
+Compare electric vehicles and hybrid vehicles.
+
+Present the answer in a comparison table.
+```
+
+# 🚫 Common Prompting Mistakes
+
+Avoid these common mistakes.
+
+❌ Prompt too short
+
+> Explain AI.
+
+❌ No context
+
+> Write a report.
+
+❌ No audience specified
+
+> Teach programming.
+
+❌ No output format
+
+> Compare countries.
+
+Instead, provide sufficient detail.
+
+# 🤖 Live Demonstration
+
+The instructor will demonstrate how different prompts produce different results.
+
+Example
+
+Prompt A
+
+> Suggest a project.
+
+Prompt B
+
+> You are an innovation consultant.
+
+Suggest five AI project ideas for Korean university students.
+
+The projects should improve campus life.
+
+Present the ideas in a comparison table.
+
+Participants will compare both responses.
+
+# 🧩 Exercise 1 — Improve the Prompt
+
+## Objective
+
+Learn how prompt quality affects AI responses.
+
+Rewrite the following prompts.
+
+| Weak Prompt | Improved Prompt |
+|--------------|----------------|
+| Explain AI. | |
+| Write an email. | |
+| Suggest a project. | |
+| Tell me about Malaysia. | |
+| Summarise this article. | |
+
+Test both prompts in ChatGPT.
+
+Compare the results.
+
+# 🧩 Exercise 2 — Prompt Refinement Challenge
+
+## Objective
+
+Improve a prompt through multiple iterations.
+
+Step 1
+
+Write an initial prompt.
+
+Example
+
+> Suggest AI project ideas.
+
+Step 2
+
+Improve the prompt.
+
+Step 3
+
+Improve it again.
+
+Step 4
+
+Improve it one final time.
+
+Compare the four outputs.
+
+Discuss:
+
+- Which version produced the best answer?
+- Why?
+
+# 🧩 Exercise 3 — Role Prompting
+
+## Objective
+
+Observe how different roles influence AI responses.
+
+Use the same question with different roles.
+
+Question
+
+> Explain smart cities.
+
+Assign one role to each team member.
+
+Examples
+
+- University Lecturer
+- City Mayor
+- Civil Engineer
+- High School Teacher
+- Business Consultant
+- Tourist
+
+Compare the responses.
+
+Discuss:
+
+- Which explanation was easiest to understand?
+- Which was the most detailed?
+- Which best suited the target audience?
+
+# 🧩 Exercise 4 — Zero-shot vs One-shot vs Few-shot
+
+## Objective
+
+Compare different prompting techniques.
+
+Task
+
+Generate AI project ideas using:
+
+### Zero-shot
+
+Ask ChatGPT without providing any examples.
+
+### One-shot
+
+Provide one example before asking.
+
+### Few-shot
+
+Provide three examples before asking.
+
+Record your observations.
+
+| Technique | Response Quality | Creativity | Consistency |
+|------------|------------------|-------------|-------------|
+| Zero-shot | | | |
+| One-shot | | | |
+| Few-shot | | | |
+
+Which technique worked best?
+
+Why?
+
+# 🧩 Exercise 5 — Design Your Own Prompt
+
+## Objective
+
+Create a high-quality prompt for your hackathon project.
+
+Your prompt should include:
+
+- Role
+- Task
+- Context
+- Constraints
+- Output Format
+
+Write your complete prompt below.
+
+```
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+
+_____________________________________
+```
+
+Test your prompt with ChatGPT.
+
+Refine it until you obtain a high-quality response.
+
+# 🏆 Mini Prompt Competition
+
+Each team submits its best prompt.
+
+Evaluation Criteria
+
+| Criteria | Marks |
+|----------|------:|
+| Clarity | 5 |
+| Completeness | 5 |
+| Creativity | 5 |
+| Appropriate Constraints | 5 |
+| Quality of AI Response | 10 |
+
+**Total: 30 Marks**
+
+The winning team will demonstrate their prompt and explain why it works well.
+
+# 💡 Prompt Engineering Tips
+
+Always remember:
+
+✅ Be specific.
+
+✅ Provide context.
+
+✅ Assign a role.
+
+✅ State the objective clearly.
+
+✅ Define the desired output format.
+
+✅ Add constraints when necessary.
+
+✅ Refine your prompts iteratively.
+
+Prompt engineering is an iterative process—the first prompt is rarely the best prompt.
+
+# 🎯 Reflection
+
+Discuss with your team:
+
+1. Which prompting technique produced the best results?
+2. How did Role Prompting improve the AI's responses?
+3. What refinements made the biggest difference?
+4. Which prompting strategy will you use during today's AI Hackathon?
+5. How can prompt engineering improve your future academic or professional work?
+
+# 📌 Key Takeaways
+
+After completing this session, you should be able to:
+
+- Design clear and effective prompts.
+- Apply Zero-shot, One-shot, and Few-shot prompting techniques.
+- Use Role Prompting to guide AI behaviour.
+- Improve AI responses through prompt refinement.
+- Generate high-quality outputs for research, learning, and innovation.
+
+> ✨ **Remember:** Prompt engineering is the art of asking better questions. The better your prompt, the more useful, accurate, and creative the AI's response will be.
 
 ### 🙌🏻 Connect with Me
 <p align="left">
