@@ -8,7 +8,7 @@
 # Basic for Global AI (AI Hackathon): Mastering ChatGPT for Ideas, Content & Solutions
 
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" height="500">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" height="500">
 </p>
 
 - **📅 Date:** 20 July 2026
