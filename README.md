@@ -7,8 +7,8 @@
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
@@ -16,12 +16,16 @@
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26grg">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
+
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
@@ -61,7 +65,7 @@
 | 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
-| 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume]()|
+| 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume](https://github.com/drshahizan/short-course/blob/main/workshop/26KVP)|
 | 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
 | 20 Jul | 🇲🇾 UTMSPACE | [Chat GPT for AI Hackathon](https://github.com/drshahizan/short-course/tree/main/workshop/26Korea)|
 | 01 Jul | 🇲🇾 Jab Bendahari, UTM | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/tree/main/workshop/26bendahari1)|
