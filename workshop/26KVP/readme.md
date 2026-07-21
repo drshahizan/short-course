@@ -34,7 +34,7 @@ By the end of the workshop, each participant or team will produce a short **AI-a
 | No. | Category | Resources |
 |:---:|----------|-----------|
 | 1 | Learning Materials | • Introduction to Generative AI <br> • Personal Branding and Video Resume <br> • Prompt Engineering for Script Writing <br> • Basic Video Production and Editing |
-| 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Gemini](https://gemini.google.com/app) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Canva](https://www.canva.com/) <br> • [CapCut](https://www.capcut.com/) |
+| 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Gemini](https://gemini.google.com/app) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Canva](https://www.canva.com/) <br> • [CapCut](https://www.capcut.com/) <br>• [Dola](https://www.dola.com/chat/) <br>• [Google Flow](https://labs.google/fx/tools/flow) |
 | 3 | Final Output | • Video Resume Script <br> • Recorded or AI-Assisted Video Resume <br> • Final Submission for Competition |
 
 ## 🟦 [Session 1: Personal Branding, Script Writing & Storyboard Design](materials/s1.md)
