@@ -5,150 +5,57 @@
 <a href="https://github.com/drshahizan/short-course/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/short-course?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fshort-course&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Basic for Global AI (AI Hackathon): Mastering ChatGPT for Ideas, Content & Solutions
+# AI in Video Resume: Creating Professional Video Resumes with Generative AI
 
 <p align="center">
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" height="500">
+  <img src="images/KVP.jpeg" height="500">
 </p>
 
-- **📅 Date:** 20 July 2026
-- **🕘 Time:** 9:00 AM – 5:00 PM
-- **📍 Venue:** UTMSPACE, Taman Universiti, Johor Bahru
-- **👨‍🏫 Instructor:** Assoc. Prof. Dr. Mohd Shahizan Othman
+- **📅 Date:** 30 July 2026 (Thursday)
+- **🕗 Time:** 8:00 AM – 1:00 PM
+- **📍 Venue:** AI Powered Classroom and Meeting Room, Kolej Vokasional Perdagangan
+- **👨‍🏫 Instructor:** Assoc. Prof. Ts. Dr. Mohd Shahizan Othman
+- **🤝 Facilitators:** Prof. Dr. Siti Zaiton Mohd Hashim and Assoc. Prof. Dr. Mohd Murtadha Mohamad
+- **👥 Target Participants:** Diploma Semester 3 Students
+- **🏢 Organiser:** Jabatan Komunikasi dan Korporat
 
 ## 📖 Synopsis
 
-This one-day professional workshop introduces participants to the practical use of **ChatGPT** as a Generative AI assistant for learning, creativity, and innovation.
+The **AI in Video Resume** workshop introduces students to the practical use of **Generative AI** in creating a professional and engaging video resume.
 
-Participants will learn how to leverage ChatGPT throughout the entire project development process—from searching for information and analysing references to brainstorming ideas, designing prompts, generating content, and creating multimedia materials.
+Participants will learn how to use AI tools to identify their strengths, develop personal branding, write a concise self-introduction, generate a professional script, and produce a short video resume. The workshop focuses on practical activities that can be completed within a limited period.
 
-Through a series of hands-on activities and a mini AI Hackathon, participants will apply ChatGPT to develop an AI-assisted project by producing a **project poster**, **video storyboard**, and **promotional video**. The workshop also introduces complementary AI tools that enhance productivity, visual content creation, and multimedia production.
+Through three focused sessions, participants will use ChatGPT and selected multimedia tools to transform their academic background, technical skills, achievements, and career aspirations into a compelling video resume. They will also learn basic recording, visual presentation, captioning, and video-editing techniques.
 
-By the end of the workshop, participants will gain practical experience in using Generative AI responsibly to transform ideas into impactful digital solutions.
-
+By the end of the workshop, each participant or team will produce a short **AI-assisted video resume** suitable for internship, job, scholarship, or professional portfolio applications.
 
 # 🗂️ Content Overview
 
 | No. | Category | Resources |
 |:---:|----------|-----------|
-| 1 | Lecture Slides | • [Introduction to Artificial Intelligence](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQAeDLaB5XkIRLirnjzQ-HsiAaaJUFhPbFV6hoVJHyZr3Ko?e=FJCuAP) <br> • [Introduction to Generative AI](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCldx5d_GqJSr7JIKvkfWT2AbtWaOA3htsUnfwGOTyZDcM?e=v0vVh5) |
-| 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Gemini](https://gemini.google.com/app) <br> • [DeepSeek](https://chat.deepseek.com/) <br> • [Napkin AI](https://www.napkin.ai/) <br> • [Grok](https://grok.com/) <br> • [Kimi AI](https://kimi.com/) <br> • [NotebookLM](https://notebooklm.google.com/) <br> • [Google Slides](https://docs.google.com/presentation/create) <br> • [Canva](https://www.canva.com/)  <br> • [CapCut](https://www.capcut.com/) <br>• [Dola](https://www.dola.com/chat/) <br>• [Google Flow](https://labs.google/fx/tools/flow) |
+| 1 | Learning Materials | • Introduction to Generative AI <br> • Personal Branding and Video Resume <br> • Prompt Engineering for Script Writing <br> • Basic Video Production and Editing |
+| 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Gemini](https://gemini.google.com/app) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Canva](https://www.canva.com/) <br> • [CapCut](https://www.capcut.com/) |
+| 3 | Final Output | • Video Resume Script <br> • Recorded or AI-Assisted Video Resume <br> • Final Submission for Competition |
 
-## 🟦 [Session 1: Introduction to Generative AI & ChatGPT](materials/s1)
+## 🟦 [Session 1: Personal Branding and Script Development](materials/s1.md)
 
-- What is Generative AI?
-- Understanding ChatGPT and Large Language Models (LLMs)
-- Real-world applications of AI
-- Responsible and ethical use of AI
-- Overview of today's AI Hackathon
+Participants will explore the fundamentals of personal branding and learn how Generative AI can assist in developing a professional video resume script.
 
-> 🧠 **Goal:** Understand the fundamentals of ChatGPT and how it supports creativity, productivity, and innovation.
+> ✍️ **Main Output:** A complete and refined one-minute video resume script.
 
+## 🟩 [Session 2: AI-Assisted Video Resume Production](materials/s2.md)
 
-## 🟩 [Session 2: Information Searching & Idea Brainstorming with ChatGPT](materials/s2)
+Participants will transform their scripts into short professional videos using accessible recording, design, and video-editing tools.
 
-Participants will learn how to use ChatGPT as an intelligent research and brainstorming assistant.
+> 🎥 **Main Output:** A completed one-minute AI-assisted video resume.
 
-Topics include:
+## 🟥 [Session 3: Video Resume Competition and Showcase](materials/s3.md)
 
-- Searching for relevant information
-- Summarising articles and reports
-- Analysing references
-- Brainstorming innovative ideas
-- Identifying real-world problems
-- Developing project concepts
+Participants will submit and showcase their completed video resumes for evaluation, feedback, and recognition.
 
-> 💡 **Exercise:** Each team selects a challenge and develops an initial project idea using ChatGPT.
+> 🏆 **Main Output:** Final video submission for judging and presentation.
 
 
-## 🟨 [Session 3: Prompt Engineering Essentials](materials/s3)
-
-- Anatomy of an effective prompt
-- Zero-shot, One-shot and Few-shot prompting
-- Role Prompting
-- Prompt refinement techniques
-- Best practices for obtaining high-quality AI responses
-
-> ✏️ **Exercise:** Improve prompts to generate better project ideas and content.
-
-
-## 🟧 [Session 4: AI-Assisted Content Creation](materials/s4)
-
-Participants will learn how ChatGPT can assist in creating high-quality project content.
-
-Topics include:
-
-- Writing project descriptions
-- Generating titles and slogans
-- Preparing presentation content
-- Writing promotional copy
-- Structuring reports and documentation
-
-> 🚀 **Exercise 1:** Create an **AI Project Poster** using ChatGPT together with AI image generation and design tools.
-
-
-## 🟪 [Session 5: AI Storytelling & Storyboard Development](materials/s5)
-
-- Storytelling techniques
-- Developing project narratives
-- Creating scene descriptions
-- Writing video scripts
-- Planning camera shots
-- Storyboard development using ChatGPT
-
-> 🎬 **Exercise 2:** Develop a **Storyboard and Video Script** for the hackathon project.
-
-
-## 🟥 [Session 6: AI Hackathon – Video Production](materials/s6)
-
-Participants integrate everything learned throughout the workshop to create a complete AI-assisted project.
-
-Activities include:
-
-- Producing a short promotional video
-- AI-assisted narration
-- Video editing
-- Team collaboration
-- Project presentation
-
-> 🎥 **Exercise 3:** Produce a **1–2 minute AI Hackathon Promotional Video** and present the project.
-
-
-# 🏆 Final Deliverables
-
-Each team will produce:
-
-- 📌 AI Project Poster
-- 📖 Storyboard & Video Script
-- 🎥 1–2 Minute Promotional Video
-- 🎤 Project Presentation
-
-
-# 🎯 Learning Outcomes
-
-By the end of this workshop, participants will be able to:
-
-- Understand the fundamentals of Generative AI and ChatGPT.
-- Use ChatGPT to search, analyse and summarise information.
-- Brainstorm innovative project ideas using AI.
-- Apply prompt engineering techniques effectively.
-- Generate AI-assisted written and visual content.
-- Design a professional project poster.
-- Develop a storyboard and video script.
-- Produce and present a short AI-assisted promotional video.
-- Demonstrate responsible and ethical use of Generative AI.
-
-
-
-# 🎓 Closing Session
-
-- Team presentations
-- Project showcase
-- Reflection and discussion
-- Feedback session
-- Group photo
-
-> 🚀 **Transform Ideas into AI-Powered Solutions**
 
 
 ### 🙌🏻 Connect with Me
