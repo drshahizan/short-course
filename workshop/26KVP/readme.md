@@ -37,25 +37,25 @@ By the end of the workshop, each participant or team will produce a short **AI-a
 | 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Gemini](https://gemini.google.com/app) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Canva](https://www.canva.com/) <br> • [CapCut](https://www.capcut.com/) |
 | 3 | Final Output | • Video Resume Script <br> • Recorded or AI-Assisted Video Resume <br> • Final Submission for Competition |
 
-## 🟦 [Session 1: Personal Branding and Script Development](materials/s1.md)
+## 🟦 [Session 1: Personal Branding, Script Writing & Storyboard Design](materials/s1.md)
 
-Participants will explore the fundamentals of personal branding and learn how Generative AI can assist in developing a professional video resume script.
+Participants will learn how to build a strong personal brand and use Generative AI to plan an effective video resume.
 
-> ✍️ **Main Output:** A complete and refined one-minute video resume script.
-
-## 🟩 [Session 2: AI-Assisted Video Resume Production](materials/s2.md)
-
-Participants will transform their scripts into short professional videos using accessible recording, design, and video-editing tools.
-
-> 🎥 **Main Output:** A completed one-minute AI-assisted video resume.
-
-## 🟥 [Session 3: Video Resume Competition and Showcase](materials/s3.md)
-
-Participants will submit and showcase their completed video resumes for evaluation, feedback, and recognition.
-
-> 🏆 **Main Output:** Final video submission for judging and presentation.
+> ✍️ **Main Output:** A complete **Video Resume Script** and **Storyboard** ready for production.
 
 
+## 🟩 [Session 2: AI Content Creation for Video Resume](materials/s2.md)
+
+Participants will create all multimedia assets required for their video resumes using AI-powered tools.
+
+> 🎨 **Main Output:** A complete set of **AI-generated multimedia assets** for the video resume.
+
+
+## 🟥 [Session 3: Video Resume Production with AI](materials/s3.md)
+
+Participants will combine their scripts and multimedia assets into a professional one-minute video resume.
+
+> 🎥 **Main Output:** A completed **One-Minute AI-Assisted Video Resume** ready for submission.
 
 
 ### 🙌🏻 Connect with Me
