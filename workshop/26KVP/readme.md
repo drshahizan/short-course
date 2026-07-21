@@ -37,21 +37,21 @@ By the end of the workshop, each participant or team will produce a short **AI-a
 | 2 | AI Applications | • [ChatGPT](https://chatgpt.com/) <br> • [Gemini](https://gemini.google.com/app) <br> • [Qwen](https://chat.qwen.ai/) <br> • [Canva](https://www.canva.com/) <br> • [CapCut](https://www.capcut.com/) <br>• [Dola](https://www.dola.com/chat/) <br>• [Google Flow](https://labs.google/fx/tools/flow) |
 | 3 | Final Output | • Video Resume Script <br> • Recorded or AI-Assisted Video Resume <br> • Final Submission for Competition |
 
-## 🟦 [Session 1: Personal Branding, Script Writing & Storyboard Design](materials/s1.md)
+## 🟦 [Session 1: Personal Branding, Script Writing & Storyboard Design](materials/s1)
 
 Participants will learn how to build a strong personal brand and use Generative AI to plan an effective video resume.
 
 > ✍️ **Main Output:** A complete **Video Resume Script** and **Storyboard** ready for production.
 
 
-## 🟩 [Session 2: AI Content Creation for Video Resume](materials/s2.md)
+## 🟩 [Session 2: AI Content Creation for Video Resume](materials/s2)
 
 Participants will create all multimedia assets required for their video resumes using AI-powered tools.
 
 > 🎨 **Main Output:** A complete set of **AI-generated multimedia assets** for the video resume.
 
 
-## 🟥 [Session 3: Video Resume Production with AI](materials/s3.md)
+## 🟥 [Session 3: Video Resume Production with AI](materials/s3)
 
 Participants will combine their scripts and multimedia assets into a professional one-minute video resume.
 
