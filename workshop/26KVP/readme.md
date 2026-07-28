@@ -26,8 +26,8 @@
 | 📍 **Venue** | AI-Powered Classroom and Meeting Room, Kolej Vokasional Perdagangan |
 | 👨‍🏫 **Instructor** | Assoc. Prof. Ts. Dr. Mohd Shahizan Othman |
 | 🤝 **Facilitators** | Prof. Dr. Siti Zaiton Mohd Hashim and Assoc. Prof. Dr. Mohd Murtadha Mohamad |
-| 👥 **Target Participants** | Diploma Semester 3 Students |
-| 🏢 **Organiser** | Jabatan Komunikasi dan Korporat |
+| 👥 **Target Participants** | Diploma, Semester 3 Students |
+| 🏢 **Organiser** | Jabatan Komunikasi dan Korporat, Kolej Vokasional Perdagangan  |
 
 > **Workshop Challenge:** Produce a compelling **two-minute AI-assisted video resume** that presents the best version of you.
 
