@@ -88,7 +88,7 @@ Show how your learning experiences, projects, and vocational skills have prepare
 |---|---|
 | Idea generation, personal branding, script, and prompt writing | [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [Qwen](https://chat.qwen.ai/) |
 | Storyboard, graphics, and visual assets | [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [Canva](https://www.canva.com/) |
-| AI-assisted video generation | [Google Flow](https://labs.google/fx/tools/flow), [Dola](https://www.dola.com/chat/), [Gemini](https://gemini.google.com/app) |
+| AI-assisted video generation | [Google Flow](https://labs.google/fx/tools/flow), [Dola](https://www.dola.com/chat/), [Gemini](https://gemini.google.com/app), [Qwen](https://chat.qwen.ai/) |
 | Video assembly, captions, transitions, and audio | [CapCut](https://www.capcut.com/), [Google Flow](https://labs.google/fx/tools/flow) |
 
 > Participants may use other suitable tools with the instructor’s approval. Always review AI-generated content for accuracy, appropriateness, and consistency.
