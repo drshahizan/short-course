@@ -8,7 +8,7 @@
 
 # The Integration of AI Tools in Postgraduate Computer Science Studies
 
- <img src="https://github.com/drshahizan/short-course/blob/main/workshop/25binus/images/Binus2025.jpeg" alt="Image Alt Text"  height="400">
+ <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26binus/images/binus2026.jpeg" alt="Image Alt Text"  height="400">
 
 ## Synopsis
 
