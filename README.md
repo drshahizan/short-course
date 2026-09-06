@@ -7,16 +7,34 @@
 
 # 🚀 Current event⚡
 
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
-  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/images/26Hema.jpeg" alt="Dr Shahizan AI"  height="400">
+<a href="https://drshahizan.github.io/benut">
+  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="400">
 </a>
 
 
 ## 🌍 Workshops and Courses: Year 2026
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26grg">
+<a href="https://drshahizan.github.io/ai-semua/">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Aisemua/images/aisemua.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/benut">
+  <img src="https://drshahizan.github.io/benut/assets/images/poster-kursus-ai-pentadbir.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/fk">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26FK/images/26fk.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/bdc">
+  <img src="https://drshahizan.github.io/bdc/assets/images/ai-for-research-poster.png" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/grg">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26grg/images/26grg.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
-<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP">
+<a href="https://drshahizan.github.io/binus">
+  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26binus/images/binus2026.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/setiausaha/">
+  <img src="https://github.com/drshahizan/drshahizan.github.io/blob/main/setiausaha/assets/setiausaha.jpeg" alt="Dr Shahizan AI"  height="200">
+</a>
+<a href="https://drshahizan.github.io/video">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26KVP/images/KVP.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2/">
@@ -25,23 +43,17 @@
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Korea/images/chatgpt26.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
-
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1">
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari1/images/revolusiAI.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
-
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STI/images/26STI.jpeg" alt="Dr Shahizan AI"  height="200">
-
- <a href="https://github.com/drshahizan/learn-github/blob/main/README0.md">
+<a href="https://github.com/drshahizan/learn-github/blob/main/README0.md">
  <img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20ftsm.jpeg" alt="Dr Shahizan AI"  height="200">
-
- <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/images/26STTNF.jpeg" alt="Dr Shahizan AI"  height="200">
-
- <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss">
+<a href="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pgss/images/PGSS%20ai.jpeg" alt="Dr Shahizan AI"  height="200">
- 
 <a href="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini">
  <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini/images/ai%20wartawan.jpeg" alt="Dr Shahizan AI"  height="200">
 </a> 
@@ -61,10 +73,20 @@
   <img src="https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan/images/26ai_library.jpeg" alt="Dr Shahizan AI"  height="200">
 </a>
 
-
-| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title | 
+| 📅 Date | 🌍 Institution                                        | 📚 Workshop/ Course Title                                                                                          | 
 |:---:|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| 03 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://github.com/drshahizan/short-course/blob/main/workshop/26grg)|
+| 03 Nov | 🇲🇾 Pej TNCAA, UTM | [Amanah Data dalam Kecerdasan Buatan Generatif: Daripada Prinsip kepada Amalan]()|
+| 24 Sept | 🇲🇾 UTM, HCM, UTS | [Winning Journal Writing Worskhop]()|
+| 21 Sept | 🇲🇾 CTLD, UTM | [Kursus Alat Digital dan Analisis Penyelidikan]()|
+| 12 Sept | 🇲🇾 UTM | [AI untuk semua](https://drshahizan.github.io/ai-semua/)|
+| 9 Sept | 🇲🇾 IIRG & PGBM Benut | [Kursus Kecerdasan Buatan untuk Pentadbir Sekolah](https://drshahizan.github.io/benut)|
+| 7 Sept | 🇲🇾 FKM, UTM | [From Manual to Smart: Revolusi Kerja dengan AI Tools]()|
+| 26 Aug | 🇲🇾 FK, UTM | [Pemerkasaan Tugasan Harian Menggunakan Kecerdasan Buatan Generatif](https://drshahizan.github.io/fk)|
+| 24 Aug | 🇲🇾 BDC, UTM | [AI for Research](https://drshahizan.github.io/bdc)|
+| 17 Aug | 🇲🇾 GRG, UTM | [Writing and Publication Workshop](https://drshahizan.github.io/grg)|
+| 10-11 Aug | 🇲🇾 Jab Akauntan Negara Malaysia | [AI Prompt Engineering](https://drshahizan.github.io/JANM/) | 
+| 13 Aug | 🇮🇩 Bina Nusantara University             | [AI Tools for Smarter Academic Research](https://drshahizan.github.io/binus/) | 
+| 06 Aug | 🇲🇾 Persatuan Setiausaha, UTM | [Setiausaha Pintar dan Produktif dengan Teknologi Kecerdasan Buatan](https://drshahizan.github.io/setiausaha/)|
 | 30 Jul | 🇲🇾 KV Perdagangan, JB | [AI in Video Resume](https://github.com/drshahizan/short-course/blob/main/workshop/26KVP)|
 | 22 Jul | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema2) | 
 | 20 Jul | 🇲🇾 UTMSPACE | [Chat GPT for AI Hackathon](https://github.com/drshahizan/short-course/tree/main/workshop/26Korea)|
@@ -72,12 +94,12 @@
 | 25 Jun | 🇨🇳 Xi'an Eurasia University| [Leveraging Big Data Analytics and Digital Twins for Intelligent and Sustainable Smart Cities](https://m.ais.cn/attendees/index/ZQ2I7N)|
 | 15 Jun |🇲🇾 UTM |[Digitex 2026](https://fcdigitex.com/)|
 | 13 Jun |🇲🇾 MOSTI & UTM |[Kursus Kecerdasan Buatan (AI) untuk Guru-Guru Sekolah di Pasir Gudang, Johor](https://github.com/drshahizan/short-course/blob/main/workshop/26STI)|
-| 10 Jun |🇲🇾 FTSM, UKM |[GitHub Workshop for Beginners](https://github.com/drshahizan/learn-github/blob/main/README1.md)|
+| 10 Jun |🇲🇾 FTSM, UKM |[GitHub Workshop for Beginners](https://github.com/drshahizan/learn-github/blob/main/README.md)|
 | 11 May | 🇮🇩 Sekolah Tinggi Teknologi Terpadu Nurul Fikri | [The Utilization of AI Technology in Supporting Adaptive Learning Strategies for University Students](https://github.com/drshahizan/short-course/blob/main/workshop/26STTNF/readme.md) | 
 | 29 Apr | 🇲🇾 PGSS FK, UTM | [Hands-On AI Tools for Academic Research](https://github.com/drshahizan/short-course/blob/main/workshop/26pgss) | 
 | 22 Apr | 🇲🇾 BDC, UTM | [Kursus Pemerkasaan Media dengan Kecerdasan Buatan (AI): Aplikasi Gemini & NotebookLM dalam Kewartawanan Digital](https://github.com/drshahizan/short-course/blob/main/workshop/26Gemini) | 
 | 11 Mac | 🇲🇾 Jab Perpustakaan, UTM | [Empowering Librarians With AI for Academic Writing](https://github.com/drshahizan/short-course/blob/main/workshop/26libresearch) | 
-| 10 Mac | 🇲🇾 UTM  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema) | 
+| 10 Mac | 🇲🇾 Jab TNC HEPA  | [Revolusi AI: ChatGPT dan Aplikasi AI untuk Produktiviti Kerja](https://github.com/drshahizan/short-course/blob/main/workshop/26Hema) | 
 | 3 & 9 Feb | 🇲🇾 Parlimen Sri Gading, MOSTI & UTM  | [Kursus Kecerdasan Buatan untuk Pengajaran dan Pembelajaran](https://github.com/drshahizan/short-course/blob/main/workshop/26srigading) | 
 | 22 Jan | 🇲🇾 Jab Bendahari, UTM | [AI in Workplace](https://github.com/drshahizan/short-course/blob/main/workshop/26bendahari) | 
 | 20-21 Jan | 🇲🇾 Jab Perpustakaan, UTM | [Future-Ready Librarians: AI Tools for Next-Gen Libraries](https://github.com/drshahizan/short-course/blob/main/workshop/26pustakawan) | 
